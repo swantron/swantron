@@ -1,5 +1,5 @@
 ---
-title: 'Let&#8217;s Talk Toner'
+title: 'Let’s Talk Toner'
 date: 2011-02-15T20:47:34+00:00
 id: 3171
 slug: 'lets-talk-toner'

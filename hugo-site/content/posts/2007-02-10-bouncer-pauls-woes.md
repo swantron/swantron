@@ -1,5 +1,5 @@
 ---
-title: 'Bouncer Paul&#8217;s Woes'
+title: 'Bouncer Paul’s Woes'
 date: 2007-02-10T04:03:09+00:00
 id: 471
 slug: 'bouncer-pauls-woes'

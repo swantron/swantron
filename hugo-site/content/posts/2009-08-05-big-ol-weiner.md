@@ -1,5 +1,5 @@
 ---
-title: 'Big Ol&#8217; Weiner'
+title: 'Big Ol’ Weiner'
 date: 2009-08-05T12:45:00+00:00
 id: 930
 slug: 'big-ol-weiner'

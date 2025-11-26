@@ -1,5 +1,5 @@
 ---
-title: 'Swanny&#8217;s Favorite Things'
+title: 'Swanny’s Favorite Things'
 date: 2006-07-10T19:58:31+00:00
 id: 6119
 slug: 'swannys-favorite-things'

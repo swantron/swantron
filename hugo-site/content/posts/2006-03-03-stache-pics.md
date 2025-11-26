@@ -1,5 +1,5 @@
 ---
-title: '&#8216;Stache Pics'
+title: '‘Stache Pics'
 date: 2006-03-03T18:44:29+00:00
 id: 6094
 slug: 'stache-pics'

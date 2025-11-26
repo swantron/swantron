@@ -1,5 +1,5 @@
 ---
-title: 'Swanny&#8217;s Hunting Prowess'
+title: 'Swanny’s Hunting Prowess'
 date: 2006-06-26T21:45:39+00:00
 id: 6118
 slug: 'swannys-hunting-prowess'

@@ -1,5 +1,5 @@
 ---
-title: 'Saturday&#8217;s Supplement'
+title: 'Saturday’s Supplement'
 date: 2005-12-19T18:18:53+00:00
 id: 6005
 slug: 'saturdays-supplement'

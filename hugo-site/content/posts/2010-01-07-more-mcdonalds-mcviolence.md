@@ -1,5 +1,5 @@
 ---
-title: 'More McDonald&#8217;s McViolence'
+title: 'More McDonald’s McViolence'
 date: 2010-01-07T11:31:29+00:00
 id: 1399
 slug: 'more-mcdonalds-mcviolence'

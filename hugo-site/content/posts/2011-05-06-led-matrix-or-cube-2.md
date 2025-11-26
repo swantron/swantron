@@ -1,5 +1,5 @@
 ---
-title: 'LED&#8230;Matrix or Cube?'
+title: 'LED…Matrix or Cube?'
 date: 2011-05-06T11:32:42+00:00
 id: 6284
 slug: 'led-matrix-or-cube-2'

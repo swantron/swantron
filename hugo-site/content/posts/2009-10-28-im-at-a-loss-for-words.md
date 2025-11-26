@@ -1,5 +1,5 @@
 ---
-title: 'I&#8217;m at a Loss for Words&#8230;'
+title: 'I’m at a Loss for Words…'
 date: 2009-10-28T14:51:51+00:00
 id: 1026
 slug: 'im-at-a-loss-for-words'

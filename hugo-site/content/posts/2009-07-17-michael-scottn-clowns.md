@@ -1,5 +1,5 @@
 ---
-title: 'Michael Scott&#8217;n Clowns'
+title: 'Michael Scott’n Clowns'
 date: 2009-07-17T08:43:30+00:00
 id: 913
 slug: 'michael-scottn-clowns'

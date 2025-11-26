@@ -1,5 +1,5 @@
 ---
-title: 'Uranium For Sale&#8230;Yes, Please'
+title: 'Uranium For Sale…Yes, Please'
 date: 2010-03-09T16:41:18+00:00
 id: 6182
 slug: 'uranium-for-sale-yes-please-2'

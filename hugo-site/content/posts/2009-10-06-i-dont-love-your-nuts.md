@@ -1,5 +1,5 @@
 ---
-title: 'I Don&#8217;t Love Your Nuts'
+title: 'I Don’t Love Your Nuts'
 date: 2009-10-06T18:02:14+00:00
 id: 985
 slug: 'i-dont-love-your-nuts'

@@ -1,5 +1,5 @@
 ---
-title: 'Getting Ready for Hat Shop&#8217;s Wedding'
+title: 'Getting Ready for Hat Shop’s Wedding'
 date: 2007-10-16T18:12:53+00:00
 id: 607
 slug: 'getting-ready-for-hat-shops-wedding'

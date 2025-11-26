@@ -1,5 +1,5 @@
 ---
-title: 'You&#8217;re Doing it Wrong'
+title: 'You’re Doing it Wrong'
 date: 2011-01-14T16:02:47+00:00
 id: 3114
 slug: 'youre-doing-it-wrong'

@@ -1,5 +1,5 @@
 ---
-title: 'Buy an HP&#8230; Really'
+title: 'Buy an HP… Really'
 date: 2010-10-26T18:05:32+00:00
 id: 2812
 slug: 'buy-an-hp-really'

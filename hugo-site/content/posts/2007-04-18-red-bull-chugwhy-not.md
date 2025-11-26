@@ -1,5 +1,5 @@
 ---
-title: 'Red Bull Chug&#8230;Why Not?'
+title: 'Red Bull Chug…Why Not?'
 date: 2007-04-18T18:35:14+00:00
 id: 532
 slug: 'red-bull-chugwhy-not'

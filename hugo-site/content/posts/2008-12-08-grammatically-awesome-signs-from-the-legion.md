@@ -1,5 +1,5 @@
 ---
-title: '&#8220;Awesome&#8221; Punctuation on some Sign&#8217;s from the &#8220;Legion&#8221;'
+title: '“Awesome” Punctuation on some Sign’s from the “Legion”'
 date: 2008-12-08T20:48:53+00:00
 id: 816
 slug: 'grammatically-awesome-signs-from-the-legion'

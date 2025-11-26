@@ -1,5 +1,5 @@
 ---
-title: 'You&#8217;re Invited'
+title: 'You’re Invited'
 date: 2005-09-18T14:37:56+00:00
 id: 5820
 slug: 'youre-invited'

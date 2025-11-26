@@ -1,5 +1,5 @@
 ---
-title: 'Farmville for Dummies&#8230;Sounds about Right'
+title: 'Farmville for Dummies…Sounds about Right'
 date: 2011-04-04T18:36:58+00:00
 id: 3364
 slug: 'farmville-for-dummies-sounds-about-right'

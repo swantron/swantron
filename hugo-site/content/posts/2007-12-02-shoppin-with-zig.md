@@ -1,5 +1,5 @@
 ---
-title: 'Shoppin&#8217; With Zig'
+title: 'Shoppin’ With Zig'
 date: 2007-12-02T15:22:58+00:00
 id: 628
 slug: 'shoppin-with-zig'

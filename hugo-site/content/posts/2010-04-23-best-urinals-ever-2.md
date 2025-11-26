@@ -1,5 +1,5 @@
 ---
-title: 'Best&#8230;Urinals&#8230;Ever.'
+title: 'Best…Urinals…Ever.'
 date: 2010-04-23T08:52:38+00:00
 id: 6210
 slug: 'best-urinals-ever-2'

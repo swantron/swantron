@@ -1,5 +1,5 @@
 ---
-title: 'Ballin&#8217; on a Budget'
+title: 'Ballin’ on a Budget'
 date: 2009-08-10T21:17:01+00:00
 id: 931
 slug: 'ballin-on-a-budget'
