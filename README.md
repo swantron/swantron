@@ -1,9 +1,19 @@
-# blog
-swan tron dot com 
+# swan tron dot com
+
+A personal blog, originally hosted at **bouncerblog.com** for several years, then migrated to **swantron.com** (WordPress), and now converted to a static site using Hugo.
+
+## History
+
+This blog has been through several iterations:
+- **bouncerblog.com** - Original blog (several years)
+- **swantron.com** - WordPress-hosted blog
+- **Static Site** - Current Hugo-based static site (GitHub Pages)
+
+All content has been preserved and migrated, maintaining the original permalink structure (`/index.php/YYYY/MM/DD/post-slug/`) for compatibility with existing links.
 
 ## Hugo Static Site
 
-This repository contains a Hugo-based static site generated from the original WordPress blog export.
+This repository contains a Hugo-based static site generated from the WordPress blog export.
 
 ### Quick Start
 
