@@ -3,7 +3,7 @@ title: 'Watch This…aka Clock Talk'
 date: 2010-07-01T19:00:01+00:00
 id: 2410
 slug: 'watch-this-aka-clock-talk'
-featured_image: '/uploads/2010/07/uber.jpg "uber"'
+featured_image: '/uploads/2010/07/uber.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

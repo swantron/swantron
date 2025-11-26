@@ -3,7 +3,7 @@ title: 'Green Robots Attack'
 date: 2010-03-12T15:47:19+00:00
 id: 6185
 slug: 'green-robots-attack'
-featured_image: '/uploads/2010/03/green-robot-1024x768.jpg "green-robot"'
+featured_image: '/uploads/2010/03/green-robot-1024x768.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,7 +3,7 @@ title: 'Virtually Awesome'
 date: 2011-11-02T12:23:29+00:00
 id: 4047
 slug: 'virtually-awesome'
-featured_image: '/uploads/2011/11/virtual-570x318.jpg "virtual"'
+featured_image: '/uploads/2011/11/virtual-570x318.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

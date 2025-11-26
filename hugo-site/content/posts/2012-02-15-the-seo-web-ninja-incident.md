@@ -3,7 +3,7 @@ title: 'The SEO Web Ninja Incident'
 date: 2012-02-15T09:36:36+00:00
 id: 4372
 slug: 'the-seo-web-ninja-incident'
-featured_image: '/uploads/2012/02/image001.gif "image001"'
+featured_image: '/uploads/2012/02/image001.gif'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

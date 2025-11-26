@@ -3,7 +3,7 @@ title: 'Android IP Webcam Demo'
 date: 2012-04-28T14:24:25+00:00
 id: 4532
 slug: 'android-ip-webcam-demo'
-featured_image: '/uploads/2012/04/android-ip-webcam.jpg "android-ip-webcam"'
+featured_image: '/uploads/2012/04/android-ip-webcam.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

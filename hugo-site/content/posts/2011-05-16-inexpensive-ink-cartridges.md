@@ -3,7 +3,7 @@ title: 'Inexpensive Ink Cartridges'
 date: 2011-05-16T15:26:58+00:00
 id: 3494
 slug: 'inexpensive-ink-cartridges'
-featured_image: '/uploads/2011/05/octopus-ink.jpg "octopus-ink"'
+featured_image: '/uploads/2011/05/octopus-ink.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

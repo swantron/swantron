@@ -3,7 +3,7 @@ title: 'Robomantic Robomance'
 date: 2010-10-11T12:35:08+00:00
 id: 2757
 slug: 'robomantic-robomance'
-featured_image: '/uploads/2010/10/king-of-the-world.jpg "king-of-the-world"'
+featured_image: '/uploads/2010/10/king-of-the-world.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

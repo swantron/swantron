@@ -3,7 +3,7 @@ title: 'Mastering MS Paint:  A How-To'
 date: 2010-01-12T12:03:23+00:00
 id: 1467
 slug: 'mastering-ms-paint-a-how-to'
-featured_image: '/uploads/2010/01/wiz.jpg "wiz"'
+featured_image: '/uploads/2010/01/wiz.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

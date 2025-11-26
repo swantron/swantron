@@ -3,7 +3,7 @@ title: 'DC Storm Footage'
 date: 2010-02-05T18:32:11+00:00
 id: 1638
 slug: 'dc-storm-footage'
-featured_image: '/uploads/2010/02/Washington-DC-Capitol.jpg "Washington-DC-Capitol"'
+featured_image: '/uploads/2010/02/Washington-DC-Capitol.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

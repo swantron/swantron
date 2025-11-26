@@ -3,7 +3,7 @@ title: 'Rattle Can Makeover'
 date: 2012-02-23T22:04:45+00:00
 id: 4407
 slug: 'rattle-can-makeover'
-featured_image: '/uploads/2012/02/tear-down-570x232.jpg "tear-down"'
+featured_image: '/uploads/2012/02/tear-down-570x232.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

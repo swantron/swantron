@@ -3,7 +3,7 @@ title: 'Online Tech Auctions'
 date: 2011-10-14T12:10:23+00:00
 id: 3925
 slug: 'online-tech-auctions'
-featured_image: '/uploads/2011/10/dealfun-570x351.jpg "dealfun"'
+featured_image: '/uploads/2011/10/dealfun-570x351.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

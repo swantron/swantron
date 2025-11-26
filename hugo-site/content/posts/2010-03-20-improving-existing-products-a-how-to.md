@@ -3,7 +3,7 @@ title: 'Improving Existing Products: A How-to'
 date: 2010-03-20T15:08:53+00:00
 id: 1845
 slug: 'improving-existing-products-a-how-to'
-featured_image: '/uploads/2010/03/dogi-pot.jpg "dogi-pot"'
+featured_image: '/uploads/2010/03/dogi-pot.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

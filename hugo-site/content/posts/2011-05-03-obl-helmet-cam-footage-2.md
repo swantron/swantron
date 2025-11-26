@@ -3,7 +3,7 @@ title: 'OBL Helmet Cam Footage'
 date: 2011-05-03T08:20:49+00:00
 id: 6281
 slug: 'obl-helmet-cam-footage-2'
-featured_image: '/uploads/2011/05/enet.jpg "enet"'
+featured_image: '/uploads/2011/05/enet.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

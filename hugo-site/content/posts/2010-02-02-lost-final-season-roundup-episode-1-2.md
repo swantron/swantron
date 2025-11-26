@@ -3,7 +3,7 @@ title: 'Lost… Final Season Roundup:  Episode 1'
 date: 2010-02-02T22:42:48+00:00
 id: 6170
 slug: 'lost-final-season-roundup-episode-1-2'
-featured_image: '/uploads/2010/02/shitty-lost.jpg "shitty-lost"'
+featured_image: '/uploads/2010/02/shitty-lost.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

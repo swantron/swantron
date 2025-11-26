@@ -3,7 +3,7 @@ title: 'One-Armed Banditos'
 date: 2010-09-17T19:49:09+00:00
 id: 2682
 slug: 'one-armed-bandito'
-featured_image: '/uploads/2010/09/player-cards.jpg "player-cards"'
+featured_image: '/uploads/2010/09/player-cards.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

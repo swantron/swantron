@@ -3,7 +3,7 @@ title: 'Nerd Shovel'
 date: 2011-12-26T12:04:37+00:00
 id: 6337
 slug: 'nerd-shovel-2'
-featured_image: '/uploads/2011/12/Nerd_shovel-570x304.jpg "Nerd_shovel"'
+featured_image: '/uploads/2011/12/Nerd_shovel-570x304.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

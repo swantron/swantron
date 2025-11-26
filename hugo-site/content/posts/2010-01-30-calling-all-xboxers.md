@@ -3,7 +3,7 @@ title: 'Calling All XBoxers…'
 date: 2010-01-30T15:55:11+00:00
 id: 1602
 slug: 'calling-all-xboxers'
-featured_image: '/uploads/2010/01/pcgamesupply_logo.png "pcgamesupply_logo"'
+featured_image: '/uploads/2010/01/pcgamesupply_logo.png'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

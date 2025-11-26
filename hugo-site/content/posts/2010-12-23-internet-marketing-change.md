@@ -3,7 +3,7 @@ title: 'Internet Marketing Change'
 date: 2010-12-23T14:03:40+00:00
 id: 2950
 slug: 'internet-marketing-change'
-featured_image: '/uploads/2010/12/SWANTRON2.jpg "SWANTRON2"'
+featured_image: '/uploads/2010/12/SWANTRON2.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

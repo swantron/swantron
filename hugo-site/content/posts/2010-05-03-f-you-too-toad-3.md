@@ -3,7 +3,7 @@ title: 'F You Too, Toad'
 date: 2010-05-03T12:01:09+00:00
 id: 6213
 slug: 'f-you-too-toad-3'
-featured_image: '/uploads/2010/05/MarioandToad.gif "MarioandToad"'
+featured_image: '/uploads/2010/05/MarioandToad.gif'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

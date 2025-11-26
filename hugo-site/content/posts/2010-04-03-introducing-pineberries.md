@@ -3,7 +3,7 @@ title: 'Introducing…Pineberries'
 date: 2010-04-03T09:42:17+00:00
 id: 1903
 slug: 'introducing-pineberries'
-featured_image: '/uploads/2010/04/pineberries.jpg "pineberries"'
+featured_image: '/uploads/2010/04/pineberries.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,7 +3,7 @@ title: 'I Love Newegg, You Should Too'
 date: 2010-10-28T18:32:17+00:00
 id: 2829
 slug: 'i-love-newegg-you-should-too'
-featured_image: '/uploads/2010/10/newegg.jpg "newegg"'
+featured_image: '/uploads/2010/10/newegg.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

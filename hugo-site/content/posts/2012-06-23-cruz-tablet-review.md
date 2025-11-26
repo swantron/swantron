@@ -3,7 +3,7 @@ title: 'Cruz Tablet Review'
 date: 2012-06-23T20:16:23+00:00
 id: 4617
 slug: 'cruz-tablet-review'
-featured_image: '/uploads/2012/06/useless-android-tablet.jpg "useless-android-tablet"'
+featured_image: '/uploads/2012/06/useless-android-tablet.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,7 +3,7 @@ title: 'IOIO Bootloader Update'
 date: 2011-11-06T17:41:16+00:00
 id: 4070
 slug: 'ioio-bootloader-update'
-featured_image: '/uploads/2011/11/dual-ioio-android-570x296.jpg "dual-ioio-android"'
+featured_image: '/uploads/2011/11/dual-ioio-android-570x296.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

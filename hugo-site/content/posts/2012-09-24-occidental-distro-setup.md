@@ -3,7 +3,7 @@ title: 'Occidental Distro Setup'
 date: 2012-09-24T08:12:19+00:00
 id: 4736
 slug: 'occidental-distro-setup'
-featured_image: '/uploads/2012/09/raspberry_pie.jpg "raspberry_pie"'
+featured_image: '/uploads/2012/09/raspberry_pie.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

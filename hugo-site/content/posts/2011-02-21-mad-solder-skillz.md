@@ -3,7 +3,7 @@ title: 'Mad Solder Skillz'
 date: 2011-02-21T21:56:37+00:00
 id: 3193
 slug: 'mad-solder-skillz'
-featured_image: '/uploads/2011/02/ir-robot.jpg "ir-robot"'
+featured_image: '/uploads/2011/02/ir-robot.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

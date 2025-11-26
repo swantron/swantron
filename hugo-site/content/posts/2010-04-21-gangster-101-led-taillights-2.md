@@ -3,7 +3,7 @@ title: 'Gangster 101:  LED Taillights'
 date: 2010-04-21T20:12:23+00:00
 id: 6207
 slug: 'gangster-101-led-taillights-2'
-featured_image: '/uploads/2010/04/silverado-led-tail-lights.jpg "silverado-led-tail-lights"'
+featured_image: '/uploads/2010/04/silverado-led-tail-lights.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

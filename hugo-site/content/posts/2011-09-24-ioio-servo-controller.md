@@ -3,7 +3,7 @@ title: 'IOIO Servo Controller'
 date: 2011-09-24T16:30:27+00:00
 id: 3851
 slug: 'ioio-servo-controller'
-featured_image: '/uploads/2011/09/IOIO-Servo-Controller-570x320.jpg "IOIO Servo Controller"'
+featured_image: '/uploads/2011/09/IOIO-Servo-Controller-570x320.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

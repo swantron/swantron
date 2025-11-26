@@ -3,7 +3,7 @@ title: 'Street / Trail / Heater Stand'
 date: 2011-03-03T07:27:09+00:00
 id: 3219
 slug: 'street-trail-heater-stand'
-featured_image: '/uploads/2011/03/honda-90.jpg "honda-90"'
+featured_image: '/uploads/2011/03/honda-90.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

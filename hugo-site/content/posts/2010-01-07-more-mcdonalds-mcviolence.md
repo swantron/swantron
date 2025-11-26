@@ -3,7 +3,7 @@ title: 'More McDonald’s McViolence'
 date: 2010-01-07T11:31:29+00:00
 id: 1399
 slug: 'more-mcdonalds-mcviolence'
-featured_image: '/uploads/2010/01/mcretard.jpg "mcretard"'
+featured_image: '/uploads/2010/01/mcretard.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

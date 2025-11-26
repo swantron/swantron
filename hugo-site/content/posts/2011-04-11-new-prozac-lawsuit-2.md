@@ -3,7 +3,7 @@ title: 'New Prozac Lawsuit'
 date: 2011-04-11T17:57:25+00:00
 id: 6271
 slug: 'new-prozac-lawsuit-2'
-featured_image: '/uploads/2011/04/prozac.jpg "prozac"'
+featured_image: '/uploads/2011/04/prozac.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

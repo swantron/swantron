@@ -3,7 +3,7 @@ title: 'Re-Imaging Windows (For Work)'
 date: 2012-10-24T12:57:50+00:00
 id: 4765
 slug: 're-imaging-windows-for-work'
-featured_image: '/uploads/2012/10/windows_dev_image.jpg "windows_dev_image"'
+featured_image: '/uploads/2012/10/windows_dev_image.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

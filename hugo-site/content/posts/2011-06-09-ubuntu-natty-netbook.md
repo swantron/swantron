@@ -3,7 +3,7 @@ title: 'Ubuntu Natty Netbook'
 date: 2011-06-09T21:01:50+00:00
 id: 3556
 slug: 'ubuntu-natty-netbook'
-featured_image: '/uploads/2011/06/natty-upgrade.jpg "natty-upgrade"'
+featured_image: '/uploads/2011/06/natty-upgrade.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

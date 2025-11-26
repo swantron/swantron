@@ -3,7 +3,7 @@ title: 'Arduino 120V AC Relay Example'
 date: 2011-07-12T21:13:18+00:00
 id: 3666
 slug: 'arduino-120v-ac-relay-example'
-featured_image: '/uploads/2011/07/fan-hack.jpg "fan-hack"'
+featured_image: '/uploads/2011/07/fan-hack.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

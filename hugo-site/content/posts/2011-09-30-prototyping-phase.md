@@ -3,7 +3,7 @@ title: 'Prototyping Phase'
 date: 2011-09-30T21:22:02+00:00
 id: 3867
 slug: 'prototyping-phase'
-featured_image: '/uploads/2011/09/new-project-time-570x294.jpg "new-project-time"'
+featured_image: '/uploads/2011/09/new-project-time-570x294.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

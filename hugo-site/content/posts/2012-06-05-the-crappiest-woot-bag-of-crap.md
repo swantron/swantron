@@ -3,7 +3,7 @@ title: 'The Crappiest Woot Bag of Crap'
 date: 2012-06-05T21:28:08+00:00
 id: 4581
 slug: 'the-crappiest-woot-bag-of-crap'
-featured_image: '/uploads/2012/06/crappiest_bag_of_crap.jpg "crappiest_bag_of_crap"'
+featured_image: '/uploads/2012/06/crappiest_bag_of_crap.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

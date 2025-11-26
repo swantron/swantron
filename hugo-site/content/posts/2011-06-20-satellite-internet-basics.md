@@ -3,7 +3,7 @@ title: 'Satellite Internet Basics'
 date: 2011-06-20T14:28:58+00:00
 id: 3574
 slug: 'satellite-internet-basics'
-featured_image: '/uploads/2011/06/satellite_internet.jpg "satellite_internet"'
+featured_image: '/uploads/2011/06/satellite_internet.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

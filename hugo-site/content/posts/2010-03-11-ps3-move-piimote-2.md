@@ -3,7 +3,7 @@ title: 'PS3 Move | PiiMote?'
 date: 2010-03-11T09:07:02+00:00
 id: 6191
 slug: 'ps3-move-piimote-2'
-featured_image: '/uploads/2010/03/PS3-move.jpg "PS3-move"'
+featured_image: '/uploads/2010/03/PS3-move.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

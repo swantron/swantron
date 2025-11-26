@@ -3,7 +3,7 @@ title: 'unixkcd easter eggs'
 date: 2010-04-01T14:29:27+00:00
 id: 1907
 slug: 'unixkcd-easter-eggs'
-featured_image: '/uploads/2010/04/sudo-make-me-a-sandwich.jpg "sudo-make-me-a-sandwich"'
+featured_image: '/uploads/2010/04/sudo-make-me-a-sandwich.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,7 +3,7 @@ title: 'iPad Updates'
 date: 2010-05-28T13:33:29+00:00
 id: 2226
 slug: 'ipad-updates'
-featured_image: '/uploads/2010/05/apple-ipad.jpg "apple-ipad"'
+featured_image: '/uploads/2010/05/apple-ipad.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

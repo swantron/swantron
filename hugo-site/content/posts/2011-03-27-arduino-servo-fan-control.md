@@ -3,7 +3,7 @@ title: 'Arduino Servo Fan Control'
 date: 2011-03-27T17:30:20+00:00
 id: 3316
 slug: 'arduino-servo-fan-control'
-featured_image: '/uploads/2011/03/altoids-project-can.jpg "altoids-project-can"'
+featured_image: '/uploads/2011/03/altoids-project-can.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

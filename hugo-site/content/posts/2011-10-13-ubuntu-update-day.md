@@ -3,7 +3,7 @@ title: 'Ubuntu Update Day'
 date: 2011-10-13T12:55:56+00:00
 id: 3921
 slug: 'ubuntu-update-day'
-featured_image: '/uploads/2011/10/ubuntu-ocelot-570x333.jpg "ubuntu-ocelot"'
+featured_image: '/uploads/2011/10/ubuntu-ocelot-570x333.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

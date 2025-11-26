@@ -3,7 +3,7 @@ title: 'Nerd Bucket List'
 date: 2011-06-28T18:36:15+00:00
 id: 3607
 slug: 'nerd-bucket-list'
-featured_image: '/uploads/2011/06/ocarina3d.jpg "ocarina3d"'
+featured_image: '/uploads/2011/06/ocarina3d.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

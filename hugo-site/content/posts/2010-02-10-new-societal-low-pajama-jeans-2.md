@@ -3,7 +3,7 @@ title: 'New Societal Low: Pajama Jeans'
 date: 2010-02-10T16:03:59+00:00
 id: 6173
 slug: 'new-societal-low-pajama-jeans-2'
-featured_image: '/uploads/2010/02/pajama-jeans.jpg "pajama-jeans"'
+featured_image: '/uploads/2010/02/pajama-jeans.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

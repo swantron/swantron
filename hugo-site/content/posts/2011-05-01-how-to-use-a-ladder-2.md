@@ -3,7 +3,7 @@ title: 'How to Use a Ladder'
 date: 2011-05-01T17:26:34+00:00
 id: 6280
 slug: 'how-to-use-a-ladder-2'
-featured_image: '/uploads/2011/05/bad-idea.jpg "bad-idea"'
+featured_image: '/uploads/2011/05/bad-idea.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

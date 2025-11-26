@@ -3,7 +3,7 @@ title: 'NASA Finds New Life?'
 date: 2010-12-02T09:11:38+00:00
 id: 2921
 slug: 'nasa-finds-new-life'
-featured_image: '/uploads/2010/12/new_alien.jpg "new_alien"'
+featured_image: '/uploads/2010/12/new_alien.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,7 +3,7 @@ title: 'PDF to Word Converter'
 date: 2012-02-08T17:41:52+00:00
 id: 4353
 slug: 'pdf-to-word-converter'
-featured_image: '/uploads/2012/02/pdf_to_word-570x434.png "pdf_to_word"'
+featured_image: '/uploads/2012/02/pdf_to_word-570x434.png'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

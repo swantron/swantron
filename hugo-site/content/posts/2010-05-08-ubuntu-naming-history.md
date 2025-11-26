@@ -3,7 +3,7 @@ title: 'Ubuntu Naming History'
 date: 2010-05-08T12:37:05+00:00
 id: 2113
 slug: 'ubuntu-naming-history'
-featured_image: '/uploads/2010/01/ubuntuwhite.jpg "ubuntuwhite"'
+featured_image: '/uploads/2010/01/ubuntuwhite.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

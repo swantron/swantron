@@ -3,7 +3,7 @@ title: 'Maui Cameras (and space science)'
 date: 2010-02-18T15:37:00+00:00
 id: 1700
 slug: 'maui-cameras-and-space-science'
-featured_image: '/uploads/2010/02/robot-surfer.jpg "robot-surfer"'
+featured_image: '/uploads/2010/02/robot-surfer.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

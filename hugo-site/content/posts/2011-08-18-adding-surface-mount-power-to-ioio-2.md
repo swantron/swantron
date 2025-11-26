@@ -3,7 +3,7 @@ title: 'Adding Surface Mount Power to IOIO'
 date: 2011-08-18T15:43:10+00:00
 id: 6303
 slug: 'adding-surface-mount-power-to-ioio-2'
-featured_image: '/uploads/2011/08/Surface-Mount-Power-Jack.jpg "Surface-Mount-Power-Jack"'
+featured_image: '/uploads/2011/08/Surface-Mount-Power-Jack.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

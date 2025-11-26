@@ -3,7 +3,7 @@ title: 'Arduino Binary LED Project'
 date: 2011-04-06T11:33:41+00:00
 id: 6270
 slug: 'arduino-binary-led-project-3'
-featured_image: '/uploads/2011/04/binary-code.jpg "binary-code"'
+featured_image: '/uploads/2011/04/binary-code.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

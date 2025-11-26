@@ -3,7 +3,7 @@ title: 'Behold!  Tradition in the Making!'
 date: 2009-11-19T09:39:51+00:00
 id: 1062
 slug: 'behold-tradition-in-the-making'
-featured_image: '/uploads/2009/11/champ.jpg "champ"'
+featured_image: '/uploads/2009/11/champ.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

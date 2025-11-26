@@ -3,7 +3,7 @@ title: 'Fat Ninja Gear'
 date: 2010-02-25T15:29:50+00:00
 id: 1747
 slug: 'fat-ninja-gear'
-featured_image: '/uploads/2010/02/fat-ninja.jpg "fat-ninja"'
+featured_image: '/uploads/2010/02/fat-ninja.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

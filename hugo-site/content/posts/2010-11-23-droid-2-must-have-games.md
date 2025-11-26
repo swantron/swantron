@@ -3,7 +3,7 @@ title: 'Droid 2 Must Have Games'
 date: 2010-11-23T09:29:08+00:00
 id: 2897
 slug: 'droid-2-must-have-games'
-featured_image: '/uploads/2010/11/angry-bird.jpg "angry bird"'
+featured_image: '/uploads/2010/11/angry-bird.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

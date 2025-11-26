@@ -3,7 +3,7 @@ title: 'Microsoft Faux Pas'
 date: 2009-08-25T13:11:45+00:00
 id: 957
 slug: 'microsoft-faux-pas'
-featured_image: '/uploads/2009/08/microsoft_US.jpg "microsoft_US"'
+featured_image: '/uploads/2009/08/microsoft_US.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

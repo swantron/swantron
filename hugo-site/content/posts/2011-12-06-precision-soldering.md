@@ -3,7 +3,7 @@ title: 'Precision Soldering'
 date: 2011-12-06T08:58:47+00:00
 id: 4136
 slug: 'precision-soldering'
-featured_image: '/uploads/2011/12/wires-570x245.jpg "wires"'
+featured_image: '/uploads/2011/12/wires-570x245.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

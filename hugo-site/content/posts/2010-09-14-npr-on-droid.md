@@ -3,7 +3,7 @@ title: 'NPR on Droid'
 date: 2010-09-14T17:10:11+00:00
 id: 2670
 slug: 'npr-on-droid'
-featured_image: '/uploads/2010/09/green-droid.jpg "green-droid"'
+featured_image: '/uploads/2010/09/green-droid.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

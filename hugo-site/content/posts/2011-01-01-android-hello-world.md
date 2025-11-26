@@ -3,7 +3,7 @@ title: 'Android Hello World'
 date: 2011-01-01T15:25:17+00:00
 id: 3092
 slug: 'android-hello-world'
-featured_image: '/uploads/2011/01/world_hello.jpg "world_hello"'
+featured_image: '/uploads/2011/01/world_hello.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

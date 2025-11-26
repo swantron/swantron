@@ -3,7 +3,7 @@ title: 'McIdiot??? McFelon???'
 date: 2010-01-04T11:38:36+00:00
 id: 1367
 slug: 'mcidiot-mcfelon'
-featured_image: '/uploads/2010/01/mcnuggit.jpg "mcnuggit"'
+featured_image: '/uploads/2010/01/mcnuggit.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

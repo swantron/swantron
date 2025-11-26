@@ -3,7 +3,7 @@ title: 'Great Idea of the Day:  Cooler Chair'
 date: 2010-02-22T18:28:57+00:00
 id: 1738
 slug: 'great-idea-of-the-day-cooler-chair'
-featured_image: '/uploads/2010/02/awesome-chair.png "awesome-chair"'
+featured_image: '/uploads/2010/02/awesome-chair.png'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

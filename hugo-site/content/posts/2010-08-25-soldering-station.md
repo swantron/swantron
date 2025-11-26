@@ -3,7 +3,7 @@ title: 'Soldering Station'
 date: 2010-08-25T19:22:11+00:00
 id: 2567
 slug: 'soldering-station'
-featured_image: '/uploads/2010/08/solder-iron.jpg "solder-iron"'
+featured_image: '/uploads/2010/08/solder-iron.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

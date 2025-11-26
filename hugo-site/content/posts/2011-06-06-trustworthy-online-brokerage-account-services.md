@@ -3,7 +3,7 @@ title: 'Trustworthy Online Brokerage Account & Services'
 date: 2011-06-06T19:41:29+00:00
 id: 3543
 slug: 'trustworthy-online-brokerage-account-services'
-featured_image: '/uploads/2011/06/saving-money.jpg "dollar bill yall"'
+featured_image: '/uploads/2011/06/saving-money.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

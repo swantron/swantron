@@ -3,7 +3,7 @@ title: 'Alien Abduction Proof'
 date: 2011-03-25T08:17:59+00:00
 id: 3305
 slug: 'alien-abduction-proof'
-featured_image: '/uploads/2011/03/alien-abduct.jpg "alien-abduct"'
+featured_image: '/uploads/2011/03/alien-abduct.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

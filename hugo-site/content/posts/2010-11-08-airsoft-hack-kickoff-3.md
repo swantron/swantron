@@ -3,7 +3,7 @@ title: 'Airsoft Hack Kickoff'
 date: 2010-11-08T12:08:01+00:00
 id: 6252
 slug: 'airsoft-hack-kickoff-3'
-featured_image: '/uploads/2010/11/airsoft_hack.jpg "airsoft_hack"'
+featured_image: '/uploads/2010/11/airsoft_hack.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

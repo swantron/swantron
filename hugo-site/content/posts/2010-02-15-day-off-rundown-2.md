@@ -3,7 +3,7 @@ title: 'Day Off Rundown'
 date: 2010-02-15T16:12:29+00:00
 id: 6175
 slug: 'day-off-rundown-2'
-featured_image: '/uploads/2010/02/IMG00024.jpg "drain-snake"'
+featured_image: '/uploads/2010/02/IMG00024.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

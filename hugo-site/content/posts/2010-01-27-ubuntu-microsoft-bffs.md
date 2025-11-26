@@ -3,7 +3,7 @@ title: 'Ubuntu + Microsoft = BFFs'
 date: 2010-01-27T11:08:52+00:00
 id: 1569
 slug: 'ubuntu-microsoft-bffs'
-featured_image: '/uploads/2010/01/ubuntuwhite.jpg "ubuntuwhite"'
+featured_image: '/uploads/2010/01/ubuntuwhite.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

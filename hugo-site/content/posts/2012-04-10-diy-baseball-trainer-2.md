@@ -3,7 +3,7 @@ title: 'DIY Baseball Trainer'
 date: 2012-04-10T08:56:59+00:00
 id: 6363
 slug: 'diy-baseball-trainer-2'
-featured_image: '/uploads/2012/04/baseball-drill.jpg "baseball drill"'
+featured_image: '/uploads/2012/04/baseball-drill.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

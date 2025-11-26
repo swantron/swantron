@@ -3,7 +3,7 @@ title: 'Binary Red/Green Snippet'
 date: 2010-07-21T20:49:58+00:00
 id: 2481
 slug: 'binary-redgreen-snippet'
-featured_image: '/uploads/2010/07/red-led.jpg "red-led"'
+featured_image: '/uploads/2010/07/red-led.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

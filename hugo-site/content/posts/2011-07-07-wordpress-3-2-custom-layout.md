@@ -3,7 +3,7 @@ title: 'WordPress 3.2 Custom Layout'
 date: 2011-07-07T17:14:16+00:00
 id: 3652
 slug: 'wordpress-3-2-custom-layout'
-featured_image: '/uploads/2011/07/worpress3.2.jpg "worpress3.2"'
+featured_image: '/uploads/2011/07/worpress3.2.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

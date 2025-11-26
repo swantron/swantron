@@ -3,7 +3,7 @@ title: 'Lost recap: the lighthouse'
 date: 2010-02-23T22:26:13+00:00
 id: 1741
 slug: 'lost-recap-the-lighthouse'
-featured_image: '/uploads/2010/02/swantron-lost.jpg "swantron-lost"'
+featured_image: '/uploads/2010/02/swantron-lost.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

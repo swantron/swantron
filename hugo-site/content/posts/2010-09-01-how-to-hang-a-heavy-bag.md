@@ -3,7 +3,7 @@ title: 'How to Hang a Heavy Bag'
 date: 2010-09-01T19:36:25+00:00
 id: 2589
 slug: 'how-to-hang-a-heavy-bag'
-featured_image: '/uploads/2010/09/worst-ladder-ever.jpg "worst-ladder-ever"'
+featured_image: '/uploads/2010/09/worst-ladder-ever.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,7 +3,7 @@ title: 'Conquered it.'
 date: 2011-11-27T22:31:10+00:00
 id: 4122
 slug: 'conquered-it'
-featured_image: '/uploads/2011/11/beating-zelda-570x319.jpg "beating-zelda"'
+featured_image: '/uploads/2011/11/beating-zelda-570x319.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

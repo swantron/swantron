@@ -3,7 +3,7 @@ title: 'Star Trek Glasses'
 date: 2012-08-09T08:56:48+00:00
 id: 6369
 slug: 'star-trek-glasses-2'
-featured_image: '/uploads/2012/08/geordi_la_forge.jpg "geordi_la_forge"'
+featured_image: '/uploads/2012/08/geordi_la_forge.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

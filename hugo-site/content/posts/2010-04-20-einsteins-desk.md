@@ -3,7 +3,7 @@ title: 'Einstein’s Desk'
 date: 2010-04-20T19:11:36+00:00
 id: 2011
 slug: 'einsteins-desk'
-featured_image: '/uploads/2010/04/einstein-desk.jpg "einstein-desk"'
+featured_image: '/uploads/2010/04/einstein-desk.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,7 +3,7 @@ title: 'New Egg: A Tribute to Angry Birds'
 date: 2010-12-25T12:37:27+00:00
 id: 2955
 slug: 'new-egg-a-tribute-to-angry-birds'
-featured_image: '/uploads/2010/12/SWANTRON1.jpg "SWANTRON1"'
+featured_image: '/uploads/2010/12/SWANTRON1.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

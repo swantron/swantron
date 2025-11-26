@@ -3,7 +3,7 @@ title: 'Nerd Wish List'
 date: 2010-11-01T14:03:30+00:00
 id: 4058
 slug: 'nerd-wish-list'
-featured_image: '/uploads/2011/11/savings-nerd.png "savings-nerd"'
+featured_image: '/uploads/2011/11/savings-nerd.png'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
