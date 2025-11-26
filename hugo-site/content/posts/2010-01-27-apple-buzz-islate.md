@@ -3,6 +3,7 @@ title: 'Apple Buzz: iSlate'
 date: 2010-01-27T11:31:29+00:00
 id: 1570
 slug: 'apple-buzz-islate'
+featured_image: '/uploads/2010/01/apple.jpg "apple"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,6 +3,7 @@ title: 'Managed Service Provider'
 date: 2012-01-17T19:52:24+00:00
 id: 4282
 slug: 'managed-service-provider'
+featured_image: '/uploads/2012/01/ncc_data.jpg "ncc_data"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,6 +3,7 @@ title: 'OML, an interpretation'
 date: 2009-10-16T15:12:26+00:00
 id: 998
 slug: 'oml-an-interpretation'
+featured_image: '/uploads/2009/10/IMG001441-1024x768.jpg "OML"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

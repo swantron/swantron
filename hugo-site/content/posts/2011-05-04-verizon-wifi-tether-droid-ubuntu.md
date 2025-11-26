@@ -3,6 +3,7 @@ title: 'Verizon Wifi Tether…Droid + Ubuntu'
 date: 2011-05-04T12:14:42+00:00
 id: 3457
 slug: 'verizon-wifi-tether-droid-ubuntu'
+featured_image: '/uploads/2011/05/droid2-tether.jpg "droid2-tether"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

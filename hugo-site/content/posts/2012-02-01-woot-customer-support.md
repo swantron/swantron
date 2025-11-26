@@ -3,6 +3,7 @@ title: 'Woot Customer Support'
 date: 2012-02-01T17:31:33+00:00
 id: 4337
 slug: 'woot-customer-support'
+featured_image: '/uploads/2012/02/mr_beer-570x319.jpg "mr_beer"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

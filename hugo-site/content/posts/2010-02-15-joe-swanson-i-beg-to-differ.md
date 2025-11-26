@@ -3,6 +3,7 @@ title: 'Joe Swanson?  I beg to differ.'
 date: 2010-02-15T16:27:34+00:00
 id: 1680
 slug: 'joe-swanson-i-beg-to-differ'
+featured_image: '/uploads/2010/02/wtf-me.png "wtf-me"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

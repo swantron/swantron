@@ -3,6 +3,7 @@ title: 'Project Preview'
 date: 2011-11-26T17:23:52+00:00
 id: 4119
 slug: 'project-preview'
+featured_image: '/uploads/2011/11/ioio-on-wheels-570x303.jpg "ioio-on-wheels"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

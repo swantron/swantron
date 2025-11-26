@@ -3,6 +3,7 @@ title: 'Garage Door Hack'
 date: 2011-04-13T21:19:53+00:00
 id: 6272
 slug: 'garage-door-hack-2'
+featured_image: '/uploads/2011/04/ghetto-fabulus.jpg "ghetto-fabulus"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

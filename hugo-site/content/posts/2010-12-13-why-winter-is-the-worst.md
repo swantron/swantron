@@ -3,6 +3,7 @@ title: 'Why Winter is the Worst'
 date: 2010-12-13T21:35:40+00:00
 id: 2942
 slug: 'why-winter-is-the-worst'
+featured_image: '/uploads/2010/12/ct90-honda.jpg "ct90-honda"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

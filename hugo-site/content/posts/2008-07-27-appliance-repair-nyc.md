@@ -3,6 +3,7 @@ title: 'Appliance Repair NYC'
 date: 2008-07-27T10:20:20+00:00
 id: 3706
 slug: 'appliance-repair-nyc'
+featured_image: '/uploads/2011/07/Times_Square_Robot.jpg "Times_Square_Robot"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

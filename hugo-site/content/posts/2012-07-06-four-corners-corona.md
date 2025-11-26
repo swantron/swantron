@@ -3,6 +3,7 @@ title: 'Four Corners Corona'
 date: 2012-07-06T22:29:12+00:00
 id: 4628
 slug: 'four-corners-corona'
+featured_image: '/uploads/2012/07/4-Corners_Corona.jpg "4-Corners_Corona"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,6 +3,7 @@ title: 'Oblig unixkcd'
 date: 2010-04-01T09:18:53+00:00
 id: 1892
 slug: 'oblig-unixkcd'
+featured_image: '/uploads/2010/04/unixkcd.jpg "unixkcd"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

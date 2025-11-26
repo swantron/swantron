@@ -3,6 +3,7 @@ title: 'Bonus Content: IOIO Circuit Diagram'
 date: 2011-09-12T18:39:11+00:00
 id: 3809
 slug: 'bonus-content-ioio-circuit-diagram'
+featured_image: '/uploads/2011/09/ioio-diagram-570x320.jpg "ioio-diagram"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,6 +3,7 @@ title: 'Great Stuff from The Onion'
 date: 2007-02-27T16:44:30+00:00
 id: 483
 slug: 'great-stuff-from-the-onion'
+featured_image: 'http://www.theonion.com/content/files/images/Bumbling-Ragtag-thumb.frontpage_thumbnail_small.jpg.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

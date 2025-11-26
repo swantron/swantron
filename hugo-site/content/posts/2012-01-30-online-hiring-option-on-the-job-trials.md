@@ -3,6 +3,7 @@ title: 'Online Hiring Option | On-the-Job Trials'
 date: 2012-01-30T14:46:36+00:00
 id: 4330
 slug: 'online-hiring-option-on-the-job-trials'
+featured_image: '/uploads/2012/01/vworker.png "vworker"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,6 +3,7 @@ title: 'Just…About…Published…'
 date: 2011-01-17T22:00:06+00:00
 id: 3122
 slug: 'just-about-published'
+featured_image: '/uploads/2011/01/new_cube.jpg "new_cube"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

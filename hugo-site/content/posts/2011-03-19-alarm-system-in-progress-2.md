@@ -3,6 +3,7 @@ title: 'Alarm System In Progress'
 date: 2011-03-19T11:50:47+00:00
 id: 6262
 slug: 'alarm-system-in-progress-2'
+featured_image: '/uploads/2011/03/speaker-wire.jpg "speaker-wire"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

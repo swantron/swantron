@@ -30,6 +30,9 @@ relativeURLs = false
   
   # Main sections for Paper theme (posts directory)
   mainSections = ['posts']
+  
+  # Banner image for homepage
+  banner_image = '/uploads/2013/12/team_swantron.jpg'
 
 [menu]
   [[menu.main]]

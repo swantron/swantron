@@ -3,6 +3,7 @@ title: 'Droid 2 or Nexus One 2.2 Plus'
 date: 2010-09-07T17:34:44+00:00
 id: 2639
 slug: 'droid-2-or-nexus-one-2-2-plus'
+featured_image: '/uploads/2010/09/droid-picture.jpg "droid-picture"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

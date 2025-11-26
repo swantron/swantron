@@ -3,6 +3,7 @@ title: 'New Samsung Device'
 date: 2012-01-28T17:13:39+00:00
 id: 4326
 slug: 'new-samsung-device'
+featured_image: '/uploads/2012/01/2012-01-22_18-40-20_977-570x329.jpg "samsung-monitor"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

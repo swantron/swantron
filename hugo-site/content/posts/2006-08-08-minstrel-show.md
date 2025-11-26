@@ -3,6 +3,7 @@ title: 'Minstrel Show'
 date: 2006-08-08T19:36:25+00:00
 id: 339
 slug: 'minstrel-show'
+featured_image: '/uploads/2006/08/mudd.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

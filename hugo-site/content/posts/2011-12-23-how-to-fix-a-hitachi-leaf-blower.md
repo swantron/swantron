@@ -3,6 +3,7 @@ title: 'How To Fix a Hitachi Leaf Blower'
 date: 2011-12-23T16:52:51+00:00
 id: 4206
 slug: 'how-to-fix-a-hitachi-leaf-blower'
+featured_image: '/uploads/2011/12/Hitachi-leaf-blower-570x320.jpg "Hitachi-leaf-blower"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

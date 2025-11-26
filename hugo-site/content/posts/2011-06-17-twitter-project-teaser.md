@@ -3,6 +3,7 @@ title: 'Twitter Project Teaser'
 date: 2011-06-17T11:37:14+00:00
 id: 3570
 slug: 'twitter-project-teaser'
+featured_image: '/uploads/2011/06/twitteroauth.jpg "twitteroauth"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

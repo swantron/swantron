@@ -3,6 +3,7 @@ title: 'Wrestlemaniac?'
 date: 2009-12-07T14:56:50+00:00
 id: 6154
 slug: 'wrestlemaniac-2'
+featured_image: '/uploads/2009/12/wrestlemania.jpg "wrestlemania"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

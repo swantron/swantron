@@ -15,9 +15,21 @@
 {{- $paginator := .Paginate $pages -}} {{- range $index, $page :=
 $paginator.Pages -}}<!---->
 
-<!-- avatar -->
+<!-- Banner / Avatar -->
 {{- if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) -}}<!---->
 
+{{- /* Banner Image */ -}}
+{{- if site.Params.banner_image -}}
+<div class="-mt-2 mb-12">
+  <img
+    src="{{- site.Params.banner_image | relURL -}}"
+    alt="{{- site.Title -}}"
+    class="w-full rounded-lg object-cover"
+    style="max-height: 200px;"
+  />
+</div>
+{{- else -}}
+{{- /* Fallback to avatar if no banner */ -}}
 {{- $avatar_url := $.Scratch.Get "avatar_url" -}}<!---->
 {{- if or $avatar_url site.Params.name -}}
 <div class="-mt-2 mb-12 flex items-center">
@@ -45,6 +57,7 @@ $paginator.Pages -}}<!---->
   {{- end -}}
 </div>
 {{- end -}}<!---->
+{{- end -}}
 
 {{- end -}}
 
@@ -54,6 +67,19 @@ $paginator.Pages -}}<!---->
     >Featured</span
   >
   {{- end -}}
+  
+  {{- /* Featured Image */ -}}
+  {{- if .Params.featured_image -}}
+  <div class="mb-4">
+    <img
+      src="{{- .Params.featured_image | relURL -}}"
+      alt="{{- .Title -}}"
+      class="w-full rounded-lg object-cover"
+      style="max-height: 300px;"
+    />
+  </div>
+  {{- end -}}
+  
   <h2 class="my-0!">{{- .Title -}}</h2>
   <time class="text-xs antialiased opacity-60"
     >{{- .Date | time.Format ":date_medium" -}}</time

@@ -3,6 +3,7 @@ title: 'More Fine-ass Art for Kate'
 date: 2009-10-18T19:48:04+00:00
 id: 1008
 slug: 'more-fine-ass-art-for-kate'
+featured_image: '/uploads/2009/10/IMG00121-1024x768.jpg "IMG00121"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

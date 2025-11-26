@@ -3,6 +3,7 @@ title: 'Blown Multimeter'
 date: 2011-08-19T09:50:28+00:00
 id: 6304
 slug: 'blown-multimeter-2'
+featured_image: '/uploads/2011/08/Pull-up-resistor.jpg "Pull-up-resistor"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

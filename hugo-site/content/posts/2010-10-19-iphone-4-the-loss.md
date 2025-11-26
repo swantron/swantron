@@ -3,6 +3,7 @@ title: 'iPhone 4 The Loss'
 date: 2010-10-19T11:39:52+00:00
 id: 2781
 slug: 'iphone-4-the-loss'
+featured_image: '/uploads/2010/10/diamond_iphone.jpg "diamond_iphone"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

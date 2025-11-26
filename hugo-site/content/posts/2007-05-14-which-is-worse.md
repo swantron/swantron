@@ -3,6 +3,7 @@ title: 'Which is Worse?'
 date: 2007-05-14T20:05:42+00:00
 id: 551
 slug: 'which-is-worse'
+featured_image: '/uploads/2007/05/federline.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

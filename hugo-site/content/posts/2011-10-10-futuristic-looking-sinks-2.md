@@ -3,6 +3,7 @@ title: 'Futuristic Looking Sinks'
 date: 2011-10-10T19:53:36+00:00
 id: 6316
 slug: 'futuristic-looking-sinks-2'
+featured_image: '/uploads/2011/10/robotic-sinc-570x482.jpg "robotic sinc"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

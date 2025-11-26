@@ -3,6 +3,7 @@ title: 'Saturday’s Supplement'
 date: 2005-12-19T18:18:53+00:00
 id: 6005
 slug: 'saturdays-supplement'
+featured_image: 'http://bouncerblog.com/wp-content/sb1.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

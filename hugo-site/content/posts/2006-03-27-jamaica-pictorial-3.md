@@ -3,6 +3,7 @@ title: 'Jamaica Pictorial #3'
 date: 2006-03-27T16:16:18+00:00
 id: 6101
 slug: 'jamaica-pictorial-3'
+featured_image: '/uploads/2006/03/jam70.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,6 +3,7 @@ title: 'Comics that aren’t Horrible'
 date: 2010-07-29T17:45:49+00:00
 id: 2500
 slug: 'comics-that-arent-horrible'
+featured_image: 'http://www.marriedtothesea.com/072910/shrimp-the-food.gif'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,6 +3,7 @@ title: 'Afterhours Antics'
 date: 2007-02-19T18:31:04+00:00
 id: 479
 slug: 'afterhours-antics'
+featured_image: '/uploads/2007/02/andy.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,6 +3,7 @@ title: 'The Big Lebowski'
 date: 2009-01-19T21:07:49+00:00
 id: 841
 slug: 'the-big-lebowski'
+featured_image: '/uploads/2009/01/hungus.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

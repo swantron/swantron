@@ -3,6 +3,7 @@ title: 'Oblig Red Bull Check-in'
 date: 2013-04-19T20:30:26+00:00
 id: 6391
 slug: 'oblig-red-bull-check-in-2'
+featured_image: '/uploads/2013/04/turbull.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

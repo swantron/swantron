@@ -3,6 +3,7 @@ title: 'Comics are Horrible III'
 date: 2008-09-18T18:39:19+00:00
 id: 779
 slug: 'comics-are-horrible-iii'
+featured_image: '/uploads/2008/09/pajama.gif'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

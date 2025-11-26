@@ -3,6 +3,7 @@ title: 'Military Laser Weapon (100% awesome)'
 date: 2010-01-05T11:48:31+00:00
 id: 1371
 slug: 'military-laser-weapon-100-awesome'
+featured_image: '/uploads/2010/01/laser.jpg "laser"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

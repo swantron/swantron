@@ -3,6 +3,7 @@ title: 'Motor Shield Assembly Steps'
 date: 2010-10-02T09:34:32+00:00
 id: 6245
 slug: 'motor-shield-assembly-steps-2'
+featured_image: '/uploads/2010/09/awesome-lab.jpg "awesome-lab"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

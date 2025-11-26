@@ -3,6 +3,7 @@ title: 'EE Feature'
 date: 2013-01-30T14:16:03+00:00
 id: 4833
 slug: 'ee-feature'
+featured_image: '/uploads/2013/01/eeweb_front.png'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

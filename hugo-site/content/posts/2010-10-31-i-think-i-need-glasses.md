@@ -3,6 +3,7 @@ title: 'I Think I Need Glasses'
 date: 2010-10-31T18:38:27+00:00
 id: 2838
 slug: 'i-think-i-need-glasses'
+featured_image: '/uploads/2010/10/guy-with-glasses.png "guy-with-glasses"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

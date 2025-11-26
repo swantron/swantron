@@ -3,6 +3,7 @@ title: 'Easy LCD Arduino Display'
 date: 2011-05-14T19:29:32+00:00
 id: 3489
 slug: 'easy-lcd-arduino-display'
+featured_image: '/uploads/2011/05/Blue-LCD.jpg "Blue-LCD"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

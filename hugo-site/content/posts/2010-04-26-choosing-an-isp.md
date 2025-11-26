@@ -3,6 +3,7 @@ title: 'Choosing an ISP'
 date: 2010-04-26T09:57:53+00:00
 id: 2056
 slug: 'choosing-an-isp'
+featured_image: '/uploads/2010/04/internet_speed.jpg "internet_speed"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

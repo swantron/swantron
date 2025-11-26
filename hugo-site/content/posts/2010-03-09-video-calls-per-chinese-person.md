@@ -3,6 +3,7 @@ title: 'Video Calls per Chinese Person'
 date: 2010-03-09T23:14:53+00:00
 id: 1775
 slug: 'video-calls-per-chinese-person'
+featured_image: '/uploads/2010/03/loc2.jpg "loc2"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

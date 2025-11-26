@@ -3,6 +3,7 @@ title: 'Precedent Setting'
 date: 2011-10-11T17:25:03+00:00
 id: 6317
 slug: 'precedent-setting-2'
+featured_image: '/uploads/2011/10/baby_girl_cubs_hat-570x321.jpg "baby_girl_cubs_hat"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

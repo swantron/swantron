@@ -3,6 +3,7 @@ title: 'Android SDK / Eclipse / Ubuntu'
 date: 2011-10-23T14:05:45+00:00
 id: 3962
 slug: 'android-sdk-eclipse-ubuntu'
+featured_image: '/uploads/2011/10/eclipse-ftl-570x292.png "eclipse-ftl"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

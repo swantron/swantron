@@ -3,6 +3,7 @@ title: 'Nintendo to Rock Your World in 3D'
 date: 2010-03-25T11:23:57+00:00
 id: 1882
 slug: 'nintendo-to-rock-your-world-in-3d'
+featured_image: '/uploads/2010/03/dsi.jpg "dsi"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

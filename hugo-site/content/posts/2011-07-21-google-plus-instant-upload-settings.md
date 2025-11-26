@@ -3,6 +3,7 @@ title: 'Google Plus Instant Upload Settings'
 date: 2011-07-21T12:49:30+00:00
 id: 3694
 slug: 'google-plus-instant-upload-settings'
+featured_image: '/uploads/2011/07/cubicle-bacon.jpg "cubicle-bacon"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

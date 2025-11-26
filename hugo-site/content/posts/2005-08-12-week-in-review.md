@@ -3,6 +3,7 @@ title: 'Week in Review'
 date: 2005-08-12T20:08:45+00:00
 id: 5752
 slug: 'week-in-review'
+featured_image: 'http://www.bouncerblog.com/wp-content/photo_0028_o2_01.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

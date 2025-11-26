@@ -3,6 +3,7 @@ title: 'Holidaytree Season'
 date: 2006-12-04T21:39:43+00:00
 id: 426
 slug: 'holidaytree-season'
+featured_image: '/uploads/2006/12/chainsaw.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

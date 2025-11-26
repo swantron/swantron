@@ -3,6 +3,7 @@ title: 'Are Pajama Jeans Awesome?'
 date: 2010-11-19T09:12:19+00:00
 id: 2891
 slug: 'are-pajama-jeans-awesome'
+featured_image: '/uploads/2010/11/pajama-jean.jpg "pajama-jean"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

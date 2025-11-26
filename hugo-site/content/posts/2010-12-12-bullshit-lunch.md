@@ -3,6 +3,7 @@ title: 'Bullshit Lunch'
 date: 2010-12-12T13:21:08+00:00
 id: 2939
 slug: 'bullshit-lunch'
+featured_image: '/uploads/2010/12/i-wish-dad-were-here.jpg "i-wish-dad-were-here"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

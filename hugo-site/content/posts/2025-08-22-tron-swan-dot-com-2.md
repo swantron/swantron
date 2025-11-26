@@ -3,6 +3,7 @@ title: 'tron swan dot com'
 date: 2025-08-22T03:05:51+00:00
 id: 8482
 slug: 'tron-swan-dot-com-2'
+featured_image: '/uploads/2025/08/robospin.gif'
 ---
 
 I've been horsing around on another of my sites, [tron swan dot com](http://tronswan.com).   

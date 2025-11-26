@@ -3,6 +3,7 @@ title: 'Command Line LCD Arduino Interface'
 date: 2011-05-20T12:44:20+00:00
 id: 3502
 slug: 'command-line-lcd-arduino-interface'
+featured_image: '/uploads/2011/05/LCD-setup.jpg "LCD-setup"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

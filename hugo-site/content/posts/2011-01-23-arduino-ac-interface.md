@@ -3,6 +3,7 @@ title: 'Arduino AC Interface'
 date: 2011-01-23T18:12:02+00:00
 id: 3127
 slug: 'arduino-ac-interface'
+featured_image: '/uploads/2011/01/powerswitchtail.jpg "powerswitchtail"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

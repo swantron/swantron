@@ -3,6 +3,7 @@ title: 'Arduino Hello World'
 date: 2010-04-22T18:44:41+00:00
 id: 6208
 slug: 'arduino-hello-world-2'
+featured_image: '/uploads/2010/04/arduino_project.jpg "arduino_project"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

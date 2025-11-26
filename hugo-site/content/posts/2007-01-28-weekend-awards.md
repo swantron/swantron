@@ -3,6 +3,7 @@ title: 'Weekend Awards'
 date: 2007-01-28T18:38:55+00:00
 id: 465
 slug: 'weekend-awards'
+featured_image: '/uploads/2007/01/hotwheels.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

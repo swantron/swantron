@@ -3,6 +3,7 @@ title: 'Arduino Solar Cell Night Light Concept'
 date: 2011-02-24T12:10:40+00:00
 id: 3208
 slug: 'arduino-solar-cell-night-light-concept'
+featured_image: '/uploads/2011/02/night-lite.jpg "night-lite"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

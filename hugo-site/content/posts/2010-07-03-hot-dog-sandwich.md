@@ -3,6 +3,7 @@ title: 'Hot Dog Sandwich'
 date: 2010-07-03T11:18:30+00:00
 id: 2429
 slug: 'hot-dog-sandwich'
+featured_image: '/uploads/2010/07/fried-hot-dog.jpg "fried-hot-dog"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

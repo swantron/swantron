@@ -3,6 +3,7 @@ title: 'IOIODC Project Details'
 date: 2011-12-28T12:24:54+00:00
 id: 6339
 slug: 'ioiodc-project-details-2'
+featured_image: '/uploads/2011/12/IOIO-DC-570x319.jpg "IOIO-DC"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

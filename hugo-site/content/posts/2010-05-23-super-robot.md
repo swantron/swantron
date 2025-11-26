@@ -3,6 +3,7 @@ title: 'Super Robot'
 date: 2010-05-23T12:25:25+00:00
 id: 2189
 slug: 'super-robot'
+featured_image: '/uploads/2010/05/super-robot.jpg "super-robot"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

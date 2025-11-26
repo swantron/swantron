@@ -3,6 +3,7 @@ title: 'My First Chainsaw'
 date: 2007-05-02T19:40:11+00:00
 id: 540
 slug: 'my-first-chainsaw'
+featured_image: '/uploads/2007/05/squirtt.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

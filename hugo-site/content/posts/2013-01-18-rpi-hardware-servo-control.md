@@ -3,6 +3,7 @@ title: 'rPi Hardware Servo Control'
 date: 2013-01-18T18:19:57+00:00
 id: 4821
 slug: 'rpi-hardware-servo-control'
+featured_image: '/uploads/2013/01/rpi_servo.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

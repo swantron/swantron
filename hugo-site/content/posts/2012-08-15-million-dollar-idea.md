@@ -3,6 +3,7 @@ title: 'Million Dollar Idea'
 date: 2012-08-15T08:06:23+00:00
 id: 4680
 slug: 'million-dollar-idea'
+featured_image: '/uploads/2012/08/snail_mail_spam_filter.jpg "snail_mail_spam_filter"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

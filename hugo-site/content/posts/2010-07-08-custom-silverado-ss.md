@@ -3,6 +3,7 @@ title: 'Custom Silverado SS'
 date: 2010-07-08T15:36:16+00:00
 id: 2468
 slug: 'custom-silverado-ss'
+featured_image: '/uploads/2010/07/Silverado-SS.jpg "Silverado-SS"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,6 +3,7 @@ title: 'Friday Night Fights'
 date: 2007-04-17T21:16:33+00:00
 id: 531
 slug: 'friday-night-fights'
+featured_image: '/uploads/2007/04/smallfing4.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

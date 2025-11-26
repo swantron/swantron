@@ -3,6 +3,7 @@ title: 'Denim Danielle'
 date: 2006-10-18T17:36:27+00:00
 id: 397
 slug: 'denim-danielle'
+featured_image: 'http://www.bouncerblog.com/wp-content/photo_0041.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

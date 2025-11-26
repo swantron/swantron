@@ -3,6 +3,7 @@ title: 'Spidered Screen'
 date: 2012-01-20T22:04:39+00:00
 id: 6346
 slug: 'spidered-screen-2'
+featured_image: '/uploads/2012/01/spider-screen-570x292.jpg "spider-screen"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

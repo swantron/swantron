@@ -3,6 +3,7 @@ title: 'Christmas Party Season `07'
 date: 2007-12-17T18:55:21+00:00
 id: 643
 slug: 'christmas-parties'
+featured_image: '/uploads/2007/12/paisano1.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

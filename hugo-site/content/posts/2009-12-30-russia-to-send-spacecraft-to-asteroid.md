@@ -3,6 +3,7 @@ title: 'Russia to Send Spacecraft to Asteroid?'
 date: 2009-12-30T09:25:09+00:00
 id: 1285
 slug: 'russia-to-send-spacecraft-to-asteroid'
+featured_image: '/uploads/2009/12/soyuz-723x1024.jpg "soyuz"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

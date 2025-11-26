@@ -3,6 +3,7 @@ title: 'Android Side Project'
 date: 2012-01-04T06:12:21+00:00
 id: 4259
 slug: 'android-side-project'
+featured_image: '/uploads/2012/01/Android-project-beta-570x356.jpg "Android-project-beta"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

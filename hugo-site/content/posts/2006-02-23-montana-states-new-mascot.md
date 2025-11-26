@@ -3,6 +3,7 @@ title: 'Montana State’s New Mascot'
 date: 2006-02-23T12:18:19+00:00
 id: 6092
 slug: 'montana-states-new-mascot'
+featured_image: '/uploads/2006/02/MSU_mascot_champ.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

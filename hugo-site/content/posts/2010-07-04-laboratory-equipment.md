@@ -3,6 +3,7 @@ title: 'Laboratory Equipment'
 date: 2010-07-04T14:18:32+00:00
 id: 2441
 slug: 'laboratory-equipment'
+featured_image: '/uploads/2010/07/work-shop.jpg "work-shop"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

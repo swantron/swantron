@@ -3,6 +3,7 @@ title: 'How to make the perfect breakfast'
 date: 2009-12-12T14:33:43+00:00
 id: 1226
 slug: 'how-to-make-the-perfect-breakfast'
+featured_image: '/uploads/2009/12/cholula.jpg "cholula"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

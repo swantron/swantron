@@ -3,6 +3,7 @@ title: 'Bonus LED Action'
 date: 2010-06-15T18:11:43+00:00
 id: 2317
 slug: 'bonus-led-action'
+featured_image: '/uploads/2010/06/solar-cell-led.jpg "solar-cell-led"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

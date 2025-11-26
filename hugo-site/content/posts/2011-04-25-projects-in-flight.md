@@ -3,6 +3,7 @@ title: 'Projects in Flight'
 date: 2011-04-25T13:11:56+00:00
 id: 3422
 slug: 'projects-in-flight'
+featured_image: '/uploads/2011/04/enet.jpg "enet"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

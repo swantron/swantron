@@ -3,6 +3,7 @@ title: 'Bozeman Book Brigade'
 date: 2006-10-08T15:43:55+00:00
 id: 385
 slug: 'bozeman-book-brigade'
+featured_image: '/uploads/2006/10/books.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

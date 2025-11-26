@@ -3,6 +3,7 @@ title: 'Landscaper /vs/ Toddler'
 date: 2010-02-02T16:40:34+00:00
 id: 1615
 slug: 'landscaper-vs-toddler'
+featured_image: '/uploads/2010/02/truck1-575x431.jpg "truck1"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

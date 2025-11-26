@@ -3,6 +3,7 @@ title: 'Nursery Furniture Assembly'
 date: 2011-09-19T12:26:33+00:00
 id: 6310
 slug: 'nursery-furniture-assembly-2'
+featured_image: '/uploads/2011/09/building-changing-table-570x320.jpg "building-changing-table"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

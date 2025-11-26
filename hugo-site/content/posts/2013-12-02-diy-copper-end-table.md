@@ -3,6 +3,7 @@ title: 'DIY Copper End Table'
 date: 2013-12-02T15:20:10+00:00
 id: 4939
 slug: 'diy-copper-end-table'
+featured_image: '/uploads/2013/12/copper_table_parts.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

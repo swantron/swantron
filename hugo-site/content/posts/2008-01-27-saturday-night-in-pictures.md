@@ -3,6 +3,7 @@ title: 'Saturday Night Photo Review'
 date: 2008-01-27T04:54:29+00:00
 id: 669
 slug: 'saturday-night-in-pictures'
+featured_image: '/uploads/2008/01/sat1.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

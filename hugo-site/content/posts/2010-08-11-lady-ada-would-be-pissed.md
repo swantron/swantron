@@ -3,6 +3,7 @@ title: 'Lady Ada Would Be Pissed'
 date: 2010-08-11T19:42:22+00:00
 id: 2546
 slug: 'lady-ada-would-be-pissed'
+featured_image: '/uploads/2010/08/IMG00234.jpg "soldering iron"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

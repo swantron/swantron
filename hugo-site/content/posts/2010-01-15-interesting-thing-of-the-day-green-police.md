@@ -3,6 +3,7 @@ title: 'Interesting Thing of the Day: Green Police'
 date: 2010-01-15T14:58:50+00:00
 id: 1515
 slug: 'interesting-thing-of-the-day-green-police'
+featured_image: '/uploads/2010/01/auto_emission.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

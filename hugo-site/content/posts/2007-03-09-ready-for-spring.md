@@ -3,6 +3,7 @@ title: 'Ready for Spring'
 date: 2007-03-09T11:59:58+00:00
 id: 506
 slug: 'ready-for-spring'
+featured_image: '/uploads/2007/03/landscapesmall.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

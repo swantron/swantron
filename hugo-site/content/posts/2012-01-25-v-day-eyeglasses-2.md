@@ -3,6 +3,7 @@ title: 'V-Day Eyeglasses'
 date: 2012-01-25T18:40:08+00:00
 id: 6348
 slug: 'v-day-eyeglasses-2'
+featured_image: '/uploads/2012/01/roboframe-570x386.jpg "roboframe"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

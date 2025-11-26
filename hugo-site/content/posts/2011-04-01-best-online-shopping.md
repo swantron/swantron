@@ -3,6 +3,7 @@ title: 'Best Online Shopping'
 date: 2011-04-01T09:47:48+00:00
 id: 3461
 slug: 'best-online-shopping'
+featured_image: '/uploads/2011/05/saving-money.jpg "saving-money"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

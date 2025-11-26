@@ -3,6 +3,7 @@ title: 'Meet the Reverend'
 date: 2005-08-05T21:59:03+00:00
 id: 5745
 slug: 'meet-the-reverend'
+featured_image: 'http://www.bouncerblog.com/wp-content/Joe5.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

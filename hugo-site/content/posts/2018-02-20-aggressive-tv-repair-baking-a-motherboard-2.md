@@ -3,6 +3,7 @@ title: 'Aggressive TV Repair: Baking a Motherboard'
 date: 2018-02-20T13:43:39+00:00
 id: 6411
 slug: 'aggressive-tv-repair-baking-a-motherboard-2'
+featured_image: '/uploads/2018/02/IMG_20180219_151701.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

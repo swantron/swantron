@@ -3,6 +3,7 @@ title: 'Not a UFO…just a little SLBM'
 date: 2009-12-10T16:36:58+00:00
 id: 1206
 slug: 'not-a-ufo-just-a-little-slbm'
+featured_image: '/uploads/2009/12/slbm.jpg "slbm"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

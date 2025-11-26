@@ -3,6 +3,7 @@ title: 'MMMexican Beer'
 date: 2011-05-04T17:37:16+00:00
 id: 3450
 slug: 'mmmexican-beer'
+featured_image: '/uploads/2011/05/mexican-beer.jpg "mexican-beer"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

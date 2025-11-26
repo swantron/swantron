@@ -3,6 +3,7 @@ title: 'Pick Your Poison'
 date: 2006-10-10T20:11:46+00:00
 id: 391
 slug: 'pick-your-poison'
+featured_image: '/uploads/2006/10/femullet.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

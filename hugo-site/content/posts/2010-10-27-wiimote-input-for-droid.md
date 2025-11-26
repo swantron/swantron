@@ -3,6 +3,7 @@ title: 'Wiimote Input For Droid'
 date: 2010-10-27T18:13:23+00:00
 id: 2826
 slug: 'wiimote-input-for-droid'
+featured_image: '/uploads/2010/10/besties.jpg "besties"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

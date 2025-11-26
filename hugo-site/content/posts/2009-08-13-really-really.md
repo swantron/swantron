@@ -3,6 +3,7 @@ title: 'Really? Really???'
 date: 2009-08-13T12:16:50+00:00
 id: 932
 slug: 'really-really'
+featured_image: '/uploads/2009/08/stabenow.jpg "stabenow"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

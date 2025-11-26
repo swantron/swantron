@@ -3,6 +3,7 @@ title: 'PS3 Review: First Person Shooters'
 date: 2010-01-24T13:36:02+00:00
 id: 6166
 slug: 'ps3-review-first-person-shooters-2'
+featured_image: '/uploads/2010/01/PS3-Controller.jpg "PS3-Controller"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,6 +3,7 @@ title: 'Encabulation'
 date: 2013-04-23T21:00:22+00:00
 id: 4888
 slug: 'encabulation'
+featured_image: '/uploads/2013/04/turbullencabulator.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

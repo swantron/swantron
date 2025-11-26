@@ -3,6 +3,7 @@ title: 'Leaf Blower POV'
 date: 2011-10-27T16:00:39+00:00
 id: 4039
 slug: 'leaf-blower-pov'
+featured_image: '/uploads/2011/10/black-yukon-570x409.jpg "black-yukon"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

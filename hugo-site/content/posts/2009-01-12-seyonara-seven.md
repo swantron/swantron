@@ -3,6 +3,7 @@ title: 'Seyonara Seven'
 date: 2009-01-12T21:19:44+00:00
 id: 834
 slug: 'seyonara-seven'
+featured_image: '/uploads/2009/01/7windows.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

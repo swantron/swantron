@@ -3,6 +3,7 @@ title: 'Avatar in a Nutshell'
 date: 2009-12-20T12:37:04+00:00
 id: 1257
 slug: 'avatar-in-a-nutshell'
+featured_image: '/uploads/2009/12/avatar.jpg "avatar"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,6 +3,7 @@ title: 'B.O.B. Shooting, Revisited'
 date: 2008-01-16T17:45:40+00:00
 id: 657
 slug: 'bob-shooting-revisited'
+featured_image: '/uploads/2008/01/bigbob.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

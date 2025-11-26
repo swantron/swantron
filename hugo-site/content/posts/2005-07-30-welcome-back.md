@@ -3,6 +3,7 @@ title: 'Welcome Back!'
 date: 2005-07-30T16:45:54+00:00
 id: 317
 slug: 'welcome-back'
+featured_image: 'http://www.bouncerblog.com/wp-content/photo_0022.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

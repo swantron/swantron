@@ -3,6 +3,7 @@ title: 'Here You Go'
 date: 2005-12-31T14:07:46+00:00
 id: 6055
 slug: 'here-you-go'
+featured_image: 'http://bouncerblog.com/wp-content/nate1.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

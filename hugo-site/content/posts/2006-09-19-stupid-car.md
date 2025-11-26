@@ -3,6 +3,7 @@ title: 'Stupid Car'
 date: 2006-09-19T23:12:55+00:00
 id: 372
 slug: 'stupid-car'
+featured_image: '/uploads/2006/09/stupid-car-two.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

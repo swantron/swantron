@@ -3,6 +3,7 @@ title: 'Office Puzzle:  Which Item is of Least Use?'
 date: 2010-02-10T03:19:24+00:00
 id: 6172
 slug: 'office-puzzle-which-item-is-of-least-use-2'
+featured_image: '/uploads/2010/02/useless.jpg "useless"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

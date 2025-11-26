@@ -3,6 +3,7 @@ title: 'Project Progress:  H-Bridge'
 date: 2011-12-12T17:20:54+00:00
 id: 4159
 slug: 'project-progress-h-bridge'
+featured_image: '/uploads/2011/12/motor_shield_ioio-570x320.jpg "motor_shield_ioio"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

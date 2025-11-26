@@ -3,6 +3,7 @@ title: 'Vegas Reminder'
 date: 2007-03-28T10:11:04+00:00
 id: 515
 slug: 'vegas-reminder'
+featured_image: '/uploads/2007/03/mttat2.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

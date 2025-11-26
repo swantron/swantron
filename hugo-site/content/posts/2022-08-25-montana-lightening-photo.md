@@ -3,6 +3,7 @@ title: 'Montana Lightening Photo'
 date: 2022-08-25T15:18:26+00:00
 id: 8440
 slug: 'montana-lightening-photo'
+featured_image: '/uploads/2022/08/swanson-lightening-1024x576.jpg'
 ---
 
 I don't think there's a contest, but here's my entry.

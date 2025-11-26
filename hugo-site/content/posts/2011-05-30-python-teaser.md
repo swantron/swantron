@@ -3,6 +3,7 @@ title: 'Python Teaser'
 date: 2011-05-30T19:41:08+00:00
 id: 3527
 slug: 'python-teaser'
+featured_image: '/uploads/2011/05/beautysoup.jpg "beautysoup"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

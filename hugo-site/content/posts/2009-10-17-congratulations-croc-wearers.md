@@ -3,6 +3,7 @@ title: 'Congratulations, Croc Wearers…'
 date: 2009-10-17T14:10:59+00:00
 id: 995
 slug: 'congratulations-croc-wearers'
+featured_image: '/uploads/2009/10/dino-shoes.jpg "dino-shoes"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

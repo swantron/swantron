@@ -3,6 +3,7 @@ title: 'PS3 To Support 3D'
 date: 2010-02-09T19:40:30+00:00
 id: 1659
 slug: 'ps3-to-support-3d'
+featured_image: '/uploads/2010/02/3D_glasses.jpg "3D_glasses"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

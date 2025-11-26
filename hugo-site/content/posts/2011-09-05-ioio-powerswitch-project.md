@@ -3,6 +3,7 @@ title: 'IOIO PowerSwitch Project'
 date: 2011-09-05T17:52:09+00:00
 id: 3791
 slug: 'ioio-powerswitch-project'
+featured_image: '/uploads/2011/09/ioio-example.jpg "ioio-example"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

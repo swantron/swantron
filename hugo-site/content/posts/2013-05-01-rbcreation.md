@@ -3,6 +3,7 @@ title: 'rbcreation'
 date: 2013-05-01T20:08:03+00:00
 id: 4897
 slug: 'rbcreation'
+featured_image: '/uploads/2013/05/turbull-enhelpulator.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

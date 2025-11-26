@@ -3,6 +3,7 @@ title: 'Debt Settlement Info'
 date: 2010-06-03T15:53:20+00:00
 id: 2241
 slug: 'debt-settlement-info'
+featured_image: '/uploads/2010/06/brokos.jpg "brokos"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

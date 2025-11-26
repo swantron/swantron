@@ -3,6 +3,7 @@ title: 'Twitter CLI Teaser'
 date: 2011-06-21T12:31:50+00:00
 id: 6290
 slug: 'twitter-cli-teaser'
+featured_image: '/uploads/2011/06/cli-twitter.jpg "cli-twitter"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

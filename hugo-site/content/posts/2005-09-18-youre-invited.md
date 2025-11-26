@@ -3,6 +3,7 @@ title: 'You’re Invited'
 date: 2005-09-18T14:37:56+00:00
 id: 5820
 slug: 'youre-invited'
+featured_image: 'http://bouncerblog.com/wp-content/ttwotwo.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

@@ -3,6 +3,7 @@ title: 'Custom Copper End Table 2'
 date: 2014-06-02T16:06:15+00:00
 id: 5014
 slug: 'custom-copper-end-table-2'
+featured_image: '/uploads/2014/06/new_table.jpg.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

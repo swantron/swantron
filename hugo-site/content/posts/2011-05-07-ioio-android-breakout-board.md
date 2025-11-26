@@ -3,6 +3,7 @@ title: 'IOIO Android Breakout Board'
 date: 2011-05-07T14:04:06+00:00
 id: 3471
 slug: 'ioio-android-breakout-board'
+featured_image: '/uploads/2011/05/ioio.jpg "ioio"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

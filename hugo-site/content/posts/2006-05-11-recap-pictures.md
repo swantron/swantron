@@ -3,6 +3,7 @@ title: 'Recap pictures'
 date: 2006-05-11T18:27:13+00:00
 id: 6110
 slug: 'recap-pictures'
+featured_image: '/uploads/2006/05/torque3.JPG'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

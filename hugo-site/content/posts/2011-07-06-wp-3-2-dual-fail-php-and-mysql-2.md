@@ -3,6 +3,7 @@ title: 'WP 3.2 Dual Fail | PHP and MySQL'
 date: 2011-07-06T19:44:10+00:00
 id: 6293
 slug: 'wp-3-2-dual-fail-php-and-mysql-2'
+featured_image: '/uploads/2011/07/swan-tron-dot-com.jpg "swan-tron-dot-com"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

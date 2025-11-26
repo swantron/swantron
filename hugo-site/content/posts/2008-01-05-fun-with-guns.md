@@ -3,6 +3,7 @@ title: 'Fun with Guns!'
 date: 2008-01-05T18:42:12+00:00
 id: 654
 slug: 'fun-with-guns'
+featured_image: '/uploads/2008/01/timgun.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

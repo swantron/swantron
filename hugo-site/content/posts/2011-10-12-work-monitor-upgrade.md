@@ -3,6 +3,7 @@ title: 'Work Monitor Upgrade'
 date: 2011-10-12T16:49:58+00:00
 id: 3917
 slug: 'work-monitor-upgrade'
+featured_image: '/uploads/2011/10/58-inches-of-monitor-570x330.jpg "58-inches-of-monitor"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

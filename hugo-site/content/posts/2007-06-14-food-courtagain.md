@@ -3,6 +3,7 @@ title: 'Food Court…Again'
 date: 2007-06-14T16:13:50+00:00
 id: 567
 slug: 'food-courtagain'
+featured_image: '/uploads/2007/06/jp.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

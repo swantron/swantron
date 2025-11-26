@@ -3,6 +3,7 @@ title: 'Unbricking an Android Tablet'
 date: 2013-01-01T16:59:04+00:00
 id: 4795
 slug: 'unbricking-an-android-tablet'
+featured_image: '/uploads/2012/12/opening-arnova-tablet.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

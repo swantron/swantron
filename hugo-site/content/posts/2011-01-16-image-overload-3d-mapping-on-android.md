@@ -3,6 +3,7 @@ title: 'Image Overload: 3D Mapping on Android'
 date: 2011-01-16T16:45:47+00:00
 id: 3119
 slug: 'image-overload-3d-mapping-on-android'
+featured_image: '/uploads/2011/01/animated_gif.gif "animated_gif"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

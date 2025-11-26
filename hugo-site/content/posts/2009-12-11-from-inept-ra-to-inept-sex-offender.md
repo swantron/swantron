@@ -3,6 +3,7 @@ title: 'From Inept RA to Inept Sex Offender'
 date: 2009-12-11T09:32:56+00:00
 id: 1211
 slug: 'from-inept-ra-to-inept-sex-offender'
+featured_image: '/uploads/2009/12/rayne.JPG "rayne"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

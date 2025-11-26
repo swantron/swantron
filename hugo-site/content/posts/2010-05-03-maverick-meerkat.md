@@ -3,6 +3,7 @@ title: 'Maverick Meerkat'
 date: 2010-05-03T11:30:51+00:00
 id: 2088
 slug: 'maverick-meerkat'
+featured_image: '/uploads/2010/05/maverick_meerkat.jpg "maverick_meerkat"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

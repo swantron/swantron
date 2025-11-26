@@ -3,6 +3,7 @@ title: 'Coffee + Car = Car-puccino'
 date: 2010-03-10T16:00:35+00:00
 id: 6189
 slug: 'coffee-car-car-puccino-2'
+featured_image: '/uploads/2010/03/coffee-car.jpg "coffee-car"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

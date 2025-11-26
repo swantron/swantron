@@ -3,6 +3,7 @@ title: 'Managing Multiple WiFi Access Points'
 date: 2011-10-10T18:01:54+00:00
 id: 3894
 slug: 'managing-multiple-wifi-access-points'
+featured_image: '/uploads/2011/10/bunch-of-routers.jpg "bunch-of-routers"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

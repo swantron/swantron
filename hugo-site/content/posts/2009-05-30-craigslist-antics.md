@@ -3,6 +3,7 @@ title: 'The Cholula Incident'
 date: 2009-05-30T17:29:40+00:00
 id: 873
 slug: 'craigslist-antics'
+featured_image: '/uploads/2009/05/screenshot1.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

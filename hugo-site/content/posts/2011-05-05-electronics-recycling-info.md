@@ -3,6 +3,7 @@ title: 'Electronics Recycling Info'
 date: 2011-05-05T17:01:33+00:00
 id: 3465
 slug: 'electronics-recycling-info'
+featured_image: '/uploads/2011/05/old-electronics.jpg "old-electronics"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

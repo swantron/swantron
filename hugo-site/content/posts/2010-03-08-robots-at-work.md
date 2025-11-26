@@ -3,6 +3,7 @@ title: 'Robots at Work'
 date: 2010-03-08T16:40:46+00:00
 id: 1768
 slug: 'robots-at-work'
+featured_image: '/uploads/2010/03/robot-2-1024x768.jpg "robot-2"'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 

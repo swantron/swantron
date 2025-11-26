@@ -3,6 +3,7 @@ title: 'Pre-Finals Antics'
 date: 2005-12-11T15:29:15+00:00
 id: 5980
 slug: 'pre-finals-antics'
+featured_image: 'http://bouncerblog.com/wp-content/lr1.jpg'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
