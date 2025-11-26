@@ -1,54 +1,111 @@
 # swan tron dot com
 
-A personal blog, originally hosted at **bouncerblog.com** for several years, then migrated to **swantron.com** (WordPress), and now converted to a static site using Hugo.
+A static site generated from the original WordPress blog, hosted on GitHub Pages.
+
+**Live site:** https://swantron.github.io/swantron/
 
 ## History
 
-This blog has been through several iterations:
-- **bouncerblog.com** - Original blog (several years)
-- **swantron.com** - WordPress-hosted blog
-- **Static Site** - Current Hugo-based static site (GitHub Pages)
+This blog was originally hosted at:
+- **bouncerblog.com** (early years)
+- **swantron.com** (WordPress installation)
+- Now migrated to a **Hugo static site** on GitHub Pages
 
-All content has been preserved and migrated, maintaining the original permalink structure (`/index.php/YYYY/MM/DD/post-slug/`) for compatibility with existing links.
+## Structure
 
-## Hugo Static Site
-
-This repository contains a Hugo-based static site generated from the WordPress blog export.
-
-### Quick Start
-
-The Hugo site is located in the `hugo-site/` directory. See `hugo-site/README.md` for detailed instructions.
-
-### Structure
-
-- `hugo-site/` - Hugo static site (ready for deployment)
-- `wp-export/` - Original WordPress/Jekyll export (can be removed after verification)
-- `convert_posts.py` - Script used to convert posts (kept for reference)
-
-### Deployment
-
-The site is configured to automatically build and deploy via GitHub Actions when you push to `main`.
-
-**To enable GitHub Pages:**
-1. Go to Repository Settings → Pages
-2. Source: GitHub Actions
-3. Your site will be available at: `https://swantron.github.io/swantron/`
-
-The `baseURL` in `hugo-site/config.toml` is already configured for this URL.
-
-### Local Development
-
-```bash
-cd hugo-site
-hugo server
+```
+swantron/
+├── hugo-site/          # Hugo static site generator
+│   ├── content/        # Blog posts and pages
+│   ├── static/         # Images and assets
+│   ├── themes/         # Paper theme (git submodule)
+│   └── layouts/        # Custom theme overrides
+├── wp-export/          # Original WordPress export (not committed)
+└── .github/workflows/  # GitHub Actions for deployment
 ```
 
-Visit http://localhost:1313
+## Content
 
-### Cleanup
+- **1,039 blog posts** converted from WordPress/Jekyll format
+- **Featured images** extracted from post content (889 posts)
+- **WordPress-compatible permalinks**: `/index.php/YYYY/MM/DD/post-slug/`
+- **Images**: All WordPress uploads preserved in `static/uploads/`
 
-After verifying the site works correctly, you can optionally remove:
-- `wp-export/` directory (original export, ~2.9GB)
-- `convert_posts.py` (conversion script, no longer needed)
+## Technology
 
-These are kept for reference but can be deleted to reduce repository size.
+- **Hugo** - Static site generator
+- **Paper Theme** - Clean, minimal Hugo theme
+- **GitHub Pages** - Free hosting
+- **GitHub Actions** - Automated build and deployment
+
+## Local Development
+
+To work with this site locally:
+
+1. **Install Hugo** (extended version):
+   ```bash
+   brew install hugo  # macOS
+   ```
+
+2. **Clone with submodules**:
+   ```bash
+   git clone --recurse-submodules https://github.com/swantron/swantron.git
+   ```
+
+3. **Serve locally**:
+   ```bash
+   cd hugo-site
+   hugo server
+   ```
+   Visit http://localhost:1313
+
+## Adding New Posts
+
+1. Create a new markdown file in `hugo-site/content/posts/`:
+   - Format: `YYYY-MM-DD-post-title.md`
+
+2. Add frontmatter:
+   ```yaml
+   ---
+   title: "Your Post Title"
+   date: 2024-01-01T12:00:00+00:00
+   featured_image: '/uploads/path/to/image.jpg'  # Optional
+   ---
+   ```
+
+3. Write content in Markdown
+
+4. Commit and push - GitHub Actions will build and deploy automatically
+
+## Deployment
+
+The site is automatically built and deployed via GitHub Actions when you push to the `main` branch.
+
+- **Build**: Runs Hugo to generate static HTML
+- **Deploy**: Pushes to `gh-pages` branch
+- **Hosting**: GitHub Pages serves from `gh-pages` branch
+
+## Configuration
+
+- `hugo-site/config.toml` - Main Hugo configuration
+- `hugo-site/layouts/` - Custom theme overrides
+- Banner image: Set `banner_image` in `config.toml` under `[params]`
+
+## Features
+
+- ✅ WordPress-compatible permalinks
+- ✅ Featured images for posts
+- ✅ Homepage banner image
+- ✅ RSS feed (`/index.xml`)
+- ✅ JSON API output (`/index.json`) for tronswan app
+- ✅ Pagination (10 posts per page)
+- ✅ Dark mode support
+- ✅ Responsive design
+
+## Notes
+
+- All image paths use relative URLs (`/uploads/...`)
+- Posts were converted from Jekyll format to Hugo format
+- HTML entities in titles were decoded (e.g., `&#8217;` → `'`)
+- WordPress caption shortcodes and HTML wrappers were removed from posts
+- The Paper theme is included as a git submodule
