@@ -1,0 +1,10 @@
+---
+title: 'Watch Time'
+date: 2010-10-30T16:02:38+00:00
+
+id: 4043
+slug: 'watch-time'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+It would be interesting to see how the market for watches has changed in the past decade. It is reasonable to assume that fewer people are buying watches now, with cellular phones in every pocket. We spend all day starting at glowing rectangles...in the corner of nearly all of those rectangles is a time display. Mobile devices have bridged the gap between finding the time at home, finding the time at work, and finding the time in the car. Pretty much everywhere now. What do [chronograph watches](http://www.bluedial.com/) have that other time technologies do not? Style. People don't exactly dole out niceties about alarm clocks. Nice alarm clock, bro. \[caption id="attachment\_4044" align="aligncenter" width="570" caption="???"\][![ice watches](/uploads/2011/10/ice-watches.png "ice-watches")](/uploads/2011/10/ice-watches.png)\[/caption\] Watches come in all sorts of stylistic styles...symbols of status symbol. I would be willing to bet that watch-wearing iPhone users are checking the iPhone for the time. Very willing. That said, I stumble across some cool watches from time to time. I found this guy on BlueDial: \[caption id="attachment\_4045" align="aligncenter" width="570" caption="heart"\][![cool watch](/uploads/2011/10/cool-watch.png "cool-watch")](/uploads/2011/10/cool-watch.png)\[/caption\] Pretty awesome. That is the niche that appeals to me...merging technology and style. It is great to serve a function, but serving the same function cooly is worth bonus points. Every single time. Hit the link to check out my fav watch site.

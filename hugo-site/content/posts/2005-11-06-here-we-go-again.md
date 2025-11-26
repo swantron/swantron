@@ -1,0 +1,10 @@
+---
+title: 'Here we go again'
+date: 2005-11-06T18:13:01+00:00
+
+id: 5916
+slug: 'here-we-go-again'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+Last night found me tired of people and tired in general at work. I find that tailgating will do that to a guy. After having my drunken homeboy Eric relate a pointless and long-winded story about a guy not being from Townsend, I decided to entertain myself by compiling some serious [Hot or Not](http://www.bouncerblog.com/hot-or-not) action. Enjoy. I was throwing around the idea of tossing Albert Charles "A.C." Slater's and Samuel "Screech" Powers' photos up in place of the usual [Hot or Not](http://www.bouncerblog.com/hot-or-not) format...maybe next time. On to the weekend in photos...Friday night was not all too exciting for Grif, Tony Toni Tone, and me. Not a ton of drama, which is nice for a change. The Montana Department of Fish and Game had better watch out. They just issued this dude a uniform. ![](http://bouncerblog.com/wp-content/daryl1.jpg) ![](http://bouncerblog.com/wp-content/daryl2.jpg) Daryl was having more fun than most on Friday. He rolls into the bar with a head of steam after closing time and starts throwing out the MadTV Stewart poses. You had better start growing your goatee brother. Saturday finds me in charge of the food/drink portion of the Morrison Design and Landscaping/bouncerblog.com tailgate. Dave found himself in Helena at the Seinfeld stand-up show. Dave's stomach found itself brimming with wine...a reported three bottles. By the time he rolls up, this is his condition. ![](http://bouncerblog.com/wp-content/davecocked.jpg) Note: this photo must have been taken during the forty five minute span of Kyle and Steph's tailgate tenure. Also, that hot rod in the backdrop was running the entire time. Good work. Pre-nap time at Spectators is always a shit show. Some drink conservatively, some drink like Shuga Shane. ![](http://bouncerblog.com/wp-content/shane.jpg) Better work. Shane wasted no time in hitting the dance floor at the Sleeg upon his arrival. Now that's what I'm talking about.

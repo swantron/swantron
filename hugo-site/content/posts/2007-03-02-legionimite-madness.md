@@ -1,0 +1,10 @@
+---
+title: 'Legionimite Madness'
+date: 2007-03-02T03:36:46+00:00
+
+id: 495
+slug: 'legionimite-madness'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+Holy moly. March Mustache Madness has thus far been completely mad. Cases in point: ![jrod52.jpg](/uploads/2007/03/jrod52.jpg)![jrod41.jpg](/uploads/2007/03/jrod41.jpg)B.O.Beezie went for the Larry Bird 'stache, again. I, again, went gunslinger. We both look creepy...MMM success stories. I cannot express my teenage girl giddyness to see Grif, aka Justin Justache, show up sporting his "I drive a sedan but easily could own a van" look. Keep your fingers crossed. Also of note...Bouncer J-Rod is in town. Cue the montage. The night starts with a healthy dose of beer pong at the Dirty Leeg...the relatively new Thursday night fare. ![jrod31.jpg](/uploads/2007/03/jrod31.jpg)A fight ensues. Jarod finds himself on his back on the not-so-clean Legion tiled floor, and upon my lax allowing of both him and Spence the go ahead to finish their fight, thereafter on the not-so-comfortable sidewalk in front of the Legion. That was one horrible sentence; I apologize. The outcome is the first bloodshed at the bar from my former security cohort. ![jrode21.jpg](/uploads/2007/03/jrode21.jpg)Cleaned up and ready to go...all is well that ends well, aside from one broken promise to his future wife regarding drunken fighting in MT. I have no reason to believe that she will check the b blog, but will apologize in advance for the aggressive hand work in this final pic. ![jrod11.jpg](/uploads/2007/03/jrod11.jpg)I am ready for April already. Happy trails everybody.

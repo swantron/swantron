@@ -1,0 +1,10 @@
+---
+title: 'Repair Center in U.S.A.'
+date: 2011-11-01T20:11:45+00:00
+
+id: 4085
+slug: 'repair-center-in-u-s-a'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+We have notebooks all over our house. Not notebooks in the traditional sense, but notebooks in the sense of 'the future of computing' notebooks. You know, laptop computers. The future is upon us...especially how even notebooks seem too bulky for everyday use. Tablets and Androids man. Tablets and Androids. That was the longest, least-sensical lead into a post ever. Probably. It is like I am trying to avoid writing about a topic like finding a \[link removed\] around Bozeman. Which I surely am not... I found a good site that I have been using to research service centers... \[caption id="attachment\_4088" align="aligncenter" width="570" caption="services galore"\][![service center](/uploads/2011/11/service_center.png "service_center")](/uploads/2011/11/service_center.png)\[/caption\] The bad thing about sites of this nature is over-saturation. Most locator sites have a gaudy front-end, and zero results. On the other end of the spectrum, service-center-locator.com has focused on the results, which is what I value in a site. Case in point... \[caption id="attachment\_4089" align="aligncenter" width="570" caption="bozeman ftw"\][![bozeman ftw](/uploads/2011/11/bozo_service.png "bozo_service")](/uploads/2011/11/bozo_service.png)\[/caption\] I was searching for a repair site for Katie's Toshiba notebook. Guess what...Toshiba has a certified repair shop in Bozeman. I would not have come to that conclusion without contacting Toshiba directly, or bringing the unit back in for a warranty claim at Office Depot. Unexpectedly cool. So hit that link above to see for yourself. I am a tech guy, so I stuck mostly with computers and phone stuff, but the site will let you track down services as widespread as you can imagine. Take a look...

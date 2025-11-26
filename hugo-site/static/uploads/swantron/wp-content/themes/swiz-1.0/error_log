@@ -1,0 +1,2 @@
+[24-Apr-2010 07:52:21] PHP Fatal error:  Call to undefined function:  get_header() in /home/bouncerb/public_html/wp-content/themes/swiz-1.0/index.php on line 1
+[28-Aug-2010 20:54:18] PHP Fatal error:  Call to undefined function:  get_header() in /home/bouncerb/public_html/wp-content/themes/swiz-1.0/index.php on line 1

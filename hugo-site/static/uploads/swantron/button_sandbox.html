@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>swan tron test page</h1>
+<p id="google stuff">_</p>
+<h1>kick google big button</h1>
+<button type="button" onclick="googleOpenFunction()">launch ____________ google</button>
+<p id="swantron stuff">~</p>
+<h1>swantron launch</h1>
+<button type="button" onclick="swantronLaunchFunction()">swantron</button>
+<p id="shaun event">shaun event to snag</p>
+<button id="button1" onmouseover="mOver(this)" onmouseout="mOut(this)" style="color:white;background-color:#3300CC; position:absolute; top:600px;left:300px;width:120px;height:90px;">Find me</button>
+<script>
+function googleOpenFunction()
+{
+window.location = "http://www.google.com/";
+}
+</script>
+<script>
+function swantronLaunchFunction()
+{
+window.location = "http://www.swantron.com/";
+}
+</script>
+<script>
+function mOver(obj)
+{
+	obj.innerHTML="You found me"
+}
+
+function mOut(obj)
+{
+	obj.innerHTML="Find me"
+}
+</script>
+</body>
+</html>

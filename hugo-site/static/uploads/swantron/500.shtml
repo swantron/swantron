@@ -1,0 +1,10 @@
+
+
+<!--#echo var="HTTP_REFERER" -->
+<!--#echo var="REMOTE_ADDR" -->
+<!--#echo var="REQUEST_URI" -->
+Hmmm...time to update our server???
+
+<!-- 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+--> 

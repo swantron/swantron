@@ -1,0 +1,10 @@
+---
+title: 'Online Tech Auctions'
+date: 2011-10-14T12:10:23+00:00
+
+id: 3925
+slug: 'online-tech-auctions'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+I spend too much time online...I'll fully admit it. It is absolutely necessary, however; I test SaaS for a living. My physical computing projects do not lend themselves to non-online research. Non-online...holy smokes. I think I just coined a new term: nonline. I should trademark that. Anyhow, I spend a ton of time staring at screens. That has changed the way I conduct myself, in general. One of the fall-out things I have noticed is in shopping. Where I used to do product research at brick and mortar stores, now I do all of my research online. Most of my purchases are now done online too. I never thought I would buy jeans online, for example, but now I do, without fail. Certain items are foolish to buy at a physical storefront... especially anything tech related. There are the conventional online stores, but if you have some patience and a good eye, online auctions can be the best source of deals. My favorite auction site is DealFun...case in point: \[caption id="attachment\_3926" align="aligncenter" width="570" caption="!!!"\][![deal fun auction tech site](/uploads/2011/10/dealfun-570x351.jpg "dealfun")](/uploads/2011/10/dealfun.jpg)\[/caption\] A super cheap PS3 is par for the course. DealFun has all sorts of screaming low prices that end up winning auctions, but they also have the customer service aspect to boot. As the [dealfun.com reviews](http://ndwebfiles.marketwire.com/NDWebFiles2/content/2011/8/18/789536//cache/48883162.htm) indicate, they are reputable in addition to providing good deals. You want that...trust me. Another cool thing about that site, is the notion of beginner's auctions. You can learn the ropes without spending a fortune on bids. Pretty cool. Take a look...holler if you see a Kinect.

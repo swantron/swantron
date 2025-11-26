@@ -1,0 +1,10 @@
+---
+title: 'Rooting Stuff'
+date: 2014-05-02T08:07:16+00:00
+
+id: 5013
+slug: 'rooting_stuff'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+Devices everywhere. With root. [![rooting_stuff.jpg](/uploads/2014/06/rooting_stuff.jpg.jpg)](https://swantron.com/rooting_stuff/rooting_stuff-jpg/)Over the past month, I've tackled two root projects...Emma's Kindle Fire HD, and my Asus Transformer. My motivation was pretty straight forward for each. The Kindle worked perfectly fine but with an awful UI. The main use case is YouTube for a 2 y/o, and the stock launcher doesn't do that well. Root and a custom launcher gets you there, so I did that. The specific version of Fire I have was supposed to be tricky to root. There were forums of people bricking them, and the general workaround seemed to be reverting to an older firmware and then trying the root exploit...which seemed to be generally available as a windows executable. Not happening. I decided to give rooting a shot by pushing the su binary and Google apk set over via ADB on my Mac, which worked perfectly. Not sure what the issue had been. Play Store achieved...Nova Launcher installed. Happy 2 y/o. The Asus was a different story...and the toughest root project I've had to tackle to date. The Transformer was a refurb from Woot, I think. I could look that up but I'm not going to. The combination of JellyBean and my particular firmware made any exploit attempts moot. I could not push via ADB, but the device acted like the files were invalid. Same method as pretty much anything else, but simply failing. I tried several methods I found online, but they all yielded the same outcome...except one really sketchy one. I managed to use a really, really iffy Chinese root manager called 授权管理. The download and exploit were all in Chinese. Awesome. It worked, and I immediately replaced that with su. There was a good 10 minute window running who-knows-what. Sort of disconcerting. Bloatware wiped, and the tablet runs crazy fast finally. I've been checking my logs, and nothing fishy has popped up...looks like the hack worked. Anyhow, two devices, each more usable. Go root.

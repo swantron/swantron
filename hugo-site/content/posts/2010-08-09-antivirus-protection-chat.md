@@ -1,0 +1,10 @@
+---
+title: 'Antivirus Protection Chat'
+date: 2010-08-09T17:13:20+00:00
+
+id: 2520
+slug: 'antivirus-protection-chat'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+It pains me somewhat to admit that I still have a dual boot set-up on my primary laptop. 2010 is not the year of the Linux desktop, although Linux has gained all sorts of ground on Windows. Yes, citation needed. Google it...Ubuntu has brought Debian to the masses in the way of an easy-to-use Linux distro. That said, running a dual boot machine is easier than keeping a virtual machine up and running. I know, citation needed again. That said, I still need to run Windows. I have Vista on my main box, since Quickbooks Online requires IE. I have no idea why this is so, but that is a different story entirely. My options are slim in this case; keep a Windows setup (with security issues and all) handy or go all Windows...pretty sure you all know what way I lean there. I have absolutely no idea if I can run IE on Ubuntu, and have no intention of finding this out. Pride is what it is. That leaves me still subject to virii. Computer viruses and Windows go together like peas and carrots. \[caption id="attachment\_2521" align="aligncenter" width="550" caption="for the loss"\][![computer virus](/uploads/2010/08/computer-virus.jpg "computer-virus")](/uploads/2010/08/computer-virus.jpg)\[/caption\] So, what to do? I'll tell you what not to do...buy anything Norton is peddling. Not only do they offer poor protection at a premium price, but they have an awful track record of getting the 'hard' bugs until they are moot. I have been searching for something to boost my security on my dual boot, and think I have found the answer. I ran across [bullguard antivirus protection](http://www.bullguard.com), and think they will be my next answer. AVG absolutely failed on Katie's XP machine in regards to Anti Virus 2009, so I will not use that suite again... BullGuard looks to be on top of the game in regards to the new stuff. They have a 30 day trial for free-99, so I'm all over it. Check back to see what comes of the whole deal, but I'm fairly certain I will be issue free. Issue free-99.

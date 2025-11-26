@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+
+  <style>
+  div {
+    width: 200px;
+    height: 100px;
+  }
+  </style>
+  
+</head>
+
+<body>
+
+<h1>just a giant button</h1>
+
+<h2>swan tron dot launch</h2>
+
+<div>
+<button type="button" style="width:200px;height:100px" onclick="swantronLaunchFunction()" onmouseover="mouseOverFunction(this)" onmouseout="mouseOutFunction(this)">move cursor here</button>
+</div>
+
+<p id="click on this to launch swan tron dot com"><span>roll over button to see coords</span></p>
+
+<script>
+function swantronLaunchFunction()
+{
+    window.location = "http://www.swantron.com/";
+}
+</script>
+
+<script>
+function mouseOverFunction(obj)
+{
+	obj.innerHTML="click to launch swantron.com"
+}
+</script>
+
+<script>
+function mouseOutFunction(obj)
+{
+	obj.innerHTML="move cursor back here"
+}
+</script>
+
+<script>
+$( "div" ).mousemove(function( event ) {
+  var buttonCoords = "( " + event.clientX + " | " + event.clientY + " )";
+  $( "span:last" ).text( "( button X | button Y ) : " + buttonCoords );
+});
+</script>
+
+</body>
+</html>

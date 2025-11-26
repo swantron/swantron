@@ -1,0 +1,10 @@
+---
+title: 'Day Off Rundown'
+date: 2010-02-15T16:12:29+00:00
+
+id: 6175
+slug: 'day-off-rundown-2'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+Happy Presidents Day. I like Taft, because he was fat. Here is what I did, on my day off from banking software. 1) Attacked our clogged kitchen sink dilemma, again. \[caption id="attachment\_1673" align="aligncenter" width="800" caption="Snake, In"\][![snake...ftl](/uploads/2010/02/IMG00024.jpg "drain-snake")](/uploads/2010/02/IMG00024.jpg)\[/caption\] ~~Pretty glad I opted not to be a plumber, even though I rule at plumbing. Not really about the ruling, but I most assuredly would hate to be a plumber. \[caption id="attachment\_1674" align="aligncenter" width="800" caption="Snake, Out"\][![snake, also ftl](/uploads/2010/02/IMG00025.jpg "snake-drain")](/uploads/2010/02/IMG00025.jpg)\[/caption\] 2) Busted out the vacuum. Pretty sure I opted not to be a vacuum-er for my profession. I'm pretty good with a vacuum, though. \[caption id="attachment\_1677" align="aligncenter" width="800" caption="vaccum? vacuum? vacumm? "\][![spelled wrongly](/uploads/2010/02/IMG00026.jpg "vaccum")](/uploads/2010/02/IMG00026.jpg)\[/caption\] 3) 5.5 miles on the elliptical. Hulu is the best thing to happen to working out at home, and Nova is the best thing to happen to Hulu. I learned about deciphering Mayan writing today. It was pretty awesome. \[caption id="attachment\_1675" align="aligncenter" width="800" caption="blurry, because I\\'m kicking ass"\][![elliptical trainer](/uploads/2010/02/IMG00027.jpg "elliptical")](/uploads/2010/02/IMG00027.jpg)\[/caption\] 4) Did a little spray paint art...a.k.a. "Man Art" It will eventually be a samurai...pretty manish. \[caption id="attachment\_1676" align="aligncenter" width="800" caption="suck it, Da Vinci"\][![mona lisa of rattle cans](/uploads/2010/02/IMG00028.jpg "spray-paint-art")](/uploads/2010/02/IMG00028.jpg)\[/caption\] 5) Currently, doing a little blogging, with Smokie on Pandora in the background. It's a wrap.

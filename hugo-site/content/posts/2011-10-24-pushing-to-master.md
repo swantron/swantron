@@ -1,0 +1,10 @@
+---
+title: 'Pushing to Master'
+date: 2011-10-24T19:39:22+00:00
+
+id: 3965
+slug: 'pushing-to-master'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+Just hanging out. Committing a little Java. \[caption id="attachment\_3970" align="aligncenter" width="473" caption="Java by Oracle"\][![pushing to master ioio android code](/uploads/2011/10/push-to-master.png "push-to-master")](/uploads/2011/10/push-to-master.png)\[/caption\] Introducing IOIOSeek v2.1. \[caption id="attachment\_3967" align="aligncenter" width="480" caption="improved"\][![new android ioio app](/uploads/2011/10/ioiostuff.png "ioiostuff")](/uploads/2011/10/ioiostuff.png)\[/caption\] In preparation for my next project, I have beefed up my app to support four simultaneous servos, three real-time analog readings, and two binary digital outputs. I cleaned up the UI, and added some README details. You can snag the app or update on the Android Market (search for IOIO) \[caption id="attachment\_3968" align="aligncenter" width="480" caption="50 + ???"\][![market android app](/uploads/2011/10/android-dev.png "android-dev")](/uploads/2011/10/android-dev.png)\[/caption\] Pop over to the [Android Market](https://market.android.com/details?id=swantron.project.seek&feature=search_result#?t=W251bGwsMSwxLDEsInN3YW50cm9uLnByb2plY3Quc2VlayJd) and give a review if you have it going v \[caption id="attachment\_3969" align="aligncenter" width="570" caption="2.1"\][![swantron on android market ioio](/uploads/2011/10/ioioseekmarket-570x356.png "ioioseekmarket")](/uploads/2011/10/ioioseekmarket.png)\[/caption\] As the commits hint, I have pushed my code out to [my GitHub page](https://github.com/swantron/IOIO-Seek). Fork that thing. Stay tuned for the next project...I just need to find some time to smash together the hardware and we'll be good to go.

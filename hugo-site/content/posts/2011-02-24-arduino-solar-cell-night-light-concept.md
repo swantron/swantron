@@ -1,0 +1,14 @@
+---
+title: 'Arduino Solar Cell Night Light Concept'
+date: 2011-02-24T12:10:40+00:00
+
+id: 3208
+slug: 'arduino-solar-cell-night-light-concept'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+So, I've formalized the solar cell project I have been poking at for a while. I managed to clean up my code and mess with some initial conditions, etc., and now have a fairly solid proof of concept for a solar cell-centered night light. \[caption id="attachment\_3209" align="aligncenter" width="560" caption="you may want to ramp up that LED a bit"\][![lighty](/uploads/2011/02/night-lite.jpg "night-lite")](/uploads/2011/02/night-lite.jpg)\[/caption\] As was the case in my first few runs, my sketch incorporates a five second initialization phase. This acts to set both relative minimum and maximum values which act to provide "full light on" and "full light off" values, respectively. The generated power from the solar cell is read in to the Arduino via analog input, and the LEDs are driven via digital outs. The rest is some simple math that transforms the range of the analog signal into a digital range of zero to two hundo fifty five. **It's giant-ass-text-having snippet time!**
+
+> // Solar LED IO // Joseph Swanson | https://swantron.com // 2011 // Define constants const int sensorPin = A3; // Solar cell Pin const int ledPin = 5; // varuiable LED Pin // Define variables int sensorValue = 0; // wipe read value int sensorMin = 0; // set initial min int sensorMax = 1023; // set initial max void setup() { // turn on Pin 11 LED...indicates calibration period begin pinMode(11, OUTPUT); digitalWrite(11, HIGH); // stay lit for five seconds while (millis() &lt; 5000) { sensorValue = analogRead(sensorPin); // adjust for real max if (sensorValue &lt; sensorMax) { sensorMax = sensorValue; } // adjust for real min if (sensorValue &gt; sensorMin) { sensorMin = sensorValue; } } // end Pin 11... calibration period finito digitalWrite(11, LOW); } void loop() { // read the solar cell analog sensorValue = analogRead(sensorPin); // apply a little calibration to the sensor reading // bit from example sketch at http://arduino.cc sensorValue = map(sensorValue, sensorMin, sensorMax, 0, 255); // set constraint for outliers with respect to min/max sensorValue = constrain(sensorValue, 0, 255); // fade the LED from one to 255 analogWrite(ledPin, sensorValue); }
+
+Pretty straight forward. On to the vid... **It's web2.0-too-many-script-ass-calling embedded video time!**<iframe allowfullscreen="" frameborder="0" height="390" src="http://www.youtube.com/embed/DGDA5K3DlJI" title="YouTube video player" width="480"></iframe>Not too bad. Again, I used an Arduino Duemilanove and a Solar World panel. I might try to further this concept by incorporating my 120V switch and getting a lamp up in here. Stay tuned, as always. 

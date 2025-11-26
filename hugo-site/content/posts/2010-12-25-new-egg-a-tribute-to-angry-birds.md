@@ -1,0 +1,10 @@
+---
+title: 'New Egg: A Tribute to Angry Birds'
+date: 2010-12-25T12:37:27+00:00
+
+id: 2955
+slug: 'new-egg-a-tribute-to-angry-birds'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+In the spirit of the season, I'd feeling merry. Promo code merry. I hope your season is filled with awesome technology, and I hope you take a tip out of my tech tip-book and [use a NewEgg promo code](http://www.savings.com/m-NewEgg-coupons.html) for maximum FTW. I have a sickness. I can't get Angry Birds out of my head. Even trying to plug NewEgg, I'm thinking about the egg-shooting Angry Bird... \[caption id="attachment\_2956" align="aligncenter" width="550" caption="best. font. ever."\][![should be white](/uploads/2010/12/SWANTRON1.jpg "SWANTRON1")](/uploads/2010/12/SWANTRON1.jpg)\[/caption\] I used my artistic license to color that bird. Only an amateur would think that a blue Angry Bird would drop exploding eggs. Of course, the white Angry Bird is the egg dropper, and the blue Angry Bird is the shotgun-spray, ice attacker. Good stuff. What can I say about NewEgg that won't be common knowledge? Promo codes. Savings.com is my first stop before I hit NewEgg... right now, they have a code up that saves between ten and fifty percent. Not too bad, for thirty seconds of work. They usually have a variety of codes up...pretty awesome. I'm still looking into TVs, hard. I have it hammered down to between 42 and 55 inches, and am leaning towards a 46 or 47...like this guy from NewEgg \[caption id="" align="alignnone" width="300" caption="Perfect Bedroom TV"\]![perfect bedroom tv](http://images10.newegg.com/ProductImageCompressAll300/89-102-448-04.jpg "good_tv")\[/caption\] $700 for a Samsung 46" 1080p 120Hz LCD HDTV...even the low end of that promo code range puts you in that tele for $630...probably under $600. Makes it hard to pass up. Anyhow, take a look. Tablet PCs, memory, you name it. NewEgg / Savings.com...do it. I'll be playing Angry Birds, FWIW.

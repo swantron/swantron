@@ -1,0 +1,10 @@
+---
+title: 'Satellite Internet Basics'
+date: 2011-06-20T14:28:58+00:00
+
+id: 3574
+slug: 'satellite-internet-basics'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+Q) What would make a guy throw caution to the wind, and void a (quite significant) warranty on a piece of technology? A) An internet addiction. I rooted my Droid 2 a while back, largely due that answer above. That power-thirsty screen, with all of its hi-def beauty, is awesome for web browsing. My project requirements often find myself hammering out code on either my netbook or notebook, in dire need of an internet connection. Poor wi-fi signals just don't cut it...I rooted my phone for access to that lovely Verizon 3G. Don't tell Verizon. Do tell Verizon that my battery life is easily doubled, now that their bloat-wear has been removed. Nuked from orbit. But, I digress. There are many, many places that have either awful cell reception or no reception at all. What is a guy to do? **Connect from orbit**... \[caption id="attachment\_3575" align="aligncenter" width="550" caption="satellite internet alien is unidentified"\][![satellite internet](/uploads/2011/06/satellite_internet.jpg "satellite_internet")](/uploads/2011/06/satellite_internet.jpg)\[/caption\] Say you have just moved to a new house. Say you are in a trough of garbage cell coverage...out in the country, maybe. You will find yourself with two likely options: low speed dial-up internet, or high speed \[link removed\]. I bet you know which one I would chose. Hit that link to see what I am talking about. It is the only viable option for a decent connection at times. If you want some numbers, with these connections you can see download speeds up to 1.5Mbp...which is roughly 30 times faster than dial-up. See...no joke here. The weird thing is that these packages are pretty much the same price as my connection with Bresnan. Sort of puzzling how they can offer deals like this. Hit that link to see what I am getting at. I'm off to feed my internet addiction.

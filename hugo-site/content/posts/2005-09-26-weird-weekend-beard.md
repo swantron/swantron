@@ -1,0 +1,10 @@
+---
+title: 'Weird Weekend &#8211; Beard'
+date: 2005-09-26T19:45:29+00:00
+
+id: 5829
+slug: 'weird-weekend-beard'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+Well here we go again. Here is the weekend in review from this blogger's point of view. Let me first start by throwing up a thumb, as well as a crooked ass pinky to those Fightin' 'Cats. It appears as though there is ample enough parking at MSU to accommodate our football squad, Josh. Anyhow, the weekend looked super Thursday afternoon. jLo shoots me this sweet pic from campus. Yessir, that is a true Canadian tuxedo. Don't get me wrong, I love denim...just not as much as this fella. editor's note: I would like to know who made the call to throw the auxiliary dry erase board in this room. Give me a break. ![](http://bouncerblog.com/wp-content/tux.jpg)Jump nearer to quitting time. Dave, who incidentally signs my checks, shows me what side is the best side. ![](http://bouncerblog.com/wp-content/davethree.jpg)Friday. Half day due to rain lops my work day to eleven hours. I grab a nap and head to Dave's for some serious prep cooking...twenty five pounds of chicken, twenty five pounds of sirloin. And some vegetables. editor's note: Sparks makes a terrific object when referencing scale. ![](http://bouncerblog.com/wp-content/davetwo.jpg)![](http://bouncerblog.com/wp-content/daveone.jpg)Friday later. Some, not all, hell breaks loose in the Sleeg. The boys and I are involved in an altercation leaving my finger looking like this. ![](http://bouncerblog.com/wp-content/fingerone.jpg)And this. I managed to get blindsided; some guy elevates me up a few stairs by my throat. I hit my feet and promptly hit the deck with said assailant...only to be met by a wall of bouncerblog.com'ers playing the parts of heroes. I blow snot and lose both my cool and my shirt. ![](http://bouncerblog.com/wp-content/fingertwo.jpg)Charges are pending...Until this junk blows over lets keep things shrouded in secrecy, and ice packs. ![](http://bouncerblog.com/wp-content/anon2.jpg)

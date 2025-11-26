@@ -1,0 +1,2 @@
+[17-Jan-2010 02:10:36] PHP Fatal error:  Call to undefined function:  wp_die() in /home/bouncerb/public_html/26outs.com/wp-includes/wp-db.php on line 1039
+[17-Jan-2010 02:11:01] PHP Fatal error:  Call to undefined function:  add_action() in /home/bouncerb/public_html/26outs.com/wp-includes/general-template.php on line 1166

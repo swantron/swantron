@@ -1,0 +1,10 @@
+---
+title: 'Search Term Time!'
+date: 2008-03-31T18:04:52+00:00
+
+id: 717
+slug: 'search-term-time'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+`<span style="font-family : Courier;color: #F88017;">bouncer blog		                               19.2 %bouncerblog		                                2.7 %bouncers blog		                                1.8 %sexyphots		                                 1.8 %dudes get it on		                                1.8 %bozeman montana		                            1.8 %www.matureolder slut.com		          0.9 %montana bobcat mascot		                  0.9 %http //bounceblock.com		                    0.9 %a bouncers blog		                                0.9 %shirtless dudes		                                 0.9 %legion bouncer bob		                       0.9 %bouncer blog leagion		                      0.9 %petarded		                                  0.9 %is joe montana gay?		                      0.9 %bouncers		                                  0.9 %bar bouncers		                                0.9 %march mustache		                              0.9 %joseph lack		                                  0.9 %march madness		                              0.9 %what does the 100% real mean about cheese 0.9 %canadian tuxedo		                               0.9 %schweitzer fluid		                         0.9 %teenage mustache		                     0.9 %socks and flip-flops		                        0.9 %montana state mascot	                           0.9 %swanson bozeman		                            0.9 %wwkfd		                                          0.9 %alpaca funny		                                0.9 %bouncer blog swanny		                    0.9 %socks and flip flops		                        0.9 %msu mascot		                               0.9 %</span>`

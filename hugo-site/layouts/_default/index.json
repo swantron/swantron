@@ -1,0 +1,22 @@
+{{- $posts := where .Site.RegularPages "Type" "posts" -}}
+{
+  "posts": [
+    {{- range $index, $post := $posts -}}
+    {{- if $index }},{{- end }}
+    {
+      "id": {{ if $post.Params.id }}{{ $post.Params.id }}{{ else if $post.File.Path }}{{ printf "%d" (add $index 1) }}{{ else }}{{ printf "%d" (add $index 1) }}{{ end }},
+      "slug": "{{ $post.Slug }}",
+      "title": {{ $post.Title | jsonify }},
+      "excerpt": {{ $post.Description | default "" | jsonify }},
+      "content": {{ $post.Content | jsonify }},
+      "date": "{{ $post.Date.Format "2006-01-02T15:04:05Z07:00" }}",
+      "permalink": "{{ $post.Permalink }}",
+      "link": "{{ $post.Permalink }}",
+      "featured_image": {{ if $post.Params.featured_image }}"{{ $post.Params.featured_image }}"{{ else }}null{{ end }},
+      "categories": {{ if $post.Params.categories }}{{ $post.Params.categories | jsonify }}{{ else }}[]{{ end }},
+      "tags": {{ if $post.Params.tags }}{{ $post.Params.tags | jsonify }}{{ else }}[]{{ end }}
+    }
+    {{- end -}}
+  ],
+  "total": {{ len $posts }}
+}

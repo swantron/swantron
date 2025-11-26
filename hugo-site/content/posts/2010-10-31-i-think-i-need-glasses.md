@@ -1,0 +1,10 @@
+---
+title: 'I Think I Need Glasses'
+date: 2010-10-31T18:38:27+00:00
+
+id: 2838
+slug: 'i-think-i-need-glasses'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+Really, I need to get some glasses. I've been putting it off for a long time...left eye is good, but the right eye is pretty much garbage. Insurance policy comes due in January...going to put it off for another two months. Then, time to get out and grab some sweet spectacles. Where do you suppose a tech blogger would go to purchase spectacles? I bet a tech blogger would [buy glasses online](http://www.zennioptical.com/). I wouldn't know. I spend more time talking about food than technology. But, I can tell you with some certainty I will be buying my glasses online. More precisely, I will buy them at Zenni Optical. Zenni has revamped their site...looks slick. The glasses were $8.00 per pair...now they are down to flipping $6.95. You could seriously pick up a baker's dozen of these for less than the price of frames from the stinking mall. Check this out: \[caption id="attachment\_2840" align="aligncenter" width="496" caption="cool"\][![cool](/uploads/2010/10/guy-with-glasses.png "guy-with-glasses")](/uploads/2010/10/guy-with-glasses.png)\[/caption\] The webmaster at Zenni managed to stick that feature on his site. You can select a person's face, and superimpose any of the glasses from the site onto the top of the image. Looking for some aggressive prescription wrap-arounds? Zenni has the hookup there too, bro. \[caption id="attachment\_2842" align="aligncenter" width="508" caption="cooler"\][![cooler](/uploads/2010/10/guy-with-shades.png "guy-with-shades")](/uploads/2010/10/guy-with-shades.png)\[/caption\] Old gentleman, you look tubular. What about gear for the future? Yep...got that too. \[caption id="attachment\_2843" align="aligncenter" width="491" caption="coolest"\][![coolest](/uploads/2010/10/future-guy.png "future-guy")](/uploads/2010/10/future-guy.png)\[/caption\] Now the old gentleman looks equipped to take on a cyborg. Bring it on. Check out that link up there to see for yourself...that app itself is worth the bump. I'm pretty sure I want some future-ass-goggles. Badly.

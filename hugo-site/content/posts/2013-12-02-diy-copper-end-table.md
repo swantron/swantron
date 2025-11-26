@@ -1,0 +1,10 @@
+---
+title: 'DIY Copper End Table'
+date: 2013-12-02T15:20:10+00:00
+
+id: 4939
+slug: 'diy-copper-end-table'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+At some point, I volunteered to make us some end tables for the house. It turns out that I really don't like end tables...everything I came across was either way to big or too flimsy to take any kid abuse. The main level in our house is basically wide open, so keeping foot traffic lanes open is key. Long story short, I ended up in the copper area of Lowes and came up with a solution... [![diy](/uploads/2013/12/copper_table_parts.jpg)](https://swantron.com/diy-copper-end-table/copper_table_parts/)Maybe this is brilliant, or maybe my brain automatically looks for reasons to use my torch and Dremel. Probably the later. [![copper_assembly](/uploads/2013/12/copper_assembly.jpg)](https://swantron.com/diy-copper-end-table/copper_assembly/)Emma was willing to help with the stress test, but unwilling to put down the GBA... [![copper_stress_test](/uploads/2013/12/copper_stress_test.jpg)](https://swantron.com/diy-copper-end-table/copper_stress_test/)End result: [![copper_table](/uploads/2013/12/copper_table.jpg)](https://swantron.com/diy-copper-end-table/copper_table/)This actually turned out fairly decent, especially considering the fact I did all of the woodworking on that chunk of poplar with a Dremel Multi-Max. My soldering skills are more tuned to electronics, so I burned the shit out of the bulkier joints due to lack of flux. Adds character, I guess. I have another stick of 3/4" copper, so plan on doing round two as a winter project. I keep thinking that some sort of electrolysis setup would be awesome for the copper cleaning phase, which could be a project in itself. This project would be a lot more intense with a car battery and a whole bunch of wire.

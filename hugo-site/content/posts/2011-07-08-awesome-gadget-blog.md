@@ -1,0 +1,10 @@
+---
+title: 'Awesome Gadget Blog'
+date: 2011-07-08T12:50:19+00:00
+
+id: 3658
+slug: 'awesome-gadget-blog'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+As a gadget guy, I am always searching for new tech stuff. Every once in a while, I stumble across a new [Gadget Blog](http://www.geekalerts.com/) that is awe-inspiring. I recently found one that blew my mind, due to some of the inanely cool stuff they dig up. Like this bad boy... \[caption id="attachment\_3659" align="aligncenter" width="570" caption="5 functions AND memory...awesome"\][![iphone calculator case](/uploads/2011/07/calculator-iphone-case.jpg "calculator-iphone-case")](/uploads/2011/07/calculator-iphone-case.jpg)\[/caption\] That iPhone case almost makes me want to get rid of my Droid 2 and snag an iPhone 4. Almost... Geekalerts.com is where I found that. I have been checking the site out for a while, and they seem to post a handful of awesome entries a day. I have no idea how they keep coming up with this stuff, but it is great. I obviously need to hone my interweb skills, as I would have a hard time finding a few head-scratcher nerd items in a week, let alone in a day. This whole work thing is for the birds. I need more free time. Or, more time to check this site out; they seem to have it figured out. In addition to the gadgets themselves, these guys do a great job tracking down coupon codes for sweet geeky savings. I ran across an [Office Depot coupon](http://www.geekalerts.com/office-depot-coupons/) that is sort of the catch-all for gadgetry. Office Depot is perhaps a step above gadgetry, since they purvey hardware. Hardwaretry? I am fairly certain that isn't a word. Take a look at this [Vistaprint coupon](http://www.geekalerts.com/vistaprint-coupons/) for another example. Pretty slick...plus it beats checking out the sites of places you might buy from. Again, the whole time thing. Anyhow, I am off to check the webs for a Droid old school calculator case. That is too cool.

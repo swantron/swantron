@@ -1,0 +1,9 @@
+---
+title: 'Time Wars&#8230;Watch vs Cell Phone'
+
+id: 3200
+slug: 'time-wars-watch-vs-cell-phone'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+If you would have asked me a year ago if I thought there was a need to wear a watch, I would have told you no. More specifically, I would have told you, "why would a person purchase a watch, when it is pretty much a given that there is a cell phone in the pocket of said buyer?" I would have had a valid point. Well, I can give you two reasons. Reason number one: fashion. Yawn. Not my style. Reason number two: cell phone might die. Yawn. My BlackBerry lasts forever. Flash forward to right now...I wear a wedding ring and have a phone that lasts about four hours on a charge. I need a watch. If I was to head out watch shopping right now, there is no doubt that I would buy a [Invicta subaqua watch](http://www.bluedial.com/invicta-watch-subaqua.htm). Without a doubt, the coolest looking watch I have seen to date: \[caption id="attachment\_3202" align="aligncenter" width="361" caption="black, silver; beautiful"\][![subaqua](/uploads/2011/02/subaqua.jpg "subaqua")](/uploads/2011/02/subaqua.jpg)\[/caption\] In all honesty, that thing is sweet. I really dig black and silver...cite my SS as evidence. Clean, subtle, and sophisticated. Not to mention the whole sub-aqua thing. Pretty much can't kill this thing. So, if I am to make a move to be on time, where should I look to buy my beloved Invicta subaqua? Easy. Blue Dial. Check out this price. \[caption id="attachment\_3203" align="aligncenter" width="550" caption="beat that"\][![bluedial](/uploads/2011/02/bluedial.jpg "bluedial")](/uploads/2011/02/bluedial.jpg)\[/caption\] Two hundred, sixty seven...down from nearly nine hundo. Beat that, I dare you. Hit that link, see for yourself. Great watches at greater prices...while you do that, I'm going to put my Droid 2 back on the flipping charger. It has been three hours.

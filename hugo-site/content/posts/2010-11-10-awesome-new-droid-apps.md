@@ -1,0 +1,10 @@
+---
+title: 'Awesome Droid Apps Redux'
+date: 2010-11-10T20:05:00+00:00
+
+id: 2868
+slug: 'awesome-new-droid-apps'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+Guess what? I'm posting this via my Droid 2, since Verizon's 3G is faster than my Bresnan high-speed. Maybe one of their sys admins knocked some servers offline...I bet it is really hard to get around those racks with GIGANTIC CLOWN SHOES. Fuck Bresnan...whatever. Here is a pic of an angry bird: \[caption id="attachment\_2869" align="aligncenter" width="550" caption="kaw kaw so mad kaw kaw "\][![soooo mad](/uploads/2010/11/angry_bird.jpg "angry_bird")](/uploads/2010/11/angry_bird.jpg)\[/caption\] I feel your pain, angry bird. I'm picking up what you are angrily putting down. Now to the point of the post. I'm bringin Droid Apps back. You Apple fanboiz don't know how to act. Back in the day, I posted [a little gem](https://swantron.com/droid-2-must-have-apps/) about the Android apps that I deemed must haves. Well, as fate would have it, my title brought me a bit of traffic. SEO FTW. Here is another (hopefully) perfectly titled post, that is dually of value for my fellow Android users. Here we go...my top 5 Droid apps as of right now. 1) **ATK**, again. Battery life is still a perpetual issue. Blast your junk processes, and blast them often. 2) **Angry Birds**. Those birds are angrier than I. Best game I have seen on this damn thing. Bar none. Tie, 3/4) **Nesoid/GameBoid**. Emultating the crap out of NES and GBA games. I found a bunch of stuff I used to play when I was a youngster. +1 usage of younster. 5) **WiimoteControl**. You know what...this will assuredly jump to the number two spot, once I can chop up the code and figure out the motion control aspect. Perhaps number one...who needs a ton of battery life when you can map the crap out of motions and use that as your input scheme I bet ten minutes with that interface combo will sufficiently **blow your mind**. Grab one of these phones, root it, and grab those ^ apps. Good times will ensue.

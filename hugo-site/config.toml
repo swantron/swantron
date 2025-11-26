@@ -1,0 +1,54 @@
+baseURL = 'https://swantron.github.io/swantron/'
+languageCode = 'en-us'
+title = 'swan tron dot com'
+theme = 'PaperMod'
+
+# Permalink structure to match old WordPress URLs: /index.php/YYYY/MM/DD/post-slug/
+[permalinks]
+  posts = '/index.php/:year/:month/:day/:slug/'
+
+[params]
+  env = 'production'
+  title = 'swan tron dot com'
+  description = 'A personal blog'
+  author = 'swantron'
+  
+  # PaperMod theme settings
+  homeInfoMode = 'Post'
+  # socialIcons = []  # Leave empty or unset to disable social icons
+  
+  # Show reading time
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  
+  # Disable comments (can enable later if needed)
+  comments = false
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Blog'
+    url = '/'
+    weight = 10
+  
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about/'
+    weight = 20
+  
+  [[menu.main]]
+    identifier = 'contact'
+    name = 'Contact'
+    url = '/contact/'
+    weight = 30
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow HTML in markdown
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']

@@ -1,0 +1,10 @@
+---
+title: 'IOIO Android Breakout Board'
+date: 2011-05-07T14:04:06+00:00
+
+id: 3471
+slug: 'ioio-android-breakout-board'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+\~~~~ WARNING: AWESOME ~~~~ My new thing has officially arrived. Both in the literal sense and philosophically. I love my Arduino, and I love my Android...now I can have the best of both. Introducing, the IOIO breakout board... \[caption id="attachment\_3472" align="aligncenter" width="570" caption="+1 sleek"\][![ioio breakout board](/uploads/2011/05/ioio.jpg "ioio")](/uploads/2011/05/ioio.jpg)\[/caption\] I snagged this guy from SparkFun. You know how the Android is full of stuff? Accelerometers, touch screen, GPS receiver, WiFi...etc? Instead of having to start from scratch for each of my Arduino projects to introduce components, this board will allow me to use the Android/Java as the backbone of my code, instead of using Processing/C++. And that, my friends, is +++. Take a look at this awful-picture-quality-having video: <iframe allowfullscreen="" frameborder="0" height="349" src="http://www.youtube.com/embed/KbuZgsmvJUE" width="425"></iframe>Sorry about that...I had to use Katie's old BlackBerry to record the demo. It leaves much to be desired. Anyhow, so far I have just managed to get Eclipse configured, and have uncovered several gotchas. The biggest obstacle was getting the permissions worked out and linking the libraries properly. When in doubt, chmod -R 777 \* and let it rip. We'll see what comes of this...could be cool once I dust off my Java skills. Of note: pretty sure I am the first person to get this working on a Droid 2, and likely the first to set this up on Linux. It just shipped yesterday, so the sky is the limit on this...I am very excited. Big props to Ytai and SparkFun.

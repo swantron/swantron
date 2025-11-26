@@ -1,0 +1,10 @@
+---
+title: 'IOIO Servo Controller'
+date: 2011-09-24T16:30:27+00:00
+
+id: 3851
+slug: 'ioio-servo-controller'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+I just doubled my Android Market presence with one fell swoop. IOIO project number two is in the books: IOIO Servo Controller. \[caption id="attachment\_3852" align="aligncenter" width="570" caption="servo in altoids can smells like altoids"\][![IOIO Servo Controller](/uploads/2011/09/IOIO-Servo-Controller-570x320.jpg "IOIO Servo Controller")](/uploads/2011/09/IOIO-Servo-Controller.jpg)\[/caption\] This project is a one-off of the PowerSwitch Tail relay project I have out in the wild. I took the button out of the mix and implemented a slider bar...removed the relay and am now driving a hobby servo. \[caption id="attachment\_3856" align="aligncenter" width="570" caption="brand placement"\][![IOIO Android app](/uploads/2011/09/IOIOServo_horiz1-570x342.png "IOIOServo_horiz")](/uploads/2011/09/IOIOServo_horiz1.png)\[/caption\] Displayed is the relative level (zero to one) of the slider, the slider itself, and a shameless plug. The onboard LED also fires with a brightness relative to the slider position...which I implemented in the coding and sort of left in there. The basic concept was to get the PWM output configured correctly, in order to control the servo positioning...the slider function is pretty much just the stock slider from the Android Development docs, widened a bit for the sake of video capture. The rest was just mashing around the code I had out there...not too bad. Check the thing in action: <iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/DI3v3_E448U" width="420"></iframe>This project is available for download in app form on the Android Market. Right next to my other guy...search for IOIO. I will toss the code on my GitHub account as well. Fun project...I may branch and see If I can do anything cool with a few servos. We'll see. Shoot any comments to joe(at)swantron(dot)com. I can help with any setup issues, if they may arise. Good luck...

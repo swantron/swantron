@@ -1,0 +1,10 @@
+---
+title: 'Buy an HP&#8230; Really'
+date: 2010-10-26T18:05:32+00:00
+
+id: 2812
+slug: 'buy-an-hp-really'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+Maybe I am a bit jaded. I have spent far too many hours digging around in Dell laptops...that might make a guy sort of jaded. Maybe it is the fact that I am tired of all of the Dells sitting around my garage; time for a new toy, perhaps. Regardless of the root cause, I've been taking note lately to the [HP discounts](http://www.savings.com/m-Hewlett-Packard-coupons.html) hanging around out there, and I really want one. Case in point. Last week at work, my home slice bjordan and I were talking about Unity, and how Ubuntu might be dropping the ball on their netbook OS. I suggested that it was pretty much designed to be run on a tablet, and that it (was) getting good reviews from some power users, even though I hate the term "power user." Long story short, we both decided that perhaps our netbooks needed upgrades...a la touchscreens. There are kits available to upgrade the Mini 9's screen to a touch...but, why do that, when this bad boy is on the market: \[caption id="attachment\_2813" align="aligncenter" width="536" caption="FTFY = Fixed That For You, FYI"\][![hp image](/uploads/2010/10/hp.jpg "hp")](/uploads/2010/10/hp.jpg)\[/caption\] The HP TouchSmart units are awesome. Especially the TouchSmart tm2t series. Imagine that bad boy, WITH WINDOWS TOSSED STRAIGHT THE CRAP TO ***DEV NULL***, running Ubuntu 10.10 with Unity...perfect. No hardware issues, with a slick touchscreen interface. I would love to get my hands and fingers on that sucker...swivel touch swivel awesome. For the win, of course.

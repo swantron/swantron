@@ -1,0 +1,24 @@
+# WordPress export (contains sensitive data - database backups, config files)
+wp-export/
+
+# Large archive files (exceed GitHub's 100MB limit)
+**/*.zip
+hugo-site/static/uploads/**/*.zip
+
+# Conversion script (optional, can be removed)
+convert_posts.py
+
+# Hugo build output
+hugo-site/public/
+hugo-site/resources/_gen/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

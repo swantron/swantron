@@ -1,0 +1,27 @@
+head	1.1;
+access;
+symbols;
+locks
+	bouncerb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2011.11.03.02.09.08;	author bouncerb;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Attracta SEO Tools - Initial Checkin
+@
+text
+@Disallow: /pub_upload/
+User-agent: "*"
+sitemap: http://cdn.attracta.com/sitemap/1201794.xml.gz
+@

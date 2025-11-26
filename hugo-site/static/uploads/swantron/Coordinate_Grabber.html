@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://swantron.com/" />
+<title>Coordinate_Grabber</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Coordinate_Grabber</td></tr>
+</thead><tbody>
+<!--have webdriver open test page-->
+<tr>
+	<td>open</td>
+	<td>http://swantron.com/giant_button_with_coords.html</td>
+	<td></td>
+</tr>
+<!--verify unique string before event fired-->
+<tr>
+	<td>assertTextPresent</td>
+	<td></td>
+	<td>roll over button to see coords</td>
+</tr>
+<!--mouse over button element by css-->
+<tr>
+	<td>mouseOver</td>
+	<td>css=button[type=&quot;button&quot;]</td>
+	<td></td>
+</tr>
+<!--verify unique string of button object-->
+<tr>
+	<td>assertTextPresent</td>
+	<td></td>
+	<td>click to launch swantron.com</td>
+</tr>
+<!--move on button object to invoke div-->
+<tr>
+	<td>mouseMove</td>
+	<td>css=button[type=&quot;button&quot;]</td>
+	<td></td>
+</tr>
+<!--verify event fires know text-->
+<tr>
+	<td>assertTextPresent</td>
+	<td></td>
+	<td>( button X | button Y ) : ( 0 | 0 )</td>
+</tr>
+<!--move mouse with respect to button (0,0)-->
+<tr>
+	<td>mouseMoveAt</td>
+	<td>css=button[type=&quot;button&quot;]</td>
+	<td>5,5</td>
+</tr>
+<!--verify coordinate string matches page coords-->
+<tr>
+	<td>assertTextPresent</td>
+	<td></td>
+	<td>( button X | button Y ) : ( 13 | 136 )</td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

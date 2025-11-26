@@ -1,0 +1,5 @@
+[19-Apr-2010 23:34:14] PHP Fatal error:  Call to undefined function:  add_action() in /home/bouncerb/public_html/wp-includes/canonical.php on line 343
+[24-Mar-2011 17:53:37] PHP Fatal error:  Call to undefined function:  add_action() in /home/bouncerb/public_html/wp-includes/admin-bar.php on line 39
+[24-Mar-2011 17:53:39] PHP Fatal error:  Call to undefined function:  add_action() in /home/bouncerb/public_html/wp-includes/canonical.php on line 412
+[24-Mar-2011 17:53:40] PHP Fatal error:  Class walker_category:  Cannot inherit from undefined class walker in /home/bouncerb/public_html/wp-includes/category-template.php on line 773
+[24-Mar-2011 17:53:49] PHP Fatal error:  Call to undefined function:  add_action() in /home/bouncerb/public_html/wp-includes/admin-bar.php on line 39

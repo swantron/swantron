@@ -1,0 +1,23 @@
+# Hugo
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Sensitive WordPress files (should not be in static/uploads)
+**/wp-config.php
+**/*.sql
+**/wp-*.php
+**/xmlrpc.php
+**/install.php
+**/wp-snapshots/

@@ -1,0 +1,10 @@
+---
+title: 'The Pizza Proof'
+date: 2009-12-15T11:00:39+00:00
+
+id: 1246
+slug: 'the-pizza-proof'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+i &lt;3 za! nom nom nom The problem at hand is essentially this: "Suppose the harried waiter cuts the pizza off-centre, but with all the edge-to-edge cuts crossing at a single point, and with the same angle between adjacent cuts. The off-centre cuts mean the slices will not all be the same size, so if two people take turns to take neighbouring slices, will they get equal shares by the time they have gone right round the pizza - and if not, who will get more?" The visual break down of the proof is this, in a nutshell: [![pizza_proof](/uploads/2009/12/pizza_proof.JPG "pizza_proof")](/uploads/2009/12/pizza_proof.JPG)Pretty slick stuff...[NewScientist reports the details ](http://www.newscientist.com/article/mg20427381.500-the-perfect-way-to-slice-a-pizza.html?page=1)in a lengthy feature.. "He \[Rick Mabry\] suspected that someone, somewhere must already have worked out the simple-looking sums at the heart of the new expression, so he trawled the online world for theorems in the vast field of combinatorics - an area of pure mathematics concerned with listing, counting and rearranging - that might provide the key result he was looking for. Eventually he found what he was after: a 1999 paper that referenced a mathematical statement from 1979. There, Mabry found the tools he and Deiermann needed to show whether the complex algebra of the rectangular strips came out positive or negative. The rest of the proof then fell into place (American Mathematical Monthly, vol 116, p 423)." Awesome. I need to tear into the guts of this guy...pretty sweet (and asinine) math. For the non-math inclined, here is a sweet picture of Freemo, the Talking Pizza. He is funny. [![freeme](/uploads/2009/12/freeme.JPG "freeme")](/uploads/2009/12/freeme.JPG)

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+
+<body>
+
+<h1>just a giant button</h1>
+
+<h2>swan tron dot launch</h2>
+
+<button type="button" style="width:200px;height:100px" onclick="swantronLaunchFunction()" onmouseover="mouseOverFunction(this)" onmouseout="mouseOutFunction(this)">move cursor here</button>
+
+<p id="click on this to launch swan tron dot com"><span>roll over for instructions</span></p>
+
+<script>
+function swantronLaunchFunction()
+{
+    window.location = "http://www.swantron.com/";
+}
+</script>
+
+<script>
+function mouseOverFunction(obj)
+{
+	obj.innerHTML="click to launch swantron.com"
+}
+</script>
+
+<script>
+function mouseOutFunction(obj)
+{
+	obj.innerHTML="move cursor back here"
+}
+</script>
+
+</body>
+</html>

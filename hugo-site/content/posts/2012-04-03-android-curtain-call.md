@@ -1,0 +1,10 @@
+---
+title: 'Android Curtain Call'
+date: 2012-04-03T09:06:43+00:00
+
+id: 4477
+slug: 'android-curtain-call'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+I [spidered my D2](https://swantron.com/tag/spidered-screen/ "shattered droid screen") a handful of weeks ago. The replacement phone I received shipped with Gingerbread...which with my previous version of CyanogenMod was built on top of. I rooted the new device immediately, and dumped all of the garbage apps. My thought was to keep the stock ROM on the device, in order to have a stock testing device once I moved on to a new device. Well, even stock Gingerbread is borderline useless by comparison. The most annoying tic that developed was with the camera...the flash stopped syncing with the camera shutter, rendering the flash useless. Change of plans...dev device will run CyanogenMod 7.1. \[caption id="attachment\_4478" align="alignnone" width="570" caption="landscaping?"\][![android screenshot](/uploads/2012/04/android_screenshot-570x320.png "android_screenshot")](https://swantron.com/android-curtain-call/android_screenshot/)\[/caption\] I falsely assumed that flashing a ROM would work the same on Gingerbread as it did on Froyo for the Droid 2. Way wrong...I honestly thought I had bricked the phone. I ended up having to get creative with ADB and flashing an older firmware version, and standing Froyo back up on my device. From that point, it was the same old song and dance...testing ROMs, pulling batteries, hanging out on the recovery screen. I wound up settling on an old nightly build of CG7.1. I am due for a phone upgrade right now...my wait for ICS is way more tolerable with a usable phone.

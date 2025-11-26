@@ -1,0 +1,10 @@
+---
+title: 'How Fiber Optics Work'
+date: 2010-09-17T19:23:20+00:00
+
+id: 2679
+slug: 'how-fiber-optics-work'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+Index of refraction. End of story? You wish...I'm going to pontificate for a while. Where did I set that soapbox... I dig optics. The coolest class I took was my graduate level optics class at the old alma mater, Montana State. I missed my calling as a physicist. Or rather, I missed my calling as someone who gets paid to play with lasers in a laboratory. Lasers lasing all over the place. Plenty of [fiber optic cables](http://icc.com) around the lab, you can be sure of that, Jack. \[caption id="attachment\_2680" align="aligncenter" width="550" caption="fiber optics is fiber-y"\][![fiber](/uploads/2010/09/fiber.jpg "fiber")](/uploads/2010/09/fiber.jpg)\[/caption\] Spools and spools of fiber optical cable is a pipe dream, though. That stuff isn't exactly free, due to the nature of the beast. As pictured above, fiber optic cable is multi layered, and as I mentioned, is all made possible due to refraction. Index of refraction, to be more specific. See the above picture...the layer around the core is of a different index, keeping the photons bouncing towards the finish line (in a huge nutshell.) The reason these things work so well is that the core (usually a glass of some nature) deals with photons instead of electrons. Massless and charge-free, photons are not crushed and or distorted by elecromagnetic noise. They can be setup to carry tons of data...aka very high bandwidth...thustly making fiber optic cables a perfect choice for high quality, large connections. Jack. Hit one of those links to see some sweet home uses. Hit wikipedia to see the physics behind the scenes. The main reason to push signal through fiber instead of copper is reliability. You really can't wear out glass.

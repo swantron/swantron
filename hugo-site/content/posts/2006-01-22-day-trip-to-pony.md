@@ -1,0 +1,10 @@
+---
+title: 'Day Trip to Pony'
+date: 2006-01-22T17:02:33+00:00
+
+id: 6077
+slug: 'day-trip-to-pony'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+Yesturday was good one. The Ohs boys, T-bone, Bailly, and I set out to retrieve a couch from Potosi Hot Springs, where T-bone works. [Potosi](http://www.potosiresort.com/ "Potosi") is conveniently located near Pony, home of the Pony Bar and good times in general. ![map2.bmp](/uploads/2006/01/map2.bmp)After loading the couch and setting up the manager's DVD player (?) for some goddam reason, we set out to play bumper pool, shoot dice, tell lies, and drink beer. Here is one of Pam the Man's four cow-dogs looking very sophisticated outside the bar. This photo is taken on Main, giving you an idea of how big Pony, MT is. ![pony1.jpg](/uploads/2006/01/pony1.jpg)Ben, Kelly and Eric O bellied up at the small side of the bar. This is pretty standard for the bar. We have a tie-dyed shirt next to a cowboy next to a Cats fan. ![pony4.jpg](/uploads/2006/01/pony4.jpg)After a few games of 21 aces (dice game for shots) the crew is getting loose. Brian and I looking confused...Greggers, who is my favorite notary public, showing bouncerblog.com who is number one. ![pony3.jpg](/uploads/2006/01/pony3.jpg)![pony2.jpg](/uploads/2006/01/pony2.jpg)T-bone and I looking amazingly sober. And amazing in general. ![pony5.jpg](/uploads/2006/01/pony5.jpg)Our plans were to get me to work and the rest of the crew to the Icedogs game by eight thirty which turned out to be closer to ten. I ended up tieing Grif's record by confiscating six IDs at work...not too bad. I also captured some video footage of Pony's resident grifter Evan (aka Bill Hill or Bill Hilly) freaking out to the jukebox that I will post when my FTP issues are resolved.

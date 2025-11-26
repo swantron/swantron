@@ -1,0 +1,10 @@
+---
+title: 'Managing Multiple WiFi Access Points'
+date: 2011-10-10T18:01:54+00:00
+
+id: 3894
+slug: 'managing-multiple-wifi-access-points'
+description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+---
+
+So, every once in a while, my home WiFi connection will drop an error bomb on me. It always seems to be at a horribly inopportune moment; I am trying to do some actual work at home, and all of a sudden my wireless router is showing itself to be frozen. I will admit wholly: I find ethernet cables to be creepy reminders of horrible computing times past. Long story short, when my WiFi decides to dump out, I find myself digging through the ghetto tupperware containers in the garage, in search of a physical cable with which to connect. Hard lines are for the birds. It is easy to take wireless tech for granted. Between 3G/4G and WiFi, we can be connected pretty much wherever. The mobile companies bear the burden of maintaining the cellular connections...what about the WiFi? A single access point can be troublesome...what about multiple WiFi points? \[caption id="attachment\_3895" align="aligncenter" width="570" caption="multiple routers are multiple"\][![bunch of routers](/uploads/2011/10/bunch-of-routers.jpg "bunch-of-routers")](/uploads/2011/10/bunch-of-routers.jpg)\[/caption\] It doesn't take much to create a messy situation. Put yourself in the shoes of an IT manager for a second. Say you have a few hundred users, and a dozen access points. Chances are pretty good that all of your WiFi routers are not the same version...chances are also good that you are tasked to juggle multiple companies' routers. Easier said than done. Take my word as truth...you need a management system. More particularly, you need something like [Tanaza Cloud WiFi Management SaaS](http://www.tanaza.com). I work in the SaaS game...this is a solution for which you are better off buying software for. Your lack of headaches will signal the significance of said purchase. Take my word or take a look at that link. If it saves someone a wasted weekend on the phone with Netgear, I'll consider this post a success.
