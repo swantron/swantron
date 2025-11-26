@@ -7,7 +7,7 @@ This is a Hugo-based static site generated from the original WordPress blog.
 - `content/posts/` - All blog posts (1039 posts converted from Jekyll format)
 - `content/` - Standalone pages (contact.md, disclaimer.md)
 - `static/uploads/` - All images and media files from WordPress
-- `themes/PaperMod/` - Hugo theme (git submodule)
+- `themes/paper/` - Hugo theme (git submodule)
 - `config.toml` - Hugo configuration
 
 ## Local Development
@@ -59,4 +59,4 @@ To enable GitHub Pages:
 
 - All image paths have been converted from absolute URLs to relative paths (`/uploads/...`)
 - Posts were converted from Jekyll format to Hugo format
-- The PaperMod theme is included as a git submodule
+- The Paper theme is included as a git submodule

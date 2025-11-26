@@ -1,7 +1,7 @@
 baseURL = 'https://swantron.github.io/swantron/'
 languageCode = 'en-us'
 title = 'swan tron dot com'
-theme = 'PaperMod'
+theme = 'paper'
 
 # Ensure static files are served correctly with subpath baseURL
 canonifyURLs = true
@@ -21,18 +21,15 @@ relativeURLs = false
   description = 'A personal blog'
   author = 'swantron'
   
-  # PaperMod theme settings
-  homeInfoMode = 'Post'
-  # socialIcons = []  # Leave empty or unset to disable social icons
-  
-  # Show reading time
-  ShowReadingTime = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
+  # Paper theme settings
+  color = 'linen'  # linen, wheat, gray, light
+  rss = true  # show RSS icon
   
   # Disable comments (can enable later if needed)
-  comments = false
+  disablePostNavigation = false
+  
+  # Main sections for Paper theme (posts directory)
+  mainSections = ['posts']
 
 [menu]
   [[menu.main]]
