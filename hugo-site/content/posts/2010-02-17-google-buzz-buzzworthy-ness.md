@@ -6,4 +6,4 @@ slug: 'google-buzz-buzzworthy-ness'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Hit me up... [http://www.google.com/profiles/lasverduras](< http://www.google.com/profiles/lasverduras>)\[caption id="attachment\_1691" align="aligncenter" width="896" caption="beeeeeeepbeeeepboooop"\][![](/uploads/2010/02/robotard.jpg "robotard")](/uploads/2010/02/robotard.jpg)\[/caption\]
+Hit me up... [http://www.google.com/profiles/lasverduras](< http://www.google.com/profiles/lasverduras>)![](/uploads/2010/02/robotard.jpg "robotard")

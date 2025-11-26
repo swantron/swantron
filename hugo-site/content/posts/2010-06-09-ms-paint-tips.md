@@ -6,4 +6,4 @@ slug: 'ms-paint-tips'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Pomeranians are creepy. \[caption id="attachment\_2282" align="aligncenter" width="335" caption="I should go pro"\][![small dog](/uploads/2010/06/small-dog.jpg "small-dog")](/uploads/2010/06/small-dog.jpg)\[/caption\] Mad MS Paint skillz. +1 small dog
+Pomeranians are creepy. ![small dog](/uploads/2010/06/small-dog.jpg "small-dog") Mad MS Paint skillz. +1 small dog

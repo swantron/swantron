@@ -6,4 +6,4 @@ slug: 'weekly-drawing'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-\[caption id="attachment\_1041" align="aligncenter" width="465" caption="Cholula Lady: C 2009; medium: Sharpie / Yellow Notepad"\][![Cholula Lady: C 2009; medium: Sharpie / Yellow Notepad](/uploads/2009/11/cholula.JPG "cholula")](/uploads/2009/11/cholula.JPG)\[/caption\]
+![Cholula Lady: C 2009; medium: Sharpie / Yellow Notepad](/uploads/2009/11/cholula.JPG "cholula")

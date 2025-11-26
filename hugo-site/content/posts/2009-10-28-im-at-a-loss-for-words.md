@@ -6,4 +6,4 @@ slug: 'im-at-a-loss-for-words'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-\[caption id="attachment\_1027" align="aligncenter" width="464" caption="Flaming Gay Ken...wow"\][![Flaming Gay Ken...wow](/uploads/2009/10/ken.jpg "ken")](/uploads/2009/10/ken.jpg)\[/caption\] Speechless.
+![Flaming Gay Ken...wow](/uploads/2009/10/ken.jpg "ken") Speechless.

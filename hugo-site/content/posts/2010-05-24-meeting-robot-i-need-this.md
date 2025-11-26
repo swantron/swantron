@@ -6,7 +6,7 @@ slug: 'meeting-robot-i-need-this'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Best idea of the week...a robot to attend your meetings. \[caption id="attachment\_2207" align="aligncenter" width="600" caption="Robot Weenie is Better than Humanoid Weenie"\][![right there](/uploads/2010/05/work-robot.png "work-robot")](/uploads/2010/05/work-robot.png)\[/caption\] From dailymail.co.uk
+Best idea of the week...a robot to attend your meetings. ![right there](/uploads/2010/05/work-robot.png "work-robot") From dailymail.co.uk
 
 > Fed up with attending endless meetings when you'd much rather be at home? Step forward the QB from Anybots - a robot who can go to the office for you. Developed by Bob Christopher, the brainchild behind the Pleo dinosaurs, the cute looking robot is essentially a teleconferencing system on wheels. The robot can alter its height from 3ft to 5.7ft and weighs 2.5st, with a main computer and several mini-computers on board. It has an LCD monitor mounted on its head which feeds a webcam image of the telecommuter. It 'sees' via a 5MP video camera in one eye, and a lower resolution camera on the head that points downwards. It 'hears' via three microphones that feed audio to the telecommuter, and has high-quality speakers for audio in the other direction.
 

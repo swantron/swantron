@@ -6,4 +6,4 @@ slug: 'so-long-zoot'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-I had three great years at Zoot Enterprises. Time for a change, however. \[caption id="attachment\_3771" align="aligncenter" width="570" caption="rear-view. literally "\][![zoot enterprises](/uploads/2011/08/zoot-enterprises-570x320.jpg "zoot-enterprises")](/uploads/2011/08/zoot-enterprises.jpg)\[/caption\] Thanks for it all.
+I had three great years at Zoot Enterprises. Time for a change, however. ![zoot enterprises](/uploads/2011/08/zoot-enterprises-570x320.jpg "zoot-enterprises") Thanks for it all.

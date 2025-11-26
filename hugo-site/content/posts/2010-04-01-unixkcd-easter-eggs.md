@@ -6,4 +6,4 @@ slug: 'unixkcd-easter-eggs'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-I had a creeping suspicion that the best xkcd of all time might be integrated into unixkcd...turns out I was on to something \[caption id="attachment\_1908" align="aligncenter" width="585" caption="sudo FTW!"\][![sudo-make-me-a-sandwich](/uploads/2010/04/sudo-make-me-a-sandwich.jpg "sudo-make-me-a-sandwich")](/uploads/2010/04/sudo-make-me-a-sandwich.jpg)\[/caption\] This made my day. Especially, since /. is utter garbage with all of the "funny" stories...pretty retarded. \*\*\*Note: sudo rm -rf \* does nothing...I tried.\*\*\*
+I had a creeping suspicion that the best xkcd of all time might be integrated into unixkcd...turns out I was on to something ![sudo-make-me-a-sandwich](/uploads/2010/04/sudo-make-me-a-sandwich.jpg "sudo-make-me-a-sandwich") This made my day. Especially, since /. is utter garbage with all of the "funny" stories...pretty retarded. \*\*\*Note: sudo rm -rf \* does nothing...I tried.\*\*\*

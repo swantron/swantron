@@ -6,4 +6,4 @@ slug: 'amateur-hour'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-I'm mid update...son of a bitch \[caption id="attachment\_3297" align="aligncenter" width="561" caption="wonky"\][![wonky](/uploads/2011/03/ghetto.jpg "ghetto")](/uploads/2011/03/ghetto.jpg)\[/caption\] If things appear to be off, that is why. I won't have time to QA this beeyotch until tomorrow, midday at the earliest. Many apologies.
+I'm mid update...son of a bitch ![wonky](/uploads/2011/03/ghetto.jpg "ghetto") If things appear to be off, that is why. I won't have time to QA this beeyotch until tomorrow, midday at the earliest. Many apologies.

@@ -6,4 +6,4 @@ slug: 'more-ioio-headers'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Proof of concept stage has passed...we are full on code cleanup and prep for video on the servo project... \[caption id="attachment\_3847" align="aligncenter" width="570" caption="project time..."\][![adding more ioio headers](/uploads/2011/09/2011-09-24_14-26-54_676-570x320.jpg "ioio-solder-headers")](/uploads/2011/09/2011-09-24_14-26-54_676.jpg)\[/caption\] I should have the app polished and on the market Saturday afternoon. Tune in.
+Proof of concept stage has passed...we are full on code cleanup and prep for video on the servo project... ![adding more ioio headers](/uploads/2011/09/2011-09-24_14-26-54_676-570x320.jpg "ioio-solder-headers") I should have the app polished and on the market Saturday afternoon. Tune in.

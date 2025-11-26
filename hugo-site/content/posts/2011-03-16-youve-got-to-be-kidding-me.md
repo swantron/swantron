@@ -6,4 +6,4 @@ slug: 'youve-got-to-be-kidding-me'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-I'm averaging somewhere around two pounds per week... \[caption id="attachment\_3250" align="aligncenter" width="570" caption="(facepalm)"\][![facepalm](/uploads/2011/03/prtzls.jpg "prtzls")](/uploads/2011/03/prtzls.jpg)\[/caption\] Sort of gross; sort of impressive.
+I'm averaging somewhere around two pounds per week... ![facepalm](/uploads/2011/03/prtzls.jpg "prtzls") Sort of gross; sort of impressive.

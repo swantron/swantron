@@ -6,4 +6,4 @@ slug: 'oml-an-interpretation'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-I like sending Katie pictures of random drawings from work. Like this gem. \[caption id="attachment\_1000" align="aligncenter" width="777" caption="OML, c 2009, medium: sharpie &amp; yellow notepad"\][![OML, c 2009, medium: sharpie & yellow notepad](/uploads/2009/10/IMG001441-1024x768.jpg "OML")](/uploads/2009/10/IMG001441.jpg)\[/caption\] compared to the original... \[caption id="attachment\_1001" align="aligncenter" width="432" caption="I\\'ll take 2"\][![I'll take 2](/uploads/2009/10/Old_Mil.jpg "Old_Mil")](/uploads/2009/10/Old_Mil.jpg)\[/caption\] I win. I always do.
+I like sending Katie pictures of random drawings from work. Like this gem. ![OML, c 2009, medium: sharpie & yellow notepad](/uploads/2009/10/IMG001441-1024x768.jpg "OML") compared to the original... ![I'll take 2](/uploads/2009/10/Old_Mil.jpg "Old_Mil") I win. I always do.

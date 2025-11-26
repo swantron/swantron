@@ -6,4 +6,4 @@ slug: 'get-swoll-son'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Takeru Kobayashi? Is that you? Tired of looking like that little hot dog eating champ dude? \[caption id="attachment\_1979" align="aligncenter" width="587" caption="fail"\][![puny as hell](/uploads/2010/04/puny_dude.jpg "puny_dude")](/uploads/2010/04/puny_dude.jpg)\[/caption\] Okay...that is not Kobayashi. Regardless, if you feel like the colloquial 90lb weekling... Hit up some [steroids](http://www.steroidsources.com)...get swoll, son! Unless you play baseball professionally, you have nothing to lose...hit that ^ link and check out some options...GET SWOLL! HUUAH! I want a hot dog now.
+Takeru Kobayashi? Is that you? Tired of looking like that little hot dog eating champ dude? ![puny as hell](/uploads/2010/04/puny_dude.jpg "puny_dude") Okay...that is not Kobayashi. Regardless, if you feel like the colloquial 90lb weekling... Hit up some [steroids](http://www.steroidsources.com)...get swoll, son! Unless you play baseball professionally, you have nothing to lose...hit that ^ link and check out some options...GET SWOLL! HUUAH! I want a hot dog now.

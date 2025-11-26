@@ -6,7 +6,7 @@ slug: 'ps3-slim-hands-on-browser'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Instead of doing one gigantic review, I'm going to tackle a review of my new nerd toy piecemeal...up first: the browser. \[caption id="attachment\_1396" align="aligncenter" width="549" caption="Slim, Sexy, and Somewhat Clunky"\]![slim, sexy, clunky](/uploads/2010/01/ps3-slim.jpg "ps3-slim")\[/caption\]
+Instead of doing one gigantic review, I'm going to tackle a review of my new nerd toy piecemeal...up first: the browser. ![slim, sexy, clunky](/uploads/2010/01/ps3-slim.jpg "ps3-slim")
 **The good:**
 :) Setup was effortless. No issues getting my wireless connection up and running. :) Speedier than Opera on my Wii. Page loads are fast...no issue with Java. :) Pandora support! Pretty much rules. Sounds great; no lag. **The bad:**
 :( Screen navigation clunky. Dual analog controls are definately not ideal, but the zoom and scroll feature leaves much to be desired :( Clumbsy menu structure. Address entry is a chore. **The fugly:**

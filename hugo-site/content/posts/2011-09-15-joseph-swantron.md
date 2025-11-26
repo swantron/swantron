@@ -6,4 +6,4 @@ slug: 'joseph-swantron'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Possible pen name... \[caption id="attachment\_3822" align="aligncenter" width="570" caption="+ several"\][![joseph swantron](/uploads/2011/09/joseph-swantron-570x424.jpg "joseph swantron")](/uploads/2011/09/joseph-swantron.jpg)\[/caption\]
+Possible pen name... ![joseph swantron](/uploads/2011/09/joseph-swantron-570x424.jpg "joseph swantron")

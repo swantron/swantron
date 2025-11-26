@@ -6,4 +6,4 @@ slug: 'cool-robot'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-\[caption id="attachment\_2487" align="aligncenter" width="549" caption="cool."\][![cool robot](/uploads/2010/07/cool-robot.jpg "cool-robot")](/uploads/2010/07/cool-robot.jpg)\[/caption\] Okay...maybe not that cool.
+![cool robot](/uploads/2010/07/cool-robot.jpg "cool-robot") Okay...maybe not that cool.

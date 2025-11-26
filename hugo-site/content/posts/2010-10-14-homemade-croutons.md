@@ -6,4 +6,4 @@ slug: 'homemade-croutons'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Q) Why is my tech blog so food-centric? A) I don't know. Here is my recipe for homemade croutons. \[caption id="attachment\_2771" align="aligncenter" width="545" caption="gross"\][![mmm](/uploads/2010/10/cheese-nibbles.jpg "cheese-nibbles")](/uploads/2010/10/cheese-nibbles.jpg)\[/caption\] Dump a bunch of generic-equivalent Cheetos in your soup. There you go. FWIW, I have a few things in the works for the Arduino. One involves an air-soft gun...be patient.
+Q) Why is my tech blog so food-centric? A) I don't know. Here is my recipe for homemade croutons. ![mmm](/uploads/2010/10/cheese-nibbles.jpg "cheese-nibbles") Dump a bunch of generic-equivalent Cheetos in your soup. There you go. FWIW, I have a few things in the works for the Arduino. One involves an air-soft gun...be patient.

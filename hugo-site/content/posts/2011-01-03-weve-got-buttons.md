@@ -6,4 +6,4 @@ slug: 'weve-got-buttons'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Welp. Guess I can cross 'learn buttons' off the colloquial list. \[caption id="attachment\_3099" align="aligncenter" width="366" caption="btns ftw"\][![buttons](/uploads/2011/01/buttons.jpg "buttons")](/uploads/2011/01/buttons.jpg)\[/caption\] Turns out you can make buttons by slamming out some xml. Nicely played, Google. Next order of business...figure out how to show these in landscape mode.
+Welp. Guess I can cross 'learn buttons' off the colloquial list. ![buttons](/uploads/2011/01/buttons.jpg "buttons") Turns out you can make buttons by slamming out some xml. Nicely played, Google. Next order of business...figure out how to show these in landscape mode.

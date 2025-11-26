@@ -6,4 +6,4 @@ slug: 'another-practical-application-of-good-manners-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-\[caption id="attachment\_2805" align="aligncenter" width="545" caption="nom nom nom"\][![niceness](/uploads/2010/10/nice.jpg "nice")](/uploads/2010/10/nice.jpg)\[/caption\] You are quite welcome, Chinese food container.
+![niceness](/uploads/2010/10/nice.jpg "nice") You are quite welcome, Chinese food container.

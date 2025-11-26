@@ -6,4 +6,4 @@ slug: 'billings-tornado-picture'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Here is the first pic I have seen come in of the soon-to-be-infamous Metra Twister. \[caption id="attachment\_2352" align="aligncenter" width="575" caption="tornado shot from the Heights"\][![twister](/uploads/2010/06/billings-tornado.jpg "billings-tornado")](/uploads/2010/06/billings-tornado.jpg)\[/caption\] Shot from the Heights by none other than Hat Shop Tony. Hopefully someone posts some image of the Metra getting nailed.
+Here is the first pic I have seen come in of the soon-to-be-infamous Metra Twister. ![twister](/uploads/2010/06/billings-tornado.jpg "billings-tornado") Shot from the Heights by none other than Hat Shop Tony. Hopefully someone posts some image of the Metra getting nailed.

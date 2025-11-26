@@ -6,4 +6,4 @@ slug: 'retraction-not-so-happy-wed'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-working late...maybe very late...I'm digging in with a half pack of Spirits and two diet RockStars...have mercy\[caption id="attachment\_971" align="aligncenter" width="275" caption="turns out I look fucking amazing in sweaters"\][![turns out I look fucking amazing in sweaters](/uploads/2009/09/Uncle-Joe.JPG "Uncle-Joe")](/uploads/2009/09/Uncle-Joe.JPG)\[/caption\]
+working late...maybe very late...I'm digging in with a half pack of Spirits and two diet RockStars...have mercy![turns out I look fucking amazing in sweaters](/uploads/2009/09/Uncle-Joe.JPG "Uncle-Joe")

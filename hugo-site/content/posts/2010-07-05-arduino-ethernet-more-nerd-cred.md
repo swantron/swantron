@@ -6,4 +6,4 @@ slug: 'arduino-ethernet-more-nerd-cred'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-\[caption id="attachment\_2450" align="aligncenter" width="550" caption="so it begins"\][![ethernet](/uploads/2010/07/arduino-ethernet.jpg "arduino-ethernet")](/uploads/2010/07/arduino-ethernet.jpg)\[/caption\] My ethernet shield is here...I haven't talked to it yet. This could be awesome.
+![ethernet](/uploads/2010/07/arduino-ethernet.jpg "arduino-ethernet") My ethernet shield is here...I haven't talked to it yet. This could be awesome.

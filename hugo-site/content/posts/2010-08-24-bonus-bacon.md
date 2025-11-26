@@ -6,4 +6,4 @@ slug: 'bonus-bacon'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-What is better than bacon? No, not nothing. Bonus bacon. \[caption id="attachment\_2565" align="aligncenter" width="550" caption="bonus"\][![bonus bacon](/uploads/2010/08/bonus-bacon.jpg "bonus-bacon")](/uploads/2010/08/bonus-bacon.jpg)\[/caption\] Circle gets a square.
+What is better than bacon? No, not nothing. Bonus bacon. ![bonus bacon](/uploads/2010/08/bonus-bacon.jpg "bonus-bacon") Circle gets a square.

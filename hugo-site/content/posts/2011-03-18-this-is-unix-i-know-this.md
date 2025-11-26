@@ -6,4 +6,4 @@ slug: 'this-is-unix-i-know-this'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-I shall call this "The Triple Threat" \[caption id="attachment\_3260" align="aligncenter" width="570" caption="o hi"\][![i know this](/uploads/2011/03/this-is-unix.jpg "this-is-unix")](/uploads/2011/03/this-is-unix.jpg)\[/caption\]
+I shall call this "The Triple Threat" ![i know this](/uploads/2011/03/this-is-unix.jpg "this-is-unix")

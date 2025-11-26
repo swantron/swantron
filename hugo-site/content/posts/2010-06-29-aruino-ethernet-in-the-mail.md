@@ -6,4 +6,4 @@ slug: 'aruino-ethernet-in-the-mail'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Amusing Amazon order time... \[caption id="attachment\_2393" align="aligncenter" width="472" caption="Into the Ether"\][![ethernet](/uploads/2010/06/arduino-shield.jpg "arduino-shield")](/uploads/2010/06/arduino-shield.jpg)\[/caption\] Arduino Ethernet shield, and a ring stretching tool. Go figure. Both respective projects will be well documented.
+Amusing Amazon order time... ![ethernet](/uploads/2010/06/arduino-shield.jpg "arduino-shield") Arduino Ethernet shield, and a ring stretching tool. Go figure. Both respective projects will be well documented.

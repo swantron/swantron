@@ -6,4 +6,4 @@ slug: 'food-slash-mathmeme'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-I like Cheetos, mathematics, and memes, for the record. \[caption id="attachment\_2918" align="aligncenter" width="571" caption="cubed"\][![nomnomnom](/uploads/2010/11/nom_cubed.jpg "nom_cubed")](/uploads/2010/11/nom_cubed.jpg)\[/caption\] Regular Cheetos have nothing on jalapeno Cheetos, also for the record.
+I like Cheetos, mathematics, and memes, for the record. ![nomnomnom](/uploads/2010/11/nom_cubed.jpg "nom_cubed") Regular Cheetos have nothing on jalapeno Cheetos, also for the record.

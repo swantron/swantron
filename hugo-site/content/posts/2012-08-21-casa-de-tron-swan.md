@@ -6,4 +6,4 @@ slug: 'casa-de-tron-swan'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Now with 100% more sod... \[caption id="attachment\_4695" align="alignnone" width="3134"\][![](/uploads/2012/08/swantron_house.jpg "swantron_house")](https://swantron.com/casa-de-tron-swan/swantron_house/) burbs cred\[/caption\] Unfortunately, I ordered and slapped down 6500 ft^2, which was short by 15%. Project status: ongoing.
+Now with 100% more sod... ![](/uploads/2012/08/swantron_house.jpg "swantron_house") Unfortunately, I ordered and slapped down 6500 ft^2, which was short by 15%. Project status: ongoing.

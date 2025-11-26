@@ -6,4 +6,4 @@ slug: 'gangsta-bloggin'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-\[caption id="attachment\_1986" align="aligncenter" width="800" caption="Represent."\][![boo yeah](/uploads/2010/04/blogging.jpg "blogging")](/uploads/2010/04/blogging.jpg)\[/caption\] MY AMBITIONZ AZ A BLOGGAH
+![boo yeah](/uploads/2010/04/blogging.jpg "blogging") MY AMBITIONZ AZ A BLOGGAH

@@ -6,4 +6,4 @@ slug: 'vernal-equinox-2012'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Not-so vernal-y... \[caption id="attachment\_4452" align="aligncenter" width="995" caption="shovel-y "\][![snow storm in bozeman mt](/uploads/2012/03/snowstorm.jpg "snowstorm")](https://swantron.com/vernal-equinox-2012/snowstorm/)\[/caption\]
+Not-so vernal-y... ![snow storm in bozeman mt](/uploads/2012/03/snowstorm.jpg "snowstorm")

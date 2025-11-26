@@ -6,4 +6,4 @@ slug: 'cup-bot-is-wax-y'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-\[caption id="attachment\_1921" align="aligncenter" width="1024" caption="ALL YOUR DRINK ARE BELONG TO US"\][![cup=bot](/uploads/2010/04/IMG00078-1024x768.jpg "cup-bot")](/uploads/2010/04/IMG00078.jpg)\[/caption\] SPILLS MAKE CUP-BOT SAD
+![cup=bot](/uploads/2010/04/IMG00078-1024x768.jpg "cup-bot") SPILLS MAKE CUP-BOT SAD

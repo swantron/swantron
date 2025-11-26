@@ -6,4 +6,4 @@ slug: 'i-dont-love-your-nuts'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Just got a Graty... \[caption id="attachment\_984" align="aligncenter" width="302" caption="nope."\][![nope.](/uploads/2009/10/vince.png "vince")](/uploads/2009/10/vince.png)\[/caption\] Pros: half-graty-ed cheese clumps are fun to eat Cons: doesn't fucking work
+Just got a Graty... ![nope.](/uploads/2009/10/vince.png "vince") Pros: half-graty-ed cheese clumps are fun to eat Cons: doesn't fucking work

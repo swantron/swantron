@@ -6,4 +6,4 @@ slug: 'chew-bot-is-cancer-y'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-\[caption id="attachment\_1899" align="aligncenter" width="800" caption="ALL YOUR LIPS ARE BELONG TO US"\][![chew-bot ftw](/uploads/2010/04/IMG00077.jpg "chew-bot")](/uploads/2010/04/IMG00077.jpg)\[/caption\] Chew-bot is wintergreen-y and cancer-y. ftl.
+![chew-bot ftw](/uploads/2010/04/IMG00077.jpg "chew-bot") Chew-bot is wintergreen-y and cancer-y. ftl.

@@ -6,4 +6,4 @@ slug: 'script-kiddie'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Good times with dad... \[caption id="attachment\_4589" align="alignnone" width="1000" caption="please disregard the drool spots"\][![script kiddie](/uploads/2012/06/script-kiddie.jpg "script-kiddie")](https://swantron.com/script-kiddie/script-kiddie/)\[/caption\] ...Linux VM on the work Win7. We don't really mess around.
+Good times with dad... ![script kiddie](/uploads/2012/06/script-kiddie.jpg "script-kiddie") ...Linux VM on the work Win7. We don't really mess around.

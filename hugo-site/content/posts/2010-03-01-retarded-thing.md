@@ -6,4 +6,4 @@ slug: 'retarded-thing'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-3/2? From 10 to 12? Sorry. Can't make it...I'm booked with a Retarded Thing. \[caption id="attachment\_1749" align="aligncenter" width="348" caption="sorry...I,m booked"\][![reetarded thing](/uploads/2010/02/retarded-thing.jpg "retarded-thing")](/uploads/2010/02/retarded-thing.jpg)\[/caption\] FWIW, Lotus Notes is also retarded.
+3/2? From 10 to 12? Sorry. Can't make it...I'm booked with a Retarded Thing. ![reetarded thing](/uploads/2010/02/retarded-thing.jpg "retarded-thing") FWIW, Lotus Notes is also retarded.

@@ -6,4 +6,4 @@ slug: 'awesome-robot'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-Could the green robot drawings be winding down? Hell to tha no! Suckaz! \[caption id="attachment\_2127" align="aligncenter" width="800" caption="tot3s aw3som3"\][![totes awesome](/uploads/2010/05/awesome_robot.jpg "awesome_robot")](/uploads/2010/05/awesome_robot.jpg)\[/caption\] This guy, FTW!
+Could the green robot drawings be winding down? Hell to tha no! Suckaz! ![totes awesome](/uploads/2010/05/awesome_robot.jpg "awesome_robot") This guy, FTW!
