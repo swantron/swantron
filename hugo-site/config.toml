@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'swan tron dot com'
 theme = 'PaperMod'
 
+# Ensure static files are served correctly with subpath baseURL
+canonifyURLs = true
+relativeURLs = false
+
 # Permalink structure to match old WordPress URLs: /index.php/YYYY/MM/DD/post-slug/
 [permalinks]
   posts = '/index.php/:year/:month/:day/:slug/'
