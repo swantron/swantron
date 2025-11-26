@@ -7,6 +7,10 @@ theme = 'PaperMod'
 canonifyURLs = true
 relativeURLs = false
 
+# Pagination settings
+[pagination]
+  pagerSize = 10
+
 # Permalink structure to match old WordPress URLs: /index.php/YYYY/MM/DD/post-slug/
 [permalinks]
   posts = '/index.php/:year/:month/:day/:slug/'
@@ -34,19 +38,19 @@ relativeURLs = false
   [[menu.main]]
     identifier = 'home'
     name = 'Blog'
-    url = '/'
+    url = '/swantron/'
     weight = 10
   
   [[menu.main]]
     identifier = 'about'
     name = 'About'
-    url = '/about/'
+    url = '/swantron/about/'
     weight = 20
   
   [[menu.main]]
     identifier = 'contact'
     name = 'Contact'
-    url = '/contact/'
+    url = '/swantron/contact/'
     weight = 30
 
 [markup]
