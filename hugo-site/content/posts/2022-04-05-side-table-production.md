@@ -9,9 +9,9 @@ Work from home?
 Starving after your midday workout?  
  Arguably snack too much?
 
-<figure class="wp-block-image size-large">![](/uploads/2022/04/PXL_20220403_222859336-1024x576.jpg)</figure>You need a little-ass end table.
+![](/uploads/2022/04/PXL_20220403_222859336-1024x576.jpg)You need a little-ass end table.
 
-<figure class="wp-block-image size-large">![](/uploads/2022/04/PXL_20220403_230036421-1024x576.jpg)</figure>I picked up a few sticks of 3/4" copper pipe and broke out the torch yesterday. Little side tables are great.
+![](/uploads/2022/04/PXL_20220403_230036421-1024x576.jpg)I picked up a few sticks of 3/4" copper pipe and broke out the torch yesterday. Little side tables are great.
 
 This design is minimal enough to look sharp, and sturdy enough for the kids to drag around for such things as 'sit on a side table and watch Full House' and 'argue with your sister while she serves you breakfast on the side table in front of the couch while you sit on the couch and your dad asks you if you can possibly turn off Full House or at least turn the volume down to a sensible level.'
 

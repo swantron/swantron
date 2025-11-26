@@ -7,4 +7,4 @@ slug: 'eclipse-colander'
 
 strain noodles: ❌  
 strain sun: ✅
-<figure class="wp-block-image size-large">![](/uploads/2024/04/PXL_20240408_182152088.MP_-1024x576.jpg)</figure><figure class="wp-block-image size-large">![](/uploads/2024/04/PXL_20240408_182207481.MP_-1024x576.jpg)</figure>40%-ish solar eclipse in Bozeman. Time to make crescents.
+![](/uploads/2024/04/PXL_20240408_182152088.MP_-1024x576.jpg)![](/uploads/2024/04/PXL_20240408_182207481.MP_-1024x576.jpg)40%-ish solar eclipse in Bozeman. Time to make crescents.

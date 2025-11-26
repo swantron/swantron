@@ -7,7 +7,7 @@ slug: 'its-been-a-minute'
 
 ..and a half. Life is busy.
 
-<figure class="wp-block-image size-large">![and a half and a half and a half](/uploads/2021/08/PXL_20210822_005554200-1024x550.jpg)<figcaption>...and a half..and a half</figcaption></figure>Since the previous post, I've had this site (generic WP install) on several hosting providers. The exercise was mostly for me to test crap out, live, with a \*bit\* on the line. Do it live.  
+![and a half and a half and a half](/uploads/2021/08/PXL_20210822_005554200-1024x550.jpg)Since the previous post, I've had this site (generic WP install) on several hosting providers. The exercise was mostly for me to test crap out, live, with a \*bit\* on the line. Do it live.  
   
 Containers with backups have been the best.. Digital Ocean was pretty great, somewhat surprisingly. Things ran there uninterrupted for quite a while. I bought a few domain names and consolidated, and shit sort of hit the fan.  
   
