@@ -1,9 +1,9 @@
 # swan tron dot com
 
-swantron/swantron is the og blog, in static format ([swantron.github.io/swantron](https://swantron.github.io/swantron/))
+- ([swantron/swantron](https://swantron.github.io/swantron/)) is the og blog, in static format 
 
-swantron/* is mostly tool based
+- ([swantron/tronswan](https://tronswan.com/)) is the landing spot for several newer projects
 
-swantron/tronswan is the landing spot for several projects ([tronswan.com](https://tronswan.com/)), and there are some cool tools in the [swantron/* repos](https://github.com/swantron)
+- ([swantron/chomptron](https://chomptron.com/)) is great if you are hungry, and cook
 
-check out swantron/chomptron if you are hungry ([chomptron.com](https://chomptron.com/))
+- ([swantron/* repos](https://github.com/swantron)) has several useful tools.. look around
