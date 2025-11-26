@@ -1,7 +1,6 @@
 ---
 title: 'Hard Hitting Reporting'
 date: 2006-12-06T23:11:54+00:00
-
 id: 427
 slug: 'hard-hitting-reporting'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

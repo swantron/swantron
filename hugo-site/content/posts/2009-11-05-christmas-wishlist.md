@@ -1,7 +1,6 @@
 ---
 title: 'Christmas Wishlist'
 date: 2009-11-05T10:58:16+00:00
-
 id: 1035
 slug: 'christmas-wishlist'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

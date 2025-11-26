@@ -1,7 +1,6 @@
 ---
 title: 'Pushing to Master'
 date: 2011-10-24T19:39:22+00:00
-
 id: 3965
 slug: 'pushing-to-master'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

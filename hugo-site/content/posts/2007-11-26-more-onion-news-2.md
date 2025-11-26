@@ -1,7 +1,6 @@
 ---
 title: 'More Onion News'
 date: 2007-11-26T17:49:03+00:00
-
 id: 625
 slug: 'more-onion-news-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

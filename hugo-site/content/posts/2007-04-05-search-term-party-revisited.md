@@ -1,7 +1,6 @@
 ---
 title: 'Search Term Party Revisited'
 date: 2007-04-05T02:43:08+00:00
-
 id: 524
 slug: 'search-term-party-revisited'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

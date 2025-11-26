@@ -1,7 +1,6 @@
 ---
 title: 'Android Curtain Call'
 date: 2012-04-03T09:06:43+00:00
-
 id: 4477
 slug: 'android-curtain-call'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

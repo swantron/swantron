@@ -1,7 +1,6 @@
 ---
 title: 'OML, an interpretation'
 date: 2009-10-16T15:12:26+00:00
-
 id: 998
 slug: 'oml-an-interpretation'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

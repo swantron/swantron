@@ -1,7 +1,6 @@
 ---
 title: 'Moving Boxes are not Boring'
 date: 2010-04-11T16:33:57+00:00
-
 id: 1946
 slug: 'moving-boxes-are-for-ship-y'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

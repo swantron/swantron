@@ -1,7 +1,6 @@
 ---
 title: 'Things I Hate: Toasters'
 date: 2010-01-22T12:14:26+00:00
-
 id: 1536
 slug: 'things-i-hate-toasters'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

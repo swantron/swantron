@@ -1,7 +1,6 @@
 ---
 title: 'Retarded Thing'
 date: 2010-03-01T21:36:40+00:00
-
 id: 1750
 slug: 'retarded-thing'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

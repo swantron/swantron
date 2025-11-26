@@ -1,7 +1,6 @@
 ---
 title: 'MJ&#8217;s Funeral Guest List Surprise'
 date: 2009-07-07T12:51:32+00:00
-
 id: 898
 slug: 'mjs-funeral-guest-list-surprise'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

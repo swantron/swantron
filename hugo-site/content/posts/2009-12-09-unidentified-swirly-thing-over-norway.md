@@ -1,7 +1,6 @@
 ---
 title: 'Unidentified Swirly Thing Over Norway'
 date: 2009-12-09T14:36:35+00:00
-
 id: 1198
 slug: 'unidentified-swirly-thing-over-norway'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

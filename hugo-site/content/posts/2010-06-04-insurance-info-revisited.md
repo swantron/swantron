@@ -1,7 +1,6 @@
 ---
 title: 'Insurance Info Revisited'
 date: 2010-06-04T18:59:59+00:00
-
 id: 2253
 slug: 'insurance-info-revisited'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

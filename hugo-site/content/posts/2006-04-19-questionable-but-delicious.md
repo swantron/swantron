@@ -1,7 +1,6 @@
 ---
 title: 'Questionable, but Delicious'
 date: 2006-04-19T19:10:05+00:00
-
 id: 6106
 slug: 'questionable-but-delicious'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

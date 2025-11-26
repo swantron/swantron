@@ -1,7 +1,6 @@
 ---
 title: 'Fat Tuesday Goings On'
 date: 2007-02-21T19:05:50+00:00
-
 id: 480
 slug: 'fat-tuesday-goings-on'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

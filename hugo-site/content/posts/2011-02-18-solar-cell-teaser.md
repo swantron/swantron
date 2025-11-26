@@ -1,7 +1,6 @@
 ---
 title: 'Solar Cell Teaser'
 date: 2011-02-18T16:27:32+00:00
-
 id: 3176
 slug: 'solar-cell-teaser'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

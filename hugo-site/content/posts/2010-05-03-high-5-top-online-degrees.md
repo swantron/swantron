@@ -1,7 +1,6 @@
 ---
 title: 'High 5:  Top Online Degrees'
 date: 2010-05-03T18:12:08+00:00
-
 id: 2099
 slug: 'high-5-top-online-degrees'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Spoofing User Agent Types from the Command line'
 date: 2011-07-11T11:19:41+00:00
-
 id: 3656
 slug: 'spoofing-user-agent-types-from-the-command-line'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

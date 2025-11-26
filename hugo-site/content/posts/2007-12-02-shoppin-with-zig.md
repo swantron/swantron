@@ -1,7 +1,6 @@
 ---
 title: 'Shoppin&#8217; With Zig'
 date: 2007-12-02T15:22:58+00:00
-
 id: 628
 slug: 'shoppin-with-zig'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Woot BOC Unboxing'
 date: 2011-05-26T17:25:25+00:00
-
 id: 3524
 slug: 'woot-boc-unboxing'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

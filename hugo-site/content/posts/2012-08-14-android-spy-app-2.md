@@ -1,7 +1,6 @@
 ---
 title: 'Android Spy App'
 date: 2012-08-14T09:14:40+00:00
-
 id: 6371
 slug: 'android-spy-app-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

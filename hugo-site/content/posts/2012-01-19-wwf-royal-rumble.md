@@ -1,7 +1,6 @@
 ---
 title: 'WWF Royal Rumble'
 date: 2012-01-19T07:20:21+00:00
-
 id: 4291
 slug: 'wwf-royal-rumble'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

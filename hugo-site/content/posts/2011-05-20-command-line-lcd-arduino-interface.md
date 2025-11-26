@@ -1,7 +1,6 @@
 ---
 title: 'Command Line LCD Arduino Interface'
 date: 2011-05-20T12:44:20+00:00
-
 id: 3502
 slug: 'command-line-lcd-arduino-interface'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

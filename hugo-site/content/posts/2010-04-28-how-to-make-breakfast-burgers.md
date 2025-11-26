@@ -1,7 +1,6 @@
 ---
 title: 'How to Make Breakfast Burgers'
 date: 2010-04-28T07:45:34+00:00
-
 id: 2060
 slug: 'how-to-make-breakfast-burgers'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

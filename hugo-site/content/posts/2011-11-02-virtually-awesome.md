@@ -1,7 +1,6 @@
 ---
 title: 'Virtually Awesome'
 date: 2011-11-02T12:23:29+00:00
-
 id: 4047
 slug: 'virtually-awesome'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

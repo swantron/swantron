@@ -1,7 +1,6 @@
 ---
 title: 'More Kyle /vs/ Joe'
 date: 2007-08-21T18:38:10+00:00
-
 id: 596
 slug: 'more-kyle-vs-joe'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

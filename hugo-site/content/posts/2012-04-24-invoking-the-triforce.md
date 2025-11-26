@@ -1,7 +1,6 @@
 ---
 title: 'Invoking the Triforce'
 date: 2012-04-24T17:30:33+00:00
-
 id: 4517
 slug: 'invoking-the-triforce'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

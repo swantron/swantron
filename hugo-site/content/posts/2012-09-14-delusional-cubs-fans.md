@@ -1,7 +1,6 @@
 ---
 title: 'Delusional Cubs Fans'
 date: 2012-09-14T13:06:20+00:00
-
 id: 4723
 slug: 'delusional-cubs-fans'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

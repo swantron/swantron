@@ -1,7 +1,6 @@
 ---
 title: 'Lack of Photo Content'
 date: 2006-04-17T15:39:22+00:00
-
 id: 6104
 slug: 'lack-of-photo-content'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

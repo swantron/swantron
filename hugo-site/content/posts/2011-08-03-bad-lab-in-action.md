@@ -1,7 +1,6 @@
 ---
 title: 'Bad Lab in Action'
 date: 2011-08-03T08:12:39+00:00
-
 id: 3718
 slug: 'bad-lab-in-action'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'My Firefox is Crapping'
 date: 2008-12-01T13:45:11+00:00
-
 id: 4130
 slug: 'my-firefox-is-crapping'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

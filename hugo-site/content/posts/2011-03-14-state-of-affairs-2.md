@@ -1,7 +1,6 @@
 ---
 title: 'State of Affairs'
 date: 2011-03-14T12:08:52+00:00
-
 id: 6261
 slug: 'state-of-affairs-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

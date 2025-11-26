@@ -1,7 +1,6 @@
 ---
 title: 'IOIO Seek Redux'
 date: 2011-10-16T13:35:17+00:00
-
 id: 3928
 slug: 'ioio-seek-redux'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

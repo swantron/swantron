@@ -1,7 +1,6 @@
 ---
 title: 'Swantron Global HQ'
 date: 2012-07-26T22:33:04+00:00
-
 id: 4653
 slug: 'swantron-global-hq'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

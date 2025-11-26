@@ -1,7 +1,6 @@
 ---
 title: 'Rattle Can Makeover'
 date: 2012-02-23T22:04:45+00:00
-
 id: 4407
 slug: 'rattle-can-makeover'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

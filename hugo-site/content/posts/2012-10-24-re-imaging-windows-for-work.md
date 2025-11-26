@@ -1,7 +1,6 @@
 ---
 title: 'Re-Imaging Windows (For Work)'
 date: 2012-10-24T12:57:50+00:00
-
 id: 4765
 slug: 're-imaging-windows-for-work'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Nerd Shovel'
 date: 2011-12-26T12:04:37+00:00
-
 id: 6337
 slug: 'nerd-shovel-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

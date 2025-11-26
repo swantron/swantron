@@ -1,7 +1,6 @@
 ---
 title: 'Kids Say the Darnedest Things'
 date: 2010-01-05T17:18:40+00:00
-
 id: 1390
 slug: 'kids-say-the-darnedest-things'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

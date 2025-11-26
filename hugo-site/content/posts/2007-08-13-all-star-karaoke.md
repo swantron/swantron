@@ -1,7 +1,6 @@
 ---
 title: 'All-Star Karaoke'
 date: 2007-08-13T18:42:49+00:00
-
 id: 593
 slug: 'all-star-karaoke'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

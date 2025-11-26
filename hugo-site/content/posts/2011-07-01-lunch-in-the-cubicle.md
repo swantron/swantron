@@ -1,7 +1,6 @@
 ---
 title: 'Lunch in the Cubicle'
 date: 2011-07-01T08:23:12+00:00
-
 id: 3617
 slug: 'lunch-in-the-cubicle'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

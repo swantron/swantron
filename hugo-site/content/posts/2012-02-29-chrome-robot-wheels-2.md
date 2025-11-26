@@ -1,7 +1,6 @@
 ---
 title: 'Chrome Robot Wheels'
 date: 2012-02-29T08:45:42+00:00
-
 id: 6355
 slug: 'chrome-robot-wheels-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

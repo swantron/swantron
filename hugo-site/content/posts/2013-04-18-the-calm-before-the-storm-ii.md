@@ -1,7 +1,6 @@
 ---
 title: 'The Calm Before the Storm II'
 date: 2013-04-18T20:47:53+00:00
-
 id: 4875
 slug: 'the-calm-before-the-storm-ii'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

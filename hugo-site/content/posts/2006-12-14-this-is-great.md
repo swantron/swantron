@@ -1,7 +1,6 @@
 ---
 title: 'This is Great'
 date: 2006-12-14T20:16:59+00:00
-
 id: 429
 slug: 'this-is-great'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

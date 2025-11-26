@@ -1,7 +1,6 @@
 ---
 title: 'New Shovel'
 date: 2012-10-15T12:18:21+00:00
-
 id: 4751
 slug: 'new-shovel'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Arduino Motor Shield'
 date: 2010-08-10T14:44:40+00:00
-
 id: 2527
 slug: 'arduino-motor-shield'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

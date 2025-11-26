@@ -1,7 +1,6 @@
 ---
 title: 'Discount Tech Time'
 date: 2010-09-02T15:44:21+00:00
-
 id: 2612
 slug: 'discount-tech-time'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

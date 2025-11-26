@@ -1,7 +1,6 @@
 ---
 title: 'Future Contact Lenses'
 date: 2011-08-09T09:01:10+00:00
-
 id: 4669
 slug: 'future-contact-lenses'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

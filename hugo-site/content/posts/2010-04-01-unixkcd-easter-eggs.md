@@ -1,7 +1,6 @@
 ---
 title: 'unixkcd easter eggs'
 date: 2010-04-01T14:29:27+00:00
-
 id: 1907
 slug: 'unixkcd-easter-eggs'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Lou Piniella Retires'
 date: 2010-07-20T12:45:34+00:00
-
 id: 2473
 slug: 'lou-piniella-retires'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

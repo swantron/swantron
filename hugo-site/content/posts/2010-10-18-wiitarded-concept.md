@@ -1,7 +1,6 @@
 ---
 title: 'Wiitarded Concept'
 date: 2010-10-18T17:37:42+00:00
-
 id: 2777
 slug: 'wiitarded-concept'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

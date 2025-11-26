@@ -1,7 +1,6 @@
 ---
 title: 'The Big Lebowski'
 date: 2009-01-19T21:07:49+00:00
-
 id: 841
 slug: 'the-big-lebowski'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

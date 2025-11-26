@@ -1,7 +1,6 @@
 ---
 title: 'Repair Center in U.S.A.'
 date: 2011-11-01T20:11:45+00:00
-
 id: 4085
 slug: 'repair-center-in-u-s-a'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

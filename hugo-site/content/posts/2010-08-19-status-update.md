@@ -1,7 +1,6 @@
 ---
 title: 'Status Update'
 date: 2010-08-19T09:15:47+00:00
-
 id: 2556
 slug: 'status-update'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

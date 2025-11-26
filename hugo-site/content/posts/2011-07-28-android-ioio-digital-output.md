@@ -1,7 +1,6 @@
 ---
 title: 'Android IOIO Digital Output'
 date: 2011-07-28T12:05:01+00:00
-
 id: 3712
 slug: 'android-ioio-digital-output'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Ringtone Mania'
 date: 2010-06-04T20:09:54+00:00
-
 id: 6225
 slug: 'ringtone-mania-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

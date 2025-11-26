@@ -1,7 +1,6 @@
 ---
 title: 'The Bachelor'
 date: 2008-06-25T21:30:05+00:00
-
 id: 763
 slug: 'the-bachelor'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

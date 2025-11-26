@@ -1,7 +1,6 @@
 ---
 title: 'Something is Afoot.'
 date: 2006-07-19T18:11:28+00:00
-
 id: 327
 slug: 'something-is-afoot'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

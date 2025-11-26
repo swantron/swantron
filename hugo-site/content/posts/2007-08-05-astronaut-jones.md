@@ -1,7 +1,6 @@
 ---
 title: 'Astronaut Jones'
 date: 2007-08-05T10:23:50+00:00
-
 id: 592
 slug: 'astronaut-jones'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Tony, Ken, Bob, Kyle, Joe, etc&#8230;'
 date: 2008-01-09T16:26:00+00:00
-
 id: 655
 slug: 'tony-ken-bob-kyle-joe-etc'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Satellite Internet Basics'
 date: 2011-06-20T14:28:58+00:00
-
 id: 3574
 slug: 'satellite-internet-basics'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

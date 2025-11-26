@@ -1,7 +1,6 @@
 ---
 title: 'Get Swoll, Son'
 date: 2010-04-16T17:14:36+00:00
-
 id: 1978
 slug: 'get-swoll-son'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

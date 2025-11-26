@@ -1,7 +1,6 @@
 ---
 title: 'Midget Mac'
 date: 2007-09-21T17:50:03+00:00
-
 id: 601
 slug: 'midget-mac'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

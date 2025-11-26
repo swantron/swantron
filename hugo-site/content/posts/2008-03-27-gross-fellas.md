@@ -1,7 +1,6 @@
 ---
 title: 'Gross, Fellas'
 date: 2008-03-27T17:27:27+00:00
-
 id: 716
 slug: 'gross-fellas'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

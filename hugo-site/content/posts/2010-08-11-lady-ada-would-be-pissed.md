@@ -1,7 +1,6 @@
 ---
 title: 'Lady Ada Would Be Pissed'
 date: 2010-08-11T19:42:22+00:00
-
 id: 2546
 slug: 'lady-ada-would-be-pissed'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

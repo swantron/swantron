@@ -1,7 +1,6 @@
 ---
 title: 'Catmobile'
 date: 2008-06-09T21:08:51+00:00
-
 id: 742
 slug: 'catmobile'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

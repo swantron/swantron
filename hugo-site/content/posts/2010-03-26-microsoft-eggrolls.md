@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft Eggrolls'
 date: 2010-03-26T23:17:23+00:00
-
 id: 1888
 slug: 'microsoft-eggrolls'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

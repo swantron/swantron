@@ -1,7 +1,6 @@
 ---
 title: 'Fancy Lunch'
 date: 2011-06-24T09:34:55+00:00
-
 id: 6292
 slug: 'fancy-lunch-3'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

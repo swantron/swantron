@@ -1,7 +1,6 @@
 ---
 title: 'Craigslist Foreplay?'
 date: 2009-11-09T11:44:28+00:00
-
 id: 1043
 slug: 'craigslist-foreplay'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

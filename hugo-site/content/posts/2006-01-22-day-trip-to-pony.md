@@ -1,7 +1,6 @@
 ---
 title: 'Day Trip to Pony'
 date: 2006-01-22T17:02:33+00:00
-
 id: 6077
 slug: 'day-trip-to-pony'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Surfer Trekkie Gear'
 date: 2009-12-31T09:51:29+00:00
-
 id: 1355
 slug: 'surfer-trekkie-gear'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

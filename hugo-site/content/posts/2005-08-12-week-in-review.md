@@ -1,7 +1,6 @@
 ---
 title: 'Week in Review'
 date: 2005-08-12T20:08:45+00:00
-
 id: 5752
 slug: 'week-in-review'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

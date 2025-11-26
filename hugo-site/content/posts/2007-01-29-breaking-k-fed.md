@@ -1,7 +1,6 @@
 ---
 title: 'Breaking K-Fed!!!'
 date: 2007-01-29T16:35:02+00:00
-
 id: 466
 slug: 'breaking-k-fed'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

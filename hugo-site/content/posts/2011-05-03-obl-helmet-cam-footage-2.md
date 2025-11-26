@@ -1,7 +1,6 @@
 ---
 title: 'OBL Helmet Cam Footage'
 date: 2011-05-03T08:20:49+00:00
-
 id: 6281
 slug: 'obl-helmet-cam-footage-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

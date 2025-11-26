@@ -1,7 +1,6 @@
 ---
 title: 'Bonus Content: IOIO Circuit Diagram'
 date: 2011-09-12T18:39:11+00:00
-
 id: 3809
 slug: 'bonus-content-ioio-circuit-diagram'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Ninja Kick! Ninja Chop!'
 date: 2007-09-07T02:25:24+00:00
-
 id: 597
 slug: 'ninja-kick-ninja-chop'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

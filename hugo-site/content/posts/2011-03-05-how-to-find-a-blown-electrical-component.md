@@ -1,7 +1,6 @@
 ---
 title: 'How To Find A Blown Electrical Component'
 date: 2011-03-05T19:59:37+00:00
-
 id: 3225
 slug: 'how-to-find-a-blown-electrical-component'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

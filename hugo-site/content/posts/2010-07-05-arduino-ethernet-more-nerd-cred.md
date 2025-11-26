@@ -1,7 +1,6 @@
 ---
 title: 'Arduino + Ethernet = More Nerd Cred'
 date: 2010-07-05T16:10:42+00:00
-
 id: 2449
 slug: 'arduino-ethernet-more-nerd-cred'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Occidental Distro Setup'
 date: 2012-09-24T08:12:19+00:00
-
 id: 4736
 slug: 'occidental-distro-setup'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

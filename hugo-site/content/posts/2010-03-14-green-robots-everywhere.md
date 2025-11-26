@@ -1,7 +1,6 @@
 ---
 title: 'Green Robots Everywhere'
 date: 2010-03-14T09:49:29+00:00
-
 id: 1818
 slug: 'green-robots-everywhere'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

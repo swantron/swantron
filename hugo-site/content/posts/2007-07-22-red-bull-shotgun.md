@@ -1,7 +1,6 @@
 ---
 title: 'Red Bull Shotgun'
 date: 2007-07-22T17:38:55+00:00
-
 id: 587
 slug: 'red-bull-shotgun'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Red Bull Chug Deax'
 date: 2007-04-21T17:12:17+00:00
-
 id: 533
 slug: 'red-bull-chug-deax'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

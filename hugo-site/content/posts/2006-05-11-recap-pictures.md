@@ -1,7 +1,6 @@
 ---
 title: 'Recap pictures'
 date: 2006-05-11T18:27:13+00:00
-
 id: 6110
 slug: 'recap-pictures'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

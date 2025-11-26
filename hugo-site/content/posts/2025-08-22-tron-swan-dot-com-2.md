@@ -1,7 +1,6 @@
 ---
 title: 'tron swan dot com'
 date: 2025-08-22T03:05:51+00:00
-
 id: 8482
 slug: 'tron-swan-dot-com-2'
 ---

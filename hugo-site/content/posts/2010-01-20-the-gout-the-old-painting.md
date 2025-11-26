@@ -1,7 +1,6 @@
 ---
 title: 'The Gout, The Old Painting'
 date: 2010-01-20T12:47:04+00:00
-
 id: 1533
 slug: 'the-gout-the-old-painting'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

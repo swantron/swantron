@@ -1,7 +1,6 @@
 ---
 title: 'Hammer Round ?'
 date: 2007-03-26T19:07:12+00:00
-
 id: 513
 slug: 'hammer-round'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

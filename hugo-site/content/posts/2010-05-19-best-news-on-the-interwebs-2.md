@@ -1,7 +1,6 @@
 ---
 title: 'Best News on the Interwebs'
 date: 2010-05-19T11:31:38+00:00
-
 id: 6222
 slug: 'best-news-on-the-interwebs-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

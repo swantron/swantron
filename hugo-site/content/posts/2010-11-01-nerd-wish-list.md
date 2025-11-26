@@ -1,7 +1,6 @@
 ---
 title: 'Nerd Wish List'
 date: 2010-11-01T14:03:30+00:00
-
 id: 4058
 slug: 'nerd-wish-list'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

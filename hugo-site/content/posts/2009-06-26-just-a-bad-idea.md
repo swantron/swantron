@@ -1,7 +1,6 @@
 ---
 title: 'Just a Bad Idea&#8230;'
 date: 2009-06-26T09:02:23+00:00
-
 id: 888
 slug: 'just-a-bad-idea'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

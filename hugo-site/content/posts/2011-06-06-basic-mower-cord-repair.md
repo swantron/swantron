@@ -1,7 +1,6 @@
 ---
 title: 'Basic Mower Cord Repair'
 date: 2011-06-06T20:33:52+00:00
-
 id: 3546
 slug: 'basic-mower-cord-repair'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

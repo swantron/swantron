@@ -1,7 +1,6 @@
 ---
 title: 'From the Vaults:'
 date: 2009-11-17T15:28:59+00:00
-
 id: 1059
 slug: 'from-the-vaults'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Morrison Militia Update'
 date: 2006-06-07T20:39:52+00:00
-
 id: 6115
 slug: 'morrison-malita-update'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Comics are Horrible II'
 date: 2008-09-17T17:41:18+00:00
-
 id: 777
 slug: 'comics-are-horrible-ii'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

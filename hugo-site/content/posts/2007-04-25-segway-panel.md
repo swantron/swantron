@@ -1,7 +1,6 @@
 ---
 title: 'Segway Panel'
 date: 2007-04-25T18:44:47+00:00
-
 id: 535
 slug: 'segway-panel'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

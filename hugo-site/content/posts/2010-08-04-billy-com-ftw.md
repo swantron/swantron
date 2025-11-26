@@ -1,7 +1,6 @@
 ---
 title: 'Billy.com FTW!'
 date: 2010-08-04T14:40:50+00:00
-
 id: 2512
 slug: 'billy-com-ftw'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

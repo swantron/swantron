@@ -1,7 +1,6 @@
 ---
 title: 'Adios Sukas'
 date: 2006-03-13T16:52:25+00:00
-
 id: 6098
 slug: 'adios-sukas'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

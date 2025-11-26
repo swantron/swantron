@@ -1,7 +1,6 @@
 ---
 title: 'Android Controlled IP Webcam'
 date: 2012-03-21T07:01:52+00:00
-
 id: 6362
 slug: 'android-controlled-ip-webcam-3'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

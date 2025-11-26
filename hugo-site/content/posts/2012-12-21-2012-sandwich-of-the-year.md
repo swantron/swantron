@@ -1,7 +1,6 @@
 ---
 title: '2012 Sandwich of the Year'
 date: 2012-12-21T16:19:39+00:00
-
 id: 6382
 slug: '2012-sandwich-of-the-year'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

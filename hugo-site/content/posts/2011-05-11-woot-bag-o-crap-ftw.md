@@ -1,7 +1,6 @@
 ---
 title: 'Woot Bag-O-Crap FTW!'
 date: 2011-05-11T15:10:30+00:00
-
 id: 3482
 slug: 'woot-bag-o-crap-ftw'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

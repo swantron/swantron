@@ -1,7 +1,6 @@
 ---
 title: 'Domain Name Change'
 date: 2010-01-15T11:46:10+00:00
-
 id: 1498
 slug: 'domain-name-change'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

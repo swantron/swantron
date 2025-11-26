@@ -1,7 +1,6 @@
 ---
 title: 'Ghost Ride the Whip'
 date: 2008-05-03T15:41:31+00:00
-
 id: 734
 slug: 'ghost-ride-the-whip'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

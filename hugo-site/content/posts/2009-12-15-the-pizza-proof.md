@@ -1,7 +1,6 @@
 ---
 title: 'The Pizza Proof'
 date: 2009-12-15T11:00:39+00:00
-
 id: 1246
 slug: 'the-pizza-proof'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

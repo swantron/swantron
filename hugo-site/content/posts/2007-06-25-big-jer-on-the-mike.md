@@ -1,7 +1,6 @@
 ---
 title: 'Big Jer on the Mike'
 date: 2007-06-25T18:44:02+00:00
-
 id: 570
 slug: 'big-jer-on-the-mike'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

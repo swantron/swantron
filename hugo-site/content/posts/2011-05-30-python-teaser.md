@@ -1,7 +1,6 @@
 ---
 title: 'Python Teaser'
 date: 2011-05-30T19:41:08+00:00
-
 id: 3527
 slug: 'python-teaser'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

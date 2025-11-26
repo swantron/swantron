@@ -1,7 +1,6 @@
 ---
 title: 'Wrigley Rules'
 date: 2008-08-20T19:20:50+00:00
-
 id: 768
 slug: 'wrigley-rules'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

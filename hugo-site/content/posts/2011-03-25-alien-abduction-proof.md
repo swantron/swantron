@@ -1,7 +1,6 @@
 ---
 title: 'Alien Abduction Proof'
 date: 2011-03-25T08:17:59+00:00
-
 id: 3305
 slug: 'alien-abduction-proof'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'It&#8217;s Been a Minute'
 date: 2021-08-22T01:07:48+00:00
-
 id: 8381
 slug: 'its-been-a-minute'
 ---

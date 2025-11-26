@@ -1,7 +1,6 @@
 ---
 title: 'Daft Punk Hand Thing'
 date: 2007-06-20T17:54:16+00:00
-
 id: 569
 slug: 'daft-punk-hand-thing'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

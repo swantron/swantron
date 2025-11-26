@@ -1,7 +1,6 @@
 ---
 title: 'Stellarium on Ubuntu'
 date: 2010-06-17T17:30:55+00:00
-
 id: 6230
 slug: 'stellarium-on-ubuntu-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

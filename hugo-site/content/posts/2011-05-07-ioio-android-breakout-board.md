@@ -1,7 +1,6 @@
 ---
 title: 'IOIO Android Breakout Board'
 date: 2011-05-07T14:04:06+00:00
-
 id: 3471
 slug: 'ioio-android-breakout-board'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

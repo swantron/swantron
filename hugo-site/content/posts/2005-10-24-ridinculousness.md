@@ -1,7 +1,6 @@
 ---
 title: 'Ridiculousness'
 date: 2005-10-24T21:57:07+00:00
-
 id: 5874
 slug: 'ridinculousness'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

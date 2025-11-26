@@ -1,6 +1,5 @@
 ---
 title: 'Time Wars&#8230;Watch vs Cell Phone'
-
 id: 3200
 slug: 'time-wars-watch-vs-cell-phone'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

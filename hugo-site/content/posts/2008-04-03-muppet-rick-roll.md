@@ -1,7 +1,6 @@
 ---
 title: 'Muppet Rick Roll'
 date: 2008-04-03T16:25:01+00:00
-
 id: 719
 slug: 'muppet-rick-roll'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

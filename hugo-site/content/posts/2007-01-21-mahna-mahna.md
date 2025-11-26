@@ -1,7 +1,6 @@
 ---
 title: 'Mahna Mahna'
 date: 2007-01-21T05:08:37+00:00
-
 id: 455
 slug: 'mahna-mahna'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

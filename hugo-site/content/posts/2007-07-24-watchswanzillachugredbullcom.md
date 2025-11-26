@@ -1,7 +1,6 @@
 ---
 title: 'watchswanzillachugredbull.com'
 date: 2007-07-24T18:11:19+00:00
-
 id: 588
 slug: 'watchswanzillachugredbullcom'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

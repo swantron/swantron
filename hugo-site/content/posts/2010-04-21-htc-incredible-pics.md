@@ -1,7 +1,6 @@
 ---
 title: 'HTC Incredible Pics'
 date: 2010-04-21T17:11:37+00:00
-
 id: 2017
 slug: 'htc-incredible-pics'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'IPad.  Really?'
 date: 2010-01-27T11:55:17+00:00
-
 id: 1574
 slug: 'ipad-really'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

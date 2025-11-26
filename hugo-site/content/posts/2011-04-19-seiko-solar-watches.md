@@ -1,7 +1,6 @@
 ---
 title: 'Seiko Solar Watches'
 date: 2011-04-19T09:24:50+00:00
-
 id: 4511
 slug: 'seiko-solar-watches'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

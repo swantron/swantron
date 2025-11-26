@@ -1,7 +1,6 @@
 ---
 title: 'Spray Paint Art'
 date: 2010-02-17T21:22:03+00:00
-
 id: 6178
 slug: 'spray-paint-art-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

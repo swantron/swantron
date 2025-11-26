@@ -1,7 +1,6 @@
 ---
 title: 'Fun at the Mall'
 date: 2007-02-02T17:39:58+00:00
-
 id: 469
 slug: 'fun-at-the-mall'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'The Zig Lebowski'
 date: 2007-11-13T19:51:19+00:00
-
 id: 620
 slug: 'the-zig-lebowski'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

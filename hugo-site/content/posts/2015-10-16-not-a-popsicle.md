@@ -1,7 +1,6 @@
 ---
 title: 'Not a Popsicle'
 date: 2015-10-16T08:04:14+00:00
-
 id: 5032
 slug: 'not-a-popsicle'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

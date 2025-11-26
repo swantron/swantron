@@ -1,7 +1,6 @@
 ---
 title: 'Bombs over Beirut'
 date: 2006-08-04T01:22:58+00:00
-
 id: 335
 slug: 'bombs-over-beirut'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

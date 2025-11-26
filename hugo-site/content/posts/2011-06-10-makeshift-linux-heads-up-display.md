@@ -1,7 +1,6 @@
 ---
 title: 'Makeshift Linux Heads-Up Display'
 date: 2011-06-10T10:43:02+00:00
-
 id: 3560
 slug: 'makeshift-linux-heads-up-display'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

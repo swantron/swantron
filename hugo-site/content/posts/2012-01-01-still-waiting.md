@@ -1,7 +1,6 @@
 ---
 title: 'Still Waiting'
 date: 2012-01-01T13:56:11+00:00
-
 id: 4248
 slug: 'still-waiting'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

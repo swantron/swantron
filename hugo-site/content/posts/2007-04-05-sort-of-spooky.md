@@ -1,7 +1,6 @@
 ---
 title: 'Sort of Spooky'
 date: 2007-04-05T18:05:02+00:00
-
 id: 525
 slug: 'sort-of-spooky'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

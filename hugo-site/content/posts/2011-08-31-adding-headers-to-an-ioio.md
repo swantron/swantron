@@ -1,7 +1,6 @@
 ---
 title: 'Adding Headers to an IOIO'
 date: 2011-08-31T21:33:07+00:00
-
 id: 3783
 slug: 'adding-headers-to-an-ioio'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

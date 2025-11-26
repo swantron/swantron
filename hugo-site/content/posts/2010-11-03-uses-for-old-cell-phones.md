@@ -1,7 +1,6 @@
 ---
 title: 'Uses for Old Cell Phones'
 date: 2010-11-03T16:08:31+00:00
-
 id: 2853
 slug: 'uses-for-old-cell-phones'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

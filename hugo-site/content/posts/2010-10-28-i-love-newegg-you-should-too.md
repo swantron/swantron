@@ -1,7 +1,6 @@
 ---
 title: 'I Love Newegg, You Should Too'
 date: 2010-10-28T18:32:17+00:00
-
 id: 2829
 slug: 'i-love-newegg-you-should-too'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

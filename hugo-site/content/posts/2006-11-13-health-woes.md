@@ -1,7 +1,6 @@
 ---
 title: 'Health Woes'
 date: 2006-11-13T22:21:49+00:00
-
 id: 410
 slug: 'health-woes'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

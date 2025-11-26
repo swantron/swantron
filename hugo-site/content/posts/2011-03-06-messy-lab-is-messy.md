@@ -1,7 +1,6 @@
 ---
 title: 'Messy Lab is Messy'
 date: 2011-03-06T19:39:21+00:00
-
 id: 3222
 slug: 'messy-lab-is-messy'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

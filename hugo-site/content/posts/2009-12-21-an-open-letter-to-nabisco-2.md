@@ -1,7 +1,6 @@
 ---
 title: 'An open letter to Nabisco'
 date: 2009-12-21T16:45:07+00:00
-
 id: 6159
 slug: 'an-open-letter-to-nabisco-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

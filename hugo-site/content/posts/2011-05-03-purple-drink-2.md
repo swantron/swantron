@@ -1,7 +1,6 @@
 ---
 title: 'Purple Drink'
 date: 2011-05-03T09:09:12+00:00
-
 id: 6282
 slug: 'purple-drink-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

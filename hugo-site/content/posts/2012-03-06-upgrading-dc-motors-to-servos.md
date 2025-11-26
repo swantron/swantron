@@ -1,7 +1,6 @@
 ---
 title: 'Upgrading DC Motors to Servos'
 date: 2012-03-06T11:46:50+00:00
-
 id: 4431
 slug: 'upgrading-dc-motors-to-servos'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Jamaican Pictorial #2'
 date: 2006-03-25T13:59:05+00:00
-
 id: 6100
 slug: 'jamaican-pictorial-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

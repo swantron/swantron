@@ -1,7 +1,6 @@
 ---
 title: 'Hamburger Penis'
 date: 2008-04-10T17:30:11+00:00
-
 id: 725
 slug: 'hamburger-penis'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

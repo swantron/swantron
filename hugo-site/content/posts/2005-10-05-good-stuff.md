@@ -1,7 +1,6 @@
 ---
 title: 'Good Stuff'
 date: 2005-10-05T16:32:36+00:00
-
 id: 5848
 slug: 'good-stuff'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

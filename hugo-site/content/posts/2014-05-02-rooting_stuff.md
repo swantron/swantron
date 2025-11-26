@@ -1,7 +1,6 @@
 ---
 title: 'Rooting Stuff'
 date: 2014-05-02T08:07:16+00:00
-
 id: 5013
 slug: 'rooting_stuff'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

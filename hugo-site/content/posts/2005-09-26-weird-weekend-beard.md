@@ -1,7 +1,6 @@
 ---
 title: 'Weird Weekend &#8211; Beard'
 date: 2005-09-26T19:45:29+00:00
-
 id: 5829
 slug: 'weird-weekend-beard'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

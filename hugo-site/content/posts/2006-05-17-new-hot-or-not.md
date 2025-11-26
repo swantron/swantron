@@ -1,7 +1,6 @@
 ---
 title: 'New Hot or Not'
 date: 2006-05-17T23:38:49+00:00
-
 id: 6111
 slug: 'new-hot-or-not'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

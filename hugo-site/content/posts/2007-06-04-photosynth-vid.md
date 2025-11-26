@@ -1,7 +1,6 @@
 ---
 title: 'Photosynth Vid'
 date: 2007-06-04T18:26:58+00:00
-
 id: 562
 slug: 'photosynth-vid'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

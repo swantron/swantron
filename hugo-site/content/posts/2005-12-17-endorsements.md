@@ -1,7 +1,6 @@
 ---
 title: 'Endorsements'
 date: 2005-12-17T17:11:35+00:00
-
 id: 5996
 slug: 'endorsements'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

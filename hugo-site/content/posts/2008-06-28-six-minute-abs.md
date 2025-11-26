@@ -1,7 +1,6 @@
 ---
 title: 'Six Minute Abs&#8230;'
 date: 2008-06-28T21:53:25+00:00
-
 id: 766
 slug: 'six-minute-abs'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

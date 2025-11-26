@@ -1,7 +1,6 @@
 ---
 title: 'Robomantic Robomance'
 date: 2010-10-11T12:35:08+00:00
-
 id: 2757
 slug: 'robomantic-robomance'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

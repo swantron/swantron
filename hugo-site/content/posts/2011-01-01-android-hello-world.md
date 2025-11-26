@@ -1,7 +1,6 @@
 ---
 title: 'Android Hello World'
 date: 2011-01-01T15:25:17+00:00
-
 id: 3092
 slug: 'android-hello-world'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

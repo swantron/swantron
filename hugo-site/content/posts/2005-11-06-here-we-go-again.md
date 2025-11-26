@@ -1,7 +1,6 @@
 ---
 title: 'Here we go again'
 date: 2005-11-06T18:13:01+00:00
-
 id: 5916
 slug: 'here-we-go-again'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

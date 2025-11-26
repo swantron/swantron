@@ -1,7 +1,6 @@
 ---
 title: 'The Blue-ray/Netflix/PS3 Saga of &#8217;09'
 date: 2009-12-28T14:27:30+00:00
-
 id: 1273
 slug: 'the-blue-raynetflixps3-saga-of-09'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'ALL YOUR BASE'
 date: 2010-03-23T18:14:36+00:00
-
 id: 1870
 slug: 'all-your-base'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

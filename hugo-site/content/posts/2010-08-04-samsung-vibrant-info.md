@@ -1,7 +1,6 @@
 ---
 title: 'Samsung Vibrant Info'
 date: 2010-08-04T17:55:14+00:00
-
 id: 2515
 slug: 'samsung-vibrant-info'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Bathroom Antics'
 date: 2007-08-04T10:43:14+00:00
-
 id: 591
 slug: 'bathroom-antics'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

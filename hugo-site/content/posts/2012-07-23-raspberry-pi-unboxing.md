@@ -1,7 +1,6 @@
 ---
 title: 'Raspberry Pi Unboxing'
 date: 2012-07-23T08:23:12+00:00
-
 id: 4648
 slug: 'raspberry-pi-unboxing'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

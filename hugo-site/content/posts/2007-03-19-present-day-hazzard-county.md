@@ -1,7 +1,6 @@
 ---
 title: 'Present Day Hazzard County'
 date: 2007-03-19T18:58:10+00:00
-
 id: 507
 slug: 'present-day-hazzard-county'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

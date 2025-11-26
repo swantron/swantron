@@ -1,7 +1,6 @@
 ---
 title: 'Ubuntu Natty Netbook Review'
 date: 2011-06-13T18:20:41+00:00
-
 id: 3563
 slug: 'ubuntu-natty-netbook-review'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

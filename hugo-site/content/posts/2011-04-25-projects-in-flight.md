@@ -1,7 +1,6 @@
 ---
 title: 'Projects in Flight'
 date: 2011-04-25T13:11:56+00:00
-
 id: 3422
 slug: 'projects-in-flight'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

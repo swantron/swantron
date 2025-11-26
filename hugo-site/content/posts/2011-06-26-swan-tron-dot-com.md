@@ -1,7 +1,6 @@
 ---
 title: 'swan tron dot com'
 date: 2011-06-26T20:48:22+00:00
-
 id: 3598
 slug: 'swan-tron-dot-com'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

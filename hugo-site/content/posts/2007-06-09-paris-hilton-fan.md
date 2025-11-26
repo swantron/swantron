@@ -1,7 +1,6 @@
 ---
 title: 'Paris Hilton Fan'
 date: 2007-06-09T15:46:30+00:00
-
 id: 563
 slug: 'paris-hilton-fan'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

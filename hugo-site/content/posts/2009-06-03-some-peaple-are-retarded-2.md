@@ -1,7 +1,6 @@
 ---
 title: 'Some Peaple are Retarded'
 date: 2009-06-03T13:49:52+00:00
-
 id: 6143
 slug: 'some-peaple-are-retarded-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

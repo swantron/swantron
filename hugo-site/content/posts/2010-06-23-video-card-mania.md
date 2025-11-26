@@ -1,7 +1,6 @@
 ---
 title: 'Video Card Mania'
 date: 2010-06-23T16:51:20+00:00
-
 id: 2358
 slug: 'video-card-mania'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Android IOIO Project | IOIOSeek'
 date: 2011-10-11T04:01:05+00:00
-
 id: 6312
 slug: 'android-ioio-project-ioioseek-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

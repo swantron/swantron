@@ -1,7 +1,6 @@
 ---
 title: 'Last (Gangster) Vehicle in the Lot'
 date: 2009-09-23T18:03:26+00:00
-
 id: 977
 slug: 'last-gangster-vehicle-in-the-lot'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

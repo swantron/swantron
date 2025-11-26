@@ -1,14 +1,11 @@
 ---
 title: 'Android SDK / Eclipse / Ubuntu'
 date: 2011-10-23T14:05:45+00:00
-
 id: 3962
 slug: 'android-sdk-eclipse-ubuntu'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
 I updated to Ubuntu Oneiric Ocelot last week. For some reason, the automatic upgrade process botched pulling over my Android Development Tools (ADT) components. Chalk this one up with the strange camera issue I am seeing, as two votes for bailing on a fixed release cycle. Canonical has pushed out two consecutive iffy builds...but I digress. It had been a while since I had set my Android development environment up. I had to start from scratch, so figured I would spell out the process. Note the lack of "Android \*" from the list of installed components: \[caption id="attachment\_3963" align="aligncenter" width="570" caption="...no sign"\][![eclipse ubuntu android sdk](/uploads/2011/10/eclipse-ftl-570x292.png "eclipse-ftl")](/uploads/2011/10/eclipse-ftl.png)\[/caption\] I'm starting from the point of having Eclipse installed. That part is straight forward...I snagged it off of the Ubuntu Market, but you an do it with Aptitude or however you like. Same goes for the JRE and JDK, the Java Runtime Environment and Java Development Kit. Snag those from the Market, Sun's site, or apt - get...verify you have the correct version by running "java -version" from the command line. Mine is currently:
-
 > swantron@Dell15:~$ java -version java version "1.6.0\_23" OpenJDK Runtime Environment (IcedTea6 1.11pre) (6b23~pre10-0ubuntu5) OpenJDK Server VM (build 20.0-b11, mixed mode)
-
 The Android SDK is the next component to snag. It has two pieces: Standard SDK (starter package) and SDK components. The later is where you can grab pieces to test Galaxy Tabs...stuff like that. The specifics are located there. You first need to download the starter package from d.android.com/sdk and run the UI. There you can pick and choose the pieces you want to implement, manage emulators, etc. The last piece is the actual Eclipse plug-in. It is simple to implement. Navigate to Help . Install New Software, and feed through the process until you are asked for a site location. Said site is dl-ssl.google.com/android/eclipse A restart should have Eclipse up and running. Give a shout if it doesn't...after doing this a few times, I am becoming somewhat of an expert. 

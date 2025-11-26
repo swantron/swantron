@@ -1,6 +1,5 @@
 ---
 title: 'Pretty Funny'
-
 id: 430
 slug: 'pretty-funny'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

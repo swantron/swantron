@@ -1,7 +1,6 @@
 ---
 title: 'Seaplane FTW'
 date: 2010-02-01T16:16:24+00:00
-
 id: 1611
 slug: 'seaplane-ftw'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Check Your Calender'
 date: 2007-03-01T04:00:11+00:00
-
 id: 487
 slug: 'check-your-calender'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

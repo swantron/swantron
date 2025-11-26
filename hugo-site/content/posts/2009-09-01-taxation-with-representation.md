@@ -1,7 +1,6 @@
 ---
 title: 'Taxation with Representation'
 date: 2009-09-01T12:27:09+00:00
-
 id: 961
 slug: 'taxation-with-representation'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Applied Robotics'
 date: 2010-03-22T17:19:49+00:00
-
 id: 1853
 slug: 'applied-robotics'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Stereotype&#8230;Strengthened!'
 date: 2009-08-19T12:15:25+00:00
-
 id: 951
 slug: 'stereotype-strengthened'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'IOIO App Redux Time'
 date: 2011-09-21T09:09:43+00:00
-
 id: 3839
 slug: 'ioio-app-redux-time'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

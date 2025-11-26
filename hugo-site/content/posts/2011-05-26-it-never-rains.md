@@ -1,7 +1,6 @@
 ---
 title: 'It Never Rains'
 date: 2011-05-26T12:02:09+00:00
-
 id: 3519
 slug: 'it-never-rains'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

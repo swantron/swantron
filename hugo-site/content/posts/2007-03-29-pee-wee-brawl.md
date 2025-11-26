@@ -1,7 +1,6 @@
 ---
 title: 'Pee Wee Brawl'
 date: 2007-03-29T02:30:38+00:00
-
 id: 517
 slug: 'pee-wee-brawl'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

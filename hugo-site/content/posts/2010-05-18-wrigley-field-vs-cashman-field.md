@@ -1,7 +1,6 @@
 ---
 title: 'Wrigley Field /vs/ Cashman Field'
 date: 2010-05-18T11:54:00+00:00
-
 id: 2143
 slug: 'wrigley-field-vs-cashman-field'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Phelps Minute'
 date: 2008-09-12T18:36:11+00:00
-
 id: 6133
 slug: 'phelps-minute-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

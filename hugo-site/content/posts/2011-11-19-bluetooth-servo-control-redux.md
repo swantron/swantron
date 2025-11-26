@@ -1,7 +1,6 @@
 ---
 title: 'Bluetooth Servo Control Redux'
 date: 2011-11-19T17:11:24+00:00
-
 id: 4109
 slug: 'bluetooth-servo-control-redux'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Hooked on a Feeling'
 date: 2006-01-27T17:12:25+00:00
-
 id: 6084
 slug: 'hooked-on-a-feeling'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

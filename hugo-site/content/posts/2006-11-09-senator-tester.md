@@ -1,7 +1,6 @@
 ---
 title: 'Senator Tester'
 date: 2006-11-09T13:49:03+00:00
-
 id: 407
 slug: 'senator-tester'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

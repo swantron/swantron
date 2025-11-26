@@ -1,7 +1,6 @@
 ---
 title: 'Not a UFO&#8230;just a little SLBM'
 date: 2009-12-10T16:36:58+00:00
-
 id: 1206
 slug: 'not-a-ufo-just-a-little-slbm'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

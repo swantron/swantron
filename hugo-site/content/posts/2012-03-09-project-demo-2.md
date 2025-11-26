@@ -1,7 +1,6 @@
 ---
 title: 'Project Demo'
 date: 2012-03-09T21:19:20+00:00
-
 id: 6359
 slug: 'project-demo-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

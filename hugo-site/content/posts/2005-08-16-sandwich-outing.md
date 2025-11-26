@@ -1,7 +1,6 @@
 ---
 title: 'Sandwich Outing'
 date: 2005-08-16T20:56:39+00:00
-
 id: 5758
 slug: 'sandwich-outing'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

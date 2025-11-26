@@ -1,7 +1,6 @@
 ---
 title: 'Zenni Optical | Very Zen-Like'
 date: 2010-05-10T16:03:06+00:00
-
 id: 6219
 slug: 'zenni-optical-very-zen-like-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

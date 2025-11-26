@@ -1,7 +1,6 @@
 ---
 title: 'Hail Caesar!'
 date: 2007-05-13T15:20:19+00:00
-
 id: 549
 slug: 'hail-caesar'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Guitar Hero Hero'
 date: 2008-06-11T15:50:45+00:00
-
 id: 744
 slug: 'guitar-hero-hero'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Casa de Tron Swan'
 date: 2012-08-21T19:59:33+00:00
-
 id: 6373
 slug: 'casa-de-tron-swan'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

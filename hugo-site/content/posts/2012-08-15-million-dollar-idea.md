@@ -1,7 +1,6 @@
 ---
 title: 'Million Dollar Idea'
 date: 2012-08-15T08:06:23+00:00
-
 id: 4680
 slug: 'million-dollar-idea'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

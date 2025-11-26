@@ -1,7 +1,6 @@
 ---
 title: 'Arduino Solar Cell-Based Detector'
 date: 2011-02-20T11:26:16+00:00
-
 id: 3184
 slug: 'arduino-solar-cell-based-detector'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

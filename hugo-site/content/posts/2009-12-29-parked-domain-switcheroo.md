@@ -1,7 +1,6 @@
 ---
 title: 'Parked Domain Switcheroo'
 date: 2009-12-29T12:46:20+00:00
-
 id: 1283
 slug: 'parked-domain-switcheroo'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

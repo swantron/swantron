@@ -1,7 +1,6 @@
 ---
 title: 'Another Practical Application of Good Manners'
 date: 2010-10-26T16:03:13+00:00
-
 id: 6249
 slug: 'another-practical-application-of-good-manners-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

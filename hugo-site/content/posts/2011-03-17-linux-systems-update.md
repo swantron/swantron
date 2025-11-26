@@ -1,7 +1,6 @@
 ---
 title: 'Linux Systems Update'
 date: 2011-03-17T11:46:59+00:00
-
 id: 3253
 slug: 'linux-systems-update'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

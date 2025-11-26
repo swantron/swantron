@@ -1,7 +1,6 @@
 ---
 title: 'The Mitchell Report'
 date: 2007-12-18T15:57:21+00:00
-
 id: 644
 slug: 'the-mitchell-report'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

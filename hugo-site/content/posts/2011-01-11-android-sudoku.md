@@ -1,7 +1,6 @@
 ---
 title: 'Android Sudoku'
 date: 2011-01-11T21:23:13+00:00
-
 id: 3107
 slug: 'android-sudoku'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

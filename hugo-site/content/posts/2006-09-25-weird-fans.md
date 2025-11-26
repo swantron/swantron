@@ -1,7 +1,6 @@
 ---
 title: 'Weird Fans'
 date: 2006-09-25T17:31:30+00:00
-
 id: 375
 slug: 'weird-fans'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

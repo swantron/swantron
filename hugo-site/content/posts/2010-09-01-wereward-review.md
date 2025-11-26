@@ -1,7 +1,6 @@
 ---
 title: 'WeReward Review'
 date: 2010-09-01T18:37:21+00:00
-
 id: 2579
 slug: 'wereward-review'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

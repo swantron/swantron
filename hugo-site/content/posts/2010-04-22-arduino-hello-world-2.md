@@ -1,7 +1,6 @@
 ---
 title: 'Arduino Hello World'
 date: 2010-04-22T18:44:41+00:00
-
 id: 6208
 slug: 'arduino-hello-world-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

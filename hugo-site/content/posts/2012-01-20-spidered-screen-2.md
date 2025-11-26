@@ -1,7 +1,6 @@
 ---
 title: 'Spidered Screen'
 date: 2012-01-20T22:04:39+00:00
-
 id: 6346
 slug: 'spidered-screen-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

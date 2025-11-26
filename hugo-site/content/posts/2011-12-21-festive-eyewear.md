@@ -1,7 +1,6 @@
 ---
 title: 'Festive Eyewear'
 date: 2011-12-21T12:45:38+00:00
-
 id: 4198
 slug: 'festive-eyewear'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

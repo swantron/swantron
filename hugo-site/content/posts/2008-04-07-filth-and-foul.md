@@ -1,7 +1,6 @@
 ---
 title: 'Filth and Foul'
 date: 2008-04-07T14:15:37+00:00
-
 id: 723
 slug: 'filth-and-foul'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

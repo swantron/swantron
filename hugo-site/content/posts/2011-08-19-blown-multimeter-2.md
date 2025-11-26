@@ -1,7 +1,6 @@
 ---
 title: 'Blown Multimeter'
 date: 2011-08-19T09:50:28+00:00
-
 id: 6304
 slug: 'blown-multimeter-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Brittany Murphy Overdose'
 date: 2009-12-20T12:45:18+00:00
-
 id: 1260
 slug: 'brittany-murphy-overdose'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

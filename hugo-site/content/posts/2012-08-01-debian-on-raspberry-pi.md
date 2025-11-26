@@ -1,7 +1,6 @@
 ---
 title: 'Debian on Raspberry Pi'
 date: 2012-08-01T13:06:47+00:00
-
 id: 4659
 slug: 'debian-on-raspberry-pi'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

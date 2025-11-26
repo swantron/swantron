@@ -1,7 +1,6 @@
 ---
 title: 'Webcam Control Via Android'
 date: 2012-05-06T16:32:21+00:00
-
 id: 4546
 slug: 'webcam-control-via-android'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

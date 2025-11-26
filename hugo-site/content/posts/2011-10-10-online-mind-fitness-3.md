@@ -1,7 +1,6 @@
 ---
 title: 'Online Mind Fitness'
 date: 2011-10-10T18:24:23+00:00
-
 id: 6314
 slug: 'online-mind-fitness-3'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

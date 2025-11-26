@@ -1,7 +1,6 @@
 ---
 title: 'I Will Derive'
 date: 2008-05-29T14:55:05+00:00
-
 id: 737
 slug: 'i-will-derive'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

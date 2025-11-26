@@ -1,7 +1,6 @@
 ---
 title: 'Amazon Recommendation Weirdness'
 date: 2010-01-31T16:17:38+00:00
-
 id: 6169
 slug: 'amazon-recomendation-weirdness-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

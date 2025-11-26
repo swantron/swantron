@@ -1,7 +1,6 @@
 ---
 title: 'This is Bad'
 date: 2006-10-15T19:12:58+00:00
-
 id: 392
 slug: 'this-is-bad'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

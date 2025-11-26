@@ -1,7 +1,6 @@
 ---
 title: 'Droid 2 Must Have Apps'
 date: 2010-08-25T19:42:32+00:00
-
 id: 6241
 slug: 'droid-2-must-have-apps-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

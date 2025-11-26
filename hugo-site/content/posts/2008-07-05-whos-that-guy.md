@@ -1,7 +1,6 @@
 ---
 title: 'Who&#8217;s That Guy'
 date: 2008-07-05T21:16:53+00:00
-
 id: 762
 slug: 'whos-that-guy'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

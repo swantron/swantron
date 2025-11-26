@@ -1,7 +1,6 @@
 ---
 title: 'New Toy in the Mail'
 date: 2011-01-10T13:51:35+00:00
-
 id: 3101
 slug: 'new-toy-in-the-mail'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

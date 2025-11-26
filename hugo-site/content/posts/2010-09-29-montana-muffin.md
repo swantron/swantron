@@ -1,7 +1,6 @@
 ---
 title: 'Montana Muffin'
 date: 2010-09-29T13:55:21+00:00
-
 id: 2699
 slug: 'montana-muffin'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

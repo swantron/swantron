@@ -1,7 +1,6 @@
 ---
 title: 'IOIO Servo Controller'
 date: 2011-09-24T16:30:27+00:00
-
 id: 3851
 slug: 'ioio-servo-controller'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

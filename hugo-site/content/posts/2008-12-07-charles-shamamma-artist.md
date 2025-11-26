@@ -1,7 +1,6 @@
 ---
 title: 'Charles Shamamma, Artist'
 date: 2008-12-07T20:44:25+00:00
-
 id: 812
 slug: 'charles-shamamma-artist'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

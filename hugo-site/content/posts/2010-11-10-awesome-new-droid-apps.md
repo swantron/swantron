@@ -1,7 +1,6 @@
 ---
 title: 'Awesome Droid Apps Redux'
 date: 2010-11-10T20:05:00+00:00
-
 id: 2868
 slug: 'awesome-new-droid-apps'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

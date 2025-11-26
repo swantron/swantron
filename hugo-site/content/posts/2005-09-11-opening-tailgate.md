@@ -1,7 +1,6 @@
 ---
 title: 'Opening Tailgate'
 date: 2005-09-11T15:00:33+00:00
-
 id: 5799
 slug: 'opening-tailgate'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

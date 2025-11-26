@@ -1,7 +1,6 @@
 ---
 title: 'V-Day Eyeglasses'
 date: 2012-01-25T18:40:08+00:00
-
 id: 6348
 slug: 'v-day-eyeglasses-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Montana Lightening Photo'
 date: 2022-08-25T15:18:26+00:00
-
 id: 8440
 slug: 'montana-lightening-photo'
 ---

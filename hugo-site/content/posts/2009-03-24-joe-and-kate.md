@@ -1,7 +1,6 @@
 ---
 title: 'joe and kate'
 date: 2009-03-24T21:35:23+00:00
-
 id: 846
 slug: 'joe-and-kate'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

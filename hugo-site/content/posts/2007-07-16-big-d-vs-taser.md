@@ -1,7 +1,6 @@
 ---
 title: 'Big D /vs/ Taser'
 date: 2007-07-16T19:17:30+00:00
-
 id: 584
 slug: 'big-d-vs-taser'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

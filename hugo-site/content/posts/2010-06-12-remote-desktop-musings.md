@@ -1,7 +1,6 @@
 ---
 title: 'Remote Desktop Musings'
 date: 2010-06-12T12:05:12+00:00
-
 id: 2284
 slug: 'remote-desktop-musings'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

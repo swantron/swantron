@@ -1,7 +1,6 @@
 ---
 title: 'Life Insurance Star'
 date: 2010-06-12T13:39:05+00:00
-
 id: 2294
 slug: 'life-insurance-star'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

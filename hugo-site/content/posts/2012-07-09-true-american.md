@@ -1,7 +1,6 @@
 ---
 title: 'True American'
 date: 2012-07-09T20:49:34+00:00
-
 id: 4641
 slug: 'true-american'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

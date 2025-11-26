@@ -1,7 +1,6 @@
 ---
 title: 'North Face Denali'
 date: 2010-12-07T10:43:26+00:00
-
 id: 2926
 slug: 'north-face-denali'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

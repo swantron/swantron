@@ -1,7 +1,6 @@
 ---
 title: 'Robots at Work'
 date: 2010-03-08T16:40:46+00:00
-
 id: 1768
 slug: 'robots-at-work'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

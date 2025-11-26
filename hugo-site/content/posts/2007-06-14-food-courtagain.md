@@ -1,7 +1,6 @@
 ---
 title: 'Food Court&#8230;Again'
 date: 2007-06-14T16:13:50+00:00
-
 id: 567
 slug: 'food-courtagain'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

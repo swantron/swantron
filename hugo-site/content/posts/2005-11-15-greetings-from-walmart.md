@@ -1,7 +1,6 @@
 ---
 title: 'Greetings from WalMart'
 date: 2005-11-15T18:03:05+00:00
-
 id: 5942
 slug: 'greetings-from-walmart'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

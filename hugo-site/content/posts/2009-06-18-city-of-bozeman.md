@@ -1,7 +1,6 @@
 ---
 title: 'City of Bozeman'
 date: 2009-06-18T11:34:02+00:00
-
 id: 880
 slug: 'city-of-bozeman'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

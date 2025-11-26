@@ -1,7 +1,6 @@
 ---
 title: 'Robotic Arm Assembly'
 date: 2013-12-31T12:45:34+00:00
-
 id: 5011
 slug: 'robotic-arm-assembly'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

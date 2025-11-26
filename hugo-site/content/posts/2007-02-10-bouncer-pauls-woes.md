@@ -1,7 +1,6 @@
 ---
 title: 'Bouncer Paul&#8217;s Woes'
 date: 2007-02-10T04:03:09+00:00
-
 id: 471
 slug: 'bouncer-pauls-woes'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

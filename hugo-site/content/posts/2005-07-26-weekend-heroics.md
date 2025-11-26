@@ -1,7 +1,6 @@
 ---
 title: 'Weekend Heroics'
 date: 2005-07-26T20:29:13+00:00
-
 id: 308
 slug: 'weekend-heroics'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Calling All XBoxers&#8230;'
 date: 2010-01-30T15:55:11+00:00
-
 id: 1602
 slug: 'calling-all-xboxers'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

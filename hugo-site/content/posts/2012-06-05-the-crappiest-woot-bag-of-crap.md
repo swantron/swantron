@@ -1,7 +1,6 @@
 ---
 title: 'The Crappiest Woot Bag of Crap'
 date: 2012-06-05T21:28:08+00:00
-
 id: 4581
 slug: 'the-crappiest-woot-bag-of-crap'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

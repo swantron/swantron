@@ -1,7 +1,6 @@
 ---
 title: 'Welcome Back!'
 date: 2005-07-30T16:45:54+00:00
-
 id: 317
 slug: 'welcome-back'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

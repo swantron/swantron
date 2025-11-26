@@ -1,7 +1,6 @@
 ---
 title: 'Celebrity Insurance Policies'
 date: 2010-12-30T15:47:10+00:00
-
 id: 3055
 slug: 'celebrity-insurance-policies'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

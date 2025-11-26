@@ -1,7 +1,6 @@
 ---
 title: 'Ping Sensor Project Preview'
 date: 2011-04-10T17:54:51+00:00
-
 id: 3382
 slug: 'ping-sensor-project-preview'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

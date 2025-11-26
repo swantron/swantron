@@ -1,7 +1,6 @@
 ---
 title: 'How to Fix a Paper Cutter'
 date: 2010-05-12T17:55:12+00:00
-
 id: 2130
 slug: 'how-to-fix-a-paper-cutter'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

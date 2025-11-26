@@ -1,7 +1,6 @@
 ---
 title: 'Leaf Blower POV'
 date: 2011-10-27T16:00:39+00:00
-
 id: 4039
 slug: 'leaf-blower-pov'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

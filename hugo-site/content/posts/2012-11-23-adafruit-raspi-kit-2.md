@@ -1,7 +1,6 @@
 ---
 title: 'Adafruit Raspi Kit'
 date: 2012-11-23T15:37:58+00:00
-
 id: 6381
 slug: 'adafruit-raspi-kit-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

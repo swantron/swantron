@@ -1,7 +1,6 @@
 ---
 title: '2009:  A Breakfast Odyssey'
 date: 2009-12-29T10:15:34+00:00
-
 id: 1279
 slug: '2009-a-breakfast-odyssey'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

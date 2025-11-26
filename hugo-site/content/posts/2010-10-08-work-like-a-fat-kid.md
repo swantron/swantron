@@ -1,7 +1,6 @@
 ---
 title: 'Work Like a Fat Kid'
 date: 2010-10-08T17:02:29+00:00
-
 id: 2740
 slug: 'work-like-a-fat-kid'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

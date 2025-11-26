@@ -1,7 +1,6 @@
 ---
 title: 'Red Bull Project Update'
 date: 2013-04-21T09:58:16+00:00
-
 id: 6390
 slug: 'red-bull-project-update-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

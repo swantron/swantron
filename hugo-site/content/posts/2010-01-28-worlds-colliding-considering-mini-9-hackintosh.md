@@ -1,7 +1,6 @@
 ---
 title: 'Worlds Colliding:  Considering Mini 9 Hackintosh'
 date: 2010-01-28T19:57:45+00:00
-
 id: 1597
 slug: 'worlds-colliding-considering-mini-9-hackintosh'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

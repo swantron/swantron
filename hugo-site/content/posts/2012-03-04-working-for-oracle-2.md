@@ -1,7 +1,6 @@
 ---
 title: 'Working for Oracle'
 date: 2012-03-04T22:17:47+00:00
-
 id: 6356
 slug: 'working-for-oracle-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

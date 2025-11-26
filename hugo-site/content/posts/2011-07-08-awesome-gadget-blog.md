@@ -1,7 +1,6 @@
 ---
 title: 'Awesome Gadget Blog'
 date: 2011-07-08T12:50:19+00:00
-
 id: 3658
 slug: 'awesome-gadget-blog'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Poor at Mailing'
 date: 2013-10-07T12:51:25+00:00
-
 id: 6398
 slug: 'poor-at-mailing-3'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

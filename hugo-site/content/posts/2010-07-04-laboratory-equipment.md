@@ -1,7 +1,6 @@
 ---
 title: 'Laboratory Equipment'
 date: 2010-07-04T14:18:32+00:00
-
 id: 2441
 slug: 'laboratory-equipment'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

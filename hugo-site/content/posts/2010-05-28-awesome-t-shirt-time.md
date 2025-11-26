@@ -1,7 +1,6 @@
 ---
 title: 'Awesome T-Shirt Time!'
 date: 2010-05-28T13:22:37+00:00
-
 id: 2218
 slug: 'awesome-t-shirt-time'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

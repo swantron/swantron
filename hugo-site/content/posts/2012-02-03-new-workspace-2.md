@@ -1,7 +1,6 @@
 ---
 title: 'New Workspace'
 date: 2012-02-03T17:25:37+00:00
-
 id: 6351
 slug: 'new-workspace-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Sunglasses Roundup'
 date: 2010-02-05T11:34:17+00:00
-
 id: 6171
 slug: 'sunglasses-roundup-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

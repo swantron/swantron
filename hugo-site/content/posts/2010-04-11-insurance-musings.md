@@ -1,7 +1,6 @@
 ---
 title: 'Insurance Musings'
 date: 2010-04-11T18:22:48+00:00
-
 id: 1955
 slug: 'insurance-musings'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

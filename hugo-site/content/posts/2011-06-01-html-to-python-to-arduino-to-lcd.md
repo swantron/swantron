@@ -1,7 +1,6 @@
 ---
 title: 'HTML to Python to Arduino to LCD'
 date: 2011-06-01T21:42:07+00:00
-
 id: 3536
 slug: 'html-to-python-to-arduino-to-lcd'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

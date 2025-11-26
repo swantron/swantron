@@ -1,7 +1,6 @@
 ---
 title: 'Free Cheese Poster&#8230;Get &#8217;em While &#8216;e&#8217;re Hot'
 date: 2010-01-25T15:25:56+00:00
-
 id: 1555
 slug: 'free-cheese-poster-get-em-while-ere-hot'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Quad Monitors'
 date: 2011-12-11T21:32:12+00:00
-
 id: 6334
 slug: 'quad-monitors-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

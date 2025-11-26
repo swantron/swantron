@@ -1,7 +1,6 @@
 ---
 title: 'Dancing Fat Kid'
 date: 2006-03-09T13:16:12+00:00
-
 id: 6096
 slug: 'dancing-fat-kid'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

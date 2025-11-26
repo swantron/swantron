@@ -1,7 +1,6 @@
 ---
 title: 'Sunday Funday w/ D-Rock'
 date: 2010-03-29T09:25:18+00:00
-
 id: 1895
 slug: 'sunday-funday-w-d-rock'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

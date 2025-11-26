@@ -1,7 +1,6 @@
 ---
 title: 'Google Buzz Buzzworthy-ness'
 date: 2010-02-17T21:14:46+00:00
-
 id: 1689
 slug: 'google-buzz-buzzworthy-ness'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

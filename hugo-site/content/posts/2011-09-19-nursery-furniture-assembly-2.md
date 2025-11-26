@@ -1,7 +1,6 @@
 ---
 title: 'Nursery Furniture Assembly'
 date: 2011-09-19T12:26:33+00:00
-
 id: 6310
 slug: 'nursery-furniture-assembly-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

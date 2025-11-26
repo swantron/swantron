@@ -1,7 +1,6 @@
 ---
 title: 'Happy Weekend'
 date: 2006-01-06T19:07:05+00:00
-
 id: 6069
 slug: 'happy-weekend'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

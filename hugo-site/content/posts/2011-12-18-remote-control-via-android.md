@@ -1,7 +1,6 @@
 ---
 title: 'Remote Control Via Android'
 date: 2011-12-18T15:40:45+00:00
-
 id: 4185
 slug: 'remote-control-via-android'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

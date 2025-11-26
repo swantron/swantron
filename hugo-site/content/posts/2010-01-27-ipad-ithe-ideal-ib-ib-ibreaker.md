@@ -1,7 +1,6 @@
 ---
 title: 'iPad: iThe iDeal iB-iB-iBreaker'
 date: 2010-01-27T21:31:29+00:00
-
 id: 1586
 slug: 'ipad-ithe-ideal-ib-ib-ibreaker'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

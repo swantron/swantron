@@ -1,7 +1,6 @@
 ---
 title: 'So long, AdSense'
 date: 2009-12-04T14:47:17+00:00
-
 id: 1166
 slug: 'so-long-adsense'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

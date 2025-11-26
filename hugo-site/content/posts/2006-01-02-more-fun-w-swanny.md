@@ -1,7 +1,6 @@
 ---
 title: 'More Fun W/ Swanny'
 date: 2006-01-02T18:09:11+00:00
-
 id: 6068
 slug: 'more-fun-w-swanny'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

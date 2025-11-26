@@ -1,7 +1,6 @@
 ---
 title: 'More Gruel, Please'
 date: 2012-05-28T21:28:34+00:00
-
 id: 4571
 slug: 'more-gruel-please'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

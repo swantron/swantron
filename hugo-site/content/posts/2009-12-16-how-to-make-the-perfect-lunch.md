@@ -1,7 +1,6 @@
 ---
 title: 'How to make the perfect lunch'
 date: 2009-12-16T12:59:29+00:00
-
 id: 1252
 slug: 'how-to-make-the-perfect-lunch'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

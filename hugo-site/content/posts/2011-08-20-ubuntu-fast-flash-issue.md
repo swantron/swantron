@@ -1,7 +1,6 @@
 ---
 title: 'Ubuntu Fast Flash Issue'
 date: 2011-08-20T13:06:33+00:00
-
 id: 3757
 slug: 'ubuntu-fast-flash-issue'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

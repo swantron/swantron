@@ -1,7 +1,6 @@
 ---
 title: 'Inexpensive Ink Cartridges'
 date: 2011-05-16T15:26:58+00:00
-
 id: 3494
 slug: 'inexpensive-ink-cartridges'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

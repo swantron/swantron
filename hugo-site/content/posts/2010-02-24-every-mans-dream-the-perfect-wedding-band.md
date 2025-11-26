@@ -1,7 +1,6 @@
 ---
 title: 'Every Man&#8217;s Dream:  The Perfect Wedding Band'
 date: 2010-02-24T14:20:44+00:00
-
 id: 1742
 slug: 'every-mans-dream-the-perfect-wedding-band'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

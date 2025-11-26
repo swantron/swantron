@@ -1,7 +1,6 @@
 ---
 title: 'Old Man Truck'
 date: 2012-06-14T13:07:24+00:00
-
 id: 6366
 slug: 'old-man-truck'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

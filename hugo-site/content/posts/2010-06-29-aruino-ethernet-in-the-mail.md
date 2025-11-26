@@ -1,7 +1,6 @@
 ---
 title: 'Aruino + Ethernet = In the Mail'
 date: 2010-06-29T18:33:07+00:00
-
 id: 2392
 slug: 'aruino-ethernet-in-the-mail'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

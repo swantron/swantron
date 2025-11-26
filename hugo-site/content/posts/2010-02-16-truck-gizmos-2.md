@@ -1,7 +1,6 @@
 ---
 title: 'Truck Gizmos'
 date: 2010-02-16T14:09:32+00:00
-
 id: 6176
 slug: 'truck-gizmos-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Retardation'
 date: 2006-12-30T03:05:28+00:00
-
 id: 433
 slug: 'retardation'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

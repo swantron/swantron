@@ -1,7 +1,6 @@
 ---
 title: 'Swanson Family Fun'
 date: 2006-01-07T18:24:12+00:00
-
 id: 6070
 slug: 'swanson-family-fun'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

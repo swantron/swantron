@@ -1,7 +1,6 @@
 ---
 title: 'Home Security Chat'
 date: 2011-02-12T16:42:50+00:00
-
 id: 3159
 slug: 'home-security-chat'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

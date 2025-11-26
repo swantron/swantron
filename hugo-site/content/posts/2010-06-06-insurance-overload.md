@@ -1,7 +1,6 @@
 ---
 title: 'Insurance Overload'
 date: 2010-06-06T09:30:13+00:00
-
 id: 2274
 slug: 'insurance-overload'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Cheap Eyeglasses'
 date: 2011-05-06T16:26:04+00:00
-
 id: 4541
 slug: 'cheap-eyeglasses'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

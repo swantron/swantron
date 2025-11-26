@@ -1,7 +1,6 @@
 ---
 title: 'More IOIO Headers'
 date: 2011-09-23T23:38:36+00:00
-
 id: 3846
 slug: 'more-ioio-headers'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

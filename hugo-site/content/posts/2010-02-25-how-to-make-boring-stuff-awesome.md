@@ -1,7 +1,6 @@
 ---
 title: 'How To Make Boring Stuff Awesome'
 date: 2010-02-25T14:56:23+00:00
-
 id: 1752
 slug: 'how-to-make-boring-stuff-awesome'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

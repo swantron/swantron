@@ -1,7 +1,6 @@
 ---
 title: 'Lost and Found'
 date: 2007-06-30T02:30:35+00:00
-
 id: 575
 slug: 'lost-and-found-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

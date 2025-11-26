@@ -1,7 +1,6 @@
 ---
 title: 'How To Stretch a Wedding Band'
 date: 2010-07-03T12:14:19+00:00
-
 id: 2433
 slug: 'how-to-stretch-a-wedding-band'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

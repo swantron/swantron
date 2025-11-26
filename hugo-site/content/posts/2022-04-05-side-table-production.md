@@ -1,7 +1,6 @@
 ---
 title: 'side table production'
 date: 2022-04-05T02:26:59+00:00
-
 id: 8404
 slug: 'side-table-production'
 ---

@@ -1,7 +1,6 @@
 ---
 title: 'Neural Network Learning'
 date: 2010-10-21T08:43:20+00:00
-
 id: 6248
 slug: 'neural-network-learning-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

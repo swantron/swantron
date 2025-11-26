@@ -1,7 +1,6 @@
 ---
 title: 'Eclipse and IOIO'
 date: 2011-07-18T19:56:25+00:00
-
 id: 6298
 slug: 'eclipse-and-ioio-3'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

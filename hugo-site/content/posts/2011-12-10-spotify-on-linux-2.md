@@ -1,7 +1,6 @@
 ---
 title: 'Spotify on Linux'
 date: 2011-12-10T16:19:55+00:00
-
 id: 6333
 slug: 'spotify-on-linux-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

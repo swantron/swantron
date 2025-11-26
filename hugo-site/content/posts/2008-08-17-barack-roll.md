@@ -1,7 +1,6 @@
 ---
 title: 'Barack Roll'
 date: 2008-08-17T16:47:43+00:00
-
 id: 767
 slug: 'barack-roll'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

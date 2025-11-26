@@ -1,7 +1,6 @@
 ---
 title: 'Legend of Zeltron'
 date: 2012-10-06T22:37:52+00:00
-
 id: 6377
 slug: 'legend-of-zeltron-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

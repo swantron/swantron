@@ -1,7 +1,6 @@
 ---
 title: 'Just&#8230;About&#8230;Published&#8230;'
 date: 2011-01-17T22:00:06+00:00
-
 id: 3122
 slug: 'just-about-published'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

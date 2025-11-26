@@ -1,7 +1,6 @@
 ---
 title: 'Conquered it.'
 date: 2011-11-27T22:31:10+00:00
-
 id: 4122
 slug: 'conquered-it'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

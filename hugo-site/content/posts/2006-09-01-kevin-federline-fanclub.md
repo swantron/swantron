@@ -1,7 +1,6 @@
 ---
 title: 'Kevin Federline Fanclub'
 date: 2006-09-01T18:15:20+00:00
-
 id: 356
 slug: 'kevin-federline-fanclub'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

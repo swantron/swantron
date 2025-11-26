@@ -1,14 +1,12 @@
 ---
 title: 'SpaceShipTwo'
 date: 2010-03-24T18:29:44+00:00
-
 id: 1874
 slug: 'spaceshiptwo'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
 I've already gone on record saying that Richard Branson is my hero. In a 'suck it, NASA' move, Branson managed to take another step towards privatising space travel, by launching the shit out of SpaceShipTwo via a piggy-backed flight. \[caption id="attachment\_1875" align="aligncenter" width="660" caption="fuck everything...we\\'re doing it ourselves"\][![SpaceShip2](/uploads/2010/03/SpaceShip2.jpg "SpaceShip2")](/uploads/2010/03/SpaceShip2.jpg)\[/caption\] Per [wired.com](http://www.wired.com/autopia/2010/03/spaceshiptwo-makes-first-captive-flight/)...
-
 > Virgin Galactic’s SpaceShipTwo made its first captive carry flight early this morning at the Mojave Air and Space Port. SpaceShipTwo, which was christened the VSS Enterprise at its unveiling in December, is being carried by WhiteKnightTwo on its first test flight. According to Aviation Week, SpaceShipTwo has been undergoing ground testing with WhiteKnightTwo recently, but this is the first time the two aircraft have left the ground. SpaceShipTwo is expected to go through a similar flight test program as its much smaller predecessor, SpaceShipOne, but with much more rigorous and wider ranging evaluations in order to certify the vehicle for public use. During SpaceShipOne’s development, two captive carries were followed by several glide tests where the space ship is released from several different altitudes to evaluate its flight characteristics. After glide flights, the flight test team at Scaled moved on to powered flight, eventually culminating with the first flight into space on June 21, 2004. WhiteKnightTwo made its first flight on December 21, 2008 with test pilot Peter Siebold at the controls. At Oshkosh, we caught up with Siebold and got a first hand account of what it is like to fly the 140 foot wingspan, twin fuselaged behemoth that carries SpaceShipTwo. Virgin Galactic has not set a date for commercial space flights, but has said passenger flights would not happen before 2011 at the earliest. According to the company, once glide flights are complete, the team will progress through subsonic powered flights, supersonic powered flights, and finally suborbital space flights. It will then undergo a lengthy certification process with the Federal Aviation Administration before launching the first commercial passenger space flights.
 
 Seaplane was awesome...this is tubular. Perhaps more things <clears throat=""> that have been traditionally government mainstays should be tackled by bad-ass proprietors. FOR THE WIN. </clears>

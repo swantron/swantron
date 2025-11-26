@@ -1,7 +1,6 @@
 ---
 title: 'Live Taser Action'
 date: 2008-04-20T18:10:51+00:00
-
 id: 730
 slug: 'live-taser-action'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

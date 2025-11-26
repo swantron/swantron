@@ -1,7 +1,6 @@
 ---
 title: 'Comments Welcome'
 date: 2007-05-18T02:08:11+00:00
-
 id: 554
 slug: 'comments-welcome'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

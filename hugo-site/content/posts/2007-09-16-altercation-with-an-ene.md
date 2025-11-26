@@ -1,7 +1,6 @@
 ---
 title: 'Altercation with an Ene'
 date: 2007-09-16T11:04:30+00:00
-
 id: 600
 slug: 'altercation-with-an-ene'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

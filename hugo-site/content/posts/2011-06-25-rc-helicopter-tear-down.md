@@ -1,7 +1,6 @@
 ---
 title: 'RC Helicopter Tear Down'
 date: 2011-06-25T18:00:33+00:00
-
 id: 3585
 slug: 'rc-helicopter-tear-down'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

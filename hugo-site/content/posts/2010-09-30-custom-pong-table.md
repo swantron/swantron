@@ -1,7 +1,6 @@
 ---
 title: 'Custom Pong Table'
 date: 2010-09-30T16:47:56+00:00
-
 id: 2714
 slug: 'custom-pong-table'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

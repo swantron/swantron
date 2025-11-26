@@ -1,7 +1,6 @@
 ---
 title: 'One More for the Year'
 date: 2007-10-16T16:59:01+00:00
-
 id: 606
 slug: 'one-more-for-the-year'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

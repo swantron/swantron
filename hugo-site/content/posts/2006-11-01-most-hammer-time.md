@@ -1,7 +1,6 @@
 ---
 title: 'Yo Ring the Bell Schools Back In'
 date: 2006-11-01T21:20:25+00:00
-
 id: 404
 slug: 'most-hammer-time'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

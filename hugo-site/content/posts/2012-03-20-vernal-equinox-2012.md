@@ -1,7 +1,6 @@
 ---
 title: 'Vernal Equinox 2012'
 date: 2012-03-20T08:08:33+00:00
-
 id: 4451
 slug: 'vernal-equinox-2012'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Python IO on rPi'
 date: 2013-01-09T17:01:52+00:00
-
 id: 6384
 slug: 'python-io-on-rpi-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

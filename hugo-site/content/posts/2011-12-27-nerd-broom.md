@@ -1,7 +1,6 @@
 ---
 title: 'Nerd Broom'
 date: 2011-12-27T08:09:47+00:00
-
 id: 4227
 slug: 'nerd-broom'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

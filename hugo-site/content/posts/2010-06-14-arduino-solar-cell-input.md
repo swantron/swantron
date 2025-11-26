@@ -1,7 +1,6 @@
 ---
 title: 'Arduino Solar Cell Input'
 date: 2010-06-14T18:41:13+00:00
-
 id: 2301
 slug: 'arduino-solar-cell-input'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'TurBull Encabulator Unboxing'
 date: 2013-04-15T19:13:50+00:00
-
 id: 4869
 slug: 'turbull-encabulator-unboxing'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Motor Shield Assembly Steps'
 date: 2010-10-02T09:34:32+00:00
-
 id: 2726
 slug: 'motor-shield-assembly-steps'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Storm 2 /vs/ Droid'
 date: 2009-12-06T21:06:15+00:00
-
 id: 1175
 slug: 'storm-2-vs-droid'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

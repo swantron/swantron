@@ -1,7 +1,6 @@
 ---
 title: 'Satellite Internet Options'
 date: 2011-09-08T20:10:48+00:00
-
 id: 6307
 slug: 'satellite-internet-options-3'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

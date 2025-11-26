@@ -1,7 +1,6 @@
 ---
 title: 'The Future of Transportation'
 date: 2006-01-13T15:51:03+00:00
-
 id: 6072
 slug: 'the-future-of-transportation'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

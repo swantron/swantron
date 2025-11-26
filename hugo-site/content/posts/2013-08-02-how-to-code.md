@@ -1,7 +1,6 @@
 ---
 title: 'How to Code'
 date: 2013-08-02T15:21:31+00:00
-
 id: 4915
 slug: 'how-to-code'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

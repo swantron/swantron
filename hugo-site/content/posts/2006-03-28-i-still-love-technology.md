@@ -1,7 +1,6 @@
 ---
 title: 'I still love technology'
 date: 2006-03-28T13:49:52+00:00
-
 id: 6102
 slug: 'i-still-love-technology'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

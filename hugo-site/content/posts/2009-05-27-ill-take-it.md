@@ -1,7 +1,6 @@
 ---
 title: 'I&#8217;ll Take It'
 date: 2009-05-27T19:56:07+00:00
-
 id: 868
 slug: 'ill-take-it'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

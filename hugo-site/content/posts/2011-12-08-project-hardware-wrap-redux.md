@@ -1,7 +1,6 @@
 ---
 title: 'Project Hardware Wrap Redux'
 date: 2011-12-08T07:44:52+00:00
-
 id: 4142
 slug: 'project-hardware-wrap-redux'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

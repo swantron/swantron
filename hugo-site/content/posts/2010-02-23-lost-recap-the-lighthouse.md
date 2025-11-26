@@ -1,7 +1,6 @@
 ---
 title: 'Lost recap: the lighthouse'
 date: 2010-02-23T22:26:13+00:00
-
 id: 1741
 slug: 'lost-recap-the-lighthouse'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

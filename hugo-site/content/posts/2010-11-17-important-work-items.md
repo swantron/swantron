@@ -1,7 +1,6 @@
 ---
 title: 'Important Work Items'
 date: 2010-11-17T16:41:49+00:00
-
 id: 6254
 slug: 'important-work-items'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'rbcreation'
 date: 2013-05-01T20:08:03+00:00
-
 id: 4897
 slug: 'rbcreation'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

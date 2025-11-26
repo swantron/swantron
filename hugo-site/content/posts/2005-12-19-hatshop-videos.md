@@ -1,6 +1,5 @@
 ---
 title: 'Hatshop videos'
-
 id: 6013
 slug: 'hatshop-videos'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

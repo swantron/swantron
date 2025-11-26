@@ -1,7 +1,6 @@
 ---
 title: 'Nerd Bucket List'
 date: 2011-06-28T18:36:15+00:00
-
 id: 3607
 slug: 'nerd-bucket-list'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'EE Feature'
 date: 2013-01-30T14:16:03+00:00
-
 id: 4833
 slug: 'ee-feature'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

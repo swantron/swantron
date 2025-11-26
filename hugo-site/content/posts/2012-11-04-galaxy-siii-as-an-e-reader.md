@@ -1,7 +1,6 @@
 ---
 title: 'Galaxy SIII as an E-Reader'
 date: 2012-11-04T15:58:30+00:00
-
 id: 4770
 slug: 'galaxy-siii-as-an-e-reader'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

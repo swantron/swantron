@@ -1,7 +1,6 @@
 ---
 title: 'For the Kids!'
 date: 2005-08-23T20:55:10+00:00
-
 id: 5763
 slug: 'for-the-kids'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Bathroom Revisited'
 date: 2007-06-10T02:05:40+00:00
-
 id: 565
 slug: 'bathroom-revisited'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

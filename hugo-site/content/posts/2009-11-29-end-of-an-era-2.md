@@ -1,7 +1,6 @@
 ---
 title: 'End of an Era'
 date: 2009-11-29T15:42:54+00:00
-
 id: 1106
 slug: 'end-of-an-era-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'

@@ -1,7 +1,6 @@
 ---
 title: 'Gallatin Valley Four Wheeling'
 date: 2013-02-20T14:54:21+00:00
-
 id: 6388
 slug: 'gallatin-valley-four-wheeling-2'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
