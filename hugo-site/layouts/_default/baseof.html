@@ -1,0 +1,35 @@
+<!doctype html>
+
+{{- $.Scratch.Delete "bg_color" -}}<!---->
+{{- $.Scratch.Delete "social_list" -}}<!---->
+{{- $.Scratch.Delete "avatar_url" -}}<!---->
+
+<!-- bg_color -->
+{{- $color_map := dict "linen" "#faf8f1" "wheat" "#f8f5d7" "gray" "#fbfbfb"
+"light" "#fff" -}}<!---->
+{{- $.Scratch.Set "bg_color" (index $color_map (site.Params.color | default
+(print "linen"))) -}}<!---->
+{{- $bg_color := $.Scratch.Get "bg_color" -}}<!---->
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: {{- $bg_color -}}"
+  lang="{{- or site.LanguageCode site.Language.Lang -}}"
+  dir="{{- if site.Params.direction -}}{{- site.Params.direction -}}{{- else -}}ltr{{- end -}}"
+>
+  {{- partial "head.html" . -}}
+  <body
+    class="bg-(--bg) text-black antialiased duration-200 ease-out [-webkit-tap-highlight-color:transparent]"
+    style="background-color: {{- $bg_color -}}; font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;"
+  >
+    {{- partial "header.html" . -}}
+
+    <main class="main-content">
+      <div class="container">
+        {{- block "main" . -}}{{- end -}}
+      </div>
+    </main>
+
+    {{- partial "footer.html" . -}}
+  </body>
+</html>
