@@ -24,8 +24,7 @@ $paginator.Pages -}}<!---->
   <img
     src="{{- site.Params.banner_image | relURL -}}"
     alt="{{- site.Title -}}"
-    class="w-full rounded-lg object-cover"
-    style="max-height: 200px;"
+    class="w-full rounded-lg"
   />
 </div>
 {{- else -}}
@@ -74,8 +73,7 @@ $paginator.Pages -}}<!---->
     <img
       src="{{- .Params.featured_image | relURL -}}"
       alt="{{- .Title -}}"
-      class="w-full rounded-lg object-cover"
-      style="max-height: 300px;"
+      class="w-full rounded-lg"
     />
   </div>
   {{- end -}}

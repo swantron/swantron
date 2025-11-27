@@ -32,7 +32,7 @@ relativeURLs = false
   mainSections = ['posts']
   
   # Banner image for homepage
-  banner_image = '/uploads/2013/12/team_swantron.jpg'
+  banner_image = '/uploads/2013/12/robot_arm-1000x288.jpg'
 
 [menu]
   [[menu.main]]
