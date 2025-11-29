@@ -1,0 +1,21 @@
+<header class="site-header">
+  <div class="container">
+    <div class="header-content">
+      <h1 class="site-title">
+        <a href="{{- `` | absURL -}}">{{- site.Title -}}</a>
+      </h1>
+      <nav class="main-nav">
+        {{- $url := .RelPermalink -}}
+        {{- with site.Menus.main -}}
+          {{- range . -}}
+            <a
+              class="nav-link{{ if eq $url .URL }} active{{ end }}"
+              href="{{- .URL -}}"
+              >{{- .Name -}}</a
+            >
+          {{- end -}}
+        {{- end -}}
+      </nav>
+    </div>
+  </div>
+</header>

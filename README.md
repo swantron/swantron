@@ -1,5 +1,7 @@
 # swan tron dot com
 
+<!-- Build trigger -->
+
 - ([swantron/swantron](https://swantron.github.io/swantron/)) is the og blog, in static format 
 
 - ([swantron/tronswan](https://tronswan.com/)) is the landing spot for several newer projects
