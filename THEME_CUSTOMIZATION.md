@@ -1,24 +1,14 @@
 # Theme Customization Guide
 
-## Should You Use a Submodule?
+## Theme Setup
 
-**Yes, keep the submodule!** Here's why:
-
-### Pros of Using Submodule:
-- ✅ Easy to update the theme (just `git submodule update`)
-- ✅ Clean separation between your content and theme
-- ✅ Can customize without modifying theme files directly
-- ✅ Hugo's template override system lets you customize anything
-
-### Cons:
-- ⚠️ Need to understand Hugo's override system (it's simple!)
-- ⚠️ Can't directly edit theme files (but you don't need to!)
+The theme is included directly in `themes/paper/` - no submodules or modules needed!
 
 ## How Hugo Template Overrides Work
 
 Hugo uses a **lookup order** for templates:
 1. `layouts/` in your site (highest priority - YOUR customizations)
-2. `themes/PaperMod/layouts/` (theme defaults)
+2. `themes/paper/layouts/` (theme defaults)
 
 **Any file you put in `layouts/` overrides the theme version!**
 
@@ -191,30 +181,23 @@ images:
 
 ## Updating the Theme
 
-When you want to update PaperMod:
+Since the theme is included directly, you can:
+1. Edit files directly in `themes/paper/` if needed
+2. Or download a new version from https://github.com/nanxiaobei/hugo-paper and replace it
 
-```bash
-cd hugo-site/themes/PaperMod
-git pull origin master
-cd ../..
-git add hugo-site/themes/PaperMod
-git commit -m "Update PaperMod theme"
-```
-
-Your customizations in `layouts/` remain untouched!
+Your customizations in `layouts/` override the theme automatically!
 
 ## Best Practices
 
-1. **Keep theme as submodule** - Easy updates
-2. **Override in `layouts/`** - Your customizations
-3. **Add custom CSS/JS in `static/`** - Your assets
-4. **Use shortcodes** - Reusable components
-5. **Never edit `themes/PaperMod/` directly** - It will be overwritten on updates
+1. **Override in `layouts/`** - Your customizations (recommended)
+2. **Add custom CSS/JS in `static/`** - Your assets
+3. **Use shortcodes** - Reusable components
+4. **Edit `themes/paper/` directly** - If you need to modify the theme itself
 
 ## Current Setup
 
 Your site already has:
-- ✅ Theme as submodule (`hugo-site/themes/PaperMod`)
+- ✅ Theme included directly (`hugo-site/themes/paper/`)
 - ✅ Custom layouts directory (`hugo-site/layouts/`)
 - ✅ Custom JSON output (`hugo-site/layouts/_default/index.json`)
 - ✅ Static files directory (`hugo-site/static/`)

@@ -26,17 +26,8 @@ jobs:
         hugo-version: '0.152.2'
         extended: true
 
-    - name: Setup Go (for Hugo Modules)
-      uses: actions/setup-go@v5
-      with:
-        go-version: '1.21'
-
     - name: Build Hugo site
-      run: |
-        cd hugo-site
-        hugo mod get
-        hugo mod tidy
-        hugo --minify
+      run: hugo -s hugo-site --minify
 
     - name: Setup Pages
       uses: actions/configure-pages@v4
