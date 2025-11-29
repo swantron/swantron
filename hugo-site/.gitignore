@@ -3,6 +3,10 @@
 /resources/_gen/
 .hugo_build.lock
 
+# Hugo Modules cache
+/data/
+/hugo_cache/
+
 # OS
 .DS_Store
 Thumbs.db

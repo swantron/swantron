@@ -18,7 +18,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-        submodules: recursive
         fetch-depth: 0
 
     - name: Setup Hugo
@@ -27,8 +26,17 @@ jobs:
         hugo-version: '0.152.2'
         extended: true
 
+    - name: Setup Go (for Hugo Modules)
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.21'
+
     - name: Build Hugo site
-      run: hugo -s hugo-site --minify
+      run: |
+        cd hugo-site
+        hugo mod get
+        hugo mod tidy
+        hugo --minify
 
     - name: Setup Pages
       uses: actions/configure-pages@v4
