@@ -80,19 +80,17 @@
         >{{- .Name -}}</a
       >
       {{- end -}}
-    </nav>
-    {{- end -}}<!---->
-
-    <!-- Search Button -->
-    <div class="lg:ml-4 rtl:lg:mr-4">
+      
+      <!-- Search Button -->
       <button
         id="search-btn"
-        class="btn-search block text-center text-xl leading-[5rem] lg:text-base lg:font-normal lg:leading-normal cursor-pointer"
+        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal cursor-pointer bg-transparent border-none p-0"
         aria-label="Search"
       >
         Search
       </button>
-    </div>
+    </nav>
+    {{- end -}}<!---->
 
     {{- with $.Scratch.Get "social_list" -}}
     <nav
@@ -115,21 +113,22 @@
 </header>
 
 <!-- Search Modal -->
-<div id="search-modal" class="fixed inset-0 z-50 hidden bg-black/50 backdrop-blur-sm" style="background-color: rgba(0, 0, 0, 0.5);">
+<div id="search-modal" class="fixed inset-0 z-50 hidden" style="background-color: rgba(0, 0, 0, 0.5);">
   <div class="mx-auto mt-20 max-w-2xl px-4 relative">
-    <div class="rounded-lg bg-white dark:bg-gray-800 shadow-xl" style="background-color: var(--bg);">
+    <div class="rounded-lg shadow-xl" style="background-color: var(--bg);">
       <!-- Search Input -->
       <div class="p-4 border-b border-black/10 dark:border-white/10 relative">
         <input
           type="text"
           id="search-input"
           placeholder="Search posts..."
-          class="w-full px-4 py-2 text-lg border border-black/10 dark:border-white/10 rounded-lg bg-white dark:bg-gray-700 text-black dark:text-white focus:outline-none focus:ring-2 focus:ring-black/20 dark:focus:ring-white/20"
+          class="w-full px-4 py-2 text-lg border border-black/10 dark:border-white/10 rounded-lg focus:outline-none focus:ring-2 focus:ring-black/20 dark:focus:ring-white/20"
+          style="background-color: var(--bg); color: inherit;"
           autofocus
         />
         <button
           id="search-close"
-          class="absolute top-6 right-6 text-black/60 dark:text-white/60 hover:text-black dark:hover:text-white cursor-pointer text-xl leading-none"
+          class="absolute top-6 right-6 text-black/60 dark:text-white/60 hover:text-black dark:hover:text-white cursor-pointer text-xl leading-none bg-transparent border-none"
           aria-label="Close"
         >
           ✕
@@ -146,81 +145,98 @@
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
 <script>
-  let searchIndex = [];
-  let fuse = null;
+  (function() {
+    let searchIndex = [];
+    let fuse = null;
 
-  // Load search index
-  fetch('{{ "search/index.json" | relURL }}')
-    .then(res => res.json())
-    .then(data => {
-      searchIndex = data;
-      fuse = new Fuse(searchIndex, {
-        keys: ['title', 'content', 'tags'],
-        threshold: 0.3,
-        includeScore: true,
-        minMatchCharLength: 2
-      });
-    })
-    .catch(err => console.error('Failed to load search index:', err));
+    // Load search index
+    fetch('{{ "search/index.json" | relURL }}')
+      .then(res => res.json())
+      .then(data => {
+        searchIndex = data;
+        fuse = new Fuse(searchIndex, {
+          keys: ['title', 'content', 'tags'],
+          threshold: 0.3,
+          includeScore: true,
+          minMatchCharLength: 2
+        });
+      })
+      .catch(err => console.error('Failed to load search index:', err));
 
-  // Search modal elements
-  const searchBtn = document.getElementById('search-btn');
-  const searchModal = document.getElementById('search-modal');
-  const searchInput = document.getElementById('search-input');
-  const searchResults = document.getElementById('search-results');
-  const searchClose = document.getElementById('search-close');
+    // Search modal elements
+    const searchBtn = document.getElementById('search-btn');
+    const searchModal = document.getElementById('search-modal');
+    const searchInput = document.getElementById('search-input');
+    const searchResults = document.getElementById('search-results');
+    const searchClose = document.getElementById('search-close');
 
-  // Open search modal
-  searchBtn.addEventListener('click', () => {
-    searchModal.classList.remove('hidden');
-    searchInput.focus();
-  });
+    if (!searchBtn || !searchModal || !searchInput || !searchResults || !searchClose) {
+      console.error('Search elements not found');
+      return;
+    }
 
-  // Close search modal
-  searchClose.addEventListener('click', () => {
-    searchModal.classList.add('hidden');
-    searchInput.value = '';
-    searchResults.innerHTML = '<p class="text-gray-500 dark:text-gray-400 text-center">Type to search...</p>';
-  });
+    // Open search modal
+    searchBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      searchModal.classList.remove('hidden');
+      setTimeout(() => searchInput.focus(), 100);
+    });
 
-  // Close on escape key
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && !searchModal.classList.contains('hidden')) {
+    // Close search modal
+    searchClose.addEventListener('click', () => {
       searchModal.classList.add('hidden');
       searchInput.value = '';
-      searchResults.innerHTML = '<p class="text-gray-500 dark:text-gray-400 text-center">Type to search...</p>';
-    }
-  });
-
-  // Search functionality
-  searchInput.addEventListener('input', (e) => {
-    const query = e.target.value.trim();
-    
-    if (!fuse || query.length < 2) {
       searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>';
-      return;
-    }
+    });
 
-    const results = fuse.search(query).slice(0, 10);
-    
-    if (results.length === 0) {
-      searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">No results found.</p>';
-      return;
-    }
+    // Close on escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && !searchModal.classList.contains('hidden')) {
+        searchModal.classList.add('hidden');
+        searchInput.value = '';
+        searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>';
+      }
+    });
 
-    searchResults.innerHTML = results.map(result => {
-      const item = result.item;
-      const excerpt = item.content.substring(0, 150).replace(/[^\w\s]/g, '');
-      return `
-        <a href="${item.permalink}" class="block p-3 mb-2 rounded-lg hover:bg-black/[3%] dark:hover:bg-white/[8%] transition-colors no-underline">
-          <h3 class="font-semibold text-lg text-black dark:text-white mb-1">${item.title}</h3>
-          <p class="text-sm text-black/60 dark:text-white/60 mb-1">${excerpt}...</p>
-          <div class="flex items-center gap-2 text-xs text-black/50 dark:text-white/50">
-            <span>${item.date}</span>
-            ${item.tags && item.tags.length > 0 ? `<span>•</span><span>${item.tags.join(', ')}</span>` : ''}
-          </div>
-        </a>
-      `;
-    }).join('');
-  });
+    // Close on background click
+    searchModal.addEventListener('click', (e) => {
+      if (e.target === searchModal) {
+        searchModal.classList.add('hidden');
+        searchInput.value = '';
+        searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>';
+      }
+    });
+
+    // Search functionality
+    searchInput.addEventListener('input', (e) => {
+      const query = e.target.value.trim();
+      
+      if (!fuse || query.length < 2) {
+        searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>';
+        return;
+      }
+
+      const results = fuse.search(query).slice(0, 10);
+      
+      if (results.length === 0) {
+        searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">No results found.</p>';
+        return;
+      }
+
+      searchResults.innerHTML = results.map(result => {
+        const item = result.item;
+        const excerpt = item.content.substring(0, 150).replace(/[^\w\s]/g, '');
+        return `
+          <a href="${item.permalink}" class="block p-3 mb-2 rounded-lg hover:bg-black/[3%] dark:hover:bg-white/[8%] transition-colors no-underline">
+            <h3 class="font-semibold text-lg mb-1" style="color: inherit;">${item.title}</h3>
+            <p class="text-sm mb-1 text-black/60 dark:text-white/60">${excerpt}...</p>
+            <div class="flex items-center gap-2 text-xs text-black/50 dark:text-white/50">
+              <span>${item.date}</span>
+              ${item.tags && item.tags.length > 0 ? `<span>•</span><span>${item.tags.join(', ')}</span>` : ''}
+            </div>
+          </a>
+        `;
+      }).join('');
+    });
+  })();
 </script>
