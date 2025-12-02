@@ -113,8 +113,8 @@
 </header>
 
 <!-- Search Modal -->
-<div id="search-modal" class="fixed inset-0 z-50 hidden" style="background-color: rgba(0, 0, 0, 0.5);">
-  <div class="mx-auto mt-20 max-w-2xl px-4 relative">
+<div id="search-modal" class="fixed inset-0 hidden" style="display: none; z-index: 100; background-color: rgba(0, 0, 0, 0.5); padding-top: 5rem;">
+  <div class="mx-auto max-w-2xl px-4 relative">
     <div class="rounded-lg shadow-xl" style="background-color: var(--bg);">
       <!-- Search Input -->
       <div class="p-4 border-b border-black/10 dark:border-white/10 relative">
@@ -128,7 +128,7 @@
         />
         <button
           id="search-close"
-          class="absolute top-6 right-6 text-black/60 dark:text-white/60 hover:text-black dark:hover:text-white cursor-pointer text-xl leading-none bg-transparent border-none"
+          class="absolute top-6 right-6 text-black/60 dark:text-white/60 hover:text-black dark:hover:text-white cursor-pointer text-xl leading-none bg-transparent border-none p-0"
           aria-label="Close"
         >
           ✕
@@ -178,32 +178,41 @@
     // Open search modal
     searchBtn.addEventListener('click', (e) => {
       e.preventDefault();
+      e.stopPropagation();
       searchModal.classList.remove('hidden');
-      setTimeout(() => searchInput.focus(), 100);
+      searchModal.style.display = 'block';
+      document.body.style.overflow = 'hidden';
+      setTimeout(() => {
+        searchInput.focus();
+      }, 100);
     });
 
-    // Close search modal
-    searchClose.addEventListener('click', () => {
+    const closeSearch = () => {
       searchModal.classList.add('hidden');
+      searchModal.style.display = 'none';
+      document.body.style.overflow = '';
       searchInput.value = '';
       searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>';
+    };
+
+    // Close search modal
+    searchClose.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      closeSearch();
     });
 
     // Close on escape key
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape' && !searchModal.classList.contains('hidden')) {
-        searchModal.classList.add('hidden');
-        searchInput.value = '';
-        searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>';
+        closeSearch();
       }
     });
 
     // Close on background click
     searchModal.addEventListener('click', (e) => {
       if (e.target === searchModal) {
-        searchModal.classList.add('hidden');
-        searchInput.value = '';
-        searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>';
+        closeSearch();
       }
     });
 
