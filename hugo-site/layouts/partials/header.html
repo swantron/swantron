@@ -114,7 +114,7 @@
 
 <!-- Search Modal -->
 <div id="search-modal" class="fixed inset-0 hidden" style="display: none; z-index: 100; background-color: rgba(0, 0, 0, 0.5); padding-top: 5rem;">
-  <div class="mx-auto max-w-2xl px-4 relative">
+  <div class="mx-auto px-4 relative" style="max-width: 42rem;">
     <div class="rounded-lg shadow-xl" style="background-color: var(--bg);">
       <!-- Search Input -->
       <div class="p-4 border-b border-black/10 dark:border-white/10 relative">
@@ -123,7 +123,7 @@
           id="search-input"
           placeholder="Search posts..."
           class="w-full px-4 py-2 text-lg border border-black/10 dark:border-white/10 rounded-lg focus:outline-none focus:ring-2 focus:ring-black/20 dark:focus:ring-white/20"
-          style="background-color: var(--bg); color: inherit;"
+          style="background-color: var(--bg);"
           autofocus
         />
         <button
@@ -136,7 +136,7 @@
       </div>
       
       <!-- Search Results -->
-      <div id="search-results" class="max-h-96 overflow-y-auto p-4">
+      <div id="search-results" class="max-h-96 overflow-y-auto p-4" style="background-color: var(--bg);">
         <p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>
       </div>
     </div>
@@ -144,24 +144,45 @@
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
-<script>
-  (function() {
-    let searchIndex = [];
-    let fuse = null;
+<style>
+  #search-input {
+    color: black !important;
+  }
+  html.dark #search-input,
+  body.dark #search-input,
+  .dark #search-input {
+    color: white !important;
+  }
+  #search-results a {
+    color: black !important;
+  }
+  html.dark #search-results a,
+  body.dark #search-results a,
+  .dark #search-results a {
+    color: white !important;
+  }
+</style>
+  <script>
+    (function() {
+      let searchIndex = [];
+      let fuse = null;
+      let searchReady = false;
 
-    // Load search index
-    fetch('{{ "search/index.json" | relURL }}')
-      .then(res => res.json())
-      .then(data => {
-        searchIndex = data;
-        fuse = new Fuse(searchIndex, {
-          keys: ['title', 'content', 'tags'],
-          threshold: 0.3,
-          includeScore: true,
-          minMatchCharLength: 2
-        });
-      })
-      .catch(err => console.error('Failed to load search index:', err));
+      // Load search index
+      fetch('{{ "search/index.json" | relURL }}')
+        .then(res => res.json())
+        .then(data => {
+          searchIndex = data;
+          fuse = new Fuse(searchIndex, {
+            keys: ['title', 'content', 'tags'],
+            threshold: 0.4,
+            includeScore: true,
+            minMatchCharLength: 1,
+            ignoreLocation: true
+          });
+          searchReady = true;
+        })
+        .catch(err => console.error('Failed to load search index:', err));
 
     // Search modal elements
     const searchBtn = document.getElementById('search-btn');
@@ -182,6 +203,9 @@
       searchModal.classList.remove('hidden');
       searchModal.style.display = 'block';
       document.body.style.overflow = 'hidden';
+      // Set input color based on dark mode with !important
+      const isDark = document.documentElement.classList.contains('dark');
+      searchInput.style.setProperty('color', isDark ? 'white' : 'black', 'important');
       setTimeout(() => {
         searchInput.focus();
       }, 100);
@@ -219,8 +243,14 @@
     // Search functionality
     searchInput.addEventListener('input', (e) => {
       const query = e.target.value.trim();
+      const isDark = document.documentElement.classList.contains('dark');
       
-      if (!fuse || query.length < 2) {
+      if (!searchReady || !fuse) {
+        searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">Loading search index...</p>';
+        return;
+      }
+      
+      if (query.length < 1) {
         searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>';
         return;
       }
@@ -232,14 +262,19 @@
         return;
       }
 
+      const textColor = isDark ? 'white' : 'black';
+      const textColorMuted = isDark ? 'rgba(255,255,255,0.6)' : 'rgba(0,0,0,0.6)';
+      const textColorMutedMore = isDark ? 'rgba(255,255,255,0.5)' : 'rgba(0,0,0,0.5)';
+
       searchResults.innerHTML = results.map(result => {
         const item = result.item;
-        const excerpt = item.content.substring(0, 150).replace(/[^\w\s]/g, '');
+        // Clean excerpt - remove HTML entities and get first 150 chars
+        const excerpt = item.content.replace(/&[^;]+;/g, ' ').replace(/\s+/g, ' ').substring(0, 150).trim();
         return `
-          <a href="${item.permalink}" class="block p-3 mb-2 rounded-lg hover:bg-black/[3%] dark:hover:bg-white/[8%] transition-colors no-underline">
-            <h3 class="font-semibold text-lg mb-1" style="color: inherit;">${item.title}</h3>
-            <p class="text-sm mb-1 text-black/60 dark:text-white/60">${excerpt}...</p>
-            <div class="flex items-center gap-2 text-xs text-black/50 dark:text-white/50">
+          <a href="${item.permalink}" class="block p-3 mb-2 rounded-lg hover:bg-black/[3%] dark:hover:bg-white/[8%] transition-colors no-underline" style="color: ${textColor};">
+            <h3 class="font-semibold text-lg mb-1" style="color: ${textColor};">${item.title}</h3>
+            <p class="text-sm mb-1" style="color: ${textColorMuted};">${excerpt}${excerpt.length >= 150 ? '...' : ''}</p>
+            <div class="flex items-center gap-2 text-xs" style="color: ${textColorMutedMore};">
               <span>${item.date}</span>
               ${item.tags && item.tags.length > 0 ? `<span>•</span><span>${item.tags.join(', ')}</span>` : ''}
             </div>
