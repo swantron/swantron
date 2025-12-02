@@ -1,0 +1,226 @@
+<header
+  class="mx-auto flex h-[4.5rem] max-w-(--w) px-8 whitespace-nowrap lg:justify-center"
+>
+  <div class="relative z-50 flex items-center ltr:mr-auto rtl:ml-auto">
+    <a
+      class="-translate-y-[1px] text-2xl font-medium"
+      href="{{- `` | absURL -}}"
+      >{{ site.Title }}</a
+    >
+    <div
+      class="btn-dark text-[0px] ltr:ml-4 rtl:mr-4 h-6 w-6 shrink-0 cursor-pointer {{ if site.Params.monoDarkIcon }}[background:url(./theme.svg)_left_center/cover_no-repeat] dark:invert{{ else }}[background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)]{{ end }} dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden ltr:-mr-8 rtl:-ml-8"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  {{- $bg_color := $.Scratch.Get "bg_color" -}}<!---->
+
+  <script>
+    // base
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    // mobile menu
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    // dark theme
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '{{- $bg_color -}}'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    // init
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    // listen system
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    // manual switch
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full flex-col justify-center bg-(--bg) pb-16 duration-200 select-none lg:static lg:h-auto lg:flex-row lg:bg-transparent! lg:pb-0 lg:transition-none"
+  >
+    {{- $url := .RelPermalink -}}<!---->
+    {{- with site.Menus.main -}}
+    <nav
+      class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-10 rtl:space-x-reverse"
+    >
+      {{- range . -}}
+      <a
+        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
+        href="{{- .URL -}}"
+        >{{- .Name -}}</a
+      >
+      {{- end -}}
+    </nav>
+    {{- end -}}<!---->
+
+    <!-- Search Button -->
+    <div class="lg:ml-4 rtl:lg:mr-4">
+      <button
+        id="search-btn"
+        class="btn-search block text-center text-xl leading-[5rem] lg:text-base lg:font-normal lg:leading-normal cursor-pointer"
+        aria-label="Search"
+      >
+        Search
+      </button>
+    </div>
+
+    {{- with $.Scratch.Get "social_list" -}}
+    <nav
+      class="mt-12 flex justify-center space-x-10 lg:mt-0 lg:items-center ltr:lg:ml-14 rtl:space-x-reverse rtl:lg:mr-14 dark:invert"
+    >
+      {{- range . -}}<!---->
+      <a
+        class="h-7 w-7 text-[0px] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./{{- . -}}.svg)"
+        href="{{- if eq . `rss` -}}{{- `index.xml` | absURL -}}{{- else if eq . `mastodon` -}}{{- index site.Params . -}}{{- else -}}{{- if eq . `threads` -}}https://threads.net/{{- else if eq . `bluesky` -}}https://bsky.app/profile/{{- else -}}https://{{- . -}}.com/{{- end -}}{{- if eq . `linkedin` -}}in/{{- end -}}{{- index site.Params . -}}{{- end -}}"
+        target="_blank"
+        rel="{{- if eq . `rss` -}}alternate{{- else -}}me{{- end -}}"
+      >
+        {{- . -}}
+      </a>
+      {{- end -}}<!---->
+    </nav>
+    {{- end -}}<!---->
+  </div>
+</header>
+
+<!-- Search Modal -->
+<div id="search-modal" class="fixed inset-0 z-50 hidden bg-black/50 backdrop-blur-sm" style="background-color: rgba(0, 0, 0, 0.5);">
+  <div class="mx-auto mt-20 max-w-2xl px-4 relative">
+    <div class="rounded-lg bg-white dark:bg-gray-800 shadow-xl" style="background-color: var(--bg);">
+      <!-- Search Input -->
+      <div class="p-4 border-b border-black/10 dark:border-white/10 relative">
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Search posts..."
+          class="w-full px-4 py-2 text-lg border border-black/10 dark:border-white/10 rounded-lg bg-white dark:bg-gray-700 text-black dark:text-white focus:outline-none focus:ring-2 focus:ring-black/20 dark:focus:ring-white/20"
+          autofocus
+        />
+        <button
+          id="search-close"
+          class="absolute top-6 right-6 text-black/60 dark:text-white/60 hover:text-black dark:hover:text-white cursor-pointer text-xl leading-none"
+          aria-label="Close"
+        >
+          ✕
+        </button>
+      </div>
+      
+      <!-- Search Results -->
+      <div id="search-results" class="max-h-96 overflow-y-auto p-4">
+        <p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script>
+  let searchIndex = [];
+  let fuse = null;
+
+  // Load search index
+  fetch('{{ "search/index.json" | relURL }}')
+    .then(res => res.json())
+    .then(data => {
+      searchIndex = data;
+      fuse = new Fuse(searchIndex, {
+        keys: ['title', 'content', 'tags'],
+        threshold: 0.3,
+        includeScore: true,
+        minMatchCharLength: 2
+      });
+    })
+    .catch(err => console.error('Failed to load search index:', err));
+
+  // Search modal elements
+  const searchBtn = document.getElementById('search-btn');
+  const searchModal = document.getElementById('search-modal');
+  const searchInput = document.getElementById('search-input');
+  const searchResults = document.getElementById('search-results');
+  const searchClose = document.getElementById('search-close');
+
+  // Open search modal
+  searchBtn.addEventListener('click', () => {
+    searchModal.classList.remove('hidden');
+    searchInput.focus();
+  });
+
+  // Close search modal
+  searchClose.addEventListener('click', () => {
+    searchModal.classList.add('hidden');
+    searchInput.value = '';
+    searchResults.innerHTML = '<p class="text-gray-500 dark:text-gray-400 text-center">Type to search...</p>';
+  });
+
+  // Close on escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !searchModal.classList.contains('hidden')) {
+      searchModal.classList.add('hidden');
+      searchInput.value = '';
+      searchResults.innerHTML = '<p class="text-gray-500 dark:text-gray-400 text-center">Type to search...</p>';
+    }
+  });
+
+  // Search functionality
+  searchInput.addEventListener('input', (e) => {
+    const query = e.target.value.trim();
+    
+    if (!fuse || query.length < 2) {
+      searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>';
+      return;
+    }
+
+    const results = fuse.search(query).slice(0, 10);
+    
+    if (results.length === 0) {
+      searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">No results found.</p>';
+      return;
+    }
+
+    searchResults.innerHTML = results.map(result => {
+      const item = result.item;
+      const excerpt = item.content.substring(0, 150).replace(/[^\w\s]/g, '');
+      return `
+        <a href="${item.permalink}" class="block p-3 mb-2 rounded-lg hover:bg-black/[3%] dark:hover:bg-white/[8%] transition-colors no-underline">
+          <h3 class="font-semibold text-lg text-black dark:text-white mb-1">${item.title}</h3>
+          <p class="text-sm text-black/60 dark:text-white/60 mb-1">${excerpt}...</p>
+          <div class="flex items-center gap-2 text-xs text-black/50 dark:text-white/50">
+            <span>${item.date}</span>
+            ${item.tags && item.tags.length > 0 ? `<span>•</span><span>${item.tags.join(', ')}</span>` : ''}
+          </div>
+        </a>
+      `;
+    }).join('');
+  });
+</script>
