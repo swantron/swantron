@@ -168,31 +168,44 @@
       let fuse = null;
       let searchReady = false;
 
-      // Load search index
-      fetch('{{ "search/index.json" | relURL }}')
-        .then(res => {
-          if (!res.ok) {
-            throw new Error(`HTTP error! status: ${res.status}`);
-          }
-          return res.json();
-        })
-        .then(data => {
-          if (!Array.isArray(data)) {
-            throw new Error('Search index is not an array');
-          }
-          searchIndex = data;
-          fuse = new Fuse(searchIndex, {
-            keys: ['title', 'content', 'tags'],
-            threshold: 0.4,
-            includeScore: true,
-            minMatchCharLength: 1,
-            ignoreLocation: true
+      // Load search index - use absURL for proper baseURL handling
+      const searchIndexUrl = '{{ "search/index.json" | absURL }}';
+      // Try relative path as fallback for local development
+      const fallbackUrl = '/search/index.json';
+      
+      function loadSearchIndex(url) {
+        return fetch(url)
+          .then(res => {
+            if (!res.ok) {
+              throw new Error(`HTTP error! status: ${res.status} for ${url}`);
+            }
+            return res.json();
+          })
+          .then(data => {
+            if (!Array.isArray(data)) {
+              throw new Error('Search index is not an array');
+            }
+            searchIndex = data;
+            fuse = new Fuse(searchIndex, {
+              keys: ['title', 'content', 'tags'],
+              threshold: 0.4,
+              includeScore: true,
+              minMatchCharLength: 1,
+              ignoreLocation: true
+            });
+            searchReady = true;
+            console.log('Search index loaded:', searchIndex.length, 'items');
           });
-          searchReady = true;
-          console.log('Search index loaded:', searchIndex.length, 'items');
+      }
+      
+      // Try primary URL first, then fallback
+      loadSearchIndex(searchIndexUrl)
+        .catch(err => {
+          console.warn('Primary search index failed, trying fallback:', err);
+          return loadSearchIndex(fallbackUrl);
         })
         .catch(err => {
-          console.error('Failed to load search index:', err);
+          console.error('Failed to load search index from both URLs:', err);
           const results = document.getElementById('search-results');
           if (results) {
             results.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center text-red-500">Failed to load search index. Please refresh the page.</p>';
