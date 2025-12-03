@@ -42,57 +42,15 @@
   {{- partial "head.html" . -}}
   <body
     class="bg-(--bg) text-black antialiased duration-200 ease-out [-webkit-tap-highlight-color:transparent] dark:text-white"
-    id="body-with-robot-bg"
   >
-    <!-- Robot background layer -->
-    <div 
-      class="fixed inset-0 -z-10 pointer-events-none"
-      style="background-image: url('{{ "uploads/2013/12/robot_arm-1000x288.jpg" | relURL }}'); background-attachment: fixed; background-position: center top; background-repeat: repeat-y; background-size: contain; opacity: 0.12; filter: brightness(1);"
-      id="robot-bg-layer"
-    ></div>
-    
     {{- partial "header.html" . -}}
 
     <main
       class="prose prose-neutral dark:prose-invert relative mx-auto min-h-[calc(100vh-9rem)] max-w-(--w) px-8 pt-14 pb-16"
-      style="background-color: var(--bg);"
     >
       {{- block "main" . -}}{{- end -}}
     </main>
 
     {{- partial "footer.html" . -}}
-    
-    <style>
-      /* Robot background styling for light mode */
-      #robot-bg-layer {
-        opacity: 0.12;
-        filter: brightness(1);
-      }
-      
-      /* Adjust robot background for dark mode - more subtle */
-      html.dark #robot-bg-layer,
-      body.dark #robot-bg-layer,
-      .dark #robot-bg-layer {
-        opacity: 0.06 !important;
-        filter: brightness(0.7) contrast(0.9) !important;
-      }
-      
-      /* Ensure main content has proper background in both modes */
-      main {
-        background-color: var(--bg) !important;
-      }
-      
-      /* Dark mode main background */
-      html.dark main,
-      body.dark main,
-      .dark main {
-        background-color: var(--bg) !important;
-      }
-      
-      /* Ensure body background is set properly */
-      body {
-        background-color: var(--bg) !important;
-      }
-    </style>
   </body>
 </html>
