@@ -6,4 +6,4 @@ slug: 'live-taser-action'
 description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
 ---
 
-<object height="355" width="425"><param name="movie" value="http://www.youtube.com/v/zats5Nct2xE&hl=en"></param><param name="wmode" value="transparent"></param><embed height="355" src="http://www.youtube.com/v/zats5Nct2xE&hl=en" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>I know a guy with a taser, and now too a guy with two taser probe wounds. 
+<iframe width="1396" height="610" src="https://www.youtube.com/embed/zats5Nct2xE" title="MT Taser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>I know a guy with a taser, and now too a guy with two taser probe wounds. 
