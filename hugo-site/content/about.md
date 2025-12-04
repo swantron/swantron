@@ -12,6 +12,6 @@ At some other point 'bouncerblog.com' morphed into 'swantron.com'. I was really 
 
 Flash forward to now…bouncer is a software engineer, bartender is a controller. We have two girls who are pretty awesome. Still haven't left Bozeman. I don't blog much anymore, but probably should.
 
-I hang around various platforms (github / twitter / etc) as @swantron . There are always a few other domain names and projects floating around.. mostly docker stuff that doesn't make for interesting posts.
+I hang around various platforms (github / twitter / etc) as @swantron . There are always a few other domain names and projects floating around.. mostly docker stuff that doesn't make for interesting posts. Check out [tronswan.com](http://tronswan.com) or my [LinkedIn](https://www.linkedin.com/in/joseph-swanson-11092758/).
 
 ~ joe[at]swantron.com
