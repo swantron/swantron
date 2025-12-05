@@ -1,0 +1,37 @@
+{{- define "main" -}}
+
+<h1 class="mb-14">Hall of Fame</h1>
+
+{{- $hofSlugs := .Params.hof_slugs | default slice -}}
+{{- $hofPosts := slice -}}
+
+{{- if $hofSlugs -}}
+  {{- $allPosts := where site.RegularPages "Type" "posts" -}}
+  {{- range $allPosts -}}
+    {{- if and .Params (isset .Params "slug") -}}
+      {{- $postSlug := .Params.slug -}}
+      {{- if in $hofSlugs $postSlug -}}
+        {{- $hofPosts = $hofPosts | append . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if gt (len $hofPosts) 0 -}}
+  {{- $sortedPosts := sort $hofPosts "Date" "desc" -}}
+  {{- range $sortedPosts -}}
+    <section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+      <h2 class="my-0!">{{- .Title -}}</h2>
+      <time class="text-xs antialiased opacity-60"
+        >{{- .Date | time.Format ":date_medium" -}}</time
+      >
+      <a class="absolute inset-0 text-[0px]" href="{{- .Permalink -}}"
+        >{{- .Title -}}</a
+      >
+    </section>
+  {{- end -}}
+{{- else -}}
+  <p>No Hall of Fame posts found.</p>
+{{- end -}}
+
+{{- end -}}

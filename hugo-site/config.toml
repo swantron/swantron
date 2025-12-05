@@ -48,9 +48,9 @@ relativeURLs = false
     weight = 20
   
   [[menu.main]]
-    identifier = 'contact'
-    name = 'Contact'
-    url = '/contact/'
+    identifier = 'hof'
+    name = 'HoF'
+    url = '/hof/'
     weight = 30
 
 [markup]
