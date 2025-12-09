@@ -3,14 +3,15 @@ wp-export/
 
 # Large archive files (exceed GitHub's 100MB limit)
 **/*.zip
-hugo-site/static/uploads/**/*.zip
+static/uploads/**/*.zip
 
 # Conversion script (optional, can be removed)
 convert_posts.py
 
 # Hugo build output
-hugo-site/public/
-hugo-site/resources/_gen/
+/public/
+/resources/_gen/
+.hugo_build.lock
 
 # OS files
 .DS_Store
@@ -22,3 +23,11 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Sensitive WordPress files (should not be in static/uploads)
+**/wp-config.php
+**/*.sql
+**/wp-*.php
+**/xmlrpc.php
+**/install.php
+**/wp-snapshots/

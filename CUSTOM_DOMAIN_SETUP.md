@@ -17,7 +17,7 @@ All 1,039 posts have been configured with their original slugs, so links will wo
 3. Check "Enforce HTTPS" (recommended)
 4. Click "Save"
 
-GitHub will automatically create a `CNAME` file in your repository (already included in `hugo-site/static/CNAME`).
+GitHub will automatically create a `CNAME` file in your repository (already included in `static/CNAME`).
 
 ## Step 2: Configure DNS Records
 
@@ -80,7 +80,7 @@ Check certificate status:
 
 ## Step 5: Update baseURL (After Domain is Live)
 
-Once your domain is working, update `hugo-site/config.toml`:
+Once your domain is working, update `config.toml`:
 
 ```toml
 baseURL = 'https://swantron.com/'
@@ -88,7 +88,7 @@ baseURL = 'https://swantron.com/'
 
 Then commit and push:
 ```bash
-git add hugo-site/config.toml
+git add config.toml
 git commit -m "Update baseURL for custom domain"
 git push origin main
 ```
@@ -116,7 +116,7 @@ After setup, test these URLs to ensure they work:
 ### 404 errors on old URLs
 - Verify permalink structure in `config.toml` matches old structure
 - Check that posts have `slug:` in frontmatter
-- Rebuild the site: `hugo -s hugo-site`
+- Rebuild the site: `hugo`
 
 ## Important Notes
 

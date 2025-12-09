@@ -16,7 +16,7 @@ Hugo uses a **lookup order** for templates:
 
 ### Option 1: Override Post Template (Recommended)
 
-Create `hugo-site/layouts/_default/single.html` to customize how posts display:
+Create `layouts/_default/single.html` to customize how posts display:
 
 ```html
 {{- define "main" }}
@@ -39,9 +39,9 @@ Create `hugo-site/layouts/_default/single.html` to customize how posts display:
 
 ### Option 2: Use Hugo Shortcodes
 
-Create custom shortcodes in `hugo-site/layouts/shortcodes/`:
+Create custom shortcodes in `layouts/shortcodes/`:
 
-**`hugo-site/layouts/shortcodes/image-gallery.html`**:
+**`layouts/shortcodes/image-gallery.html`**:
 ```html
 <div class="image-gallery">
   {{ range .Params }}
@@ -57,7 +57,7 @@ Then use in posts:
 
 ### Option 3: Add Custom CSS
 
-Create `hugo-site/static/css/custom.css`:
+Create `static/css/custom.css`:
 ```css
 .featured-image {
   width: 100%;
@@ -79,7 +79,7 @@ Reference in `config.toml`:
   customCSS = ["css/custom.css"]
 ```
 
-Or add to `hugo-site/layouts/partials/head-custom.html`:
+Or add to `layouts/partials/head-custom.html`:
 ```html
 <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
 ```
@@ -88,7 +88,7 @@ Or add to `hugo-site/layouts/partials/head-custom.html`:
 
 ### 1. Create Custom Post Layout
 
-**`hugo-site/layouts/_default/single.html`**:
+**`layouts/_default/single.html`**:
 ```html
 {{- define "main" }}
 <article class="post-single">
@@ -125,7 +125,7 @@ Or add to `hugo-site/layouts/partials/head-custom.html`:
 
 ### 2. Add Custom Styles
 
-**`hugo-site/static/css/custom.css`**:
+**`static/css/custom.css`**:
 ```css
 .featured-image-container {
   margin: 2rem 0;
@@ -160,7 +160,7 @@ Or add to `hugo-site/layouts/partials/head-custom.html`:
 
 ### 3. Include CSS in Theme
 
-**`hugo-site/layouts/partials/head-custom.html`**:
+**`layouts/partials/head-custom.html`**:
 ```html
 <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
 ```
@@ -197,9 +197,9 @@ Your customizations in `layouts/` override the theme automatically!
 ## Current Setup
 
 Your site already has:
-- ✅ Theme included directly (`hugo-site/themes/paper/`)
-- ✅ Custom layouts directory (`hugo-site/layouts/`)
-- ✅ Custom JSON output (`hugo-site/layouts/_default/index.json`)
-- ✅ Static files directory (`hugo-site/static/`)
+- ✅ Theme included directly (`themes/paper/`)
+- ✅ Custom layouts directory (`layouts/`)
+- ✅ Custom JSON output (`layouts/_default/index.json`)
+- ✅ Static files directory (`static/`)
 
 You're all set to customize! Just add files to `layouts/` and `static/` as needed.
