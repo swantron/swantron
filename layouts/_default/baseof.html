@@ -1,0 +1,169 @@
+<!doctype html>
+
+{{- $.Scratch.Delete "bg_color" -}}<!---->
+{{- $.Scratch.Delete "social_list" -}}<!---->
+{{- $.Scratch.Delete "avatar_url" -}}<!---->
+
+<!-- bg_color -->
+{{- $color_map := dict "linen" "#faf8f1" "wheat" "#f8f5d7" "gray" "#fbfbfb"
+"light" "#fff" -}}<!---->
+{{- $.Scratch.Set "bg_color" (index $color_map (site.Params.color | default
+(print "linen"))) -}}<!---->
+{{- $bg_color := $.Scratch.Get "bg_color" -}}<!---->
+
+<!-- social_list -->
+{{- $social_params := slice "twitter" "github" "instagram" "linkedin" "mastodon"
+"threads" "bluesky" "rss" -}}<!---->
+{{- range $social_params -}}<!---->
+{{- if isset site.Params . -}}<!---->
+{{- $.Scratch.Add "social_list" (slice .) -}}<!---->
+{{- end -}}<!---->
+{{- end -}}<!---->
+
+<!-- avatar_url -->
+{{- if site.Params.avatar -}}<!---->
+{{- if in site.Params.avatar "http" -}}<!---->
+{{- $.Scratch.Set "avatar_url" site.Params.avatar -}}<!---->
+{{- else -}}<!---->
+{{- $official_cdn := "https://www.gravatar.com/avatar/" -}}<!---->
+{{- $cdn := (site.Params.gravatarCdn | default $official_cdn) -}}<!---->
+{{- $md5 := (md5 site.Params.avatar) -}}<!---->
+{{- $avatar_url := print $cdn $md5 "?s=160&d=identicon" -}}<!---->
+{{- $.Scratch.Set "avatar_url" $avatar_url -}}<!---->
+{{- end -}}<!---->
+{{- end -}}<!---->
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: {{- $bg_color -}}"
+  lang="{{- or site.LanguageCode site.Language.Lang -}}"
+  dir="{{- if site.Params.direction -}}{{- site.Params.direction -}}{{- else -}}ltr{{- end -}}"
+>
+  {{- partial "head.html" . -}}
+  <body
+    class="bg-(--bg) text-black antialiased duration-200 ease-out [-webkit-tap-highlight-color:transparent] dark:text-white"
+  >
+    {{- partial "header.html" . -}}
+
+    <main
+      class="prose prose-neutral dark:prose-invert relative mx-auto min-h-[calc(100vh-9rem)] max-w-[1200px] px-8 pt-14 pb-16"
+    >
+      {{- block "main" . -}}{{- end -}}
+    </main>
+
+    {{- partial "footer.html" . -}}
+    
+    <style>
+      /* Robot background image on html - transparent PNG, stretched to fit screen width */
+      html {
+        background-image: url('{{ "robotard_512x512.png" | absURL }}') !important;
+        background-attachment: fixed !important;
+        background-position: 50% 0% !important;
+        background-repeat: no-repeat !important;
+        background-size: 100vw auto !important;
+        background-color: var(--bg) !important;
+      }
+      
+      /* Body background - less opaque in light mode so robot image pops */
+      html:not(.dark) body {
+        background-color: rgba(250, 248, 241, 0.75) !important;
+      }
+      
+      /* Main content area - fully transparent in light mode */
+      html:not(.dark) main {
+        background-color: transparent !important;
+      }
+      
+      /* Articles within main - fully transparent */
+      html:not(.dark) main article {
+        background-color: transparent !important;
+      }
+      
+      /* Fix dark mode - make body transparent so dark overlay shows */
+      html.dark body {
+        background-color: transparent !important;
+      }
+      
+      html.dark main {
+        background-color: transparent !important;
+      }
+      
+      html.dark main article {
+        background-color: transparent !important;
+      }
+      
+      /* Dark mode overlay - more black (darker) but less opaque so robot image shows through */
+      html.dark body::before {
+        opacity: 0.80 !important;
+        background-color: rgba(0, 0, 0, 0.95) !important;
+      }
+      
+      /* Force override theme's dark overlay */
+      body.dark-bg::before,
+      html.dark body.dark-bg::before {
+        opacity: 0.80 !important;
+        background-color: rgba(0, 0, 0, 0.95) !important;
+      }
+      
+      /* Make content area wider - override theme's max-width */
+      body main.prose {
+        max-width: 1200px !important;
+      }
+      
+      body header {
+        max-width: 1200px !important;
+      }
+      
+      body footer {
+        max-width: 1200px !important;
+      }
+    </style>
+    <script>
+      // Fix dark mode - handle body and content transparency
+      (function() {
+        function fixDarkMode() {
+          const html = document.documentElement;
+          const body = document.body;
+          const main = document.querySelector('main');
+          const articles = document.querySelectorAll('main article');
+          const isDark = html.classList.contains('dark');
+          
+          // Body - less opaque in light mode so robot image pops, transparent in dark
+          if (isDark) {
+            body.style.setProperty('background-color', 'transparent', 'important');
+          } else {
+            // Light mode: less opaque background so robot image shows through more
+            body.style.setProperty('background-color', 'rgba(250, 248, 241, 0.75)', 'important');
+          }
+          
+          // Main and articles - fully transparent in both modes
+          if (main) {
+            main.style.setProperty('background-color', 'transparent', 'important');
+          }
+          
+          articles.forEach(article => {
+            article.style.setProperty('background-color', 'transparent', 'important');
+          });
+        }
+        
+        // Run after CSS loads
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', function() {
+            setTimeout(fixDarkMode, 100);
+          });
+        } else {
+          setTimeout(fixDarkMode, 100);
+        }
+        
+        // Watch for dark mode toggle
+        const observer = new MutationObserver(function() {
+          setTimeout(fixDarkMode, 50);
+        });
+        observer.observe(document.documentElement, {
+          attributes: true,
+          attributeFilter: ['class']
+        });
+      })();
+    </script>
+  </body>
+</html>
