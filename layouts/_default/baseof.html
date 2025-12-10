@@ -54,13 +54,39 @@
     {{- partial "footer.html" . -}}
     
     <style>
-      /* Robot background image on html - transparent PNG, stretched to fit screen width */
-      html {
+      /* Robot background image - use pseudo-element so we can control z-index */
+      html::after {
+        content: '';
+        position: fixed;
+        inset: 0;
+        z-index: -2;
         background-image: url('{{ "robotard_512x512.png" | absURL }}') !important;
         background-attachment: fixed !important;
         background-position: 50% 0% !important;
         background-repeat: no-repeat !important;
         background-size: 100vw auto !important;
+        pointer-events: none;
+      }
+      
+      /* Subtle overlay on top of robot image to make it hazy */
+      html::before {
+        content: '';
+        position: fixed;
+        inset: 0;
+        z-index: -1;
+        background-color: var(--bg);
+        opacity: 0.15;
+        pointer-events: none;
+      }
+      
+      /* More overlay in dark mode for hazy effect */
+      html.dark::before {
+        opacity: 0.40 !important;
+        background-color: rgba(0, 0, 0, 0.3) !important;
+      }
+      
+      /* HTML background color */
+      html {
         background-color: var(--bg) !important;
       }
       
@@ -92,17 +118,25 @@
         background-color: transparent !important;
       }
       
-      /* Dark mode overlay - more black (darker) but less opaque so robot image shows through */
+      /* Dark mode overlay - 100% black background, robot image on top */
       html.dark body::before {
-        opacity: 0.80 !important;
-        background-color: rgba(0, 0, 0, 0.95) !important;
+        opacity: 1 !important;
+        background-color: rgb(0, 0, 0) !important;
+        z-index: -3 !important;
+      }
+      
+      /* Robot image on top of dark overlay in dark mode */
+      html.dark::after {
+        z-index: -2 !important;
+        opacity: 1 !important;
       }
       
       /* Force override theme's dark overlay */
       body.dark-bg::before,
       html.dark body.dark-bg::before {
-        opacity: 0.80 !important;
-        background-color: rgba(0, 0, 0, 0.95) !important;
+        opacity: 1 !important;
+        background-color: rgb(0, 0, 0) !important;
+        z-index: -3 !important;
       }
       
       /* Make content area wider - override theme's max-width */
