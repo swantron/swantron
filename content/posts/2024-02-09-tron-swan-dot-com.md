@@ -8,7 +8,7 @@ featured_image: '/uploads/2024/04/Screenshot_20240409-124423-461x1024.png'
 
 Alex from Peloton likes to say something along the lines of "you don't have to get ready if you stay ready." Its pretty good advice.  
   
-Along those lines I decided to put together a react app to stay fresh. I've on (gitlab) pipelines and api frameworks at work for most of the year.. time for a project.  
+Along those lines I decided to put together a react app to stay fresh. I've been hammering on (gitlab) pipelines and api frameworks at work for most of the year.. time for a project.  
   
 It is live on [tronswan.com](http://tronswan.com)
 ![](/uploads/2024/04/Screenshot_20240409-124423-461x1024.png)The goals were to:  
