@@ -2,17 +2,6 @@
 
 <article>
   <header class="mb-14">
-    {{- /* Featured Image */ -}}
-    {{- if .Params.featured_image -}}
-    <div class="mb-6">
-      <img
-        src="{{- .Params.featured_image | relURL -}}"
-        alt="{{- .Title -}}"
-        class="w-full rounded-lg"
-      />
-    </div>
-    {{- end -}}
-    
     <h1 class="my-0! pb-2.5">{{- .Title -}}</h1>
 
     {{- if ne .Type "page" -}}
