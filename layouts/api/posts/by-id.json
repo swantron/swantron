@@ -2,7 +2,12 @@
 {
   {{- range $index, $post := $posts -}}
   {{- if $index }},{{- end }}
-  {{- $postId := if $post.Params.id }}{{ $post.Params.id }}{{ else }}{{ printf "%d" (add $index 1) }}{{ end -}}
+  {{- $postId := "" -}}
+  {{- if $post.Params.id -}}
+    {{- $postId = $post.Params.id -}}
+  {{- else -}}
+    {{- $postId = printf "%d" (add $index 1) -}}
+  {{- end -}}
   "{{ $postId }}": {
     "id": {{ $postId }},
     "slug": "{{ $post.Slug }}",
