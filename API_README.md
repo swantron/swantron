@@ -55,7 +55,7 @@ Returns a JSON object with posts keyed by ID:
 
 The tronswan React app consumes this API by:
 
-1. Setting the `VITE_SWANTRON_API_URL` environment variable to the Hugo site's base URL (e.g., `https://swantron.gitlab.io/swantron`)
+1. Setting the `VITE_SWANTRON_API_URL` environment variable to the Hugo site's base URL (e.g., `https://swantron.github.io/swantron`)
 2. Fetching `/api/posts/index.json` for the posts list
 3. Fetching `/api/posts/by-id.json` for individual post lookups
 4. Handling pagination and search client-side
@@ -65,7 +65,7 @@ The tronswan React app consumes this API by:
 The API endpoints are automatically generated when you build the Hugo site:
 
 ```bash
-hugo --baseURL https://swantron.gitlab.io/swantron/
+hugo --baseURL https://swantron.github.io/swantron/
 ```
 
 The JSON files will be generated in the `public/api/posts/` directory.
