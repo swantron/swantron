@@ -61,3 +61,15 @@ relativeURLs = false
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
   page = ['HTML', 'JSON']
+  
+# API section outputs
+[outputFormats]
+  [outputFormats.APIJSON]
+    baseName = "index"
+    mediaType = "application/json"
+    isPlainText = false
+    notAlternative = true
+
+[[outputs]]
+  section = "api"
+  outputs = ["JSON"]

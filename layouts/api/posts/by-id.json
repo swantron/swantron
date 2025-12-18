@@ -1,0 +1,20 @@
+{{- $posts := where .Site.RegularPages "Type" "posts" -}}
+{
+  {{- range $index, $post := $posts -}}
+  {{- if $index }},{{- end }}
+  {{- $postId := if $post.Params.id }}{{ $post.Params.id }}{{ else }}{{ printf "%d" (add $index 1) }}{{ end -}}
+  "{{ $postId }}": {
+    "id": {{ $postId }},
+    "slug": "{{ $post.Slug }}",
+    "title": {{ $post.Title | jsonify }},
+    "excerpt": {{ if $post.Description }}{{ $post.Description | jsonify }}{{ else }}{{ $post.Content | plainify | truncate 160 | jsonify }}{{ end }},
+    "content": {{ $post.Content | jsonify }},
+    "date": "{{ $post.Date.Format "2006-01-02T15:04:05Z07:00" }}",
+    "permalink": "{{ $post.Permalink }}",
+    "link": "{{ $post.Permalink }}",
+    "featuredImage": {{ if $post.Params.featured_image }}{{ $post.Params.featured_image | jsonify }}{{ else }}null{{ end }},
+    "categories": {{ if $post.Params.categories }}[{{ range $index, $cat := $post.Params.categories }}{{ if $index }},{{ end }}{"id": {{ add $index 1 }}, "name": {{ $cat | jsonify }}, "slug": {{ $cat | urlize | jsonify }}, "link": "{{ $.Site.BaseURL }}categories/{{ $cat | urlize }}/"}{{ end }}]{{ else }}[]{{ end }},
+    "tags": {{ if $post.Params.tags }}[{{ range $index, $tag := $post.Params.tags }}{{ if $index }},{{ end }}{"id": {{ add $index 1 }}, "name": {{ $tag | jsonify }}, "slug": {{ $tag | urlize | jsonify }}, "link": "{{ $.Site.BaseURL }}tags/{{ $tag | urlize }}/"}{{ end }}]{{ else }}[]{{ end }}
+  }
+  {{- end -}}
+}
