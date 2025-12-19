@@ -205,10 +205,10 @@
           return loadSearchIndex(fallbackUrl);
         })
         .catch(err => {
-          console.error('Failed to load search index from both URLs:', err);
-          const results = document.getElementById('search-results');
-          if (results) {
-            results.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center text-red-500">Failed to load search index. Please refresh the page.</p>';
+          // Silently fail - search index is optional
+          // Only log in development or if search UI is visible
+          if (document.getElementById('search-results')) {
+            console.warn('Search index not available. Search functionality disabled.');
           }
         });
 
