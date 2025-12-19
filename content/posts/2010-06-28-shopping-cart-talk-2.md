@@ -4,7 +4,7 @@ date: 2010-06-28T16:38:58+00:00
 id: 6232
 slug: 'shopping-cart-talk-2'
 featured_image: '/uploads/2010/06/robot-shopping.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 I need to start peddling goods. Who wouldn't want to wear a swantron shirt? Maybe a swantron mousepad? Who knows? They could sell like hot cakes. Or flapjacks. I have been mulling over the shopping cart issue for a while. I don't see much harm in throwing up an e-commerce portion to the site, as so long as it is secure. I really don't want to throw caution to the wind, and have a sketchy shopping cart that I don't endorse attached to my livelihood. ![robotic](/uploads/2010/06/robot-shopping.jpg "robot-shopping") I have been looking into various options, and seem to have found a good one in [Summer Cart shopping cart software](http://www.summercart.com/). Security is my biggest concern, but one also must look at the other aspects when making a decision of this magnitude...namely, shipping, support, payment plans, and ease of implementation. Here is a quick screen shot to drive home my point. ![cartograph](/uploads/2010/06/summer-cart.jpg "summer-cart") Summer Cart has integrated reporting. I'm all about my metrics...comes with the territory that I deal with on a daily basis at work. It is tough to make improvements blindly, and running reports is the way to base a business decision. What I really enjoy about Summer Cart is the admin control panel. Anything you could think of is covered...which makes for an easy decision. Stay tuned...you all better be foaming at the mouth at the thought of some swantron tees. It could be the fashion statement of the the year.

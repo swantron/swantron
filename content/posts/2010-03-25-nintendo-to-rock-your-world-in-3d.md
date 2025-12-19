@@ -4,7 +4,7 @@ date: 2010-03-25T11:23:57+00:00
 id: 1882
 slug: 'nintendo-to-rock-your-world-in-3d'
 featured_image: '/uploads/2010/03/dsi.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 Unfortunately, said world from the title is the world in the palm of your hands. Long story short, the DS is going to drop some sweet glasses-free 3D on yall suckaz. ![dot awesome](/uploads/2010/03/dsi.jpg "dsi") But don't take my word from it... TFA from [PCW](http://www.pcworld.com/article/192145/will_anyone_buy_a_3d_nintendo_ds.html):

@@ -4,7 +4,7 @@ date: 2010-05-31T14:44:50+00:00
 id: 2233
 slug: 'business-card-2-0'
 featured_image: '/uploads/2010/05/usb-card.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 Ramiro...I dig your style. ![ramiro](/uploads/2010/05/usb-card.jpg "usb-card") Spanish telecom extraordinaire and all around hero Ramiro Pareja Veredas has the coolest business cards ever. Printed onto a card, with a male USB interface...if you have the pleasure of getting one of these from ol' Ramiro, you can plug it into your computer and see his HTML resume, etc. ![usb](/uploads/2010/05/usb-business-card.jpg "usb-business-card") Per Ramiro himself:

@@ -4,7 +4,7 @@ date: 2010-04-29T14:20:40+00:00
 id: 2067
 slug: 'japanese-humanoid-moon-robot-whoa'
 featured_image: '/uploads/2010/04/japan_astronaut.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 I might have to move to Japan. First, they have that food thing down. Secondly, and more importantly, they are [BUILDING A DAMN HUMANOID ROBOT TO GO TO AND RETURN FROM THE MOON BY 2015](http://www.examiner.com/x-16352-Japan-Headlines-Examiner~y2010m4d29-Japanese-group-aims-to-put-humanoid-robot-on-moon-by-2015). That happens, and we have officially lost, my friends. ![japan humanoid robot](/uploads/2010/04/japan_astronaut.jpg "japan_astronaut") FTA:

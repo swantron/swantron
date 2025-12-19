@@ -4,7 +4,7 @@ date: 2009-11-19T09:39:51+00:00
 id: 1062
 slug: 'behold-tradition-in-the-making'
 featured_image: '/uploads/2009/11/champ.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 This year marks the 109*th* meeting of the MSU Bobcats and the Montana Grizzlies football squads... the good ol' [Brawl of the Wild](http://en.wikipedia.org/wiki/Brawl_of_the_Wild). Cat/Griz is always a big deal around Bozeman, and, dare I say, it just got a [whole lot more ridiculous](http://bozemandailychronicle.com/articles/2009/11/19/news/100catgriz.txt)... FTA:

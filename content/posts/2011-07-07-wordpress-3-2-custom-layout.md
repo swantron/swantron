@@ -4,7 +4,7 @@ date: 2011-07-07T17:14:16+00:00
 id: 3652
 slug: 'wordpress-3-2-custom-layout'
 featured_image: '/uploads/2011/07/worpress3.2.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 After the whole fiasco that came with my upgrade to WordPress 3.2, I decided to shell my old layout and go with a new [free website builder](http://www.intuit.com/ "free

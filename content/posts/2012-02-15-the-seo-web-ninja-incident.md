@@ -4,7 +4,7 @@ date: 2012-02-15T09:36:36+00:00
 id: 4372
 slug: 'the-seo-web-ninja-incident'
 featured_image: '/uploads/2012/02/image001.gif'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 So. I sell some links on my site from time to time. The people who do the actual purchasing of said links tend to be sketchy...some are just penny pinching scumbags, while others are outright nefarious. I had the opportunity to interact with the former type recently, in an email conversation / offer that turned a little sour. For purpose of reference, the <del datetime="2012-02-15T16:50:03+00:00">SEO genius</del> sketchball from this post works [here](http://operad.com/) (as a web ninja) and [here](http://www.sorezki.com/about/team/) (as a shirtless starfighter.) See what I'm talking about? Without further ado...the email thread:

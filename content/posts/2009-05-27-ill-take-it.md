@@ -4,7 +4,7 @@ date: 2009-05-27T19:56:07+00:00
 id: 868
 slug: 'ill-take-it'
 featured_image: '/uploads/2009/05/lawnchair.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 This chair, however nice, was posted in Craigslist "free stuff" section... ![a sweet chair](/uploads/2009/05/lawnchair.jpg)I think it may be overpriced at $0

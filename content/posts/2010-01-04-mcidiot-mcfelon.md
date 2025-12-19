@@ -4,7 +4,7 @@ date: 2010-01-04T11:38:36+00:00
 id: 1367
 slug: 'mcidiot-mcfelon'
 featured_image: '/uploads/2010/01/mcnuggit.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 ![mcnuggit](/uploads/2010/01/mcnuggit.jpg "mcnuggit") I feel like punching out some windows at McDonalds, because the food is utter garbage...check out this McBizarreness From the [Smoking Gun](http://www.thesmokinggun.com/archive/years/2010/0104102mcnuggets1.html):

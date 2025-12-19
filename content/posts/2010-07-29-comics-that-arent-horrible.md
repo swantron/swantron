@@ -4,7 +4,7 @@ date: 2010-07-29T17:45:49+00:00
 id: 2500
 slug: 'comics-that-arent-horrible'
 featured_image: 'http://www.marriedtothesea.com/072910/shrimp-the-food.gif'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 I have made zero effort to conceal the fact that I hate comics. They are, as a whole, utterly useless. Utterly. In my book, there are only three people making comics that are worth reading. My first? Randall from xkcd...pretty much speaks for itself for a math dude to be all over that stuff. My other two are Drew and Natalie, and their combined four works. Here is my favourite MTTS entry of the month... [![marriedtothesea.com](http://www.marriedtothesea.com/072910/shrimp-the-food.gif)](http://www.marriedtothesea.com/)  

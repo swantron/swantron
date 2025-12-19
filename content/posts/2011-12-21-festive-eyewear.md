@@ -4,7 +4,7 @@ date: 2011-12-21T12:45:38+00:00
 id: 4198
 slug: 'festive-eyewear'
 featured_image: '/uploads/2011/12/killer_robot.png'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 I've made it pretty clear that I have been mulling about regarding my next cell phone. It is a tough decision. Compared to the jump in technology from my previous leap out of BlackBerry-ville, this is a lateral move. I will end up with a more mature stock operating system, better screen technology, a second (better dust off my Skype account) camera, and \*hopefully a more capable battery. That said, I am having a tough time making a decision. Two years and three hundred dollars sits in the back of my mind. Too bad I'm not considering instead a purchase of [eyeglasses](http://zennioptical.com/cart/home.php?cat=31). That decision is a no-brainer...Zenni Optical is my place on that front, no question. Check out these marvelous holiday-themed beauties... ![awesome robot](/uploads/2011/12/killer_robot.png "killer_robot") I like the frames, and love the price: ![xmas frames](/uploads/2011/12/xmas_frames.png "xmas_frames") Here in the States, Zenni ships for free on orders over fifty dollars. You could pick up twelve pairs of glasses for the amount of money I am going to drop on my phone. Seriously...a dozen pairs. That is pretty crazy. At that cost, you may as well splurge on some holiday frames. They sure make that robot guy look dapper ^^^

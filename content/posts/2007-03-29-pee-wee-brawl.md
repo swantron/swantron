@@ -3,7 +3,7 @@ title: 'Pee Wee Brawl'
 date: 2007-03-29T02:30:38+00:00
 id: 517
 slug: 'pee-wee-brawl'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 If I have a prejudice, it is an uneasiness regarding the French-Canadians. Observe: <object height="350" width="425"><param name="movie" value="http://embed.break.com/MjU5OTY4"></param><embed height="350" src="http://embed.break.com/MjU5OTY4" type="application/x-shockwave-flash" width="425"></embed></object>  

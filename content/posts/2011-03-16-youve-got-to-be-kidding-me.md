@@ -4,7 +4,7 @@ date: 2011-03-16T11:27:51+00:00
 id: 3249
 slug: 'youve-got-to-be-kidding-me'
 featured_image: '/uploads/2011/03/prtzls.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 I'm averaging somewhere around two pounds per week... ![facepalm](/uploads/2011/03/prtzls.jpg "prtzls") Sort of gross; sort of impressive.

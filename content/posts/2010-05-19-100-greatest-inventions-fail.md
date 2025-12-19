@@ -4,7 +4,7 @@ date: 2010-05-19T15:37:51+00:00
 id: 2157
 slug: '100-greatest-inventions-fail'
 featured_image: '/uploads/2010/05/iPhone_black.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 Per Telegraph.co.uk

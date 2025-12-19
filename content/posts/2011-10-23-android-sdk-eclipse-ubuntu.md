@@ -4,7 +4,7 @@ date: 2011-10-23T14:05:45+00:00
 id: 3962
 slug: 'android-sdk-eclipse-ubuntu'
 featured_image: '/uploads/2011/10/eclipse-ftl-570x292.png'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 I updated to Ubuntu Oneiric Ocelot last week. For some reason, the automatic upgrade process botched pulling over my Android Development Tools (ADT) components. Chalk this one up with the strange camera issue I am seeing, as two votes for bailing on a fixed release cycle. Canonical has pushed out two consecutive iffy builds...but I digress. It had been a while since I had set my Android development environment up. I had to start from scratch, so figured I would spell out the process. Note the lack of "Android \*" from the list of installed components: ![eclipse ubuntu android sdk](/uploads/2011/10/eclipse-ftl-570x292.png "eclipse-ftl") I'm starting from the point of having Eclipse installed. That part is straight forward...I snagged it off of the Ubuntu Market, but you an do it with Aptitude or however you like. Same goes for the JRE and JDK, the Java Runtime Environment and Java Development Kit. Snag those from the Market, Sun's site, or apt - get...verify you have the correct version by running "java -version" from the command line. Mine is currently:

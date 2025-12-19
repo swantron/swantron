@@ -4,7 +4,7 @@ date: 2010-05-18T18:39:34+00:00
 id: 2149
 slug: 'keyboard-robot-alert'
 featured_image: '/uploads/2010/05/keyboard_robot.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 ![keyboard](/uploads/2010/05/keyboard_robot.jpg "keyboard_robot") green robot drawing...three and three-quarter stars

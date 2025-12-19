@@ -4,7 +4,7 @@ date: 2009-12-28T14:27:30+00:00
 id: 1273
 slug: 'the-blue-raynetflixps3-saga-of-09'
 featured_image: '/uploads/2009/12/reactions.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 [![](/uploads/2009/12/reactions.jpg "reactions")](/uploads/2009/12/reactions.jpg)  

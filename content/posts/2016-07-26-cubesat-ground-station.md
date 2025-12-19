@@ -3,7 +3,7 @@ title: 'CubeSat Ground Station'
 date: 2016-07-26T12:23:55+00:00
 id: 5056
 slug: 'cubesat-ground-station'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 Some questions are out of left field. Then there's this...

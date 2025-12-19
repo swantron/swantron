@@ -4,7 +4,7 @@ date: 2007-02-27T16:44:30+00:00
 id: 483
 slug: 'great-stuff-from-the-onion'
 featured_image: 'http://www.theonion.com/content/files/images/Bumbling-Ragtag-thumb.frontpage_thumbnail_small.jpg.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 <div class="onion_embed headline">[![Bumbling Ragtag Regiment Achieves Heartwarming Victory In Iraq](http://www.theonion.com/content/files/images/Bumbling-Ragtag-thumb.frontpage_thumbnail_small.jpg.jpg)](http://www.theonion.com/content/news/bumbling_ragtag_regiment_achieves?utm_source=Distributed&utm_medium=Embedded%2BHTML&utm_campaign=Widgets)## [![The Onion](http://www.theonion.com/content/themes/onion/assets/logos/onion_super_tiny.png)](http://www.theonion.com/content?utm_source=Distributed&utm_medium=Embedded%2BHTML&utm_campaign=Widgets)

@@ -4,7 +4,7 @@ date: 2008-03-21T18:25:00+00:00
 id: 709
 slug: 'baseball-season'
 featured_image: 'http://www.theonion.com/content/files/images/Kenny-Lofton.thumbnail.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 <div class="onion_embed headline">[![Kenny Lofton Thinks Hes Putting Finishing Touches On Hall Of Fame Career](http://www.theonion.com/content/files/images/Kenny-Lofton.thumbnail.jpg)](http://www.theonion.com/content/news_briefs/kenny_lofton_thinks_hes?utm_source=Distributed&utm_medium=Embedded%2BHTML&utm_campaign=Widgets)## [![The Onion](http://www.theonion.com/content/themes/onion/assets/logos/onion_super_tiny.png)](http://www.theonion.com/content?utm_source=Distributed&utm_medium=Embedded%2BHTML&utm_campaign=Widgets)

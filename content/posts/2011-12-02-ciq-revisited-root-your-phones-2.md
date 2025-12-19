@@ -4,7 +4,7 @@ date: 2011-12-02T13:47:57+00:00
 id: 6332
 slug: 'ciq-revisited-root-your-phones-2'
 featured_image: '/uploads/2011/12/carrierIQ.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 If there hasn't been enough reason to root your phone and flash a custom ROM in the past, this whole CarrierIQ mess ought to be the death blow to factory junk. It is a rootkit, and it is ridiculous. ![carrierIQ](/uploads/2011/12/carrierIQ.jpg "carrierIQ") What does this thing do? All of this stuff from [Verizon's website](https://email.vzwshop.com/servlet/website/ResponseForm?OSPECC_9_0_9hg_eLnHs_uhmpJLE "ciq verizon"):

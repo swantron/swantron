@@ -4,7 +4,7 @@ date: 2010-05-04T18:35:47+00:00
 id: 2105
 slug: 'arduino-button-implementation'
 featured_image: '/uploads/2010/05/ardueenie.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 LED. Check Breadboard. Check Bunch of wires. Check. C++. Check. ![ardueenie](/uploads/2010/05/ardueenie.jpg "ardueenie") What is that under my finger? A BAD ASSED BUTTON! I'm going to have this robot up and rolling in no time. Everyone knows that every robot needs at least one button...the fricking kill switch. For, in case, said robot gains sentience and tries to kill the creator. And I'm not going down by robot death. Skin cancer, maybe, but no death by robot.

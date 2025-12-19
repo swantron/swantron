@@ -4,7 +4,7 @@ date: 2010-12-07T10:43:26+00:00
 id: 2926
 slug: 'north-face-denali'
 featured_image: '/uploads/2010/12/robo_coat.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 Picture this. Winter. Montana. East of the Continental Divide...let's say...about thirty miles. Windy. Cold as balls. You are in Bozeman. You need a [North Face Jacket](http://www.usoutdoorstore.com). Trust me. I'm not much of a coat guy. I can't stand swaddling up in a big puffy coat. While great for getting too the vehicle, the puffiness is not very practical once in said vehicle. You could sit there looking and feeling like the Sta-Puff Man, or you could opt for a fleece. Like this guy...I am a fan of the [North Face Denali](http://www.usoutdoorstore.com/north-face-denali.htm). Even creepy robot lady looks stylish in the Denali... ![weird](/uploads/2010/12/robo_coat.jpg "robo_coat") I can't really put my finger on that one. Sort of creepy, yet sort of tantalizing. Pure weird. Enough about that, though. Vehicle and robo-ladies aside, let's talk about the [Denali Jacket](http://www.thedenalijacket.com). I like North Face products in general, because they are actually made well. Quality craftsmanship is hard to come by. Check out robo-lady's jacket...I sort of dig the vertical and horizontal pockets. Those shoulders are reinforced...cuffs are elastic bound...cinch on the bottom hem. It is sort of in the details, and the Denali pays attention to them. Fleeces are perfect for layering, so you really can't go wrong with this jacket. Don't take robo-lady's creepy word for it...hit one of those links to find out more.

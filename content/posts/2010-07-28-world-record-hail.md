@@ -4,7 +4,7 @@ date: 2010-07-28T17:04:30+00:00
 id: 2490
 slug: 'world-record-hail'
 featured_image: '/uploads/2010/07/large_hail.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 Vivian South Dakota? Ever heard of the place? Yep, neither have I. It has been a bizarre year around my neck of the woods, weather-wise. Giant hail in Bozeman, tornadoes in Billings and all over the NE corner, micro bursts near Glasgow...weird stuff. weather != gadgetry, but awesome weather phenomenon = science FTW Well, Vivian (from here on out, "Viv") South Dakota has claimed its colloquial fifteen minutes of fame, in the form of a world record hailstone. ![large hail](/uploads/2010/07/large_hail.jpg "large_hail") 1.9375 pounds. Nicely played, Viv. I found this story amazing...[some local news site](<http://www.keloland.com/News/NewsDetail6371.cfm?Id=102949 >) interviewed one of Viv's finest. Les Scott is a death-defying party animal...

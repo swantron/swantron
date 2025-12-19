@@ -4,7 +4,7 @@ date: 2010-01-19T13:27:41+00:00
 id: 1530
 slug: 'jeffys-accident'
 featured_image: '/uploads/2010/01/jeffy.gif'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 [![](/uploads/2010/01/jeffy.gif "jeffy")](/uploads/2010/01/jeffy.gif)Gross, Jeffy. 

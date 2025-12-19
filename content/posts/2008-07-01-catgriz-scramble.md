@@ -4,7 +4,7 @@ date: 2008-07-01T20:57:56+00:00
 id: 753
 slug: 'catgriz-scramble'
 featured_image: '/uploads/2008/07/golfisfun.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 Pretty classy. ![golf](/uploads/2008/07/golfisfun.jpg)![golfing](/uploads/2008/07/golfisfun2.jpg)

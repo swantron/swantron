@@ -4,7 +4,7 @@ date: 2016-01-10T14:59:44+00:00
 id: 5048
 slug: 'just-this-thing'
 featured_image: '/uploads/2016/01/dealwithit-1.gif'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 [![dealwithit](/uploads/2016/01/dealwithit-1.gif)](https://swantron.com/just-this-thing/dealwithit-2/)

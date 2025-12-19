@@ -4,7 +4,7 @@ date: 2009-10-25T15:25:53+00:00
 id: 1020
 slug: 'costume-idea-1'
 featured_image: '/uploads/2009/10/dog.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 [![dog](/uploads/2009/10/dog.jpg "dog")](/uploads/2009/10/dog.jpg)

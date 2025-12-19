@@ -4,7 +4,7 @@ date: 2011-07-12T21:13:18+00:00
 id: 3666
 slug: 'arduino-120v-ac-relay-example'
 featured_image: '/uploads/2011/07/fan-hack.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 I got tired of poking around with LCD drivers with my Arduino. Time for a quick project to mix it up...staring at a surge protector always puts 120V on my mind. As it turns out, I tore apart an old humidifier a while ago on my 'workbench.' Monday night is Katie's reality TV night...time for something sweet. Investigating duty cycles on this plastic fan: ![fan hack](/uploads/2011/07/fan-hack.jpg "fan-hack") I figured that I could horse around with my PowerSwitch Tail, and make it somewhat mimic a PWM 5V setup. I was curious how long I would have to 'pulse' the switch with juice to keep the fan constantly rolling. I started with it fully on, and kicked my 'active' duty cycles lower until I reached a nearly-continual state of motion. Pause for Arduino code snippet:

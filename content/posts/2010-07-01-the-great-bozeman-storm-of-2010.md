@@ -4,7 +4,7 @@ date: 2010-07-01T19:36:49+00:00
 id: 2419
 slug: 'the-great-bozeman-storm-of-2010'
 featured_image: '/uploads/2010/07/bozeman-storm.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 I snapped this pic from work (in Four Corners) about twenty minutes before hell wrought down fury upon Bozeman, Montana in the form of large hail. ![storm](/uploads/2010/07/bozeman-storm.jpg "bozeman-storm") Hail dents the size of Matzah Balls. Details will follow.

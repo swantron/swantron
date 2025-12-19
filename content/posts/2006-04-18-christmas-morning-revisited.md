@@ -3,7 +3,7 @@ title: 'Christmas Morning Revisited'
 date: 2006-04-18T19:55:45+00:00
 id: 6105
 slug: 'christmas-morning-revisited'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 So Grif, J-Lo, and I all admitted to our spastic tendancies regarding video games. I can aver that I had at least enough class to pick my poisons. Enjoy the video.

@@ -4,7 +4,7 @@ date: 2011-06-26T20:48:22+00:00
 id: 3598
 slug: 'swan-tron-dot-com'
 featured_image: '/uploads/2011/06/swan-tron-dot-com.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 Don't call it a comeback. Or a re-branding. ![swan tron dot com](/uploads/2011/06/swan-tron-dot-com.jpg "swan-tron-dot-com") You can't really re-brand something that lacks, in large, a brand. Let's just say, I'm dropping the ninja. The robot stays, but knows his place. Carry on.

@@ -4,7 +4,7 @@ date: 2008-01-24T19:14:01+00:00
 id: 660
 slug: 'little-people-big-world'
 featured_image: '/uploads/2008/01/littlepeoplebigworld.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 I love these guys ![surfs up](/uploads/2008/01/littlepeoplebigworld.jpg)Here is the program description for tonight's show:

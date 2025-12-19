@@ -4,7 +4,7 @@ date: 2010-07-06T17:51:15+00:00
 id: 2452
 slug: 'arduino-haiku'
 featured_image: '/uploads/2010/07/arduino-haiku.jpg'
-description: '\n\t\t\t\t\n\t\t\t\t\t\t\t\t'
+description: ''
 ---
 
 I put together a little sketch while I was horsing around with the Arduino serial monitor... ![boo](/uploads/2010/07/arduino-haiku.jpg "arduino-haiku") ...pretty stupid, huh? Especially, since it repeats this horrible haiku every five seconds. Forever. This is, oddly enough, the first thing I have taken the required 10 seconds to add comments to my code, which ought to be worth at least a +1
