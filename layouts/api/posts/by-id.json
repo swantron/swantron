@@ -12,7 +12,7 @@
     "id": {{ $postId }},
     "slug": "{{ $post.Slug }}",
     "title": {{ $post.Title | jsonify }},
-    "excerpt": {{ if $post.Description }}{{ $post.Description | jsonify }}{{ else }}{{ $post.Content | plainify | truncate 160 | jsonify }}{{ end }},
+    "excerpt": {{ $desc := $post.Description | default "" }}{{ $descTrimmed := $desc | strings.TrimSpace }}{{ $isOnlyWS := or (eq $descTrimmed "\n") (eq $descTrimmed "\t") (eq $descTrimmed "") (le (len $descTrimmed) 1) }}{{ if and $desc (ne $descTrimmed "") (not $isOnlyWS) }}{{ $descTrimmed | replaceRE "\\s+" " " | jsonify }}{{ else }}{{ $post.Content | plainify | truncate 160 | jsonify }}{{ end }},
     "content": {{ $post.Content | jsonify }},
     "date": "{{ $post.Date.Format "2006-01-02T15:04:05Z07:00" }}",
     "permalink": "{{ $post.Permalink }}",
