@@ -6,15 +6,17 @@ description: 'A minimal, security-hardened Docker base image for Go binaries'
 featured_image: '/uploads/2025/12/secure-base-ci-workflow.png'
 ---
 
+Do you hate insecure base images?  Sure, we all do..
+
 I built a thing: [secure-base-images](https://github.com/swantron/secure-base-images). It's a minimal, security-hardened Docker base image for static Go binaries.
 
 ![CI workflow running tests and build](/uploads/2025/12/secure-base-ci-workflow.png)
 
-## The Problem
+## Issue
 
-Most Docker images are bloated. They include shells, package managers, and a ton of dependencies you don't need. This creates a huge attack surface and slows down deployments. For statically-compiled Go binaries, you literally just need the binary and some CA certificates.
+Most Docker images are bloated. They include shells, package managers, and a ton of dependencies you don't need. This creates a huge attack surface that your security team loves to talk about, and drives fast pipeline guys like me insane.  For static Go tools, you literally just need the binary and some certs.
 
-## The Solution
+## Solution
 
 A distroless base image that gives you:
 
@@ -22,7 +24,7 @@ A distroless base image that gives you:
 - **Minimal attack surface** - No shell, no package manager, just your binary
 - **Non-root execution** - Runs as uid 65532 by default
 - **Fast builds** - Multi-platform support (amd64/arm64) via GitHub Actions
-- **Dead simple** - Three lines in your Dockerfile
+- **Dead simple** - 3 lines in ya Dockerfile
 
 ## Usage
 
@@ -32,7 +34,7 @@ COPY myapp /app
 ENTRYPOINT ["/app"]
 ```
 
-That's it. Push a tag, GitHub Actions builds it, scans it with Trivy, and publishes to Docker Hub if it's clean.
+That's it. Push a tag, GitHub Actions builds it, scans it with Trivy, and publishes to Docker Hub if it's clean (it is.)
 
 ![Clean Trivy scan - zero vulnerabilities](/uploads/2025/12/secure-base-trivy-scan.png)
 
