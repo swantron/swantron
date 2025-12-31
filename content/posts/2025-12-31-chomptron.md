@@ -8,7 +8,9 @@ featured_image: '/uploads/2025/12/chomptron-screenshot.png'
 
 Do you hate cooking blogs?  Sure, we all do..
 
-I built [Chomptron](https://chomptron.com) - an AI-powered recipe generator that turns whatever's in your fridge into actual recipes.  Bam.
+It is embarrasing to say that I bought the domain name with that sort of thing in mind.  I have some of our go-tos in texts from Katie and others that I have emailed to myself (from texts from Katie.) I parked some stuff on wordpress and promptly remembered that I hate wordpress about as much as I hate cooking blogs.  We know what we have and what we like.. it wasn't a very practical idea.. no reason to host that sort of thing.  But here I go yammering on like a food blogger..
+
+Anyhow, I built [Chomptron](https://chomptron.com) - an AI-powered recipe generator that turns whatever's in your fridge into actual recipes.  Bam.
 
 ![Chomptron in action](/uploads/2025/12/chomptron-screenshot.png)
 
@@ -19,7 +21,7 @@ I built [Chomptron](https://chomptron.com) - an AI-powered recipe generator that
 
 ## Problem
 
-You've got chicken, some tomatoes, garlic, and half an onion. What do you make? Scroll through recipe sites loaded with ads and life stories? Nope.
+You've got chicken, some tomatoes, garlic, and half an onion. Or sriracha and some leftovers.. what's for dinner? 
 
 ## Solution
 
@@ -74,4 +76,4 @@ Source: [https://github.com/swantron/chomptron](https://github.com/swantron/chom
 
 It's free to use, nearly free to run (plz don't spam it), and actually useful.  
 
-This was a fun one.. I haven't done a project on GCP in a minute, so I sort of came up with the idea after designing the stack.  Refreshing to keep a js project tidy.. super fast deploy cycle etc.
+This was a fun one.. I haven't done a project on GCP in a minute, so I sort of came up with the idea after designing the stack.  The domain was waiting.Refreshing to keep a js project tidy.. super fast deploy cycle etc.
