@@ -1,16 +1,16 @@
 ---
 title: 'Secure Base Images for Docker'
-date: 2025-12-30T04:45:00+00:00
+date: 2025-11-30T04:45:00+00:00
 slug: 'secure-base-images'
 description: 'A minimal, security-hardened Docker base image for Go binaries'
-featured_image: '/uploads/2025/12/secure-base-ci-workflow.png'
+featured_image: '/uploads/2025/11/secure-base-ci-workflow.png'
 ---
 
 Do you hate insecure base images?  Sure, we all do..
 
 I built a thing: [secure-base-images](https://github.com/swantron/secure-base-images). It's a minimal, security-hardened Docker base image for static Go binaries.
 
-![CI workflow running tests and build](/uploads/2025/12/secure-base-ci-workflow.png)
+![CI workflow running tests and build](/uploads/2025/11/secure-base-ci-workflow.png)
 
 ## Issue
 
@@ -36,7 +36,7 @@ ENTRYPOINT ["/app"]
 
 That's it. Push a tag, GitHub Actions builds it, scans it with Trivy, and publishes to Docker Hub if it's clean (it is.)
 
-![Clean Trivy scan - zero vulnerabilities](/uploads/2025/12/secure-base-trivy-scan.png)
+![Clean Trivy scan - zero vulnerabilities](/uploads/2025/11/secure-base-trivy-scan.png)
 
 ## Under the Hood
 
@@ -50,7 +50,7 @@ The GitHub Actions workflow is doing the heavy lifting:
 
 It's opinionated but in a good way. Security by default.
 
-![Published to Docker Hub with latest and version tags](/uploads/2025/12/secure-base-dockerhub.png)
+![Published to Docker Hub with latest and version tags](/uploads/2025/11/secure-base-dockerhub.png)
 
 ## Get It
 
