@@ -3,11 +3,19 @@ title: 'Chomptron: AI Recipe Generator'
 date: 2025-12-31T04:00:00+00:00
 slug: 'chomptron'
 description: 'Turn random ingredients into real recipes with Google Gemini AI'
+featured_image: '/uploads/2025/12/chomptron-screenshot.png'
 ---
 
 Do you hate cooking blogs?  Sure, we all do..
 
 I built [Chomptron](https://chomptron.com) - an AI-powered recipe generator that turns whatever's in your fridge into actual recipes.  Bam.
+
+![Chomptron in action](/uploads/2025/12/chomptron-screenshot.png)
+
+<video width="100%" controls>
+  <source src="/uploads/2025/12/chomptron-demo.mp4" type="video/mp4">
+  Your browser doesn't support video.
+</video>
 
 ## Problem
 
