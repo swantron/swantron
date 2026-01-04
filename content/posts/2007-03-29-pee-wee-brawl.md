@@ -6,5 +6,5 @@ slug: 'pee-wee-brawl'
 description: ''
 ---
 
-If I have a prejudice, it is an uneasiness regarding the French-Canadians. Observe: <object height="350" width="425"><param name="movie" value="http://embed.break.com/MjU5OTY4"></param><embed height="350" src="http://embed.break.com/MjU5OTY4" type="application/x-shockwave-flash" width="425"></embed></object>  
+If I have a prejudice, it is an uneasiness regarding the French-Canadians. Observe: [Flash video - no longer available]  
 <font size="1">[Pee Wee Hockey Brawl](http://www.break.com/index/pee_wee_hockey_brawl.html) - [Click Here for more great videos and pictures!](http://www.break.com/)</font>This little Barry Melrose-ish dude wipes out both a teammate, twice, and a foe, and then nearly shits his hockey pants scrambling away from the scene. Question: where are the hockey sticks in this hockey match?

@@ -6,4 +6,4 @@ slug: 'chewbacca'
 description: ''
 ---
 
-This is better than the footage of Darrell getting tased, bro. <object data="http://www.collegehumor.com/moogaloop/moogaloop.swf?clip_id=1799817&fullscreen=1" height="360" type="application/x-shockwave-flash" width="480"><param name="allowfullscreen" value="true"></param><param name="movie" quality="best" value="http://www.collegehumor.com/moogaloop/moogaloop.swf?clip_id=1799817&fullscreen=1"></param></object>Pay close attention to the dialog...apparently Chewbacca is Chewbacca in Spanish.
+This is better than the footage of Darrell getting tased, bro. [Flash video - no longer available]Pay close attention to the dialog...apparently Chewbacca is Chewbacca in Spanish.

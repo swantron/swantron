@@ -6,5 +6,5 @@ slug: 'paris-hilton-fan'
 description: ''
 ---
 
-The tragedy!!! <object height="350" width="425"><param name="movie" value="http://embed.break.com/MzA5NTU3"></param><embed height="350" src="http://embed.break.com/MzA5NTU3" type="application/x-shockwave-flash" width="425"></embed></object>  
+The tragedy!!! [Flash video - no longer available]  
 <font size="1">[Paris Hilton Super Fan Loses It](http://break.com/index/paris-hilton-super-fan-loses-it.html)Noooooo </font>

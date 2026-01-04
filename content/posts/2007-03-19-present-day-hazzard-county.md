@@ -6,4 +6,4 @@ slug: 'present-day-hazzard-county'
 description: ''
 ---
 
-<object data="http://www.liveleak.com/player.swf?autostart=false&token=6aa_1174264630" height="370" type="application/x-shockwave-flash" width="450" wmode="transparent"><param name="movie" value="http://www.liveleak.com/player.swf?autostart=false&token=6aa_1174264630"></param><param name="wmode" value="transparent"></param><param name="quality" value="high"></param></object>I think I would shit if this dude came rolling past me sideways. I keep looking for Boss Hogg and Kooter. 
+[Flash video - no longer available]I think I would shit if this dude came rolling past me sideways. I keep looking for Boss Hogg and Kooter. 

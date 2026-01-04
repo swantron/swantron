@@ -6,4 +6,4 @@ slug: 'most-hammer-time'
 description: ''
 ---
 
-<embed flashvars="" id="VideoPlayback" src="http://video.google.com/googleplayer.swf?docId=-3334899658235008508&hl=en" style="width:400px; height:326px;" type="application/x-shockwave-flash"> </embed>World of Warcraft, Hammer style. You can't touch that. 
+[Google Video - no longer available] </embed>World of Warcraft, Hammer style. You can't touch that. 
