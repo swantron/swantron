@@ -6,4 +6,4 @@ slug: 'astronaut-jones'
 description: ''
 ---
 
-Hands down, Astronaut Jones is my favorite SNL skit. Enjoy. <object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/zXINJyu2h38"></param><param name="wmode" value="transparent"></param><embed height="350" src="http://www.youtube.com/v/zXINJyu2h38" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>
+Hands down, Astronaut Jones is my favorite SNL skit. Enjoy. <iframe width="560" height="315" src="https://www.youtube.com/embed/zXINJyu2h38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

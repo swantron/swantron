@@ -6,4 +6,4 @@ slug: 'kevin-federline-fanclub'
 description: ''
 ---
 
-I will be the first to admit that K-Fed's performance at the Teen Choice Awards was awkward. Take a look at this gem and tell me that the Federmeister is not awesome. `<object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/atLJ2BxGIkE"></param><embed height="350" src="http://www.youtube.com/v/atLJ2BxGIkE" type="application/x-shockwave-flash" width="425"></embed></object>`
+I will be the first to admit that K-Fed's performance at the Teen Choice Awards was awkward. Take a look at this gem and tell me that the Federmeister is not awesome. `<iframe width="560" height="315" src="https://www.youtube.com/embed/atLJ2BxGIkE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`

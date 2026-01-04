@@ -7,4 +7,4 @@ featured_image: '/uploads/2008/01/timgun.jpg'
 description: ''
 ---
 
-Sarge, B.O.B., three pistols, a shotgun, an SKS, and I spent the afternoon enjoying nature and blasting the shit out of stuff. ![sarge](/uploads/2008/01/timgun.jpg)![roberto](/uploads/2008/01/bobgun.jpg)<object height="255" width="355"><param name="movie" value="http://www.youtube.com/v/uQ8SmxHHXlw&rel=1"></param><param name="wmode" value="transparent"></param><embed height="255" src="http://www.youtube.com/v/uQ8SmxHHXlw&rel=1" type="application/x-shockwave-flash" width="355" wmode="transparent"></embed></object>Television disposal service?
+Sarge, B.O.B., three pistols, a shotgun, an SKS, and I spent the afternoon enjoying nature and blasting the shit out of stuff. ![sarge](/uploads/2008/01/timgun.jpg)![roberto](/uploads/2008/01/bobgun.jpg)<iframe width="560" height="315" src="https://www.youtube.com/embed/uQ8SmxHHXlw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Television disposal service?

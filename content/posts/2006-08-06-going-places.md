@@ -6,4 +6,4 @@ slug: 'going-places'
 description: ''
 ---
 
-Pack your bags...we are heading to Appalachian State `<object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/pVENWl8uBeg"></param><embed height="350" src="http://www.youtube.com/v/pVENWl8uBeg" type="application/x-shockwave-flash" width="425"></embed></object>`
+Pack your bags...we are heading to Appalachian State `<iframe width="560" height="315" src="https://www.youtube.com/embed/pVENWl8uBeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`

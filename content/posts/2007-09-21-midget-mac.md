@@ -6,4 +6,4 @@ slug: 'midget-mac'
 description: ''
 ---
 
-Watch out K-Fed...I may have a new idol... <object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/0wFrUkgMCmQ"></param><param name="wmode" value="transparent"></param><embed height="350" src="http://www.youtube.com/v/0wFrUkgMCmQ" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>I cannot say that I watch I Love New York, but I might start if this lil' dude gets on. Midget Muthafuckin Mac in the building, baby...Ayyy!
+Watch out K-Fed...I may have a new idol... <iframe width="560" height="315" src="https://www.youtube.com/embed/0wFrUkgMCmQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>I cannot say that I watch I Love New York, but I might start if this lil' dude gets on. Midget Muthafuckin Mac in the building, baby...Ayyy!

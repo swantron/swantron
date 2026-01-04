@@ -6,4 +6,4 @@ slug: 'one-more-for-the-year'
 description: ''
 ---
 
-<object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/yQBOIfqvLHs"></param><param name="wmode" value="transparent"></param><embed height="350" src="http://www.youtube.com/v/yQBOIfqvLHs" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yQBOIfqvLHs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

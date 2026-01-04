@@ -6,4 +6,4 @@ slug: 'red-bull-chugwhy-not'
 description: ''
 ---
 
-This is my ode to Voy... <object height="250" width="300"><param name="movie" value="http://www.youtube.com/v/OC1JuwdiiKE"></param><param name="wmode" value="transparent"></param><embed height="250" src="http://www.youtube.com/v/OC1JuwdiiKE" type="application/x-shockwave-flash" width="300" wmode="transparent"></embed></object>...random chug videos are his, and my, favorite.
+This is my ode to Voy... <iframe width="560" height="315" src="https://www.youtube.com/embed/OC1JuwdiiKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>...random chug videos are his, and my, favorite.

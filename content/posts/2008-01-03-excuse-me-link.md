@@ -6,4 +6,4 @@ slug: 'excuse-me-link'
 description: ''
 ---
 
-Apparently Nintendo leased the cartoon rights to the Zelda franchise in the late 90's. It looks to me like they leased the rights to the Full House production crew. <object height="355" width="425"><param name="movie" value="http://www.youtube.com/v/FPxY8lpYAUM&rel=1"></param><param name="wmode" value="transparent"></param><embed height="355" src="http://www.youtube.com/v/FPxY8lpYAUM&rel=1" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>"Cut...It...Out" "Have Mercy" "Well Excuuuuse Me, Princess" "How Rude"
+Apparently Nintendo leased the cartoon rights to the Zelda franchise in the late 90's. It looks to me like they leased the rights to the Full House production crew. <iframe width="560" height="315" src="https://www.youtube.com/embed/FPxY8lpYAUM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"Cut...It...Out" "Have Mercy" "Well Excuuuuse Me, Princess" "How Rude"

@@ -6,4 +6,4 @@ slug: 'hammer-round'
 description: ''
 ---
 
-I wonder if Hammer has seen bouncerblog.com. I guarantee this is one of his strongest channels of exposure. Enjoy this fine and confusing mash-up. <object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/ZnzuJwglsTE"></param><param name="wmode" value="transparent"></param><embed height="350" src="http://www.youtube.com/v/ZnzuJwglsTE" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>Can't touch that.
+I wonder if Hammer has seen bouncerblog.com. I guarantee this is one of his strongest channels of exposure. Enjoy this fine and confusing mash-up. <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnzuJwglsTE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Can't touch that.

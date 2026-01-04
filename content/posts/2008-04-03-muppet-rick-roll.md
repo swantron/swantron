@@ -6,4 +6,4 @@ slug: 'muppet-rick-roll'
 description: ''
 ---
 
-<object height="355" width="425"><param name="movie" value="http://www.youtube.com/v/3AdFA6WWJ7E&hl=en"></param><param name="wmode" value="transparent"></param><embed height="355" src="http://www.youtube.com/v/3AdFA6WWJ7E&hl=en" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AdFA6WWJ7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

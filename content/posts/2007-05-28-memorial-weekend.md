@@ -6,4 +6,4 @@ slug: 'memorial-weekend'
 description: ''
 ---
 
-Here we go...#1 of several super random videos from the weekend. <object height="250" width="325"><param name="movie" value="http://www.youtube.com/v/RgPgmEaAakE"></param><param name="wmode" value="transparent"></param><embed height="250" src="http://www.youtube.com/v/RgPgmEaAakE" type="application/x-shockwave-flash" width="325" wmode="transparent"></embed></object>DNA? Nice mohawk Voy.
+Here we go...#1 of several super random videos from the weekend. <iframe width="560" height="315" src="https://www.youtube.com/embed/RgPgmEaAakE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>DNA? Nice mohawk Voy.

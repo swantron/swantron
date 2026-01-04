@@ -6,4 +6,4 @@ slug: 'hard-hitting-reporting'
 description: ''
 ---
 
-Take this Stone Phillips... <object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/LNd5n8AjlFA"></param><param name="wmode" value="transparent"></param><embed height="350" src="http://www.youtube.com/v/LNd5n8AjlFA" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>He is somewhere up there with John Stossel and that dude who works the sex stings. Hard Hitting.
+Take this Stone Phillips... <iframe width="560" height="315" src="https://www.youtube.com/embed/LNd5n8AjlFA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>He is somewhere up there with John Stossel and that dude who works the sex stings. Hard Hitting.

@@ -6,4 +6,4 @@ slug: 'phelps-minute-2'
 description: ''
 ---
 
-I don't care for the Olympics. <object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/AXlk-FMei6o&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed allowfullscreen="true" height="344" src="http://www.youtube.com/v/AXlk-FMei6o&hl=en&fs=1" type="application/x-shockwave-flash" width="425"></embed></object>Swimming is metaphorical...one gold metal.
+I don't care for the Olympics. <iframe width="560" height="315" src="https://www.youtube.com/embed/AXlk-FMei6o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Swimming is metaphorical...one gold metal.

@@ -6,4 +6,4 @@ slug: 'six-minute-abs'
 description: ''
 ---
 
-No...seven! Seven Minute Abs! You cannot even break a sweat in six minutes! <object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/vdiVxicV-WA&hl=en&fs=1&color1=0xe1600f&color2=0xfebd01"></param><param name="allowFullScreen" value="true"></param><embed allowfullscreen="true" height="344" src="http://www.youtube.com/v/vdiVxicV-WA&hl=en&fs=1&color1=0xe1600f&color2=0xfebd01" type="application/x-shockwave-flash" width="425"></embed></object>I share a love/hate relationship with WalMart...loved it on this day.
+No...seven! Seven Minute Abs! You cannot even break a sweat in six minutes! <iframe width="560" height="315" src="https://www.youtube.com/embed/vdiVxicV-WA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>I share a love/hate relationship with WalMart...loved it on this day.

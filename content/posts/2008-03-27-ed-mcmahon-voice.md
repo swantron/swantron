@@ -6,4 +6,4 @@ slug: 'ed-mcmahon-voice'
 description: ''
 ---
 
-Joe Swanson give them... <object height="355" width="425"><param name="movie" value="http://www.youtube.com/v/PaBr2H0s7-s&hl=en"></param><param name="wmode" value="transparent"></param><embed height="355" src="http://www.youtube.com/v/PaBr2H0s7-s&hl=en" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>Three and three quarters stars!!!
+Joe Swanson give them... <iframe width="560" height="315" src="https://www.youtube.com/embed/PaBr2H0s7-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Three and three quarters stars!!!

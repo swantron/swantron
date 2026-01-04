@@ -6,4 +6,4 @@ slug: 'weekend-video-2'
 description: ''
 ---
 
-Round two. Meat burger balls courtesy of Papich. On bread. <object height="250" width="325"><param name="movie" value="http://www.youtube.com/v/2ShOMheYORo"></param><param name="wmode" value="transparent"></param><embed height="250" src="http://www.youtube.com/v/2ShOMheYORo" type="application/x-shockwave-flash" width="325" wmode="transparent"></embed></object>
+Round two. Meat burger balls courtesy of Papich. On bread. <iframe width="560" height="315" src="https://www.youtube.com/embed/2ShOMheYORo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

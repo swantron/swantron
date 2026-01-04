@@ -6,4 +6,4 @@ slug: 'crank-dat-chubby-boy-2'
 description: ''
 ---
 
-The Cubs cannot seem to pull their heads out of their asses this post season, so I have nothing good to post on that note. The collection of tubes called the internet is still full of good junk though. For instance, this pendulous island rendition of the Soulja Boy. <object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/bLAUzZPxjwI"></param><param name="wmode" value="transparent"></param><embed height="350" src="http://www.youtube.com/v/bLAUzZPxjwI" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>Have a good weekend. Go Cubs.
+The Cubs cannot seem to pull their heads out of their asses this post season, so I have nothing good to post on that note. The collection of tubes called the internet is still full of good junk though. For instance, this pendulous island rendition of the Soulja Boy. <iframe width="560" height="315" src="https://www.youtube.com/embed/bLAUzZPxjwI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Have a good weekend. Go Cubs.

@@ -6,4 +6,4 @@ slug: 'photosynth-vid'
 description: ''
 ---
 
-This is pretty incredible. I can only imagine how large Grif's monitor would be if he got into photosynth software. <object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/4_jdn-N_wwM"></param><param name="wmode" value="transparent"></param><embed height="350" src="http://www.youtube.com/v/4_jdn-N_wwM" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>
+This is pretty incredible. I can only imagine how large Grif's monitor would be if he got into photosynth software. <iframe width="560" height="315" src="https://www.youtube.com/embed/4_jdn-N_wwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

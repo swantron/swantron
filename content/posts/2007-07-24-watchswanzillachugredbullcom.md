@@ -6,4 +6,4 @@ slug: 'watchswanzillachugredbullcom'
 description: ''
 ---
 
-<object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/1hQ_x_DEpjY"></param><param name="wmode" value="transparent"></param><embed height="350" src="http://www.youtube.com/v/1hQ_x_DEpjY" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1hQ_x_DEpjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

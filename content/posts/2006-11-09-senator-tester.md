@@ -6,4 +6,4 @@ slug: 'senator-tester'
 description: ''
 ---
 
-It turns out Jon hit the arcade in celebration of his win. Turns out. <object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/oQp0jhwpYpQ"></param><param name="wmode" value="transparent"></param><embed height="350" src="http://www.youtube.com/v/oQp0jhwpYpQ" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>
+It turns out Jon hit the arcade in celebration of his win. Turns out. <iframe width="560" height="315" src="https://www.youtube.com/embed/oQp0jhwpYpQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
