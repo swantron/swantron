@@ -3,7 +3,7 @@
 >
   <div class="relative z-50 flex items-center ltr:mr-auto rtl:ml-auto">
     <a
-      class="-translate-y-[1px] text-4xl font-medium"
+      class="-translate-y-[1px] text-5xl font-medium"
       href="{{- `` | absURL -}}"
       >{{ site.Title }}</a
     >
@@ -53,11 +53,10 @@
       setDark(event.matches);
     });
 
-    // manual switch - select all btn-dark elements in case there are multiple
-    document.querySelectorAll('.btn-dark').forEach(btnDark => {
-      btnDark.addEventListener('click', () => {
-        setDark(localStorage.getItem('dark') !== 'true');
-      });
+    // manual switch
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
     });
   </script>
 
@@ -76,15 +75,6 @@
         >{{- .Name -}}</a
       >
       {{- end -}}
-      
-      <!-- Search Button -->
-      <button
-        id="search-btn"
-        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal cursor-pointer bg-transparent border-none p-0"
-        aria-label="Search"
-      >
-        Search
-      </button>
     </nav>
     {{- end -}}<!---->
 
@@ -92,13 +82,11 @@
     <nav
       class="mt-12 flex justify-center space-x-10 lg:mt-0 lg:items-center ltr:lg:ml-14 rtl:space-x-reverse rtl:lg:mr-14 dark:invert"
     >
-      <!-- Dark mode toggle -->
       <div
         class="btn-dark text-[0px] h-6 w-6 shrink-0 cursor-pointer {{ if site.Params.monoDarkIcon }}[background:url(./theme.svg)_left_center/cover_no-repeat] dark:invert{{ else }}[background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)]{{ end }} dark:[background-position:right]"
         role="button"
         aria-label="Dark"
       ></div>
-      
       {{- range . -}}<!---->
       <a
         class="h-7 w-7 text-[0px] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
@@ -114,219 +102,3 @@
     {{- end -}}<!---->
   </div>
 </header>
-
-<!-- Search Modal -->
-<div id="search-modal" class="fixed inset-0 hidden" style="display: none; z-index: 100; background-color: rgba(0, 0, 0, 0.5); padding-top: 5rem;">
-  <div class="mx-auto px-4 relative" style="max-width: 42rem;">
-    <div class="rounded-lg shadow-xl" id="search-modal-container" style="background-color: #faf8f1;">
-      <!-- Search Input -->
-      <div class="p-4 border-b border-black/10 dark:border-white/10 relative">
-        <input
-          type="text"
-          id="search-input"
-          placeholder="Search posts..."
-          class="w-full px-4 py-2 text-lg border border-black/10 dark:border-white/10 rounded-lg focus:outline-none focus:ring-2 focus:ring-black/20 dark:focus:ring-white/20"
-          style="background-color: #faf8f1; color: black;"
-          autofocus
-        />
-        <button
-          id="search-close"
-          class="absolute top-6 right-6 text-black/60 dark:text-white/60 hover:text-black dark:hover:text-white cursor-pointer text-xl leading-none bg-transparent border-none p-0"
-          aria-label="Close"
-        >
-          ✕
-        </button>
-      </div>
-      
-      <!-- Search Results -->
-      <div id="search-results" class="max-h-96 overflow-y-auto p-4" style="background-color: #faf8f1;">
-        <p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
-<style>
-  #search-input {
-    color: black !important;
-  }
-  html.dark #search-input,
-  body.dark #search-input,
-  .dark #search-input {
-    color: white !important;
-  }
-  #search-results a {
-    color: black !important;
-  }
-  html.dark #search-results a,
-  body.dark #search-results a,
-  .dark #search-results a {
-    color: white !important;
-  }
-</style>
-  <script>
-    (function() {
-      let searchIndex = [];
-      let fuse = null;
-      let searchReady = false;
-
-      // Load search index - use absURL for proper baseURL handling
-      const searchIndexUrl = '{{ "search/index.json" | absURL }}';
-      // Try relative path as fallback for local development
-      const fallbackUrl = '/search/index.json';
-      
-      function loadSearchIndex(url) {
-        return fetch(url)
-          .then(res => {
-            if (!res.ok) {
-              throw new Error(`HTTP error! status: ${res.status} for ${url}`);
-            }
-            return res.json();
-          })
-          .then(data => {
-            if (!Array.isArray(data)) {
-              throw new Error('Search index is not an array');
-            }
-            searchIndex = data;
-            fuse = new Fuse(searchIndex, {
-              keys: ['title', 'content', 'tags'],
-              threshold: 0.4,
-              includeScore: true,
-              minMatchCharLength: 1,
-              ignoreLocation: true
-            });
-            searchReady = true;
-            console.log('Search index loaded:', searchIndex.length, 'items');
-          });
-      }
-      
-      // Try primary URL first, then fallback
-      loadSearchIndex(searchIndexUrl)
-        .catch(err => {
-          console.warn('Primary search index failed, trying fallback:', err);
-          return loadSearchIndex(fallbackUrl);
-        })
-        .catch(err => {
-          // Silently fail - search index is optional
-          // Only log in development or if search UI is visible
-          if (document.getElementById('search-results')) {
-            console.warn('Search index not available. Search functionality disabled.');
-          }
-        });
-
-    // Search modal elements
-    const searchBtn = document.getElementById('search-btn');
-    const searchModal = document.getElementById('search-modal');
-    const searchInput = document.getElementById('search-input');
-    const searchResults = document.getElementById('search-results');
-    const searchClose = document.getElementById('search-close');
-
-    if (!searchBtn || !searchModal || !searchInput || !searchResults || !searchClose) {
-      console.error('Search elements not found');
-      return;
-    }
-
-    // Open search modal
-    searchBtn.addEventListener('click', (e) => {
-      e.preventDefault();
-      e.stopPropagation();
-      searchModal.classList.remove('hidden');
-      searchModal.style.display = 'block';
-      document.body.style.overflow = 'hidden';
-      // Set input color and background based on dark mode
-      const isDark = document.documentElement.classList.contains('dark');
-      const bodyBg = window.getComputedStyle(document.body).backgroundColor;
-      const bgColor = isDark ? '#1a1a1a' : '#faf8f1';
-      
-      searchInput.style.setProperty('color', isDark ? 'white' : 'black', 'important');
-      searchInput.style.setProperty('background-color', bgColor, 'important');
-      
-      // Also set container background
-      const container = document.getElementById('search-modal-container');
-      const results = document.getElementById('search-results');
-      if (container) {
-        container.style.setProperty('background-color', bgColor, 'important');
-      }
-      if (results) {
-        results.style.setProperty('background-color', bgColor, 'important');
-      }
-      
-      setTimeout(() => {
-        searchInput.focus();
-      }, 100);
-    });
-
-    const closeSearch = () => {
-      searchModal.classList.add('hidden');
-      searchModal.style.display = 'none';
-      document.body.style.overflow = '';
-      searchInput.value = '';
-      searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>';
-    };
-
-    // Close search modal
-    searchClose.addEventListener('click', (e) => {
-      e.preventDefault();
-      e.stopPropagation();
-      closeSearch();
-    });
-
-    // Close on escape key
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && !searchModal.classList.contains('hidden')) {
-        closeSearch();
-      }
-    });
-
-    // Close on background click
-    searchModal.addEventListener('click', (e) => {
-      if (e.target === searchModal) {
-        closeSearch();
-      }
-    });
-
-    // Search functionality
-    searchInput.addEventListener('input', (e) => {
-      const query = e.target.value.trim();
-      const isDark = document.documentElement.classList.contains('dark');
-      
-      if (!searchReady || !fuse) {
-        searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">Loading search index...</p>';
-        return;
-      }
-      
-      if (query.length < 1) {
-        searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">Type to search...</p>';
-        return;
-      }
-
-      const results = fuse.search(query).slice(0, 10);
-      
-      if (results.length === 0) {
-        searchResults.innerHTML = '<p class="text-black/60 dark:text-white/60 text-center">No results found.</p>';
-        return;
-      }
-
-      const textColor = isDark ? 'white' : 'black';
-      const textColorMuted = isDark ? 'rgba(255,255,255,0.6)' : 'rgba(0,0,0,0.6)';
-      const textColorMutedMore = isDark ? 'rgba(255,255,255,0.5)' : 'rgba(0,0,0,0.5)';
-
-      searchResults.innerHTML = results.map(result => {
-        const item = result.item;
-        // Clean excerpt - remove HTML entities and get first 150 chars
-        const excerpt = item.content.replace(/&[^;]+;/g, ' ').replace(/\s+/g, ' ').substring(0, 150).trim();
-        return `
-          <a href="${item.permalink}" class="block p-3 mb-2 rounded-lg hover:bg-black/[3%] dark:hover:bg-white/[8%] transition-colors no-underline" style="color: ${textColor};">
-            <h3 class="font-semibold text-lg mb-1" style="color: ${textColor};">${item.title}</h3>
-            <p class="text-sm mb-1" style="color: ${textColorMuted};">${excerpt}${excerpt.length >= 150 ? '...' : ''}</p>
-            <div class="flex items-center gap-2 text-xs" style="color: ${textColorMutedMore};">
-              <span>${item.date}</span>
-              ${item.tags && item.tags.length > 0 ? `<span>•</span><span>${item.tags.join(', ')}</span>` : ''}
-            </div>
-          </a>
-        `;
-      }).join('');
-    });
-  })();
-</script>
