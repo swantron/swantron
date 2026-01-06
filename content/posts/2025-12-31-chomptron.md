@@ -34,7 +34,6 @@ Type your ingredients into Chomptron, hit generate, get a complete recipe with m
 - **Dietary filters** - Vegan, vegetarian, gluten-free, dairy-free, nut-free, shellfish-free, egg-free, soy-free
 - **Recipe history** - Saves up to 100 recipes in browser localStorage
 - **Favorites & ratings** - Star your best recipes, rate them 1-5 stars
-- **Personal notes** - Add your own cooking notes to saved recipes
 - **Dark mode** - Because obviously
 - **Share & print** - Export recipes or generate shareable links
 
