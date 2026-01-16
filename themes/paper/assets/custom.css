@@ -1,2 +1,163 @@
 /* Place custom css here. */
 @reference './app.css';
+
+/* Improved post list styling */
+article.my-10 {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+article.my-10:hover {
+  transform: translateY(-2px);
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+html.dark article.my-10:hover {
+  background-color: rgba(255, 255, 255, 0.03);
+}
+
+/* Better post title styling */
+article header h1 a {
+  transition: color 0.2s ease;
+  display: block;
+}
+
+article header h1 a:hover {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+html.dark article header h1 a:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+/* Enhanced date formatting */
+article header time {
+  font-weight: 500;
+  letter-spacing: 0.025em;
+  margin-top: 0.5rem;
+  display: block;
+}
+
+/* Better post content spacing */
+.post-content {
+  margin-top: 1rem;
+  line-height: 1.75;
+}
+
+.post-content p {
+  margin-bottom: 1.25rem;
+}
+
+.post-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* Improved link hover states */
+.post-content a {
+  text-decoration: underline;
+  text-decoration-color: rgba(0, 0, 0, 0.3);
+  text-underline-offset: 2px;
+  transition: text-decoration-color 0.2s ease, color 0.2s ease;
+}
+
+.post-content a:hover {
+  text-decoration-color: rgba(0, 0, 0, 0.6);
+  color: rgba(0, 0, 0, 0.8);
+}
+
+html.dark .post-content a {
+  text-decoration-color: rgba(255, 255, 255, 0.4);
+}
+
+html.dark .post-content a:hover {
+  text-decoration-color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* Better header title size on mobile */
+@media (max-width: 768px) {
+  header a[style*="font-size: 3rem"] {
+    font-size: 2rem !important;
+    line-height: 1.3 !important;
+  }
+}
+
+/* Improved pagination button styling */
+nav.mt-14 .btn {
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+
+nav.mt-14 .btn:hover {
+  transform: translateX(2px);
+}
+
+nav.mt-14 .btn.ml-auto:hover {
+  transform: translateX(-2px);
+}
+
+/* Better image styling in posts */
+.post-content img {
+  border-radius: 0.5rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+html.dark .post-content img {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+}
+
+/* Improved code block styling */
+.post-content pre {
+  border-radius: 0.5rem;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+/* Better tag styling */
+article footer a {
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+
+article footer a:hover {
+  transform: translateY(-1px);
+}
+
+/* Enhanced spacing for post list */
+@media (min-width: 1024px) {
+  article.my-10 {
+    padding: 2rem;
+  }
+}
+
+/* Better focus states for accessibility */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid rgba(0, 0, 0, 0.5);
+  outline-offset: 2px;
+  border-radius: 0.25rem;
+}
+
+html.dark a:focus-visible,
+html.dark button:focus-visible {
+  outline-color: rgba(255, 255, 255, 0.7);
+}
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Improved article spacing */
+article + article {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+html.dark article + article {
+  border-top-color: rgba(255, 255, 255, 0.1);
+}
