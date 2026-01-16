@@ -53,6 +53,18 @@ relativeURLs = false
     url = '/hof/'
     weight = 30
 
+# Sitemap configuration
+[sitemap]
+  changefreq = 'monthly'
+  priority = 0.5
+  filename = 'sitemap.xml'
+
+# Robots.txt configuration
+[robotsTXT]
+  userAgent = '*'
+  allow = '/'
+  disallow = ['/api/']
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

@@ -22,7 +22,7 @@ hugo --baseURL https://swantron.github.io/swantron/
 
 ## Directory Structure
 
-- `content/posts/` - All blog posts (1,039 posts)
+- `content/posts/` - All blog posts (1,040 posts)
 - `content/` - Standalone pages (about.md, contact.md, etc.)
 - `static/uploads/` - All images and media files from WordPress
 - `themes/paper/` - Paper theme
