@@ -52,6 +52,12 @@ relativeURLs = false
     name = 'HoF'
     url = '/hof/'
     weight = 30
+  
+  [[menu.main]]
+    identifier = 'search'
+    name = 'Search'
+    url = '/search/'
+    weight = 40
 
 # Sitemap configuration
 [sitemap]

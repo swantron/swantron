@@ -1,5 +1,5 @@
 ---
 title: "Search"
 layout: "search"
-outputs: ["JSON"]
+outputs: ["HTML", "JSON"]
 ---

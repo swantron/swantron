@@ -2,9 +2,10 @@
 [
   {{- range $index, $post := $posts -}}
   {{- if $index }},{{- end }}
+  {{- $plainContent := $post.Plain | default (replaceRE "<[^>]*>" "" $post.Content) | default "" -}}
   {
     "title": {{ $post.Title | jsonify }},
-    "content": {{ $post.Plain | jsonify }},
+    "content": {{ $plainContent | jsonify }},
     "permalink": "{{ $post.Permalink }}",
     "date": "{{ $post.Date.Format "2006-01-02" }}",
     "tags": {{ if $post.Params.tags }}{{ $post.Params.tags | jsonify }}{{ else }}[]{{ end }}
