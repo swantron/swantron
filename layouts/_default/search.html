@@ -24,7 +24,7 @@
   // Load search data
   async function loadSearchData() {
     try {
-      const response = await fetch('/search.json');
+      const response = await fetch('/search/index.json');
       if (!response.ok) {
         throw new Error('Failed to load search data');
       }
