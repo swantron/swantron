@@ -23,15 +23,31 @@
   
   // Load search data
   async function loadSearchData() {
+    let jsonPath;
     try {
-      const response = await fetch('/search/index.json');
+      // Get base path from current location (handles baseURL like /swantron/)
+      const pathname = window.location.pathname;
+      const pathParts = pathname.split('/').filter(p => p);
+      const searchIndex = pathParts.indexOf('search');
+      
+      if (searchIndex > 0) {
+        // We're in a subdirectory like /swantron/search/
+        const basePath = '/' + pathParts.slice(0, searchIndex).join('/');
+        jsonPath = basePath + '/search/index.json';
+      } else {
+        // We're at root /search/
+        jsonPath = '/search/index.json';
+      }
+      
+      const response = await fetch(jsonPath);
       if (!response.ok) {
-        throw new Error('Failed to load search data');
+        throw new Error(`Failed to load search data: ${response.status} ${response.statusText}`);
       }
       searchData = await response.json();
       buildSearchIndex();
     } catch (error) {
       console.error('Error loading search data:', error);
+      console.error('Attempted path:', jsonPath);
       document.getElementById('search-results').innerHTML = 
         '<p class="text-red-500">Error loading search data. Please refresh the page.</p>';
     }
