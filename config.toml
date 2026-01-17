@@ -37,7 +37,7 @@ relativeURLs = false
 [menu]
   [[menu.main]]
     identifier = 'home'
-    name = 'Blog'
+    name = 'Home'
     url = '/'
     weight = 10
   
@@ -55,7 +55,7 @@ relativeURLs = false
   
   [[menu.main]]
     identifier = 'all-posts'
-    name = 'All Posts'
+    name = 'Posts'
     url = '/all-posts/'
     weight = 35
   
