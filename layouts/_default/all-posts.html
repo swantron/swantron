@@ -3,7 +3,7 @@
 <h1 class="mb-14">All Posts</h1>
 
 {{- $allPosts := where site.RegularPages "Type" "posts" -}}
-{{- $paginator := .Paginate ($allPosts) -}}
+{{- $paginator := .Paginate $allPosts -}}
 
 {{- if gt (len $paginator.Pages) 0 -}}
   {{- range $paginator.Pages -}}
