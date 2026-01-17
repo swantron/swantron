@@ -161,3 +161,14 @@ article + article {
 html.dark article + article {
   border-top-color: rgba(255, 255, 255, 0.1);
 }
+
+/* Lazy loading images */
+.post-content img {
+  loading: lazy;
+}
+
+/* Ensure images don't break layout */
+.post-content img {
+  max-width: 100%;
+  height: auto;
+}
