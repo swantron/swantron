@@ -2,7 +2,7 @@
 title: 'Time is of the Essence.  Indeed.'
 date: 2010-04-21T16:54:31+00:00
 id: 6201
-slug: 'time-is-of-the-essence-indeed-2'
+slug: 'time-is-of-the-essence-indeed'
 featured_image: '/uploads/2010/04/citizen.jpg'
 description: ''
 ---

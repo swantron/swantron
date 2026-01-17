@@ -2,7 +2,7 @@
 title: 'Found:  My Dream Robotics Project'
 date: 2010-06-06T10:05:23+00:00
 id: 6227
-slug: 'found-my-dream-robotics-project-2'
+slug: 'found-my-dream-robotics-project'
 featured_image: '/uploads/2010/06/cellbot.jpg'
 description: ''
 ---

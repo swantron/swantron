@@ -2,7 +2,7 @@
 title: 'Lost Countdown: Episode 2'
 date: 2010-02-10T08:44:31+00:00
 id: 1665
-slug: 'lost-countdown-episode-2'
+slug: 'lost-countdown-episode'
 featured_image: '/uploads/2010/02/lost-kate.jpg'
 description: ''
 ---

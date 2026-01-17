@@ -2,7 +2,7 @@
 title: 'An open letter to Nabisco'
 date: 2009-12-21T16:45:07+00:00
 id: 6159
-slug: 'an-open-letter-to-nabisco-2'
+slug: 'an-open-letter-to-nabisco'
 featured_image: '/uploads/2009/12/triscuit.jpg'
 description: ''
 ---

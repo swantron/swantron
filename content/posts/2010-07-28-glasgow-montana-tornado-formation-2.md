@@ -2,7 +2,7 @@
 title: 'Glasgow Montana Tornado Formation'
 date: 2010-07-28T19:34:15+00:00
 id: 6236
-slug: 'glasgow-montana-tornado-formation-2'
+slug: 'glasgow-montana-tornado-formation'
 featured_image: '/uploads/2010/07/glasgow-tornado.jpg'
 description: ''
 ---

@@ -2,7 +2,7 @@
 title: 'End of an Era'
 date: 2009-11-29T15:42:54+00:00
 id: 1106
-slug: 'end-of-an-era-2'
+slug: 'end-of-an-era'
 featured_image: '/uploads/swantron/wp-content/newfrontpagesmall.jpg'
 description: ''
 ---

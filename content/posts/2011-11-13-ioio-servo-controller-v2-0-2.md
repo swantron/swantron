@@ -2,7 +2,7 @@
 title: 'IOIO Servo Controller v2.0'
 date: 2011-11-13T18:58:18+00:00
 id: 6327
-slug: 'ioio-servo-controller-v2-0-2'
+slug: 'ioio-servo-controller-v2-0'
 featured_image: '/uploads/2011/11/servo-project-570x413.png'
 description: ''
 ---

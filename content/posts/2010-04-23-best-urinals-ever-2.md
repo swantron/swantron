@@ -2,7 +2,7 @@
 title: 'Best…Urinals…Ever.'
 date: 2010-04-23T08:52:38+00:00
 id: 6210
-slug: 'best-urinals-ever-2'
+slug: 'best-urinals-ever'
 featured_image: '/uploads/2010/04/urinals.jpg'
 description: ''
 ---

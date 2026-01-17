@@ -2,7 +2,7 @@
 title: 'LED…Matrix or Cube?'
 date: 2011-05-06T11:32:42+00:00
 id: 6284
-slug: 'led-matrix-or-cube-2'
+slug: 'led-matrix-or-cube'
 featured_image: '/uploads/2011/05/white-led.jpg'
 description: ''
 ---

@@ -2,7 +2,7 @@
 title: 'Lab Weather'
 date: 2013-10-30T12:48:15+00:00
 id: 6400
-slug: 'lab-weather-2'
+slug: 'lab-weather'
 featured_image: '/uploads/2013/10/robot_arm.jpg'
 description: ''
 ---

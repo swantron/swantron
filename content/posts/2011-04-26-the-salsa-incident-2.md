@@ -2,7 +2,7 @@
 title: 'The Salsa Incident'
 date: 2011-04-26T18:55:58+00:00
 id: 6275
-slug: 'the-salsa-incident-2'
+slug: 'the-salsa-incident'
 featured_image: '/uploads/2011/04/salsa-incident.jpg'
 description: ''
 ---

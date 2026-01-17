@@ -2,7 +2,7 @@
 title: 'Fall Wallboard'
 date: 2015-11-10T12:28:56+00:00
 id: 6408
-slug: 'fall-wallboard-2'
+slug: 'fall-wallboard'
 featured_image: '/uploads/2015/11/wallboard.jpg'
 description: ''
 ---

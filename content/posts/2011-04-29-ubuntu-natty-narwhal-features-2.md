@@ -2,7 +2,7 @@
 title: 'Ubuntu Natty Narwhal Features'
 date: 2011-04-29T11:34:20+00:00
 id: 6279
-slug: 'ubuntu-natty-narwhal-features-2'
+slug: 'ubuntu-natty-narwhal-features'
 featured_image: '/uploads/2011/04/natty.jpg'
 description: ''
 ---

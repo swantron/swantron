@@ -2,7 +2,7 @@
 title: 'Legend of Zeltron'
 date: 2012-10-06T22:37:52+00:00
 id: 6377
-slug: 'legend-of-zeltron-2'
+slug: 'legend-of-zeltron'
 featured_image: '/uploads/2012/10/skyward_sword.jpg'
 description: ''
 ---

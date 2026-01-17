@@ -2,7 +2,7 @@
 title: 'Network Admin Fail'
 date: 2011-02-13T16:26:28+00:00
 id: 6260
-slug: 'network-admin-fail-2'
+slug: 'network-admin-fail'
 featured_image: '/uploads/2011/02/pledge.jpg'
 description: ''
 ---

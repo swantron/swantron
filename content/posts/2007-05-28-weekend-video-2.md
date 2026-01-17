@@ -2,7 +2,7 @@
 title: 'Weekend Video #2'
 date: 2007-05-28T19:58:50+00:00
 id: 560
-slug: 'weekend-video-2'
+slug: 'weekend-video'
 description: ''
 ---
 

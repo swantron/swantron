@@ -2,7 +2,7 @@
 title: 'Shopping Cart Talk'
 date: 2010-06-28T16:38:58+00:00
 id: 6232
-slug: 'shopping-cart-talk-2'
+slug: 'shopping-cart-talk'
 featured_image: '/uploads/2010/06/robot-shopping.jpg'
 description: ''
 ---

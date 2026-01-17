@@ -2,7 +2,7 @@
 title: 'Droid 4 vs Droid Razr'
 date: 2011-12-21T12:15:22+00:00
 id: 6336
-slug: 'droid-4-vs-droid-razr-2'
+slug: 'droid-4-vs-droid-razr'
 featured_image: '/uploads/2011/12/moto-droid-4.jpg'
 description: ''
 ---

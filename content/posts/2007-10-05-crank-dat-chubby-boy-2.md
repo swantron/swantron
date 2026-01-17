@@ -2,7 +2,7 @@
 title: 'Crank Dat Chubby Boy'
 date: 2007-10-05T15:23:15+00:00
 id: 6123
-slug: 'crank-dat-chubby-boy-2'
+slug: 'crank-dat-chubby-boy'
 description: ''
 ---
 

@@ -2,7 +2,7 @@
 title: 'Nerd Shovel'
 date: 2011-12-26T12:04:37+00:00
 id: 6337
-slug: 'nerd-shovel-2'
+slug: 'nerd-shovel'
 featured_image: '/uploads/2011/12/Nerd_shovel-570x304.jpg'
 description: ''
 ---
