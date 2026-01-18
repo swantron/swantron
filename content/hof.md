@@ -12,4 +12,5 @@ params:
     - "ioio-powerswitch-project"
     - "html-to-python-to-arduino-to-lcd"
     - "how-to-use-a-ladder-2"
+    - "green-robots-everywhere"
 ---
