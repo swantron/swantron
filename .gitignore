@@ -31,3 +31,7 @@ Thumbs.db
 **/xmlrpc.php
 **/install.php
 **/wp-snapshots/
+
+# Database backups (keep locally, don't commit)
+*.sql
+dbmfzsmoeow53u.sql
