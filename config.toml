@@ -1,4 +1,4 @@
-baseURL = 'https://swantron.github.io/swantron/'
+baseURL = 'https://swantron.com/'
 languageCode = 'en-us'
 title = 'swan tron dot com'
 theme = 'paper'
