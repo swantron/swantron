@@ -37,3 +37,4 @@ hugo --baseURL https://swantron.github.io/swantron/
 - **Pagination**: 10 posts per page
 
 Build output is deployed to GitHub Pages via GitHub Actions.
+
