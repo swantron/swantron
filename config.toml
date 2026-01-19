@@ -11,9 +11,9 @@ relativeURLs = false
 [pagination]
   pagerSize = 10
 
-# Permalink structure to match old WordPress URLs: /index.php/YYYY/MM/DD/post-slug/
+# Clean permalink structure (removed /index.php/ for cleaner URLs)
 [permalinks]
-  posts = '/index.php/:year/:month/:day/:slug/'
+  posts = '/:year/:month/:day/:slug/'
 
 [params]
   env = 'production'

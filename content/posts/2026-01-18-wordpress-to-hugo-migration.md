@@ -39,13 +39,28 @@ If you want to know why WordPress scales poorly for a solo dev, look at my final
 
 The database became a black box. Transitioning to Markdown files feels like exhaling after holding your breath for years. No more regex-searching a SQL dump just to find a setting.
 
-## The Migration & New Stack
+## The Migration: Managing 1,040 Post-Slugs
 
-Moving **1,040 posts** while maintaining permalink integrity is a rite of passage. To keep 20 years of SEO and links alive, I used custom scripts to map the legacy WordPress export to Hugo's directory structure.
+Moving **1,040 posts** while maintaining permalink integrity is a rite of passage. My goal was to strip away the ugly legacy `/index.php/` prefix from my URLs, but I couldn't afford to break 20 years of external links and search indexing.
 
-* **The Permalinks:** Initially preserved the WordPress `/index.php/YYYY/MM/DD/slug` structure for compatibility, then cleaned it up to `/:year/:month/:day/:slug/` using Hugo aliases to redirect old URLs seamlessly.
-* **The Media:** Thousands of images moved to `/static/uploads/`, with a bulk regex to update the paths in the Markdown files.
-* **The Engine:** Hugo 0.154.5, GitHub Actions for CI/CD, and a custom CSS build. **No themes, just code.**
+To solve this, I wrote a Python script to automate the 'alias' field in Hugo's front matter.
+
+```python
+# If no date in frontmatter, extract from filename
+if not date_str:
+    filename_match = re.match(r'(\d{4})-(\d{2})-(\d{2})', filepath.stem)
+    if filename_match:
+        year, month, day = filename_match.groups()
+        date_str = f'{year}-{month}-{day}T00:00:00+00:00'
+```
+
+The script successfully mapped every single post to its legacy counterpart. Now, Hugo automatically generates redirect HTML pages at the old paths (e.g., `/index.php/2005/10/10/post-slug/`) that point to the new, clean URLs.
+
+**Result: 1,041/1,041 posts migrated with 100% link integrity.**
+
+## The New Stack
+
+**Hugo 0.154.5** for static generation, **GitHub Pages + Actions** for hosting and CI/CD. No themes—just custom CSS and layout code that I control entirely.
 
 ### The Tipping Point
 
@@ -54,6 +69,7 @@ Moving **1,040 posts** while maintaining permalink integrity is a rite of passag
 | **Speed** | 2s - 4s Load | **< 500ms** |
 | **Security** | Constant Patches | **Zero Attack Surface** |
 | **Cost** | Monthly Fees | **$0 (GitHub Pages)** |
+| **URL Structure** | `/index.php/slug` | **Clean & Pretty** |
 | **Content** | MySQL | **Markdown in Git** |
 
 ## Why This Matters
