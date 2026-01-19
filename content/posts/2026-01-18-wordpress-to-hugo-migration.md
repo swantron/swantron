@@ -121,22 +121,6 @@ This is why the migration to markdown files feels so clean. No serialized data. 
 | **Content** | Database Queries | Static HTML |
 | **Data Longevity** | Risky (DB Rot) | Permanent (Git) |
 
-## Pets vs Cattle
-
-The old WordPress instances were **pets**. Each one unique, requiring individual care:
-- Database backups specific to that instance
-- Plugin configurations that might break on update
-- Server configurations that needed monitoring
-- Security patches that needed to be applied
-- Performance tuning for that specific server
-
-The new Hugo site is **cattle**. Disposable, replaceable, reproducible:
-- Content is in git - can be rebuilt anywhere
-- No database - just files
-- No server - just static files
-- Build process is automated - GitHub Actions handles it
-- If something breaks, rebuild from git
-
 ## Code-First, Not Theme-First
 
 This isn't about finding the right WordPress theme. This is about writing code.
