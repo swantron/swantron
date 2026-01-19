@@ -22,16 +22,18 @@ The breaking point wasn't a catastrophic hack; it was the slow death of a thousa
 
 Over two decades, swantron.com moved through every hosting trend imaginable:
 
-1. **The Early Days:** Traditional shared hosting on Siteground.
-2. **The Cloud Era:** Managing VMs and RDS databases on AWS and GCP.
-3. **The Infrastructure Era:** DigitalOcean Droplets and 'Infrastructure as Code' containers.
-4. **The Final Form:** **Hugo + GitHub Pages.** A shift from a 'managed system' to a **code-first delivery.**
+1. **Phase 1:** Shared Hosting (`Siteground`)
+2. **Phase 2:** Cloud Ops (`AWS EC2` / `GCP Cloud SQL`)
+3. **Phase 3:** Modern Infra (`DigitalOcean` / `Docker`)
+4. **Phase 4:** **The End State:** `Hugo` + `GitHub Actions`
 
 Each previous phase was just a different way of babysitting a server. This migration is different. It's not a new host; it's a fundamental change in philosophy.
 
 ## The Database Horror (Why I Left)
 
 If you want to know why WordPress scales poorly for a solo dev, look at my final database dump: **34MB and 555,947 lines of text.**
+
+![SQL file size - 555,947 lines](/uploads/2026/01/sql-file-size.png)
 
 - **122,307 references** to `bouncerblog.com`—a domain that died over a decade ago.
 - **Serialized PHP arrays** stored as strings. Want to change a rewrite rule? Good luck parsing a 2,000-character string in `wp_options`.
@@ -53,6 +55,17 @@ if not date_str:
         year, month, day = filename_match.groups()
         date_str = f'{year}-{month}-{day}T00:00:00+00:00'
 ```
+
+**The result in each Markdown file:**
+
+```yaml
+title: "My Old Post"
+slug: "my-old-post"
+aliases:
+  - /index.php/2005/10/10/my-old-post/
+```
+
+![Alias example in frontmatter](/uploads/2026/01/alias-example.png)
 
 The script successfully mapped every single post to its legacy counterpart. Now, Hugo automatically generates redirect HTML pages at the old paths (e.g., `/index.php/2005/10/10/post-slug/`) that point to the new, clean URLs.
 
