@@ -8,7 +8,7 @@ featured_image: '/uploads/2026/01/cowbot.png'
 
 This is the first time in decades I haven't had a WordPress instance live.
 
-![Cowbot - The migration mascot](/uploads/2026/01/cowbot.png)
+<img src="/uploads/2026/01/cowbot.png" alt="Cowbot - The migration mascot" class="cowbot-image" />
 
 ## The Breaking Point
 
