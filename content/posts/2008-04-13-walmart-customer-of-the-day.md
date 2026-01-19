@@ -5,6 +5,8 @@ id: 727
 slug: 'walmart-customer-of-the-day'
 featured_image: '/uploads/2008/04/femullet.jpg'
 description: ''
+aliases:
+  - '/index.php/2008/04/13/walmart-customer-of-the-day/'
 ---
 
 This chick: ![femullet](/uploads/2008/04/femullet.jpg)Mullet, check. Bluetooth headset, check. Colors, coordinated.

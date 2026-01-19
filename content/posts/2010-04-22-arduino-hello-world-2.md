@@ -5,6 +5,8 @@ id: 6208
 slug: 'arduino-hello-world'
 featured_image: '/uploads/2010/04/arduino_project.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/04/22/arduino-hello-world/'
 ---
 
 Hola Mundo! ![arduino hello world](/uploads/2010/04/arduino_project.jpg "arduino_project") See that blue LED? Pretty hard to miss. That is essentially the Arduino version a 'hello world' program. In other words...I'm live, suckaz. For what it is worth, that is my Mini 9, on Linux, talking to that microprocessor...no easy task. No hard task either, because our nerd-ass community is awesome. So is the command prompt. Open source ninja. For the EE win.

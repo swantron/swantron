@@ -5,6 +5,8 @@ id: 3222
 slug: 'messy-lab-is-messy'
 featured_image: '/uploads/2011/03/messy-lab.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/03/06/messy-lab-is-messy/'
 ---
 
 Demolition phase: complete ![messy](/uploads/2011/03/messy-lab.jpg "messy-lab") I feel like a space cadet...too many things in flight. Component central over here.

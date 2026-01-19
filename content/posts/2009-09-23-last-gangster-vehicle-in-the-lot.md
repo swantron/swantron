@@ -5,6 +5,8 @@ id: 977
 slug: 'last-gangster-vehicle-in-the-lot'
 featured_image: '/uploads/2009/09/lonely1-1024x768.jpg'
 description: ''
+aliases:
+  - '/index.php/2009/09/23/last-gangster-vehicle-in-the-lot/'
 ---
 
 ![ rims look good](/uploads/2009/09/lonely1-1024x768.jpg "lonely") ...just half of the lot...but still...missing out on margaritas with Kate...not very pleased

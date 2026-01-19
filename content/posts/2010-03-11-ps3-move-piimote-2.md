@@ -5,6 +5,8 @@ id: 6191
 slug: 'ps3-move-piimote'
 featured_image: '/uploads/2010/03/PS3-move.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/03/11/ps3-move-piimote/'
 ---
 
 Sony has finally made a solid attempt to bridge the gap between the BluRay/Media Center/FPS beast that is the PS3 and the Wii's uber-user-friendly-out-of-the-box gaming experience. Introducing the PlayStation Move ---&gt; ![looks a lot like... ](/uploads/2010/03/PS3-move.jpg "PS3-move") From CNET:

@@ -5,6 +5,8 @@ id: 660
 slug: 'little-people-big-world'
 featured_image: '/uploads/2008/01/littlepeoplebigworld.jpg'
 description: ''
+aliases:
+  - '/index.php/2008/01/24/little-people-big-world/'
 ---
 
 I love these guys ![surfs up](/uploads/2008/01/littlepeoplebigworld.jpg)Here is the program description for tonight's show:

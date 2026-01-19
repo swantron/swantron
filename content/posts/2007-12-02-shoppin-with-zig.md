@@ -5,6 +5,8 @@ id: 628
 slug: 'shoppin-with-zig'
 featured_image: '/uploads/2007/12/media12.jpg'
 description: ''
+aliases:
+  - '/index.php/2007/12/02/shoppin-with-zig/'
 ---
 
 Shit ton of tuna...check ![media12.jpg](/uploads/2007/12/media12.jpg)Funny shoes...check ![media1.jpg](/uploads/2007/12/media1.jpg)

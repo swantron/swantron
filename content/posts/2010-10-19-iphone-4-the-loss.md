@@ -5,6 +5,8 @@ id: 2781
 slug: 'iphone-4-the-loss'
 featured_image: '/uploads/2010/10/diamond_iphone.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/10/19/iphone-4-the-loss/'
 ---
 
 Five million Pounds...that is roughly eight million USD. If you happen to have that sort of loot sitting around, like diamonds, and have bought into the iPhone hype...[this son of a gun](http://stuarthughes.com/newdawn/product_info.php?products_id=102) is right up your alley. ![bling bling](/uploads/2010/10/diamond_iphone.jpg "diamond_iphone") I'm struggling to come up with some sort of joke involving Dustin Diamond. Not coming together. Just think about Screetch being broke or something. Saved by the Bell was uber-syndicated...how the crap did Double D blow all of his money? Maybe he commissioned someone to diamond-up a Zach Morris phone back in the day. I bet that would cost well more than five million Pounds. Even with inflation taken into consideration.

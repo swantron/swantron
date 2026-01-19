@@ -5,6 +5,8 @@ id: 2340
 slug: 'stellarium-on-ubuntu'
 featured_image: '/uploads/2010/06/moon-venus.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/06/17/stellarium-on-ubuntu/'
 ---
 
 It has been too long since I have sang the merits of Ubuntu. Meerkat is great. 10.10 LTS has been flawless for me, even since the beta, on both my notebooks and my Mini 9 netbook. Anyhow, I have had Stellarium running for some time. I realized I have yet to mention it. Here is the view from my 'laboratory' from two nights ago: ![moon venus](/uploads/2010/06/moon-venus.jpg "moon-venus") Awful photojournalism. Wanna fight about it? Pictured is the Moon, Venus, the Moon, and Venus...the two former live, and the two latter via Stellarium. Pretty sweet. I have had Stellarium cranked up several times looking at stars, but my BlackBerry is far worse when it comes to photographing stars than it is when photographing planets and the Moon. Check it out...price is FREE.99 via the Ubuntu Software Center. FTW.

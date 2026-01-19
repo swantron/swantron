@@ -5,6 +5,8 @@ id: 2281
 slug: 'ms-paint-tips'
 featured_image: '/uploads/2010/06/small-dog.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/06/09/ms-paint-tips/'
 ---
 
 Pomeranians are creepy. ![small dog](/uploads/2010/06/small-dog.jpg "small-dog") Mad MS Paint skillz. +1 small dog

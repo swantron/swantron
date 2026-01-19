@@ -5,6 +5,8 @@ id: 6298
 slug: 'eclipse-and-ioio-3'
 featured_image: '/uploads/2011/07/ioio-eclipse.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/07/18/eclipse-and-ioio-3/'
 ---
 
 Five Volts are so 2010. I'm all over this three and three-tenths Volts stuff. ![3.3 volts ioio arduino sketches](/uploads/2011/07/ioio-eclipse.jpg "ioio-eclipse") Don't call it a comeback. I blew the dust off of my IOIO board, and am ready to do some 3.3V stuffs. I have already deduced that my PowerSwitch Tail won't relay at 3.3V, but will make a switching noise and fire the on-board LED. Lesson learned. I guess I had better get serious with my EE...this is a circuitry step up from the Arduino without a doubt. Expect a project and some code soon. I am going to make something work.

@@ -5,6 +5,8 @@ id: 1022
 slug: 'costume-idea'
 featured_image: '/uploads/2009/10/Karate.JPG "Karate"'
 description: ''
+aliases:
+  - '/index.php/2009/10/26/costume-idea/'
 ---
 
 [![Karate](/uploads/2009/10/Karate.JPG "Karate")](/uploads/2009/10/Karate.JPG)

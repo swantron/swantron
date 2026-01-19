@@ -5,6 +5,8 @@ id: 1870
 slug: 'all-your-base'
 featured_image: '/uploads/2010/03/all-your-base-are-belong-to-us.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/03/23/all-your-base/'
 ---
 
 ![all-your-base-are-belong-to-us](/uploads/2010/03/all-your-base-are-belong-to-us.jpg "all-your-base-are-belong-to-us") though not technically an original, this merges an established meme with an up-and-coming meme

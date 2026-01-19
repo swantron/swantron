@@ -5,6 +5,8 @@ id: 1166
 slug: 'so-long-adsense'
 featured_image: '/uploads/2009/12/googlesucks.jpg'
 description: ''
+aliases:
+  - '/index.php/2009/12/04/so-long-adsense/'
 ---
 
 Adsense booted me for too many clicks per page... [![googlesucks](/uploads/2009/12/googlesucks.jpg "googlesucks")](/uploads/2009/12/googlesucks.jpg)So long. I'll take my fracking business to Amazon...might even do some blog-vertising...who knows?

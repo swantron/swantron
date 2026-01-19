@@ -5,6 +5,8 @@ id: 2189
 slug: 'super-robot'
 featured_image: '/uploads/2010/05/super-robot.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/05/23/super-robot/'
 ---
 
 ![super robot](/uploads/2010/05/super-robot.jpg "super-robot") I left my Arduino at work. Poorly played. The next best thing, quite unfortunately, is to post another damned robot drawing. Green robots...there you go.

@@ -5,6 +5,8 @@ id: 1020
 slug: 'costume-idea-1'
 featured_image: '/uploads/2009/10/dog.jpg'
 description: ''
+aliases:
+  - '/index.php/2009/10/25/costume-idea-1/'
 ---
 
 [![dog](/uploads/2009/10/dog.jpg "dog")](/uploads/2009/10/dog.jpg)

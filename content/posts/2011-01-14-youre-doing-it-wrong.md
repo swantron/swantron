@@ -5,6 +5,8 @@ id: 3114
 slug: 'youre-doing-it-wrong'
 featured_image: '/uploads/2011/01/parking.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/01/14/youre-doing-it-wrong/'
 ---
 
 Nope. That is not how we park cars. ![bad job](/uploads/2011/01/parking.jpg "parking") -1 had to drive my pickup to work +1 diameters of my rims exceed those of your tires +1 pickup has 20" rims as well ------------------------------------------------ 1 point awarded. Not a bad morning afterall.

@@ -5,6 +5,8 @@ id: 972
 slug: 'retraction-not-so-happy-wed'
 featured_image: '/uploads/2009/09/Uncle-Joe.JPG "Uncle-Joe"'
 description: ''
+aliases:
+  - '/index.php/2009/09/23/retraction-not-so-happy-wed/'
 ---
 
 working late...maybe very late...I'm digging in with a half pack of Spirits and two diet RockStars...have mercy![turns out I look fucking amazing in sweaters](/uploads/2009/09/Uncle-Joe.JPG "Uncle-Joe")

@@ -4,6 +4,8 @@ date: 2022-04-05T02:26:59+00:00
 id: 8404
 slug: 'side-table-production'
 featured_image: '/uploads/2022/04/PXL_20220403_222859336-1024x576.jpg'
+aliases:
+  - '/index.php/2022/04/05/side-table-production/'
 ---
 
 Work from home?  

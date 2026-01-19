@@ -5,6 +5,8 @@ id: 2764
 slug: 'maximum-scoville-units'
 featured_image: '/uploads/2010/10/hot-pepper.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/10/13/maximum-scoville-units/'
 ---
 
 ![hmm](/uploads/2010/10/hot-pepper.jpg "hot-pepper") ![dumb](/uploads/2010/10/habanero-chile.jpg "habanero-chile") ![caliente](/uploads/2010/10/habanero.jpg "habanero")

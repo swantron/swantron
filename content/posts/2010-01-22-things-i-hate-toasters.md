@@ -5,6 +5,8 @@ id: 1536
 slug: 'things-i-hate-toasters'
 featured_image: '/uploads/2010/01/toaster.bmp "toaster"'
 description: ''
+aliases:
+  - '/index.php/2010/01/22/things-i-hate-toasters/'
 ---
 
 [![useless](/uploads/2010/01/toaster.bmp "toaster")](/uploads/2010/01/toaster.bmp)I hate toasters. Why this ill-conceived piece of shit has become a staple in the American kitchen and/or kitchenette is beyond me. Toasters render bread sharp and dangerous to the mouth. Tosters re-cook cooked bread. Toasters make bread taste stale. Toasters serve the same purpose as the oven broiler, but only for bread. Toasters serve the same purpose as a George Foreman grill, but only for bread. And lastly... Toasters look like Honda Elements. v ![meep meep](/uploads/2010/01/toaster-car.jpg "toaster-car") 

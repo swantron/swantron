@@ -5,6 +5,8 @@ id: 1741
 slug: 'lost-recap-the-lighthouse'
 featured_image: '/uploads/2010/02/swantron-lost.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/02/23/lost-recap-the-lighthouse/'
 ---
 
 Keeping this one short... Without Sawyer and Locke, this episode was far from compelling. I'll tear through the theory tomorrow and throw up a post. How goddamn weird looking was Jack's son? I'm sort of creeped out... Looked like the d bag kid from The 6th Sense with pink lipstick on. ![](/uploads/2010/02/swantron-lost.jpg "swantron-lost")

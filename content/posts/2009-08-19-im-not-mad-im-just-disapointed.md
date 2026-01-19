@@ -5,6 +5,8 @@ id: 945
 slug: 'im-not-mad-im-just-disapointed'
 featured_image: '/uploads/2009/08/gaytat.JPG "gaytat"'
 description: ''
+aliases:
+  - '/index.php/2009/08/19/im-not-mad-im-just-disapointed/'
 ---
 
 This tattoo is in memory of the tattoo-ee's deceased grandmother. ![RIP, Mom Mom.](/uploads/2009/08/gaytat.JPG "gaytat") Just a hunch, but I would guess that she would not approve of either tattoos or video games, let alone video game/memorial tattoos.

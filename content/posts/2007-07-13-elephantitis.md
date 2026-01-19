@@ -5,6 +5,8 @@ id: 583
 slug: 'elephantitis'
 featured_image: '/uploads/2007/07/head.jpg'
 description: ''
+aliases:
+  - '/index.php/2007/07/13/elephantitis/'
 ---
 
 ![head.jpg](/uploads/2007/07/head.jpg)I suppose I was wrong...B.O.B. is that bald and gigantically headed. 

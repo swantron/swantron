@@ -5,6 +5,8 @@ id: 1839
 slug: 'dumb-looking-robot'
 featured_image: '/uploads/2010/03/IMG00070-1024x768.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/03/19/dumb-looking-robot/'
 ---
 
 ![dumbot](/uploads/2010/03/IMG00070-1024x768.jpg "Dumb-bot") FTL FTW

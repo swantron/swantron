@@ -5,6 +5,8 @@ id: 762
 slug: 'whos-that-guy'
 featured_image: '/uploads/2008/07/thatguy2.jpg'
 description: ''
+aliases:
+  - '/index.php/2008/07/05/whos-that-guy/'
 ---
 
 Seriously...who is that guy in this picture? ![that guy](/uploads/2008/07/thatguy2.jpg)Nice hand placement, Sarge.

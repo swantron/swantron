@@ -5,6 +5,8 @@ id: 2468
 slug: 'custom-silverado-ss'
 featured_image: '/uploads/2010/07/Silverado-SS.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/07/08/custom-silverado-ss/'
 ---
 
 Here is the end result of my customization. ![ss](/uploads/2010/07/Silverado-SS.jpg "Silverado-SS") Not too shabby, if I say so myself. Kate and I are going to take off and get married. Catch you all in 10 days or so.

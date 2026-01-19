@@ -5,6 +5,8 @@ id: 985
 slug: 'i-dont-love-your-nuts'
 featured_image: '/uploads/2009/10/vince.png'
 description: ''
+aliases:
+  - '/index.php/2009/10/06/i-dont-love-your-nuts/'
 ---
 
 Just got a Graty... ![nope.](/uploads/2009/10/vince.png "vince") Pros: half-graty-ed cheese clumps are fun to eat Cons: doesn't fucking work

@@ -5,6 +5,8 @@ id: 4723
 slug: 'delusional-cubs-fans'
 featured_image: '/uploads/2012/09/little_cubs_fan.jpg'
 description: ''
+aliases:
+  - '/index.php/2012/09/14/delusional-cubs-fans/'
 ---
 
 Only one of us knows that the Cubs are fighting to keep from losing one hundred games this season... ![small cubs fan](/uploads/2012/09/little_cubs_fan.jpg "little_cubs_fan") ...go Cubs

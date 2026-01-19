@@ -4,6 +4,8 @@ date: 2025-08-22T03:05:51+00:00
 id: 8482
 slug: 'tron-swan-dot-com-update'
 featured_image: '/uploads/2025/08/robospin.gif'
+aliases:
+  - '/index.php/2025/08/22/tron-swan-dot-com-update/'
 ---
 
 I've been busy with [tron swan dot com](http://tronswan.com). 

@@ -5,6 +5,8 @@ id: 2670
 slug: 'npr-on-droid'
 featured_image: '/uploads/2010/09/green-droid.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/09/14/npr-on-droid/'
 ---
 
 My usual 8 hour Pandora session at work was replaced today with an 8 plus hour NPR session. ![green droid](/uploads/2010/09/green-droid.jpg "green-droid") Yep, even NPR has an app for Android. Move the eff over iPhone...this sucker is gunning for you.

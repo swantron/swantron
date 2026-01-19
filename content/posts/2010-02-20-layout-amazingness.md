@@ -5,6 +5,8 @@ id: 1705
 slug: 'layout-amazingness'
 featured_image: '/uploads/2009/12/official_use.JPG "official_use"'
 description: ''
+aliases:
+  - '/index.php/2010/02/20/layout-amazingness/'
 ---
 
 This site and [26outs](http://26outs.com) are both running SWIZ-1.0, my new WordPress Theme. Please hit me with any questions, suggestions, etc. My Twitter has changed, too... **[@swantron](http://twitter.com/swantron)**[![](/uploads/2009/12/official_use.JPG "official_use")](/uploads/2009/12/official_use.JPG)

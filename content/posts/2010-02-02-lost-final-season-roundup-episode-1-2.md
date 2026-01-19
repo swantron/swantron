@@ -5,6 +5,8 @@ id: 6170
 slug: 'lost-final-season-roundup-episode-1'
 featured_image: '/uploads/2010/02/shitty-lost.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/02/02/lost-final-season-roundup-episode-1/'
 ---
 
 Can't focus after that crap...look at the half-assed shitty work with The Gimp [![](/uploads/2010/02/shitty-lost.jpg "shitty-lost")](/uploads/2010/02/shitty-lost.jpg)Where the fuck was Mr. Eko? I'll post more when I can wrap my head around that freaky episode.

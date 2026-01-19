@@ -5,6 +5,8 @@ id: 6346
 slug: 'spidered-screen'
 featured_image: '/uploads/2012/01/spider-screen-570x292.jpg'
 description: ''
+aliases:
+  - '/index.php/2012/01/20/spidered-screen/'
 ---
 
 We had a great run... ![good night sweet prince](/uploads/2012/01/spider-screen-570x292.jpg "spider-screen") ...the old D2 finally met its match. Broken and bruised, the little guy is still working like a champ, bulging battery and all. New phone soon...going to have to figure out how to root Gingerbread I guess.

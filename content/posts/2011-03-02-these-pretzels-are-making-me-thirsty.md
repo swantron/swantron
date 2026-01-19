@@ -5,6 +5,8 @@ id: 3215
 slug: 'these-pretzels-are-making-me-thirsty'
 featured_image: '/uploads/2011/03/these-pretzels-are-making-me-thirsty.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/03/02/these-pretzels-are-making-me-thirsty/'
 ---
 
 ![these pretzels are making me thirsty](/uploads/2011/03/these-pretzels-are-making-me-thirsty.jpg "these-pretzels-are-making-me-thirsty") Six pounder. Who needs paper? Not I.

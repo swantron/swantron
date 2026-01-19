@@ -5,6 +5,8 @@ id: 1903
 slug: 'introducing-pineberries'
 featured_image: '/uploads/2010/04/pineberries.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/04/03/introducing-pineberries/'
 ---
 
 Have you ever wished that there existed a fruit that looked like a strawberry, only white, and tasted like a pineapple? Here you go, you sick weird-fruit-wanting-son-of-a-bitch. ![nomnomnom](/uploads/2010/04/pineberries.jpg "pineberries") Per [DailyMail](http://www.dailymail.co.uk/femail/food/article-1262312/Pineapple-strawberries-sale-Pineberries-cream-new-summer-treat.html):

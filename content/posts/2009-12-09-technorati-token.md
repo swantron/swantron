@@ -5,6 +5,8 @@ id: 1194
 slug: 'technorati-token'
 featured_image: '/uploads/2009/12/official_use.JPG "official_use"'
 description: ''
+aliases:
+  - '/index.php/2009/12/09/technorati-token/'
 ---
 
 [![official_use](/uploads/2009/12/official_use.JPG "official_use")](/uploads/2009/12/official_use.JPG)958YYWPREKFM 

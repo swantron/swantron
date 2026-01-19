@@ -5,6 +5,8 @@ id: 720
 slug: 'not-my-concern'
 featured_image: '/uploads/2008/04/mprior.jpg'
 description: ''
+aliases:
+  - '/index.php/2008/04/06/not-my-concern/'
 ---
 
 From the Onion...I almost missed it. After dealing with Prior's arm issues in Chicago for several years, it finally laughable.

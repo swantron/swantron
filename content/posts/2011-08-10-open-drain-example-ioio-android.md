@@ -5,6 +5,8 @@ id: 3735
 slug: 'open-drain-example-ioio-android'
 featured_image: '/uploads/2011/08/pull-up-resistor.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/08/10/open-drain-example-ioio-android/'
 ---
 
 Hi. This project never ends. I have been cutting my teeth on some electrical engineering 101, in an effort to push 5V through my IOIO. At this point, I am still not able to report a success. I do have the 'open drain' setup working, at a lower voltage than I am intending. My configuration is as follows: ![pull up resistor](/uploads/2011/08/pull-up-resistor.jpg "pull-up-resistor") The Java snippet that is doing the pin defining is this guy:

@@ -5,6 +5,8 @@ id: 1920
 slug: 'cup-bot-is-wax-y'
 featured_image: '/uploads/2010/04/IMG00078-1024x768.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/04/05/cup-bot-is-wax-y/'
 ---
 
 ![cup=bot](/uploads/2010/04/IMG00078-1024x768.jpg "cup-bot") SPILLS MAKE CUP-BOT SAD

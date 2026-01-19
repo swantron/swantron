@@ -5,6 +5,8 @@ id: 2022
 slug: 'all-about-the-benjamins-baby'
 featured_image: '/uploads/2010/04/benjies.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/04/22/all-about-the-benjamins-baby/'
 ---
 
 watcha wanna do wanna be a ballah shot calla balla who be dipppin in tha benz wit tha spoila on an off with tha... ![hundo](/uploads/2010/04/benjies.jpg "benjies") Uncle Sam just channeled Diddy. It's all about the Benjamins, baby...and the Benjamins are all about the security, baby. Hit the Treasury Department's site and check them out. I'll leave that url for the reader to dig up. The last thing I want is the damn govmint seeing this site on their damn backlinks. Freedom of damn speech, for the damn loss. FTDL. Meme fail.

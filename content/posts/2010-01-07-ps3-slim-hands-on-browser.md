@@ -5,6 +5,8 @@ id: 6161
 slug: 'ps3-slim-hands-on-browser'
 featured_image: '/uploads/2010/01/ps3-slim.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/01/07/ps3-slim-hands-on-browser/'
 ---
 
 Instead of doing one gigantic review, I'm going to tackle a review of my new nerd toy piecemeal...up first: the browser. ![slim, sexy, clunky](/uploads/2010/01/ps3-slim.jpg "ps3-slim")

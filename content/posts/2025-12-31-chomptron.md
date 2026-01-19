@@ -4,6 +4,8 @@ date: 2025-12-31T04:00:00+00:00
 slug: 'chomptron'
 description: 'Turn random ingredients into real recipes with Google Gemini AI'
 featured_image: '/uploads/2025/12/chomptron-screenshot.png'
+aliases:
+  - '/index.php/2025/12/31/chomptron/'
 ---
 
 Do you hate cooking blogs?  Sure, we all do..

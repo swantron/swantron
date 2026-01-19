@@ -5,6 +5,8 @@ id: 1399
 slug: 'more-mcdonalds-mcviolence'
 featured_image: '/uploads/2010/01/mcretard.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/01/07/more-mcdonalds-mcviolence/'
 ---
 
 When will this burger-violence end? I hope no time soon...these idiots are hillarious! ![not the McNuggets](/uploads/2010/01/mcretard.jpg "mcretard") Toledo : McNugget freak-out :: Kansas City : Hamburger freakout KCTV has an [exclusive video ](http://www.kctv5.com/news/22143388/detail.html#)of an unknown idiot-woman losing her shit over a less-than-perfect burger at McDonald's.

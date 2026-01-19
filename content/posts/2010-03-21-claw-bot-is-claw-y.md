@@ -5,6 +5,8 @@ id: 1842
 slug: 'claw-bot-is-claw-y'
 featured_image: '/uploads/2010/03/IMG00066-1024x768.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/03/21/claw-bot-is-claw-y/'
 ---
 
 ![claw-bot](/uploads/2010/03/IMG00066-1024x768.jpg "claw-bot") green robots...sigh.

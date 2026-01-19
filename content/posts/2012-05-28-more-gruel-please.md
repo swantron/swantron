@@ -5,6 +5,8 @@ id: 4571
 slug: 'more-gruel-please'
 featured_image: '/uploads/2012/05/noom.png'
 description: ''
+aliases:
+  - '/index.php/2012/05/28/more-gruel-please/'
 ---
 
 Rice cereal. ![aggressive nom nom nom is aggressive](/uploads/2012/05/noom.png "noom") By definition, gruel. <iframe allowfullscreen="" frameborder="0" height="423" src="http://www.youtube.com/embed/FryulerEbJY" width="565"></iframe>+1 tasty

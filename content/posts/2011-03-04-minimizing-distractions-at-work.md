@@ -5,6 +5,8 @@ id: 3232
 slug: 'minimizing-distractions-at-work'
 featured_image: '/uploads/2011/03/work-lab.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/03/04/minimizing-distractions-at-work/'
 ---
 
 That title is misleading. Between shit-ass dogs and overzealous project managers, I am pretty much fucked. At least I have my lunch break to recharge the colloquial batteries. ![work lab](/uploads/2011/03/work-lab.jpg "work-lab") WiFi, Arduino, interesting view, and relative silence. it is like a little mini-vaykay. I wonder if anyone would notice a make-shift cubical in the mezzanine area...very tempting.

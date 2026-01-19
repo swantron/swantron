@@ -5,6 +5,8 @@ id: 2238
 slug: 'weaponized-robot-aggressive'
 featured_image: '/uploads/2010/06/robo-laser.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/06/01/weaponized-robot-aggressive/'
 ---
 
 I'm not one to be down-and-out-self-deprecating-bummed-out about things in general, but iRobot has just made my tri-colored LED progress look like peanuts. Tri-colored peanuts, but peanuts nonetheless. Hats off to you all, iRobot dudes. This is awesome. ![robo laser](/uploads/2010/06/robo-laser.jpg "robo-laser") From spectrum.ieee.org:

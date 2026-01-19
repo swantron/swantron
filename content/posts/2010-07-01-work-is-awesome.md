@@ -5,6 +5,8 @@ id: 2403
 slug: 'work-is-awesome'
 featured_image: '/uploads/2010/07/desk-drawer.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/07/01/work-is-awesome/'
 ---
 
 How many desk drawers do you actually utilize on a daily basis at a software development company? \*\*\*Spoiler alert...**effin zero**\*\*\* Extra drawer overload...what to do? ![desk](/uploads/2010/07/desk-drawer.jpg "desk-drawer") Food, for the win.

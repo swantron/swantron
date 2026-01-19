@@ -5,6 +5,8 @@ id: 4755
 slug: 'the-house-of-the-future'
 featured_image: '/uploads/2012/10/iRoomba.png'
 description: ''
+aliases:
+  - '/index.php/2012/10/16/the-house-of-the-future/'
 ---
 
 \*to be determined ![iRoomba](/uploads/2012/10/iRoomba.png "iRoomba") If this thing can digest puffs and Cheerios, we'll be happy, futuristic parents. Bring on the bots.

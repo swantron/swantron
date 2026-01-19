@@ -5,6 +5,8 @@ id: 770
 slug: 'amazing-site-name'
 featured_image: '/uploads/2008/09/sp.jpg'
 description: ''
+aliases:
+  - '/index.php/2008/09/07/amazing-site-name/'
 ---
 
 Here you go. Check out the [name of this site](http://www.iwoulddosarahpalin.com/pages/sarahpalin.html). ![Sara Palin](/uploads/2008/09/sp.jpg)I think I would too.

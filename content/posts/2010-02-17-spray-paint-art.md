@@ -5,6 +5,8 @@ id: 1693
 slug: 'spray-paint-art'
 featured_image: '/uploads/2010/02/IMG00030-1024x768.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/02/17/spray-paint-art/'
 ---
 
 President's Day is practically synonymous with one thing and one thing alone: spray paint. I knocked out this bad boy... ![sudo chop](/uploads/2010/02/IMG00030-1024x768.jpg "ninja chop") 2ft x 3ft. Canvas w/ spray paint &amp; acrylic. 100% awesome

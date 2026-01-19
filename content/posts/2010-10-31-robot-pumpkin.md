@@ -5,6 +5,8 @@ id: 2847
 slug: 'robot-pumpkin'
 featured_image: '/uploads/2010/10/spooky-pumpkin.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/10/31/robot-pumpkin/'
 ---
 
 Have a spooktastic Halloween.... ![spooktastical](/uploads/2010/10/spooky-pumpkin.jpg "spooky-pumpkin") ...from your favourite craptastic tech blog

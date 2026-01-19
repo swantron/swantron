@@ -5,6 +5,8 @@ id: 3364
 slug: 'farmville-for-dummies-sounds-about-right'
 featured_image: '/uploads/2011/04/farmbook.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/04/04/farmville-for-dummies-sounds-about-right/'
 ---
 
 I can question the location of this book, but find the title to be spot-on. ![boo](/uploads/2011/04/farmbook.jpg "farmbook") Zing. I think I won that round. Joe Swanson: 1 // Bozeman Barnes &amp; Noble (and FarmVille) 0

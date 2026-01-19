@@ -5,6 +5,8 @@ id: 4227
 slug: 'nerd-broom'
 featured_image: '/uploads/2011/12/nerd_broom-570x304.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/12/27/nerd-broom/'
 ---
 
 Better sweeping through technology: ![nerd broom](/uploads/2011/12/nerd_broom-570x304.jpg "nerd_broom") Hit the link for yet another awesome video: [<span aria-label="Continue reading Nerd Broom">(more…)</span>](https://swantron.com/index.php/2011/12/27/nerd-broom/#more-4227)

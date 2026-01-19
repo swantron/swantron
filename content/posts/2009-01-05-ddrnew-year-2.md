@@ -5,6 +5,8 @@ id: 6136
 slug: 'ddrnew-year-2'
 featured_image: '/uploads/2009/01/ddrtt.jpg'
 description: ''
+aliases:
+  - '/index.php/2009/01/05/ddrnew-year-2/'
 ---
 
 Katie, Nichole, Ken Coop, B.O.B., and I had a little DDR party to bring in the new year. We pretty much rule... ![](/uploads/2009/01/ddrtt.jpg)![](/uploads/2009/01/ddrrr.jpg)Especially Nichole (see you on Facebook, kid) ![](/uploads/2009/01/ddrxx.jpg)FYI...Bob is terrific at DDR. He lived with two Korean dudes.

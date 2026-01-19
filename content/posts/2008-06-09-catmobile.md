@@ -5,6 +5,8 @@ id: 742
 slug: 'catmobile'
 featured_image: '/uploads/2008/06/catwindow.jpg'
 description: ''
+aliases:
+  - '/index.php/2008/06/09/catmobile/'
 ---
 
 Wow. ![catmobile](/uploads/2008/06/catwindow.jpg)![Catmobile](/uploads/2008/06/catwindow2.jpg)Julie managed to snap these pictures outside of a seedy motel in Glasgow. Incredible.

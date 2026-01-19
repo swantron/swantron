@@ -5,6 +5,8 @@ id: 1279
 slug: '2009-a-breakfast-odyssey'
 featured_image: '/uploads/2009/12/pepper-sauce-575x431.jpg'
 description: ''
+aliases:
+  - '/index.php/2009/12/29/2009-a-breakfast-odyssey/'
 ---
 
 ![great...more retarded pictures of crackers](/uploads/2009/12/pepper-sauce-575x431.jpg "pepper-sauce") Mankind's quest for the perfect breakfast is the theme of "2009: A Breakfast Odyssey", a process that unfolds along a space-time continuum. We "**pepper-sauce**" our primordial past, and we "**Triscuit-the-shit-out-of**" a cosmic future. The powers of intuition thus become the doors of perception, in our ongoing collective journey.

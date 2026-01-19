@@ -5,6 +5,8 @@ id: 6091
 slug: 'celebrity-endorsement'
 featured_image: '/uploads/2006/02/biba11.jpg'
 description: ''
+aliases:
+  - '/index.php/2006/02/21/celebrity-endorsement/'
 ---
 
 ...not quite celebrity status. Meet [Biba](http://www.tabletennisdayton.com/pages/ttinfo/bibagallery.html "Biba") Golic. The Anna Kournikova of table tennis. Definately bouncerblog.com material. ![biba11.jpg](/uploads/2006/02/biba11.jpg)![biba111.jpg](/uploads/2006/02/biba111.jpg)![biba1.jpg](/uploads/2006/02/biba1.jpg)Perhaps she would be willing to breech her killerspin contract and start playing for shots of Beam and mullet stories.

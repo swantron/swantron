@@ -5,6 +5,8 @@ id: 6193
 slug: 'improving-existing-products-a-how-to-3'
 featured_image: '/uploads/2010/03/dogi-pot.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/03/20/improving-existing-products-a-how-to-3/'
 ---
 
 Improving Existing Products: A How-to Improving existing products is a snap! Start with a product. Here, I used this product, a dog poop receptacle. ![boring](/uploads/2010/03/dogi-pot.jpg "dogi-pot") Pretty boring, huh? The first rule of thumb when improving existing products, is to make sure to improve upon the improvable, regardless of how improbable it is to improve appropriate items theoretically unprovable. Unlikely. Here is my improved product: ![turds](/uploads/2010/03/dog-turds.jpg "dog-turds") Turds FTW!

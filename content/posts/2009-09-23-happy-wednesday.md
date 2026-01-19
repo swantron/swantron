@@ -5,6 +5,8 @@ id: 970
 slug: 'happy-wednesday'
 featured_image: '/uploads/2009/09/Uncle-Jesse.JPG "Uncle-Jesse"'
 description: ''
+aliases:
+  - '/index.php/2009/09/23/happy-wednesday/'
 ---
 
 [![Uncle-Jesse](/uploads/2009/09/Uncle-Jesse.JPG "Uncle-Jesse")](/uploads/2009/09/Uncle-Jesse.JPG)

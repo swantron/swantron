@@ -5,6 +5,8 @@ id: 1226
 slug: 'how-to-make-the-perfect-breakfast'
 featured_image: '/uploads/2009/12/cholula.jpg'
 description: ''
+aliases:
+  - '/index.php/2009/12/12/how-to-make-the-perfect-breakfast/'
 ---
 
 This is how I roll... [![cholula](/uploads/2009/12/cholula.jpg "cholula")](/uploads/2009/12/cholula.jpg)Step 1) Cholula the shit out of some Wheat Thins Step 2) Costco pickle jar the shit out of some water (RockStar optional)

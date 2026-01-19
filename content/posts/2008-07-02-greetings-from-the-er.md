@@ -5,6 +5,8 @@ id: 755
 slug: 'greetings-from-the-er'
 featured_image: '/uploads/2008/07/kate.jpg'
 description: ''
+aliases:
+  - '/index.php/2008/07/02/greetings-from-the-er/'
 ---
 
 J.C. snapped a pic from the ER during the *Great Bozeman Beach Incident of '08* aftermath... ![ER](/uploads/2008/07/kate.jpg)I think it would make for a good Christmas Card.

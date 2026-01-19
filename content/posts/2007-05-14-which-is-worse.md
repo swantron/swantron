@@ -5,6 +5,8 @@ id: 551
 slug: 'which-is-worse'
 featured_image: '/uploads/2007/05/federline.jpg'
 description: ''
+aliases:
+  - '/index.php/2007/05/14/which-is-worse/'
 ---
 
 Is it worse that I have Kevin Federline's debut album "Playing with Fire", or that I am upset that my Kevin Federline album is scratched? ![federline.jpg](/uploads/2007/05/federline.jpg)

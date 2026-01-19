@@ -5,6 +5,8 @@ id: 2126
 slug: 'awesome-robot'
 featured_image: '/uploads/2010/05/awesome_robot.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/05/12/awesome-robot/'
 ---
 
 Could the green robot drawings be winding down? Hell to tha no! Suckaz! ![totes awesome](/uploads/2010/05/awesome_robot.jpg "awesome_robot") This guy, FTW!

@@ -5,6 +5,8 @@ id: 4136
 slug: 'precision-soldering'
 featured_image: '/uploads/2011/12/wires-570x245.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/12/06/precision-soldering/'
 ---
 
 I am going to have to wait until my caffeine levels are at some sort of equilibrium before I tackle this series of wire joints... ![precision soldering](/uploads/2011/12/wires-570x245.jpg "wires") ...this is where I stopped. I may be spending more time playing the new Zelda, and less time freezing balls in my lab working on my IOIO project. I'll get on it.

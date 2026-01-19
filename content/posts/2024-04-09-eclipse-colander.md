@@ -4,6 +4,8 @@ date: 2024-04-09T20:25:31+00:00
 id: 8474
 slug: 'eclipse-colander'
 featured_image: '/uploads/2024/04/PXL_20240408_182152088.MP_-1024x576.jpg'
+aliases:
+  - '/index.php/2024/04/09/eclipse-colander/'
 ---
 
 strain noodles: ❌  

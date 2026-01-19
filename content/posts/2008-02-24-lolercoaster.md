@@ -5,6 +5,8 @@ id: 681
 slug: 'lolercoaster'
 featured_image: '/uploads/2008/02/brb.bmp'
 description: ''
+aliases:
+  - '/index.php/2008/02/24/lolercoaster/'
 ---
 
 Best Lolcat ever. ![brb](/uploads/2008/02/brb.bmp)

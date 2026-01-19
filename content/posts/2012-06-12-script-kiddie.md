@@ -5,6 +5,8 @@ id: 4588
 slug: 'script-kiddie'
 featured_image: '/uploads/2012/06/script-kiddie.jpg'
 description: ''
+aliases:
+  - '/index.php/2012/06/12/script-kiddie/'
 ---
 
 Good times with dad... ![script kiddie](/uploads/2012/06/script-kiddie.jpg "script-kiddie") ...Linux VM on the work Win7. We don't really mess around.

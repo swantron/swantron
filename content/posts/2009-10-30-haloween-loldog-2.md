@@ -5,6 +5,8 @@ id: 6152
 slug: 'haloween-loldog'
 featured_image: '/uploads/2009/10/wyguy.jpg'
 description: ''
+aliases:
+  - '/index.php/2009/10/30/haloween-loldog/'
 ---
 
 ![less-than amused](/uploads/2009/10/wyguy.jpg "wyguy") Jim dressed his (male) dog up for some laughs...I lulz-ed him up. Happy Haloween.

@@ -5,6 +5,8 @@ id: 6094
 slug: 'stache-pics'
 featured_image: '/uploads/2006/03/bobstache.jpg'
 description: ''
+aliases:
+  - '/index.php/2006/03/03/stache-pics/'
 ---
 
 ![bobstache.jpg](/uploads/2006/03/bobstache.jpg)Bouncer Bob...a.k.a. Larry Bird ![joestache.jpg](/uploads/2006/03/joestache.jpg)Swanny from the Block...a.k.a Justin Justache 

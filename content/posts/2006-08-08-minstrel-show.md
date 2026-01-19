@@ -5,6 +5,8 @@ id: 339
 slug: 'minstrel-show'
 featured_image: '/uploads/2006/08/mudd.jpg'
 description: ''
+aliases:
+  - '/index.php/2006/08/08/minstrel-show/'
 ---
 
 ![mudd.jpg](/uploads/2006/08/mudd.jpg)

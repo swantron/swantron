@@ -5,6 +5,8 @@ id: 3127
 slug: 'arduino-ac-interface'
 featured_image: '/uploads/2011/01/powerswitchtail.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/01/23/arduino-ac-interface/'
 ---
 
 I finally got around to throwing out a little proof of concept with my new toy. I managed to utilize a PowerSwitch Tail to gain control of 120V AC with Arduino...and I did it without electrocuting myself. Not getting electrocuted, FTW. Long story short, the PowerSwitch Tail is a simple switch. 120V AC in, and either 0V AC out or 120V AC out, with the later being the case when a 5V DC signal is introduced to the unit. Here is what it looks like... ![switch tail is switchy](/uploads/2011/01/powerswitchtail.jpg "powerswitchtail") I used some jumper wires I had sitting around "the lab." You can feed anything into that sucker; speaker wire would throw the switch. Moving on... Well, it turns out that the Arduino loves to dump 5V signals...like it was made to do so. So, this switch setup is perfect for my microcontroller projects...whatever they may turn out. Anyhow, all you need to do is pick a digital out and ground from the Arduino board, and hooks it up. Hooks it up like this... ![bonus url](/uploads/2011/01/lab_setup.jpg "lab_setup") One of the best things (most handy?) is that the IDE makes pushing code to the unit quick. Plug a USB cable in, crank out some code, and there you go. ![hook up them shits](/uploads/2011/01/labsetup.jpg "labsetup") Good news. It's MF-ing snippet time!

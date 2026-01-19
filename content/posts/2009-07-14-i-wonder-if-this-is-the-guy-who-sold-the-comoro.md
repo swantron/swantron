@@ -5,6 +5,8 @@ id: 908
 slug: 'i-wonder-if-this-is-the-guy-who-sold-the-comoro'
 featured_image: '/uploads/2009/07/nentendo.jpg'
 description: ''
+aliases:
+  - '/index.php/2009/07/14/i-wonder-if-this-is-the-guy-who-sold-the-comoro/'
 ---
 
 ![nentendo](/uploads/2009/07/nentendo.jpg)**i sereosly want ur nentendo! super sereos!** 

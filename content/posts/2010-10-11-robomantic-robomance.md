@@ -5,6 +5,8 @@ id: 2757
 slug: 'robomantic-robomance'
 featured_image: '/uploads/2010/10/king-of-the-world.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/10/11/robomantic-robomance/'
 ---
 
 In honor of the absolute worst national holiday, enjoy a Columbus-inspired robot picture: ![king of the world](/uploads/2010/10/king-of-the-world.jpg "king-of-the-world") See what I did there? Now, picture Leo drawing a nudie pic of a big-ass-diamond-wearing-robot. Robomantic....more like brobomantic.

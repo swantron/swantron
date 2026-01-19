@@ -5,6 +5,8 @@ id: 2149
 slug: 'keyboard-robot-alert'
 featured_image: '/uploads/2010/05/keyboard_robot.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/05/18/keyboard-robot-alert/'
 ---
 
 ![keyboard](/uploads/2010/05/keyboard_robot.jpg "keyboard_robot") green robot drawing...three and three-quarter stars

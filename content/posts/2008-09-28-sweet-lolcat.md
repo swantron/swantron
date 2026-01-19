@@ -5,6 +5,8 @@ id: 790
 slug: 'sweet-lolcat'
 featured_image: '/uploads/2008/09/funny-pictures-cat-asks-for-a-towel.jpg'
 description: ''
+aliases:
+  - '/index.php/2008/09/28/sweet-lolcat/'
 ---
 
 ![](/uploads/2008/09/funny-pictures-cat-asks-for-a-towel.jpg)I love these things. 

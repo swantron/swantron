@@ -5,6 +5,8 @@ id: 6317
 slug: 'precedent-setting'
 featured_image: '/uploads/2011/10/baby_girl_cubs_hat-570x321.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/10/11/precedent-setting/'
 ---
 
 I may be guilty of child abuse before the small Swanson girl makes her first appearance... ![little pink cubs hat](/uploads/2011/10/baby_girl_cubs_hat-570x321.jpg "baby_girl_cubs_hat")

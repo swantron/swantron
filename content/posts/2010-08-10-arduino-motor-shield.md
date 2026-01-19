@@ -5,6 +5,8 @@ id: 2527
 slug: 'arduino-motor-shield'
 featured_image: '/uploads/2010/08/motor-shield.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/08/10/arduino-motor-shield/'
 ---
 
 I splurged on a motor shield from Lady Ada for my Arduino antics. Here it is.. ![motor shields](/uploads/2010/08/motor-shield.jpg "motor-shield") "Some Assembly Required" Sonofabitch. I guess my soldering skills are going to be put to the test. Stay tuned.

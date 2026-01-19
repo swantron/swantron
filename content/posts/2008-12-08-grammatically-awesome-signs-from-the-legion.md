@@ -5,6 +5,8 @@ id: 816
 slug: 'grammatically-awesome-signs-from-the-legion'
 featured_image: '/uploads/2008/12/legion1.jpg'
 description: ''
+aliases:
+  - '/index.php/2008/12/08/grammatically-awesome-signs-from-the-legion/'
 ---
 
 ![](/uploads/2008/12/legion1.jpg)![](/uploads/2008/12/legion2.jpg)![](/uploads/2008/12/legion3.jpg)Note too the drink specials. We won't get into what a "Naked Ninja Turtle" is, because it is a "fucking retarded" shot. Okay, it is mostly Sprite and some green schnapps, with a "fucking retarded" name. Harvey Wallbangers...I don't think anyone has ordered a Harvey Wallbanger since gents were doing the lindey hop with their best gals during the Hoover administration. The college kids love Tom Collin'ses. Tom Collin'ses, Tom Collins "bombs"...they cannot get enough of that shit. I swear to Christ... 

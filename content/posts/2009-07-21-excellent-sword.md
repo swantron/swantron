@@ -5,6 +5,8 @@ id: 6147
 slug: 'excellent-sword'
 featured_image: '/uploads/2009/07/sword.JPG'
 description: ''
+aliases:
+  - '/index.php/2009/07/21/excellent-sword/'
 ---
 
 Thine own grand-mum purchased said sword for thee from thy "Home Shopping Channel" ![ninja shit](/uploads/2009/07/sword.JPG)Not for purvey: floral woven floor-tapestry

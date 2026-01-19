@@ -5,6 +5,8 @@ id: 1470
 slug: 'weekly-drawing-tony-chacheres'
 featured_image: '/uploads/2010/01/tony-chachere.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/01/12/weekly-drawing-tony-chacheres/'
 ---
 
 Kate thinks this is my best hot snauce person drawing to date... ![](/uploads/2010/01/tony-chachere.jpg "tony-chachere") ...tough to argue that. Tony Chachere's is no Cholula, for what it's worth.

@@ -5,6 +5,8 @@ id: 4562
 slug: 'bonus-bacon-lattice'
 featured_image: '/uploads/2012/05/bacon-lattice.jpg'
 description: ''
+aliases:
+  - '/index.php/2012/05/17/bonus-bacon-lattice/'
 ---
 
 The only thing better than bacon is *bonus bacon*: the bacon left over from a bacon feast. The only thing better than bonus bacon is the ellusive *bonus bacon lattice*... ![bonus bacon](/uploads/2012/05/bacon-lattice.jpg "bacon lattice") Stack while hot, refrigerate, and enjoy.

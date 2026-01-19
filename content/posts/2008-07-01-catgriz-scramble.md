@@ -5,6 +5,8 @@ id: 753
 slug: 'catgriz-scramble'
 featured_image: '/uploads/2008/07/golfisfun.jpg'
 description: ''
+aliases:
+  - '/index.php/2008/07/01/catgriz-scramble/'
 ---
 
 Pretty classy. ![golf](/uploads/2008/07/golfisfun.jpg)![golfing](/uploads/2008/07/golfisfun2.jpg)

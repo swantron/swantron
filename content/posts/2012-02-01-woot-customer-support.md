@@ -5,6 +5,8 @@ id: 4337
 slug: 'woot-customer-support'
 featured_image: '/uploads/2012/02/mr_beer-570x319.jpg'
 description: ''
+aliases:
+  - '/index.php/2012/02/01/woot-customer-support/'
 ---
 
 Mr. Beer. That name again is Mr. Beer I bit on the Mr. Beer home-brewing kit last woot-off. Much to my dismay, the kit arrived in a giant brown cardboard box, with a sizable puncture would in the side. Opening it verified the damage: ![mr beer](/uploads/2012/02/mr_beer-570x319.jpg "mr_beer") The brewing container was smashed inward, and the plastic was too thick to pop back into shape. I tried contacting FedEx, as the damage was definitely done in shipping. As it turns out, after creating an account with FedEx | submitting a claim ticket | waiting | waiting, FedEx has you contact the sender when the item is shipped via "Smartpost." Whatever that entails. Not very helpful...just a reply email sending me back at woot. I was sort of pissy, and ended up forwarding the email from Fedex to the primary woot returns email. Details are as follow:

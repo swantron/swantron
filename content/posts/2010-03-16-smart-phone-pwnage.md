@@ -5,6 +5,8 @@ id: 1823
 slug: 'smart-phone-pwnage'
 featured_image: '/uploads/2010/03/smackberry.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/03/16/smart-phone-pwnage/'
 ---
 
 ![smackberry pwnage](/uploads/2010/03/smackberry.jpg "smackberry") My SmackBerryz totes pwned lol

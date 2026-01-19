@@ -5,6 +5,8 @@ id: 1738
 slug: 'great-idea-of-the-day-cooler-chair'
 featured_image: '/uploads/2010/02/awesome-chair.png'
 description: ''
+aliases:
+  - '/index.php/2010/02/22/great-idea-of-the-day-cooler-chair/'
 ---
 
 [This stupid site](http://www.solutions.com/jump.jsp?itemID=15717&itemType=PRODUCT&path=1%2C3%2C474%2C10570&iProductID=15717) is selling a very non-stupid item...the cooler chair. ![](/uploads/2010/02/awesome-chair.png "awesome-chair") Of course, the cooler access would be rendered more and more useless the emptier it gets...then again...that is when the sitting aspect of the product becomes more vital. Not sure where I am going with this thing; I'm confused. But I want one. Agh. 

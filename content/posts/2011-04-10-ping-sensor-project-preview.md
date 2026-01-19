@@ -5,6 +5,8 @@ id: 3382
 slug: 'ping-sensor-project-preview'
 featured_image: '/uploads/2011/04/ping-sensor.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/04/10/ping-sensor-project-preview/'
 ---
 
 Parallax Ping))) sensor in the house. Literally. ![ping ping ping ping ping ping ping ping](/uploads/2011/04/ping-sensor.jpg "ping-sensor") This dapper-looking little guy can accurately measure distance from a few to a few hundred cm. It is very simple by design...basically just a sonar setup. My sketch sends out a signal and listens for the signal's signature upon return...calculates time elapsed and interpolates distance using the approximate speed of sound. Slick like Rick. I hugged the sensor on my binary-project-having breadboard, as this is going to be incorporated in some way. My fr1st thought is to turn those LEDs into range holders, and output according to range. Could be awesome. Stay tuned.

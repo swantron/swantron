@@ -5,6 +5,8 @@ id: 3249
 slug: 'youve-got-to-be-kidding-me'
 featured_image: '/uploads/2011/03/prtzls.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/03/16/youve-got-to-be-kidding-me/'
 ---
 
 I'm averaging somewhere around two pounds per week... ![facepalm](/uploads/2011/03/prtzls.jpg "prtzls") Sort of gross; sort of impressive.

@@ -5,6 +5,8 @@ id: 2392
 slug: 'aruino-ethernet-in-the-mail'
 featured_image: '/uploads/2010/06/arduino-shield.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/06/29/aruino-ethernet-in-the-mail/'
 ---
 
 Amusing Amazon order time... ![ethernet](/uploads/2010/06/arduino-shield.jpg "arduino-shield") Arduino Ethernet shield, and a ring stretching tool. Go figure. Both respective projects will be well documented.

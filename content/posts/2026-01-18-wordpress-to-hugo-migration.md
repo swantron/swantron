@@ -4,6 +4,8 @@ date: 2026-01-18T05:00:00+00:00
 slug: 'wordpress-to-hugo-migration'
 description: 'After decades of WordPress pets, swantron.com is now static on Hugo - a fundamental shift to code-first'
 featured_image: '/uploads/2026/01/cowbot.png'
+aliases:
+  - '/index.php/2026/01/18/wordpress-to-hugo-migration/'
 ---
 
 This is the first time in decades I haven't had a WordPress instance live.
@@ -41,7 +43,7 @@ The database became a black box. Transitioning to Markdown files feels like exha
 
 Moving **1,040 posts** while maintaining permalink integrity is a rite of passage. To keep 20 years of SEO and links alive, I used custom scripts to map the legacy WordPress export to Hugo's directory structure.
 
-* **The Permalinks:** Hard-coded the wonky `/index.php/YYYY/MM/DD/slug` structure into the front matter to ensure zero broken links.
+* **The Permalinks:** Initially preserved the WordPress `/index.php/YYYY/MM/DD/slug` structure for compatibility, then cleaned it up to `/:year/:month/:day/:slug/` using Hugo aliases to redirect old URLs seamlessly.
 * **The Media:** Thousands of images moved to `/static/uploads/`, with a bulk regex to update the paths in the Markdown files.
 * **The Engine:** Hugo 0.154.5, GitHub Actions for CI/CD, and a custom CSS build. **No themes, just code.**
 

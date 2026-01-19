@@ -5,6 +5,8 @@ id: 6167
 slug: 'things-with-which-im-over-winter'
 featured_image: '/uploads/2010/01/ice-sucks.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/01/26/things-with-which-im-over-winter/'
 ---
 
 ![ice-suckles](/uploads/2010/01/ice-sucks.jpg)Iceicles? More like Ice-suck-les. 

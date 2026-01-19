@@ -5,6 +5,8 @@ id: 2429
 slug: 'hot-dog-sandwich'
 featured_image: '/uploads/2010/07/fried-hot-dog.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/07/03/hot-dog-sandwich/'
 ---
 
 Worst idea I've had in quite some time...hot dog sandwich. Here is how you make a retarded hot dog sandwich, in case you feel a need to wreck your guts, feed a prisoner, lose your job, etc. 1) Halve some h dogs. 2) Pan fry said h dogs. ![eww](/uploads/2010/07/fried-hot-dog.jpg "fried-hot-dog") 3) Assemble sandwich. ![ew](/uploads/2010/07/hot-dog-sandwich.jpg "hot-dog-sandwich") I went for pickles and spicy brown mustard on my stupid sandwich. Feel free to dump whatever you have in the fridge on that sonofabitch...I don't think it really matters. Wrap-up: h dog sandwiches taste like fail.

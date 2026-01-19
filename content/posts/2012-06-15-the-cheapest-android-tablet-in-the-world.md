@@ -5,6 +5,8 @@ id: 4603
 slug: 'the-cheapest-android-tablet-in-the-world'
 featured_image: '/uploads/2012/06/Cruz_Tab.jpg'
 description: ''
+aliases:
+  - '/index.php/2012/06/15/the-cheapest-android-tablet-in-the-world/'
 ---
 
 Fifty bucks. Fifty. ![cheap android tablet](/uploads/2012/06/Cruz_Tab.jpg "Cruz_Tab") This thing is almost as rad as a Transformer. Except that it is 7" and \*probably\* too under-powered to run Flash. It has killer battery life, so I will put this to use as an eReader. Not until I can maximize the performance...see if I can flash a ROM on this thing and overclock some stuff. Rooting and getting the Android Market will be the first step. Could be fun.

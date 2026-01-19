@@ -5,6 +5,8 @@ id: 1782
 slug: 'another-green-robot'
 featured_image: '/uploads/2010/03/IMG00052-1024x768.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/03/10/another-green-robot/'
 ---
 
 I'm digging the green robots...might be my new thing. ![](/uploads/2010/03/IMG00052-1024x768.jpg "IMG00052") +1 Robot's chest plate resembles a NES controller

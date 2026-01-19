@@ -5,6 +5,8 @@ id: 2536
 slug: 'servo-schmervo-arduino-sweep'
 featured_image: '/uploads/2010/08/arduino-sweep.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/08/11/servo-schmervo-arduino-sweep/'
 ---
 
 In preparation for the impending shit-storm that will consist of me, a soldering iron, and dozens of small, fragile components, I decided to see if I can actually get my Arduino to talk to a servo. Well, it turns out that the code is not the issue. The built in servo library is pretty easy to tackle. A little bit of analogue, a little bit of digital, a little bit of shameless self promotion... ![sweep](/uploads/2010/08/arduino-sweep.jpg "arduino-sweep") ![sweep](/uploads/2010/08/sweep-arduino1.jpg "sweep-arduino") Step one...check. I can sweep through 180 degrees. Can I solder to save my ass (and semi-valuable electrical components)...time will tell. Also, I'm post dating this post. Happy B-Day Betsy.

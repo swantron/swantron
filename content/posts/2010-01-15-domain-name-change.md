@@ -5,6 +5,8 @@ id: 1498
 slug: 'domain-name-change'
 featured_image: '/uploads/2009/12/official_use-300x230.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/01/15/domain-name-change/'
 ---
 
 ![](/uploads/2009/12/official_use-300x230.jpg "official_use")Testing the new uploads...I have made the 100% switch from bouncerblog...images might be jacked up, but the indexing appears to be working. webmastering ftw 

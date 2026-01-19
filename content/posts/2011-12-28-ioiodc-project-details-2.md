@@ -5,6 +5,8 @@ id: 6339
 slug: 'ioiodc-project-details'
 featured_image: '/uploads/2011/12/IOIO-DC-570x319.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/12/28/ioiodc-project-details/'
 ---
 
 Consider this the conclusion of the IOIO DC motor experiment until further notice... ![IOIO DC Motor Code](/uploads/2011/12/IOIO-DC-570x319.jpg "IOIO-DC") I'm chalking this up as a success. Even though it is ugly and raw, I learned a ton mashing this thing together. Very fulfilling project from a nerd standpoint: I learned more Java, had to buckle down and do a little EE, kicked up the soldering skills a notch, and introduced a few more components' features into my ghetto skill set. [My code](https://github.com/swantron/IOIODC "IOIO DC code on github") is live on github with a preemptive v1.0 push... ![IOIO DC Motor Code](/uploads/2011/12/IOIODC-570x356.jpg "IOIODC") I also dumped [the apk to the Android Market](https://market.android.com/details?id=swantron.project.ioiodc&feature=search_result#?t=W251bGwsMSwxLDEsInN3YW50cm9uLnByb2plY3QuaW9pb2RjIl0. "IOIO DC on Android Market") as promised. Pins 21 though 26, wired through the usual candidates on an H-Bridge. Contact me with any details...it should be very spec sheet-heavy though. The main stumbling point is with the power source, so keep that on the front burner. Cheers. This may be my last time intensive project for some time. Hardware is time-costly...I am planning to take on the software project I have been contemplating between diaper changes and feedings. Look for some dad stuff in the mean time...

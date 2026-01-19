@@ -5,6 +5,8 @@ id: 3305
 slug: 'alien-abduction-proof'
 featured_image: '/uploads/2011/03/alien-abduct.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/03/25/alien-abduction-proof/'
 ---
 
 The Bozeman Daily Chronicle should have ran this story on a full front page spread. Instead, they chose to obscure evidence of alien existence in Montana, placing this item in the police reports... ![proof](/uploads/2011/03/alien-abduct.jpg "alien-abduct") Too late, cops. They got him. Watch your brain waves.

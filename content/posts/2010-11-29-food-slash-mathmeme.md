@@ -5,6 +5,8 @@ id: 2917
 slug: 'food-slash-mathmeme'
 featured_image: '/uploads/2010/11/nom_cubed.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/11/29/food-slash-mathmeme/'
 ---
 
 I like Cheetos, mathematics, and memes, for the record. ![nomnomnom](/uploads/2010/11/nom_cubed.jpg "nom_cubed") Regular Cheetos have nothing on jalapeno Cheetos, also for the record.

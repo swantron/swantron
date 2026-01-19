@@ -4,6 +4,8 @@ date: 2007-06-30T02:30:35+00:00
 id: 575
 slug: 'lost-and-found'
 description: ''
+aliases:
+  - '/index.php/2007/06/30/lost-and-found/'
 ---
 
 No se. <embed allowscriptaccess="always" flashvars="file=http://www.theonion.com/content/xml/63307/video&autostart=false&image=http://www.theonion.com/content/files/images/LAF_SWEATERS.jpg&bufferlength=3&embedded=true&title=U.S.%20Department%20of%20Lost%20and%20Found%3A%20Umbrellas%20and%20Sweaters" height="355" src="http://www.theonion.com/content/themes/common/assets/videoplayer/flvplayer.swf" type="application/x-shockwave-flash" width="400" wmode="transparent"></embed>  

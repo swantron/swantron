@@ -5,6 +5,8 @@ id: 1273
 slug: 'the-blue-raynetflixps3-saga-of-09'
 featured_image: '/uploads/2009/12/reactions.jpg'
 description: ''
+aliases:
+  - '/index.php/2009/12/28/the-blue-raynetflixps3-saga-of-09/'
 ---
 
 [![](/uploads/2009/12/reactions.jpg "reactions")](/uploads/2009/12/reactions.jpg)  

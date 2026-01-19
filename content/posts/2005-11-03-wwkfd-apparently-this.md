@@ -5,6 +5,8 @@ id: 5899
 slug: 'wwkfd-apparently-this'
 featured_image: '/uploads/swantron/wp-content/Ar2.jpg'
 description: ''
+aliases:
+  - '/index.php/2005/11/03/wwkfd-apparently-this/'
 ---
 
 ![Federline or Swanny?  Too tough to call.](![](/uploads/swantron/wp-content/Ar2.jpg))

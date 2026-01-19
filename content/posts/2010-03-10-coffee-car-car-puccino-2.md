@@ -5,6 +5,8 @@ id: 6189
 slug: 'coffee-car-car-puccino'
 featured_image: '/uploads/2010/03/coffee-car.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/03/10/coffee-car-car-puccino/'
 ---
 
 Hats off to the BBC, for airing an actual show about science. In the States, we have Mythbusters, wherein two odd-looking dipshits half-assedly postulate hypotheses and perform experiments, with no certainty or control to speak of. Across the colloquial pond and at the other end of the spectrum, Bang Goes the Theory is performing some actual applied engineering...and it is pretty awesome. ![](/uploads/2010/03/coffee-car.jpg "coffee-car") Some details, from this [hippy-ish site](http://www.greendiary.com/entry/world-s-first-coffee-powered-car-unveiled/):

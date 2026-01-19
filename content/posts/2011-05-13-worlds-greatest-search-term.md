@@ -5,6 +5,8 @@ id: 3485
 slug: 'worlds-greatest-search-term'
 featured_image: '/uploads/2011/05/nasa-butt.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/05/13/worlds-greatest-search-term/'
 ---
 
 Tearing through my server logs, I have encountered the best search term in the world. ![nasa discovers new life in your butt](/uploads/2011/05/nasa-butt.jpg "nasa-butt") I sure hope that the searcher found what he or she was looking for. In your butt.

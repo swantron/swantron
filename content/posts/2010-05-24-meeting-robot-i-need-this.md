@@ -5,6 +5,8 @@ id: 2206
 slug: 'meeting-robot-i-need-this'
 featured_image: '/uploads/2010/05/work-robot.png'
 description: ''
+aliases:
+  - '/index.php/2010/05/24/meeting-robot-i-need-this/'
 ---
 
 Best idea of the week...a robot to attend your meetings. ![right there](/uploads/2010/05/work-robot.png "work-robot") From dailymail.co.uk

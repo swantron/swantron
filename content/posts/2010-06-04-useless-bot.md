@@ -5,6 +5,8 @@ id: 2261
 slug: 'useless-bot'
 featured_image: '/uploads/2010/06/useless-robot.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/06/04/useless-bot/'
 ---
 
 ![boring](/uploads/2010/06/useless-robot.jpg "useless-robot") -1 boring -1 small head three and three-quarter stars

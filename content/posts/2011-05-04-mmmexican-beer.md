@@ -5,6 +5,8 @@ id: 3450
 slug: 'mmmexican-beer'
 featured_image: '/uploads/2011/05/mexican-beer.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/05/04/mmmexican-beer/'
 ---
 
 Katie and I impulse bought the crap out of this at Costco... ![mexican beer](/uploads/2011/05/mexican-beer.jpg "mexican-beer") ...Dos Equis is pretty tough to beat. In my book. May your Cincos de Mayo be equally awesome. Buenisimo!

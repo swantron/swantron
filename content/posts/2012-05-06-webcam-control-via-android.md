@@ -5,6 +5,8 @@ id: 4546
 slug: 'webcam-control-via-android'
 featured_image: '/uploads/2012/05/ip_webcam.png'
 description: ''
+aliases:
+  - '/index.php/2012/05/06/webcam-control-via-android/'
 ---
 
 Webcams: 2 Foscam FI8918W Android App: IP Cam Viewer ![ip webcam control via android](/uploads/2012/05/ip_webcam.png "ip_webcam") Baby: Emma

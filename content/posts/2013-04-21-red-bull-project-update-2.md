@@ -5,6 +5,8 @@ id: 6390
 slug: 'red-bull-project-update'
 featured_image: '/uploads/2013/04/lab-assistant.jpg'
 description: ''
+aliases:
+  - '/index.php/2013/04/21/red-bull-project-update/'
 ---
 
 Yesterday was fruitful. We are mostly done with the non-electronic portion of the build. I have a very tired jigsaw and a new-but-already-stress tested Dremel Multimax cooling off on the bench. Oh yeah...and there was spray paint. A lot of spray paint... ![small assistant](/uploads/2013/04/lab-assistant.jpg) No Red Bulls for the small assistant. She's good to go. Heating up the soldering iron during the next nap. On to the next phase.

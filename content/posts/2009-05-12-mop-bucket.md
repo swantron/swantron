@@ -5,6 +5,8 @@ id: 861
 slug: 'mop-bucket'
 featured_image: '/uploads/2009/05/mop.jpg'
 description: ''
+aliases:
+  - '/index.php/2009/05/12/mop-bucket/'
 ---
 
 Times tough? Recession hurting the ol' pocketbook? Simple solution: sell shit from work! ![awesome](/uploads/2009/05/mop.jpg)...I wonder how much I could get for my pen caddy?

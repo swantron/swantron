@@ -5,6 +5,8 @@ id: 2486
 slug: 'cool-robot'
 featured_image: '/uploads/2010/07/cool-robot.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/07/22/cool-robot/'
 ---
 
 ![cool robot](/uploads/2010/07/cool-robot.jpg "cool-robot") Okay...maybe not that cool.

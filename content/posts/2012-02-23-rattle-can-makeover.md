@@ -5,6 +5,8 @@ id: 4407
 slug: 'rattle-can-makeover'
 featured_image: '/uploads/2012/02/tear-down-570x232.jpg'
 description: ''
+aliases:
+  - '/index.php/2012/02/23/rattle-can-makeover/'
 ---
 
 Impatiently awaiting my Dremel from Amazon, I made an executive decision that Clocky's bright orange motif had to go. Clocky already had some big rims; sort of like my SS. Sort of too like my Yukon. Hmm...black and chrome...sort of a no-brainer. Step 1: teardown / spray paint ![tear down](/uploads/2012/02/tear-down-570x232.jpg "tear-down") Step 2: Re-assemble ![bringin sexy black](/uploads/2012/02/bringin-sexy-black.jpg "bringin-sexy-black") Much better. Hoping to have the little guy rotary-drilled and souped-up before too long. Check back in soon.

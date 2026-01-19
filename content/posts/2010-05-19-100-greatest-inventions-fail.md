@@ -5,6 +5,8 @@ id: 2157
 slug: '100-greatest-inventions-fail'
 featured_image: '/uploads/2010/05/iPhone_black.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/05/19/100-greatest-inventions-fail/'
 ---
 
 Per Telegraph.co.uk

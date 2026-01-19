@@ -5,6 +5,8 @@ id: 3208
 slug: 'arduino-solar-cell-night-light-concept'
 featured_image: '/uploads/2011/02/night-lite.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/02/24/arduino-solar-cell-night-light-concept/'
 ---
 
 So, I've formalized the solar cell project I have been poking at for a while. I managed to clean up my code and mess with some initial conditions, etc., and now have a fairly solid proof of concept for a solar cell-centered night light. ![lighty](/uploads/2011/02/night-lite.jpg "night-lite") As was the case in my first few runs, my sketch incorporates a five second initialization phase. This acts to set both relative minimum and maximum values which act to provide "full light on" and "full light off" values, respectively. The generated power from the solar cell is read in to the Arduino via analog input, and the LEDs are driven via digital outs. The rest is some simple math that transforms the range of the analog signal into a digital range of zero to two hundo fifty five. **It's giant-ass-text-having snippet time!**

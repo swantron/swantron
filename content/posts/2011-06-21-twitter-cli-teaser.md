@@ -5,6 +5,8 @@ id: 6290
 slug: 'twitter-cli-teaser'
 featured_image: '/uploads/2011/06/cli-twitter.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/06/21/twitter-cli-teaser/'
 ---
 
 I sort of forget what my original project entailed...something about tweeting via the command line, for Arduino purposes. You can pretty much just toss a bunch of words in a hat, and add 'Arduino' and 'Command Line' to them, and there you have one of my typical projects. Anyhow, here we find ourselves. I am missing some dependencies with OAuth, but have managed to get twitter working from an interactive python shell: ![cli twitter](/uploads/2011/06/cli-twitter.jpg "cli-twitter") This section is as much for my reference as it is for public knowledge...I snagged the commands that I ran to snag my comments. It first prints swantr0n (my dev account) and then my primary Twitter feed, @swantron

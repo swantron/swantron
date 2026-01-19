@@ -5,6 +5,8 @@ id: 645
 slug: 'sgt-tim-a-caricature'
 featured_image: '/uploads/2007/12/tim.jpg'
 description: ''
+aliases:
+  - '/index.php/2007/12/18/sgt-tim-a-caricature/'
 ---
 
 Complete with huge Germain calves and vodka Red Bull ![Sgt. Tim](/uploads/2007/12/tim.jpg)

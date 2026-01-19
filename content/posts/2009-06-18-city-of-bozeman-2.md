@@ -5,6 +5,8 @@ id: 6144
 slug: 'city-of-bozeman-2'
 featured_image: '/uploads/2009/06/boz.jpg'
 description: ''
+aliases:
+  - '/index.php/2009/06/18/city-of-bozeman-2/'
 ---
 
 kudos to our city council...might make national headlines again with this epic fail [![](/uploads/2009/06/boz.jpg)sweet! ](http://montanasnewsstation.com/Global/story.asp?S=10551414)

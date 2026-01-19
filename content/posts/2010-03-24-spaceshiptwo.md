@@ -5,6 +5,8 @@ id: 1874
 slug: 'spaceshiptwo'
 featured_image: '/uploads/2010/03/SpaceShip2.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/03/24/spaceshiptwo/'
 ---
 
 I've already gone on record saying that Richard Branson is my hero. In a 'suck it, NASA' move, Branson managed to take another step towards privatising space travel, by launching the shit out of SpaceShipTwo via a piggy-backed flight. ![SpaceShip2](/uploads/2010/03/SpaceShip2.jpg "SpaceShip2") Per [wired.com](http://www.wired.com/autopia/2010/03/spaceshiptwo-makes-first-captive-flight/)...

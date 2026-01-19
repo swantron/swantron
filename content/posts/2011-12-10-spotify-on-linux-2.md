@@ -5,6 +5,8 @@ id: 6333
 slug: 'spotify-on-linux'
 featured_image: '/uploads/2011/12/spotify-one-499x570.png'
 description: ''
+aliases:
+  - '/index.php/2011/12/10/spotify-on-linux/'
 ---
 
 Hey nerds. Guess what? Spotify on Linux. Super easy too...fire up a terminal [ctrl-alt-t]

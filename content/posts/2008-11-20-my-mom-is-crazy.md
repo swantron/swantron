@@ -5,6 +5,8 @@ id: 805
 slug: 'my-mom-is-crazy'
 featured_image: '/uploads/2008/12/mom.jpg'
 description: ''
+aliases:
+  - '/index.php/2008/11/20/my-mom-is-crazy/'
 ---
 
 I'll let you decide. Here is my mom (right) holding a quilt, next to a neighborhood child wearing a quilt, her Halloween costume. No shit. ![](/uploads/2008/12/mom.jpg)I know the King of Pop named his child 'Blanket'...I have heard the explanation twice and am still flabbergasted.

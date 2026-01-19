@@ -5,6 +5,8 @@ id: 3652
 slug: 'wordpress-3-2-custom-layout'
 featured_image: '/uploads/2011/07/worpress3.2.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/07/07/wordpress-3-2-custom-layout/'
 ---
 
 After the whole fiasco that came with my upgrade to WordPress 3.2, I decided to shell my old layout and go with a new [free website builder](http://www.intuit.com/ "free

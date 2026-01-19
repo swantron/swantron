@@ -5,6 +5,8 @@ id: 4139
 slug: 'project-hardware-wrap'
 featured_image: '/uploads/2011/12/rov-570x282.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/12/06/project-hardware-wrap/'
 ---
 
 The hardware phase is complete... ![rov](/uploads/2011/12/rov-570x282.jpg "rov") ... <iframe allowfullscreen="" frameborder="0" height="386" src="http://www.youtube.com/embed/dRB68HbJ9Ws" width="569"></iframe>...now I just need to mash together some code and awaken this orange beast.

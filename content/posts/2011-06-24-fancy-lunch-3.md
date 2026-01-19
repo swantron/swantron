@@ -5,6 +5,8 @@ id: 6292
 slug: 'fancy-lunch-3'
 featured_image: '/uploads/2011/06/mmmlunch.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/06/24/fancy-lunch-3/'
 ---
 
 Most of the programmers around me subside wholly on Mountain Dew and Cup 'o Noodle. Time to class-up this joint. ![fancy lunch](/uploads/2011/06/mmmlunch.jpg "mmmlunch") Skewers should do the trick. +1 fancy.

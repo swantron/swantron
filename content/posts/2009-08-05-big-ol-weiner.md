@@ -5,6 +5,8 @@ id: 930
 slug: 'big-ol-weiner'
 featured_image: '/uploads/2009/08/weiner.JPG'
 description: ''
+aliases:
+  - '/index.php/2009/08/05/big-ol-weiner/'
 ---
 
 Wade and a rock that looks like a big ol' weiner ![big ol' weiner](/uploads/2009/08/weiner.JPG)

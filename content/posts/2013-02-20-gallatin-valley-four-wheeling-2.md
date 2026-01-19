@@ -5,6 +5,8 @@ id: 6388
 slug: 'gallatin-valley-four-wheeling'
 featured_image: '/uploads/2013/02/atv_bozeman.jpg'
 description: ''
+aliases:
+  - '/index.php/2013/02/20/gallatin-valley-four-wheeling/'
 ---
 
 The only thing I've been doing pertaining to the site has been to polish off the resume and get a new job. That sort of stuff. I did run around the Gallatin Valley last weekend...chasing D-Rock and his gigantor ATV. 1000 cc...seriously. I really like the northern part of the valley: ![atv four wheel bozeman](/uploads/2013/02/atv_bozeman.jpg) Nice little Saturday. More to come about the job...I'll post some details when I start.

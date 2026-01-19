@@ -5,6 +5,8 @@ id: 6348
 slug: 'v-day-eyeglasses'
 featured_image: '/uploads/2012/01/roboframe-570x386.jpg'
 description: ''
+aliases:
+  - '/index.php/2012/01/25/v-day-eyeglasses/'
 ---
 
 Cranky baby. Not a whole bunch of sleep. Shifted sense of humor, or some sort of tiredness induced insanity. Either I have completely blasted past any sort of touch with reality, or this is really funny... ![awesome eyeglasses](/uploads/2012/01/roboframe-570x386.jpg "roboframe") A bit of a side note. I was poking around for some new frames, started looking at some online prescription frames, and got fully side tracked. Somehow looking at basic options found me checking out \[link removed\], and ultimately dropping a pair of V-Day glasses on top of a sweet robot jpeg. One must admit, the frames are both completely conducive towards Valentine's day cheer, and for robotic...oh I don't know...something. Zenni kills it, regardless of the style. Take a quick look at the source of the image... ![zenni frame pink](/uploads/2012/01/zenni_frame_fit-570x386.jpg "zenni_frame_fit") I think they would look equally amazing on a human. Preferably a female human. Tired stupor aside, it is very amazing how far the internet has brought certain industries into the hands of the consumer. Glasses provide a terrific point. I have purchased three sets of frames from Zenni, and can say with a great deal of certainty, that my time in a brick and mortar spectacle shop are done. Have prescription, will go. Anyhow...sorry about the tired ramble post. It still cracks me up though...

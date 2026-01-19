@@ -5,6 +5,8 @@ id: 6195
 slug: 'cross-bot-is-full-of-angst'
 featured_image: '/uploads/2010/04/IMG00080-1024x768.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/04/07/cross-bot-is-full-of-angst/'
 ---
 
 Cross-bot was totally like, "grr--that sux I'm all angry" and I said, like "dude, whatever, ur a green robot-dude w/ some claws or whatevs" ![grr](/uploads/2010/04/IMG00080-1024x768.jpg "Cross-bot") just chillax cross-bot. chillax.

@@ -4,6 +4,8 @@ date: 2025-11-30T04:45:00+00:00
 slug: 'secure-base-images'
 description: 'A minimal, security-hardened Docker base image for Go binaries'
 featured_image: '/uploads/2025/11/secure-base-ci-workflow.png'
+aliases:
+  - '/index.php/2025/11/30/secure-base-images/'
 ---
 
 Do you hate insecure base images?  Sure, we all do..

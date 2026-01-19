@@ -5,6 +5,8 @@ id: 6199
 slug: 'gangsta-bloggin'
 featured_image: '/uploads/2010/04/blogging.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/04/16/gangsta-bloggin/'
 ---
 
 ![boo yeah](/uploads/2010/04/blogging.jpg "blogging") MY AMBITIONZ AZ A BLOGGAH

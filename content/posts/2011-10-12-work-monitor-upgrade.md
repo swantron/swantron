@@ -5,6 +5,8 @@ id: 3917
 slug: 'work-monitor-upgrade'
 featured_image: '/uploads/2011/10/58-inches-of-monitor-570x330.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/10/12/work-monitor-upgrade/'
 ---
 
 Add another 17" monitor to the boneyard...I've upgraded to a new 24" widescreen. ![triple monitors](/uploads/2011/10/58-inches-of-monitor-570x330.jpg "58-inches-of-monitor") One step closer to my end-goal of two 24" screens to supplement my 17" notebook. Big glowing rectangles, FTW.

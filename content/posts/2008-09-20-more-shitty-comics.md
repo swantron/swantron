@@ -5,6 +5,8 @@ id: 782
 slug: 'more-shitty-comics'
 featured_image: '/uploads/2008/09/cathysucks1.bmp'
 description: ''
+aliases:
+  - '/index.php/2008/09/20/more-shitty-comics/'
 ---
 
 Cathy is retarded. ![retarded](/uploads/2008/09/cathysucks1.bmp)So...girls feet grow in Fall? I'm lost.

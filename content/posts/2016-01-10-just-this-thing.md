@@ -5,6 +5,8 @@ id: 5048
 slug: 'just-this-thing'
 featured_image: '/uploads/2016/01/dealwithit-1.gif'
 description: ''
+aliases:
+  - '/index.php/2016/01/10/just-this-thing/'
 ---
 
 [![dealwithit](/uploads/2016/01/dealwithit-1.gif)](https://swantron.com/just-this-thing/dealwithit-2/)

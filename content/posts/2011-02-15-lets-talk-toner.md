@@ -5,6 +5,8 @@ id: 3171
 slug: 'lets-talk-toner'
 featured_image: '/uploads/2011/02/toner.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/02/15/lets-talk-toner/'
 ---
 
 Where do you buy your toner? From a brick and mortar toner store? Get with the times... ![toner](/uploads/2011/02/toner.jpg "toner") As with pretty much anything tech-based, the only practical way to buy [toner cartridges](http://www.cartridgesdirect.com.au/toner_cartridges.aspx) these days is to buy them online. Not only do you save yourself a trip to the store, but a little shopping around will get you a far better price than heading down to the neighbourhood Staples to grab some toner.

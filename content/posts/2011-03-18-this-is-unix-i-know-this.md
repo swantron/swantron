@@ -5,6 +5,8 @@ id: 3259
 slug: 'this-is-unix-i-know-this'
 featured_image: '/uploads/2011/03/this-is-unix.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/03/18/this-is-unix-i-know-this/'
 ---
 
 I shall call this "The Triple Threat" ![i know this](/uploads/2011/03/this-is-unix.jpg "this-is-unix")

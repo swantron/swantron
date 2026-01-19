@@ -5,6 +5,8 @@ id: 6115
 slug: 'morrison-malita-update'
 featured_image: '/uploads/2006/06/landscapefour.jpg'
 description: ''
+aliases:
+  - '/index.php/2006/06/07/morrison-malita-update/'
 ---
 
 Hey teens. I figured that it is due time I give the fans a photo summary of the goings on at Morrison Design and Landcape, in the beautiful Gallatin County, MT. ![landscapefour.jpg](/uploads/2006/06/landscapefour.jpg)![landscapethree.jpg](/uploads/2006/06/landscapethree.jpg)![landscapetwo.jpg](/uploads/2006/06/landscapetwo.jpg)![landscapeone.jpg](/uploads/2006/06/landscapeone.jpg)Figure it out for yourselves, y'all. Pump up the jam. Pump pump pump up the jam.

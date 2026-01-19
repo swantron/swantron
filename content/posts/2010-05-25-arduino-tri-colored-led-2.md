@@ -5,6 +5,8 @@ id: 6223
 slug: 'arduino-tri-colored-led'
 featured_image: '/uploads/2010/05/arduino-led.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/05/25/arduino-tri-colored-led/'
 ---
 
 Tri-Colored LED Arduino control. Check. I'm bringing sexy back. ![led](/uploads/2010/05/arduino-led.jpg "arduino-led") Sadly enough, it is basically a ground coupled with a Red, Green, and Blue lead. Nonetheless, I'm pumped.

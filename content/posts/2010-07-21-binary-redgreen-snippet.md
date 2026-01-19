@@ -5,6 +5,8 @@ id: 2481
 slug: 'binary-redgreen-snippet'
 featured_image: '/uploads/2010/07/red-led.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/07/21/binary-redgreen-snippet/'
 ---
 
 One step closer... Switch open yields a killer red LED... ![red](/uploads/2010/07/red-led.jpg "red-led") Switch closed yields an uber-sexy green LED... ![green](/uploads/2010/07/green-led.jpg "green-led") I even tossed in some 1K resistors to keep my LEDs healthy, in addition to my 100 ohm / 10000 ohm pull-down setup. **+4 resistor**I even managed to comment my code, for a bonus win:

@@ -5,6 +5,8 @@ id: 3770
 slug: 'so-long-zoot'
 featured_image: '/uploads/2011/08/zoot-enterprises-570x320.jpg'
 description: ''
+aliases:
+  - '/index.php/2011/08/29/so-long-zoot/'
 ---
 
 I had three great years at Zoot Enterprises. Time for a change, however. ![zoot enterprises](/uploads/2011/08/zoot-enterprises-570x320.jpg "zoot-enterprises") Thanks for it all.

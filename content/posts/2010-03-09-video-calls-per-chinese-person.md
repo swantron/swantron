@@ -5,6 +5,8 @@ id: 1775
 slug: 'video-calls-per-chinese-person'
 featured_image: '/uploads/2010/03/loc2.jpg'
 description: ''
+aliases:
+  - '/index.php/2010/03/09/video-calls-per-chinese-person/'
 ---
 
 One of the running jokes on the slashdot.org boards is an oldie but a goody. Apparently, nerds like to poke fun of mainstream media's tendency to dumb-up storage sizes into terms of "Libraries of Congress." Well, I'm taking a stab at a unit of my own...**Video Calls per Chinese Person**From the original on [/.](http://slashdot.org)
