@@ -38,3 +38,7 @@ hugo --baseURL https://swantron.github.io/swantron/
 
 Build output is deployed to GitHub Pages via GitHub Actions.
 
+## TODO
+
+- [ ] **Permalink redirects**: Remove `/index.php/` from URLs (change to `/:year/:month/:day/:slug/`) and add redirects from old WordPress URLs to new clean URLs to preserve SEO and existing links
+
