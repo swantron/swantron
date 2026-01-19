@@ -6,9 +6,11 @@ description: 'After decades of WordPress pets, swantron.com is now static on Hug
 featured_image: '/uploads/2026/01/cowbot.png'
 ---
 
+This is the first time in decades I haven't had a WordPress instance live.
+
 This is a huge milestone. Moving **1,040 posts** while maintaining permalink integrity is no small feat—especially shifting from a "pet" WordPress setup to a "cattle" Hugo workflow. It's a rite of passage for any dev who values performance and long-term ownership.
 
-This is the first time in decades I haven't had a WordPress instance live.
+![Cowbot - The migration mascot](/uploads/2026/01/cowbot.png)
 
 ## The Breaking Point
 
@@ -40,6 +42,8 @@ Over the past few decades, the site evolved through different hosting and deploy
 - **GitHub Pages + Hugo** - Something that feels more akin to actual content delivery via a proper build and resource levels. Static site generation, CDN delivery, git-based workflow.
 
 Each phase was a learning opportunity. How do you move a WordPress database? How do you handle file uploads? How do you configure DNS? How do you set up SSL? How do you handle backups? Each approach had its own way of doing things.
+
+> The issues were really straight forward.. I had ssl issues after juggling the wordpress install across several (4?) cloud platforms over the past several (4?) years, and a directory issue that took some time to resolve. There are still some broken photo links from the early-early posts, but I can say with certainty that nobody needs to revisit. Assume we all had fun and move on.
 
 But through all of it, they were essentially **pets** under the hood. WordPress instances that needed care, feeding, and attention. Database backups. Plugin updates. Security patches. Server maintenance. Monitoring. Whether it was a shared hosting plan, cloud resources, or canned images - each instance was unique, fragile, and required ongoing maintenance.
 
@@ -151,7 +155,5 @@ This type of setup - static site generators, git-based workflows, markdown conte
 Maybe if this approach had been more common earlier, blogging wouldn't have declined. Maybe more people would still be blogging if it wasn't such a pain to maintain a WordPress site.
 
 The robot background image is still there. The posts are all there. The URLs all work. But now it's modern, fast, maintainable, and actually fun to work with.
-
-![Cowbot - The migration mascot](/uploads/2026/01/cowbot.png)
 
 Here's to another decade.. but this time, static. Code-first. No pets, just cattle. Back to the roots, but with modern tooling. Maybe this is how blogging should have been all along.
