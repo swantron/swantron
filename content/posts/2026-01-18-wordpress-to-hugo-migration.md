@@ -79,6 +79,28 @@ The migration process involved exporting WordPress content, converting to markdo
 
 The content is preserved. The URLs are preserved. But the infrastructure is completely different. More importantly, the content is now **secured** against bit-rot and database corruption. It's in git. It's version controlled. It's reproducible.
 
+## The Database Dump Horror
+
+The final WordPress database dump is **34MB** and **555,947 lines**. It's a perfect example of how WordPress databases become unmaintainable over time for no real reason.
+
+**Examples of the bloat:**
+
+- **122,307 references** to `bouncerblog.com` - a domain that hasn't been used in over a decade. URLs, image paths, serialized data - all still pointing to a domain that died when the bar blew up.
+
+- **Serialized PHP arrays** stored as strings in the database. Want to see your cron jobs? Here's a 2,000-character serialized array stored in `wp_options`. Want to change a rewrite rule? Good luck parsing that serialized data.
+
+- **Transient data** that should be temporary but gets stored permanently. `_transient_wp_styles_for_blocks`, `_site_transient_update_core`, `_transient_health-check-site-status-result` - all marked as 'yes' for autoload, meaning WordPress loads them on every page request.
+
+- **wp_postmeta** with thousands of entries. Every post edit creates new meta entries. Every plugin adds metadata. Every theme customization gets stored. After 20 years, you have 596 INSERT statements just for post metadata.
+
+- **wp_options** storing everything as serialized PHP. Plugin settings, theme options, widget configurations - all serialized and stored in a single table. Want to find a specific setting? Hope you like regex.
+
+- **Old plugin data** that never gets cleaned up. Deleted plugins leave their options behind. Changed themes? Old theme options still in the database. Uninstalled a plugin 5 years ago? Its data is still there.
+
+The database becomes a **black box** of serialized PHP data, orphaned references, and stale configuration. You can't easily query it. You can't easily migrate it. You can't easily understand what's actually being used vs what's just cruft accumulated over years.
+
+This is why the migration to markdown files feels so clean. No serialized data. No orphaned references. No stale configuration. Just files. Readable, searchable, version-controlled files.
+
 ## The New Stack
 
 - **Hugo 0.154.5** - Static site generator, builds from markdown to HTML
