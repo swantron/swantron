@@ -39,21 +39,25 @@ The database became a black box. Transitioning to Markdown files feels like exha
 
 ## The Migration & New Stack
 
-Moving **1,040 posts** while maintaining permalink integrity is a rite of passage. I used custom scripts to ensure every URL—even the wonky `/index.php/YYYY/MM/DD/slug` structure—remains active.
+Moving **1,040 posts** while maintaining permalink integrity is a rite of passage. To keep 20 years of SEO and links alive, I used custom scripts to map the legacy WordPress export to Hugo's directory structure.
 
-**The New Stack:** Hugo 0.154.5, GitHub Actions for CI/CD, and a custom CSS-only build (no themes, just code).
+* **The Permalinks:** Hard-coded the wonky `/index.php/YYYY/MM/DD/slug` structure into the front matter to ensure zero broken links.
+* **The Media:** Thousands of images moved to `/static/uploads/`, with a bulk regex to update the paths in the Markdown files.
+* **The Engine:** Hugo 0.154.5, GitHub Actions for CI/CD, and a custom CSS build. **No themes, just code.**
+
+### The Tipping Point
 
 | Feature | WordPress (Old) | Hugo (New) |
 | --- | --- | --- |
-| **Speed** | 2s - 4s Load | < 500ms |
-| **Security** | Constant Patches | Zero Attack Surface |
-| **Cost** | Monthly Fees | $0 (GitHub Pages) |
-| **Content** | MySQL | Markdown in Git |
+| **Speed** | 2s - 4s Load | **< 500ms** |
+| **Security** | Constant Patches | **Zero Attack Surface** |
+| **Cost** | Monthly Fees | **$0 (GitHub Pages)** |
+| **Content** | MySQL | **Markdown in Git** |
 
 ## Why This Matters
 
-The barrier to posting is gone. I don't have to log into a clunky admin panel or run an update before I type. I write Markdown, I `git push`, and it's live.
+The friction is gone. I don't have to log into a clunky admin panel, clear a cache, or run a plugin update before I type. I write Markdown, I `git push`, and it's live.
 
-It feels like the OG blogging days again. Before 'CMS' became a corporate buzzword, blogging was just writing and publishing. Simple. Direct. Maybe if the web had stayed this simple, blogging wouldn't have declined in the first place.
+It feels like the OG blogging days again. Before 'CMS' became a corporate buzzword, blogging was just writing and publishing. Simple. Direct. Maybe if the web had stayed this simple—if we hadn't traded performance for bloated admin panels—personal blogs wouldn't have declined in the first place.
 
-Here's to another decade—static, versioned, and finally 'cattle, not pets.'
+Here's to another decade—static, versioned, and finally **cattle, not pets.**
