@@ -18,6 +18,8 @@ After **20 years** of content (2005-2025), the thought of losing it all to datab
 
 This is a pita. Moving **1,040 posts** while maintaining permalink integrity is no small feat—especially shifting from a 'pet' WordPress setup to a 'cattle' Hugo workflow. It's a rite of passage for any dev who values performance and long-term ownership.
 
+![Deleting WordPress site - final step](/uploads/2026/01/delete-wordpress-site.png)
+
 ## The Journey
 
 I started on Siteground with Griff for **bouncerblog.com**.. ran that for years. The bar literally blew up, and eventually it morphed into **swantron.com**.
