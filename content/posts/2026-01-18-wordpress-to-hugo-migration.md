@@ -8,8 +8,6 @@ featured_image: '/uploads/2026/01/cowbot.png'
 
 This is the first time in decades I haven't had a WordPress instance live.
 
-This is a huge milestone. Moving **1,040 posts** while maintaining permalink integrity is no small feat—especially shifting from a "pet" WordPress setup to a "cattle" Hugo workflow. It's a rite of passage for any dev who values performance and long-term ownership.
-
 ![Cowbot - The migration mascot](/uploads/2026/01/cowbot.png)
 
 ## The Breaking Point
@@ -17,6 +15,8 @@ This is a huge milestone. Moving **1,040 posts** while maintaining permalink int
 The breaking point wasn't dramatic. No database crash. No catastrophic hack. Just the slow death of a thousand cuts. The WordPress admin panel getting slower. Plugin updates breaking things. Security patches every week. Database backups that might or might not work. The constant maintenance overhead.
 
 After **20 years** of content (2005-2025), the thought of losing it all to database corruption or bit-rot was real. WordPress felt fragile. The content deserved better.
+
+This is a pita. Moving **1,040 posts** while maintaining permalink integrity is no small feat—especially shifting from a 'pet' WordPress setup to a 'cattle' Hugo workflow. It's a rite of passage for any dev who values performance and long-term ownership.
 
 ## The Journey
 
@@ -126,7 +126,7 @@ This isn't about finding the right WordPress theme. This is about writing code.
 
 Custom layouts override the theme. Custom CSS styles the site. Custom JavaScript adds functionality. Everything is code, version controlled, and reproducible.
 
-No more theme updates breaking customizations. No more plugin conflicts. No more "this worked yesterday, why doesn't it work today?"
+No more theme updates breaking customizations. No more plugin conflicts. No more 'this worked yesterday, why doesn't it work today?'
 
 Just code. Write it, commit it, push it. It works.
 
