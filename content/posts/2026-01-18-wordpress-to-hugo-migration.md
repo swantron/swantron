@@ -73,7 +73,7 @@ This migration is different. This isn't just moving WordPress to another provide
 
 ## The Migration
 
-**1,040 posts** migrated from WordPress to Hugo. **20 years** of content (2005-2025). All URLs preserved exactly - `/index.php/YYYY/MM/DD/post-slug/` matches WordPress permalinks perfectly. Every old link still works.
+All URLs preserved exactly - `/index.php/YYYY/MM/DD/post-slug/` matches WordPress permalinks perfectly. Every old link still works.
 
 All images migrated to `/static/uploads/` - thousands of photos from 2005-2025, organized by year.
 
@@ -105,14 +105,7 @@ This is why the migration to markdown files feels so clean. No serialized data. 
 
 ## The New Stack
 
-- **Hugo 0.154.5** - Static site generator, builds from markdown to HTML
-- **No themes** - Custom layouts, just code
-- **GitHub Pages** - Free hosting, CDN included
-- **GitHub Actions** - CI/CD pipeline, automatic builds
-- **Git-based workflow** - Content in version control
-- **Search functionality** - Custom client-side JSON API with scoring algorithm (title/tag/content weighting), no server needed
-- **RSS feed** - `index.xml` generated automatically by Hugo for long-time RSS subscribers
-- **Dark mode** - Because obviously
+**Hugo 0.154.5** for static generation, **GitHub Pages + Actions** for hosting and CI/CD, custom client-side search, RSS feed, and dark mode. Everything in git, no themes—just code.
 
 ### Quick Comparison
 
