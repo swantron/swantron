@@ -67,7 +67,7 @@ Super straightforward. Hugo generates redirect HTML pages at the old paths durin
 | **Speed** | 2s - 4s Load | **< 500ms** |
 | **Security** | Constant Patches | **Zero Attack Surface** |
 | **Cost** | Monthly Fees | **$0 (GitHub Pages)** |
-| **URL Structure** | `/index.php/slug` | **Clean & Pretty** |
+| **URL Structure** | `/index.php/slug` | **Sane** |
 | **Content** | MySQL | **Markdown / Git** |
 
 ## Why This Matters
