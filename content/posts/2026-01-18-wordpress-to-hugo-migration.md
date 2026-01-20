@@ -12,10 +12,6 @@ This is the first time in decades I haven't had a WordPress instance live.
 
 ![Deleting WordPress site - final step](/uploads/2026/01/delete-wordpress-site.png)
 
-## The Breaking Point
-
-The breaking point wasn't a catastrophic hack; it was the slow death of a thousand cuts. After **20 years** of content (2005-2025), WordPress felt fragile. The site had become a "pet" that required constant feeding: security patches, plugin conflicts, and the looming fear of database bit-rot.
-
 ## The Evolution: From Shared Hosting to Code-First
 
 Over two decades, swantron.com moved through every hosting trend imaginable:
@@ -29,7 +25,7 @@ Each previous phase was just a different way of babysitting a server. This migra
 
 ## The Database Horror (Why I Left)
 
-If you want to know why WordPress scales poorly for a solo dev, look at my final database dump: **34MB and 555,947 lines of text.**
+I had a shower thought how gross a WordPress database might end up. After **20 years** of content (2005-2025), I finally checked. My final database dump: **34MB and 555,947 lines of text.**
 
 ![SQL file size - 555,947 lines](/uploads/2026/01/sql-file-size.png)
 
