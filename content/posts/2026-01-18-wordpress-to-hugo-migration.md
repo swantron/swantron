@@ -13,14 +13,14 @@ This is the first time in decades I haven't had a WordPress instance live. Lorda
 
 ## WP Trucker Logs: From Shared Hosting to Code-First
  
-Over two decades, swantron.com moved through every hosting trend imaginable:
+Over two decades, swantron.com hopped through several hosting trends:
 
-* **Phase 1: The Basics** – Traditional shared hosting (`Siteground`).
-* **Phase 2: Cloud Ops** – VMs & DBs (`EC2` & `RDS` / `GAE` & `Cloud SQL`).
-* **Phase 3: IaC-adjacent** – Dockerized one-click pets (`GCP`, but mostly `DigitalOcean`).
-* **Phase 4: The End State** – Static delivery via `Hugo` + `GitHub Actions`.
+* **Phase 1: Classic** – Traditional shared hosting (Siteground)
+* **Phase 2: Cloud Ops** – VMs & DBs (EC2 & RDS / GAE & not RDS)
+* **Phase 3: IaC-adjacent** – Dockerized one-click pets (GCP, but mostly DigitalOcean)
+* **Phase 4: The End State** – Static delivery via Hugo + GitHub Actions
 
-Each previous phase was just a different way of babysitting a server. This migration is different. It's not just a new host; it's a fundamental change in philosophy from "managed system" to **code-first delivery.**
+Each previous phase was just a different way of babysitting a server. This migration is different. It's not just a new host; it's a fundamental change in philosophy from 'managed system' to **code-first delivery.**
 
 ## The Database Horror (The Lordamercy)
 
@@ -29,10 +29,10 @@ I had a shower thought about how gross a WordPress database might end up after b
 ![SQL file size - 555,947 lines](/uploads/2026/01/sql-file-size.png)
 
 * **122,307 references** to `bouncerblog.com`—a domain that died over a decade ago.
-* **Serialized PHP arrays** stored as strings. Want to change a simple rewrite rule? Good luck parsing a 2,000-character string in `wp_options`.
+* **Serialized PHP arrays** stored as strings. Want to change a simple rewrite rule? Nope.  Good luck parsing a 2,000-character string in `wp_options`.
 * **Zombie Data:** Thousands of `_transient` entries and orphaned plugin settings that WordPress autoloads on every single page request, long after the plugins are deleted.
 
-The database had become a black box. Transitioning to Markdown files feels like exhaling after holding your breath for years. No more regex-searching a SQL dump just to find a setting.
+The database had become a dumpster fire. Transitioning to Markdown files is nice. No more regex-searching a SQL dump just to find a setting.
 
 ## The Migration (The 1,040 Post-Slugs)
 
