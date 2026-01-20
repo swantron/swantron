@@ -14,14 +14,12 @@ This is the first time in decades I haven't had a WordPress instance live.
 
 ## The Evolution: From Shared Hosting to Code-First
 
-Over two decades, swantron.com moved through every hosting trend imaginable:
+Over two decades, swantron.com moved through every hosting trend imaginable. Each step was an attempt to make things "easier," but usually just added a different flavor of maintenance:
 
-* **Phase 1: The Basics** – Traditional shared hosting (`Siteground`).
-* **Phase 2: Cloud Ops** – Managing VMs and RDS databases (`AWS EC2` / `GCP Cloud SQL`).
-* **Phase 3: Infrastructure** – Modernized deployments via `DigitalOcean` and `Docker`.
-* **Phase 4: The End State** – Static delivery via `Hugo` + `GitHub Actions`.
-
-Each previous phase was just a different way of babysitting a server. This migration is different. It's not just a new host; it's a fundamental change in philosophy from "managed system" to **code-first delivery.**
+* **Phase 1: The Basics** – Traditional shared hosting (`Siteground`). Cheap and easy, but you're at the mercy of the host.
+* **Phase 2: Cloud Ops** – Managing VMs and RDS databases (`AWS EC2` / `GCP Cloud SQL`). Total control, but now you're a part-time SysAdmin.
+* **Phase 3: Infrastructure** – Modernized deployments via `DigitalOcean` and `Docker`. "Infrastructure as Code" was the goal, but the core was still a heavy CMS.
+* **Phase 4: The End State** – **Static delivery via `Hugo` + `GitHub Actions`.** Each previous phase was just a different way of babysitting a server. This migration is different. It's a fundamental change in philosophy: moving from a "managed system" that lives on a remote server to a **code-first delivery** that lives on my machine and deploys to the edge.
 
 ## The Database Horror (Why I Left)
 
@@ -75,7 +73,9 @@ Now, Hugo automatically generates redirect HTML pages at the old paths. This pre
 
 The friction is gone. I don't have to log into a clunky admin panel, clear a cache, or run a plugin update before I type. I write Markdown, I `git push`, and it's live.
 
-It feels like the OG blogging days again. We had CMS shit, but blogging was largely just writing and publishing. Pretty simple.. pretty direct.  SEO made things weird for a bit (paid posts.. did that) and we tried to bold PHP junk onto all sorts of places for no particular reason.  CMS never really got better and blogs sort of died.  In a way I'm jumping back in t with the terminal Gs who never bothered down this path in the first place.. they have been posting random shit about obsolete shit this entire time
+It feels like the OG blogging days again. We had CMS shit back then, but blogging was largely just writing and publishing. Simple. Direct. SEO made things weird for a bit—I did the paid post thing—and we tried to bolt PHP junk onto everything for no particular reason. The CMS never really got better, and blogs sort of died under the weight of their own tech debt.
+
+In a way, I'm jumping back in with the terminal Gs who never bothered with this path in the first place. They've been over there in their minimal setups, posting random shit about obsolete tech this entire time, while the rest of us were fighting database corruption.
 
 <img src="/uploads/2026/01/cowbot.png" alt="Cowbot - The migration mascot" class="cowbot-image" />
 
