@@ -10,13 +10,11 @@ aliases:
 
 This is the first time in decades I haven't had a WordPress instance live.
 
-<img src="/uploads/2026/01/cowbot.png" alt="Cowbot - The migration mascot" class="cowbot-image" />
+![Deleting WordPress site - final step](/uploads/2026/01/delete-wordpress-site.png)
 
 ## The Breaking Point
 
 The breaking point wasn't a catastrophic hack; it was the slow death of a thousand cuts. After **20 years** of content (2005-2025), WordPress felt fragile. The site had become a "pet" that required constant feeding: security patches, plugin conflicts, and the looming fear of database bit-rot.
-
-![Deleting WordPress site - final step](/uploads/2026/01/delete-wordpress-site.png)
 
 ## The Evolution: From Shared Hosting to Code-First
 
@@ -81,6 +79,8 @@ Now, Hugo automatically generates redirect HTML pages at the old paths. This pre
 
 The friction is gone. I don't have to log into a clunky admin panel, clear a cache, or run a plugin update before I type. I write Markdown, I `git push`, and it's live.
 
-It feels like the OG blogging days again. Before "CMS" became a corporate buzzword, blogging was just writing and publishing. Simple. Direct. Maybe if the web had stayed this simple—if we hadn't traded performance for bloated admin panels—personal blogs wouldn't have declined in the first place.
+It feels like the OG blogging days again. We had CMS shit, but blogging was largely just writing and publishing. Pretty simple.. pretty direct.  SEO made things weird for a bit (paid posts.. did that) and we tried to bold PHP junk onto all sorts of places for no particular reason.  CMS never really got better and blogs sort of died.  In a way I'm jumping back in t with the terminal Gs who never bothered down this path in the first place.. they have been posting random shit about obsolete shit this entire time
 
-Here's to another decade—static, versioned, and finally **cattle, not pets.**
+<img src="/uploads/2026/01/cowbot.png" alt="Cowbot - The migration mascot" class="cowbot-image" />
+
+Here's to another decade, though.. this time it is static, versioned, and finally **cattle, not pets.**
