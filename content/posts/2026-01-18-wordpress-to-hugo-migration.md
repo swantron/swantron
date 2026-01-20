@@ -8,22 +8,23 @@ aliases:
   - '/index.php/2026/01/18/wordpress-to-hugo-migration/'
 ---
 
-This is the first time in decades I haven't had a WordPress instance live.
-
+This is the first time in decades I haven't had a WordPress instance live. Lordamercy...
 ![Deleting WordPress site - final step](/uploads/2026/01/delete-wordpress-site.png)
 
-## The Evolution: From Shared Hosting to Code-First
+## WP Trucker Logs: From Shared Hosting to Code-First
+ 
+Over two decades, swantron.com moved through every hosting trend imaginable:
 
-Over two decades, swantron.com moved through every hosting trend imaginable. Each step was an attempt to make things "easier," but usually just added a different flavor of maintenance:
+* **Phase 1: The Basics** – Traditional shared hosting (`Siteground`).
+* **Phase 2: Cloud Ops** – VMs & DBs (`EC2` & `RDS` / `GAE` & `Cloud SQL`).
+* **Phase 3: IaC-adjacent** – Dockerized one-click pets (`GCP`, but mostly `DigitalOcean`).
+* **Phase 4: The End State** – Static delivery via `Hugo` + `GitHub Actions`.
 
-* **Phase 1: The Basics** – Traditional shared hosting (`Siteground`). Cheap and easy, but you're at the mercy of the host.
-* **Phase 2: Cloud Ops** – Managing VMs and RDS databases (`AWS EC2` / `GCP Cloud SQL`). Total control, but now you're a part-time SysAdmin.
-* **Phase 3: Infrastructure** – Modernized deployments via `DigitalOcean` and `Docker`. "Infrastructure as Code" was the goal, but the core was still a heavy CMS.
-* **Phase 4: The End State** – **Static delivery via `Hugo` + `GitHub Actions`.** Each previous phase was just a different way of babysitting a server. This migration is different. It's a fundamental change in philosophy: moving from a "managed system" that lives on a remote server to a **code-first delivery** that lives on my machine and deploys to the edge.
+Each previous phase was just a different way of babysitting a server. This migration is different. It's not just a new host; it's a fundamental change in philosophy from "managed system" to **code-first delivery.**
 
 ## The Database Horror (Why I Left)
 
-I had a shower thought how gross a WordPress database might end up. After **20 years** of content (2005-2025), I finally checked. My final database dump: **34MB and 555,947 lines of text.**
+I had a shower thought about how gross a WordPress database might end up after being left out in the rain for **20 years** (2005-2025). I finally checked. My final database dump: **34MB and 555,947 lines of text.**
 
 ![SQL file size - 555,947 lines](/uploads/2026/01/sql-file-size.png)
 
@@ -35,23 +36,23 @@ The database had become a black box. Transitioning to Markdown files feels like 
 
 ## The Migration: Managing 1,040 Post-Slugs
 
-Moving **1,040 posts** while maintaining permalink integrity is a rite of passage. My goal was to strip away the ugly legacy `/index.php/` prefix from my URLs without breaking 20 years of external links and search indexing.
+Moving **1,040 posts** is a special kind of hell. The goal was to strip away the ugly legacy `/index.php/` prefix from my URLs without breaking 20 years of external links and search indexing.
 
-I wrote a script to automate the `alias` field in Hugo's front matter, mapping the old legacy paths to the new clean ones.
+I wrote some dirty Python to automate the `alias` field in Hugo's spec to map the shitty legacy paths to the new clean ones.
 
 **The result in each Markdown file:**
 
 ```yaml
-title: "My Old Post"
-slug: "my-old-post"
+title: "This Old Post about Hot Sauce"
+slug: "this-old-post-about-hot-sauce"
 aliases:
-  - /index.php/2005/10/10/my-old-post/
+  - /index.php/2005/10/10/this-old-post-about-hot-sauce/
 
 ```
 
 ![Alias example in frontmatter](/uploads/2026/01/alias-example.png)
 
-Now, Hugo automatically generates redirect HTML pages at the old paths. This preserves every bookmark, social share, and search result while allowing the site to live at a modern URL.
+Super straightforward. Hugo generates redirect HTML pages at the old paths during the build. This preserves every bookmark (yeah right), share, and search result while allowing the site to live at a modern URL.
 
 **Result: 1,041/1,041 posts migrated with 100% link integrity.**
 
@@ -61,22 +62,22 @@ Now, Hugo automatically generates redirect HTML pages at the old paths. This pre
 
 ### The Tipping Point
 
-| Feature | WordPress (Old) | Hugo (New) |
+| Feature | WordPress | Hugo |
 | --- | --- | --- |
 | **Speed** | 2s - 4s Load | **< 500ms** |
 | **Security** | Constant Patches | **Zero Attack Surface** |
 | **Cost** | Monthly Fees | **$0 (GitHub Pages)** |
 | **URL Structure** | `/index.php/slug` | **Clean & Pretty** |
-| **Content** | MySQL | **Markdown in Git** |
+| **Content** | MySQL | **Markdown / Git** |
 
 ## Why This Matters
 
-The friction is gone. I don't have to log into a clunky admin panel, clear a cache, or run a plugin update before I type. I write Markdown, I `git push`, and it's live.
+I write Markdown, I `git push`, and it's live.
 
-It feels like the OG blogging days again. We had CMS shit back then, but blogging was largely just writing and publishing. Simple. Direct. SEO made things weird for a bit—I did the paid post thing—and we tried to bolt PHP junk onto everything for no particular reason. The CMS never really got better, and blogs sort of died under the weight of their own tech debt.
+It feels like the OG blogging days again. We had CMS shit back then, but blogging was largely just writing and publishing. Simple and direct. SEO made things weird for a bit (paid posts... did that) and we tried to mash PHP junk onto all sorts of places for no particular reason. The CMS never really got better, and blogs sort of died under their own weight.
 
-In a way, I'm jumping back in with the terminal Gs who never bothered with this path in the first place. They've been over there in their minimal setups, posting random shit about obsolete tech this entire time, while the rest of us were fighting database corruption.
+In a way, I'm jumping back in with the terminal Gs who never bothered down this path in the first place. They've been over there in their minimal setups, posting random shit about obsolete tech this entire time, while the rest of us were fighting database corruption.
 
 <img src="/uploads/2026/01/cowbot.png" alt="Cowbot - The migration mascot" class="cowbot-image" />
 
-Here's to another decade, though.. this time it is static, versioned, and finally **cattle, not pets.**
+Here's to another decade, though... this time it is static, versioned, and finally **cattle, not pets.**
