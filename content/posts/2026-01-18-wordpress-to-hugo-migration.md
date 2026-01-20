@@ -22,7 +22,7 @@ Over two decades, swantron.com moved through every hosting trend imaginable:
 
 Each previous phase was just a different way of babysitting a server. This migration is different. It's not just a new host; it's a fundamental change in philosophy from "managed system" to **code-first delivery.**
 
-## The Database Horror (Why I Left)
+## The Database Horror (The Lordamercy)
 
 I had a shower thought about how gross a WordPress database might end up after being left out in the rain for **20 years** (2005-2025). I finally checked. My final database dump: **34MB and 555,947 lines of text.**
 
@@ -34,7 +34,7 @@ I had a shower thought about how gross a WordPress database might end up after b
 
 The database had become a black box. Transitioning to Markdown files feels like exhaling after holding your breath for years. No more regex-searching a SQL dump just to find a setting.
 
-## The Migration: Managing 1,040 Post-Slugs
+## The Migration (The 1,040 Post-Slugs)
 
 Moving **1,040 posts** is a special kind of hell. The goal was to strip away the ugly legacy `/index.php/` prefix from my URLs without breaking 20 years of external links and search indexing.
 
@@ -58,7 +58,7 @@ Super straightforward. Hugo generates redirect HTML pages at the old paths durin
 
 ## The New Stack
 
-**Hugo 0.154.5** for static generation, **GitHub Pages + Actions** for hosting and CI/CD. No themes—just custom CSS and layout code that I control entirely.
+**Hugo 0.154.5** for static generation, **GitHub Pages + Actions** for hosting and CI/CD. No themes—just custom CSS and layout code that I control entirely.  No comments, because I'm not collecting feedback from blog commentators.
 
 ### The Tipping Point
 
@@ -78,6 +78,6 @@ It feels like the OG blogging days again. We had CMS shit back then, but bloggin
 
 In a way, I'm jumping back in with the terminal Gs who never bothered down this path in the first place. They've been over there in their minimal setups, posting random shit about obsolete tech this entire time, while the rest of us were fighting database corruption.
 
-<img src="/uploads/2026/01/cowbot.png" alt="Cowbot - The migration mascot" class="cowbot-image" />
+<img src="/uploads/2026/01/cowbot.png" alt="Cowbot - The migration buckaroo" class="cowbot-image" />
 
 Here's to another decade, though... this time it is static, versioned, and finally **cattle, not pets.**
