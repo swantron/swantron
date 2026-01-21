@@ -8,11 +8,13 @@ aliases:
   - '/index.php/2025/12/31/chomptron/'
 ---
 
-Do you hate cooking blogs?  Sure, we all do..
+Do you hate cooking blogs? Sure, we all do.
 
-It is embarrasing to say that I bought the domain name with that sort of thing in mind.  I have some of our go-tos in texts from Katie and others that I have emailed to myself (from texts from Katie.) I parked some stuff on wordpress and promptly remembered that I hate wordpress about as much as I hate cooking blogs.  We know what we have and what we like.. it wasn't a very practical idea.. no reason to host that sort of thing.  But here I go yammering on like a food blogger..
+The life stories, the 4,000-word essays on "the crispness of autumn air" before you get to the ingredients, the ads that jump around and move the "Print" button right as you're about to click it. It's a mess.
 
-Anyhow, I built [Chomptron](https://chomptron.com) - an AI-powered recipe generator that turns whatever's in your fridge into actual recipes.  Bam.
+It is embarrassing to say that I bought the domain name with that sort of thing in mind. I have some of our go-tos in texts from Katie and others that I have emailed to myself (from texts from Katie). I parked some stuff on WordPress and promptly remembered that I hate WordPress about as much as I hate cooking blogs. We know what we have and what we like—it wasn't a very practical idea. No reason to host that sort of thing.
+
+So instead, I built an anti-food-blog: **[Chomptron](https://chomptron.com)**. It's an AI-powered engine that turns whatever's in your fridge into actual recipes. No fluff, no life stories, just dinner.
 
 ![Chomptron in action](/uploads/2025/12/chomptron-screenshot.png)
 
@@ -21,53 +23,49 @@ Anyhow, I built [Chomptron](https://chomptron.com) - an AI-powered recipe genera
   Your browser doesn't support video.
 </video>
 
-## Problem
+## The Problem
 
-You've got chicken, some tomatoes, garlic, and half an onion. Or sriracha and some leftovers.. what's for dinner? 
+You've got chicken, some tomatoes, garlic, and half an onion. Or maybe just sriracha and some leftovers. You don't want to read an article; you just want to know how to combine those things into something edible without making a grocery run.
 
-## Solution
+## The Solution
 
-Type your ingredients into Chomptron, hit generate, get a complete recipe with measurements, instructions, and cooking times. It is GCP under the hood.
+Type the ingredients, hit generate, and get a recipe with scaled measurements and instructions. It uses **Google Gemini** under the hood to handle the logic.
 
-**Features:**
+**Features that actually matter:**
 
-- **AI-generated recipes** - Creative, practical recipes from Google Gemini
-- **Recipe scaling** - Adjust servings from 0.25x to 4x with auto-scaled measurements
-- **Dietary filters** - Vegan, vegetarian, gluten-free, dairy-free, nut-free, shellfish-free, egg-free, soy-free
-- **Recipe history** - Saves up to 100 recipes in browser localStorage
-- **Favorites & ratings** - Star your best recipes, rate them 1-5 stars
-- **Dark mode** - Because obviously
-- **Share & print** - Export recipes or generate shareable links
+* **Scaling that works** – Most sites make you do the math. Chomptron scales from 0.25x to 4x automatically.
+* **Privacy by default** – It saves up to 100 recipes in your browser's `localStorage`. I don't want your email, I don't want your data, and I don't want to manage a user database.
+* **Dietary logic** – Filters for everything from Vegan to Shellfish-free.
+* **Dark mode** – Essential for late-night kitchen sessions.
 
-## Stack
+## The Stack
 
-**Backend:** Node.js 20 + Express  
-**AI:** Google Gemini (gemini-2.5-flash-lite)  
-**Frontend:** Vanilla HTML/CSS/JavaScript (no framework bloat)  
-**Platform:** Google Cloud Run (serverless)  
-**Storage:** Browser localStorage  
+I wanted this to be fast and "tidy." No framework bloat, no heavy lifting on the client side.
 
-## Serverless?
+* **Backend:** Node.js 20 + Express
+* **AI:** Google Gemini (`gemini-2.5-flash-lite`)
+* **Frontend:** Vanilla HTML/CSS/JavaScript
+* **Platform:** Google Cloud Run (Serverless)  
 
-Chomptron runs on **Google Cloud Run** which means:
+## Why Serverless?
 
-- **Scales to zero** - $0 cost when idle (vs $5-50/month for always-on hosting)
-- **Auto-scales** - Handles burst traffic automatically
-- **Zero maintenance** - No servers to manage, patch, or configure
-- **Perfect for AI workloads** - CPU-intensive recipe generation just works
+Chomptron runs on **Google Cloud Run**, which fits my "cattle, not pets" philosophy perfectly:
 
-The app includes smart caching (24-hour TTL, max 100 recipes per instance), rate limiting, and retry logic with exponential backoff for quota errors.
+* **Scales to zero:** If nobody is using the site, I pay $0. It costs me effectively nothing to keep this live.
+* **Auto-scales:** If it suddenly gets traffic, GCP spins up containers to handle it.
+* **Zero maintenance:** No OS to patch, no server to reboot.
 
-## CI/CD
+I built in some smart caching (24-hour TTL) and rate-limiting to keep the Gemini API costs under control, but otherwise, it's a hands-off deployment.
 
-Push to main → Cloud Build → Docker → Cloud Run. Automatic.
+## CI/CD Workflow
 
-The repo includes:
-- Health checks (`/health`, `/ready`)
-- Usage tracking (`/api/usage`)
-- Gang of tests
-- SEO stuff (meta tags, Open Graph, structured data)
-- PWA stuff
+The deployment cycle is refreshing. `Push to main` triggers a Cloud Build which handles the Dockerization and pushes to Cloud Run. It's a gang of tests and a few seconds of waiting before it's live.
+
+It's got the "Standard Dev Package":
+
+* Health checks (`/health`, `/ready`)
+* Proper SEO/Open Graph tags
+* PWA support so you can pin it to your home screen
 
 ## Check it out
 
@@ -75,6 +73,4 @@ Live: [https://chomptron.com](https://chomptron.com)
 
 Source: [https://github.com/swantron/chomptron](https://github.com/swantron/chomptron)
 
-It's free to use, nearly free to run (plz don't spam it), and actually useful.  
-
-This was a fun one.. I haven't done a project on GCP in a minute, so I sort of came up with the idea after designing the stack.  The domain was waiting.Refreshing to keep a js project tidy.. super fast deploy cycle etc.
+It's free to use and nearly free to run (plz don't spam it). It was a fun excuse to get back into GCP and keep a JS project clean. No bloat, no stories—just the recipes.
