@@ -1,7 +1,6 @@
 ---
 title: 'Granite Sink Chat'
 date: 2010-07-06T16:53:33+00:00
-id: 2459
 slug: 'granite-sink-chat'
 featured_image: '/uploads/2010/07/dishes-bot.jpg'
 aliases:

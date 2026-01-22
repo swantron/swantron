@@ -1,7 +1,6 @@
 ---
 title: 'Android Instant Upload to Google(plus)'
 date: 2011-07-16T09:55:19+00:00
-id: 3685
 slug: 'android-instant-upload-to-googleplus'
 featured_image: '/uploads/2011/07/google-plus-570x427.jpg'
 aliases:

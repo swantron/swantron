@@ -1,7 +1,6 @@
 ---
 title: 'Adafruit Raspi Kit'
 date: 2012-11-23T15:37:58+00:00
-id: 6381
 slug: 'adafruit-raspi-kit'
 featured_image: '/uploads/2012/11/adafruit_case.jpg'
 aliases:

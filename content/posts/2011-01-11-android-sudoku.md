@@ -1,7 +1,6 @@
 ---
 title: 'Android Sudoku'
 date: 2011-01-11T21:23:13+00:00
-id: 3107
 slug: 'android-sudoku'
 featured_image: '/uploads/2011/01/sudocu1-402x575.jpg'
 aliases:

@@ -1,7 +1,6 @@
 ---
 title: 'Atmospheric Waves'
 date: 2007-05-07T19:26:34+00:00
-id: 545
 slug: 'atmospheric-wave'
 aliases:
   - '/index.php/2007/05/07/atmospheric-wave/'

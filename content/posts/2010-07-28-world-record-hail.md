@@ -1,7 +1,6 @@
 ---
 title: 'World Record Hail'
 date: 2010-07-28T17:04:30+00:00
-id: 2490
 slug: 'world-record-hail'
 featured_image: '/uploads/2010/07/large_hail.jpg'
 aliases:

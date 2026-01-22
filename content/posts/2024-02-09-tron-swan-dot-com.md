@@ -1,7 +1,6 @@
 ---
 title: 'tron swan dot com'
 date: 2024-02-09T19:08:15+00:00
-id: 8471
 slug: 'tron-swan-dot-com'
 featured_image: '/uploads/2024/04/Screenshot_20240409-124423-461x1024.png'
 aliases:

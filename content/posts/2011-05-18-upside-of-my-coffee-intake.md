@@ -1,7 +1,6 @@
 ---
 title: 'Upside of My Coffee Intake'
 date: 2011-05-18T08:48:27+00:00
-id: 3498
 slug: 'upside-of-my-coffee-intake'
 featured_image: '/uploads/2011/05/i-win.jpg'
 aliases:

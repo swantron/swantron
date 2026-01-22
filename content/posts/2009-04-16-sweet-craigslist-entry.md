@@ -1,7 +1,6 @@
 ---
 title: 'Sweet Craigslist Entry'
 date: 2009-04-16T08:54:15+00:00
-id: 853
 slug: 'sweet-craigslist-entry'
 aliases:
   - '/index.php/2009/04/16/sweet-craigslist-entry/'

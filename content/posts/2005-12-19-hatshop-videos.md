@@ -1,6 +1,5 @@
 ---
 title: 'Hatshop videos'
-id: 6013
 slug: 'hatshop-videos'
 aliases:
   - '/index.php/2005/12/19/hatshop-videos/'

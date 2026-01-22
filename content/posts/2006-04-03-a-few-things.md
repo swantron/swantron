@@ -1,7 +1,6 @@
 ---
 title: 'A Few Things'
 date: 2006-04-03T20:23:12+00:00
-id: 6103
 slug: 'a-few-things'
 aliases:
   - '/index.php/2006/04/03/a-few-things/'

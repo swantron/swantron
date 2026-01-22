@@ -1,7 +1,6 @@
 ---
 title: 'Little People, Big World'
 date: 2008-01-24T19:14:01+00:00
-id: 660
 slug: 'little-people-big-world'
 featured_image: '/uploads/2008/01/littlepeoplebigworld.jpg'
 aliases:

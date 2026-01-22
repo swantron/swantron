@@ -1,7 +1,6 @@
 ---
 title: 'Practical Application of Good Manners'
 date: 2010-10-19T17:58:53+00:00
-id: 2786
 slug: 'practical-application-of-good-manners'
 featured_image: '/uploads/2010/10/have_a_nice_day.jpg'
 aliases:

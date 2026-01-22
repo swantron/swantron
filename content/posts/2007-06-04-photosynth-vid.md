@@ -1,7 +1,6 @@
 ---
 title: 'Photosynth Vid'
 date: 2007-06-04T18:26:58+00:00
-id: 562
 slug: 'photosynth-vid'
 aliases:
   - '/index.php/2007/06/04/photosynth-vid/'

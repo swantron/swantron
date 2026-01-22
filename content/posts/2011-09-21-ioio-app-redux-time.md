@@ -1,7 +1,6 @@
 ---
 title: 'IOIO App Redux Time'
 date: 2011-09-21T09:09:43+00:00
-id: 3839
 slug: 'ioio-app-redux-time'
 featured_image: '/uploads/2011/09/pwm-app-570x320.jpg'
 aliases:

@@ -1,7 +1,6 @@
 ---
 title: 'Custom LED Matrix Project'
 date: 2013-11-14T14:56:06+00:00
-id: 6402
 slug: 'custom-led-matrix-project'
 featured_image: '/uploads/2013/11/led-matrix.jpg'
 aliases:

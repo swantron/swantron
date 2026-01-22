@@ -1,7 +1,6 @@
 ---
 title: 'Kodak Easy Share'
 date: 2010-06-18T15:55:59+00:00
-id: 2343
 slug: 'kodak-easy-share'
 featured_image: '/uploads/2010/06/kodak-easy-share.jpg'
 aliases:

@@ -1,7 +1,6 @@
 ---
 title: 'Christmas Morning Revisited'
 date: 2006-04-18T19:55:45+00:00
-id: 6105
 slug: 'christmas-morning-revisited'
 aliases:
   - '/index.php/2006/04/18/christmas-morning-revisited/'

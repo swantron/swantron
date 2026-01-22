@@ -1,7 +1,6 @@
 ---
 title: 'Custom Auto Detailing'
 date: 2010-06-28T17:07:43+00:00
-id: 2380
 slug: 'custom-auto-detailing'
 featured_image: '/uploads/2010/06/silverado-ss1.jpg'
 aliases:

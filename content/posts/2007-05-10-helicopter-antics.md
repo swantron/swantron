@@ -1,7 +1,6 @@
 ---
 title: 'Helicopter Antics'
 date: 2007-05-10T01:47:15+00:00
-id: 547
 slug: 'helicopter-antics'
 aliases:
   - '/index.php/2007/05/10/helicopter-antics/'

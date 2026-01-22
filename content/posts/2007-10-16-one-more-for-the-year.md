@@ -1,7 +1,6 @@
 ---
 title: 'One More for the Year'
 date: 2007-10-16T16:59:01+00:00
-id: 606
 slug: 'one-more-for-the-year'
 aliases:
   - '/index.php/2007/10/16/one-more-for-the-year/'

@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft Hohm FTW!'
 date: 2010-04-08T09:07:22+00:00
-id: 6196
 slug: 'microsoft-hohm-ftw'
 featured_image: '/uploads/2010/04/hohm_59715_general.jpg'
 aliases:

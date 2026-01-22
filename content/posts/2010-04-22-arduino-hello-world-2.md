@@ -1,7 +1,6 @@
 ---
 title: 'Arduino Hello World'
 date: 2010-04-22T18:44:41+00:00
-id: 6208
 slug: 'arduino-hello-world'
 featured_image: '/uploads/2010/04/arduino_project.jpg'
 aliases:

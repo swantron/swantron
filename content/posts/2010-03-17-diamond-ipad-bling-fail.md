@@ -1,7 +1,6 @@
 ---
 title: 'Diamond iPad | Bling Fail.'
 date: 2010-03-17T17:41:36+00:00
-id: 1826
 slug: 'diamond-ipad-bling-fail'
 featured_image: '/uploads/2010/03/diamond-ipad.jpg'
 aliases:

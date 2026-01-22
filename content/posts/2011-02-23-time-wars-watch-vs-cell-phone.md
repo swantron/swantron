@@ -1,6 +1,5 @@
 ---
 title: 'Time Wars…Watch vs Cell Phone'
-id: 3200
 slug: 'time-wars-watch-vs-cell-phone'
 featured_image: '/uploads/2011/02/subaqua.jpg'
 aliases:

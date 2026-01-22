@@ -1,7 +1,6 @@
 ---
 title: 'Coding Rap'
 date: 2008-04-01T06:37:57+00:00
-id: 718
 slug: 'coding-rap'
 aliases:
   - '/index.php/2008/04/01/coding-rap/'

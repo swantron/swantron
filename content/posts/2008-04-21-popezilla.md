@@ -1,7 +1,6 @@
 ---
 title: 'Popezilla!'
 date: 2008-04-21T19:25:59+00:00
-id: 733
 slug: 'popezilla'
 featured_image: '/uploads/2008/04/tee.jpg'
 aliases:

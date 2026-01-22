@@ -1,7 +1,6 @@
 ---
 title: 'Happy Halloween'
 date: 2007-10-31T17:57:41+00:00
-id: 613
 slug: 'happy-halloween'
 aliases:
   - '/index.php/2007/10/31/happy-halloween/'

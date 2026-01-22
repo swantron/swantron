@@ -1,7 +1,6 @@
 ---
 title: 'I’ll Take It'
 date: 2009-05-27T19:56:07+00:00
-id: 868
 slug: 'ill-take-it'
 featured_image: '/uploads/2009/05/lawnchair.jpg'
 aliases:

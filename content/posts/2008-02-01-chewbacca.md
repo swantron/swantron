@@ -1,7 +1,6 @@
 ---
 title: 'Chewbacca'
 date: 2008-02-01T13:17:58+00:00
-id: 670
 slug: 'chewbacca'
 aliases:
   - '/index.php/2008/02/01/chewbacca/'

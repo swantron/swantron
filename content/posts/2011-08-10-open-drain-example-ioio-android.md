@@ -1,7 +1,6 @@
 ---
 title: 'Open Drain Example IOIO Android'
 date: 2011-08-10T09:16:17+00:00
-id: 3735
 slug: 'open-drain-example-ioio-android'
 featured_image: '/uploads/2011/08/pull-up-resistor.jpg'
 aliases:

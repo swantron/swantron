@@ -1,7 +1,6 @@
 ---
 title: 'Work is Awesome'
 date: 2010-07-01T18:44:02+00:00
-id: 2403
 slug: 'work-is-awesome'
 featured_image: '/uploads/2010/07/desk-drawer.jpg'
 aliases:

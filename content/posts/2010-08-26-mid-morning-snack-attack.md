@@ -1,7 +1,6 @@
 ---
 title: 'Mid-Morning Snack Attack'
 date: 2010-08-26T18:18:01+00:00
-id: 2576
 slug: 'mid-morning-snack-attack'
 featured_image: '/uploads/2010/08/red-lobster.jpg'
 aliases:

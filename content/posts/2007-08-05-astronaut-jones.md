@@ -1,7 +1,6 @@
 ---
 title: 'Astronaut Jones'
 date: 2007-08-05T10:23:50+00:00
-id: 592
 slug: 'astronaut-jones'
 aliases:
   - '/index.php/2007/08/05/astronaut-jones/'

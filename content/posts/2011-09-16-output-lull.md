@@ -1,7 +1,6 @@
 ---
 title: 'Output Lull'
 date: 2011-09-16T18:24:25+00:00
-id: 3825
 slug: 'output-lull'
 featured_image: '/uploads/2011/09/working.jpg'
 aliases:

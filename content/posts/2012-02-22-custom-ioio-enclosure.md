@@ -1,7 +1,6 @@
 ---
 title: 'Custom IOIO Enclosure'
 date: 2012-02-22T11:09:11+00:00
-id: 4401
 slug: 'custom-ioio-enclosure'
 featured_image: '/uploads/2012/02/clocky-teardown-570x319.jpg'
 aliases:

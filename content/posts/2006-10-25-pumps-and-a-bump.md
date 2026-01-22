@@ -1,7 +1,6 @@
 ---
 title: 'Pumps and a Bump'
 date: 2006-10-25T20:09:48+00:00
-id: 402
 slug: 'pumps-and-a-bump'
 aliases:
   - '/index.php/2006/10/25/pumps-and-a-bump/'

@@ -1,7 +1,6 @@
 ---
 title: 'Driving Multiple LEDs with an Arduino'
 date: 2011-04-04T19:05:19+00:00
-id: 3367
 slug: 'driving-multiple-leds-with-an-arduino'
 featured_image: '/uploads/2011/04/6shooter.jpg'
 aliases:

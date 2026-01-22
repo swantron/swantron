@@ -1,7 +1,6 @@
 ---
 title: 'Nerdy Weekend'
 date: 2011-08-06T19:30:44+00:00
-id: 3729
 slug: 'nerdy-weekend'
 featured_image: '/uploads/2011/08/asking-engineer.jpg'
 aliases:

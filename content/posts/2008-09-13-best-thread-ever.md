@@ -1,7 +1,6 @@
 ---
 title: 'Best Thread Ever'
 date: 2008-09-13T14:43:11+00:00
-id: 773
 slug: 'best-thread-ever'
 aliases:
   - '/index.php/2008/09/13/best-thread-ever/'

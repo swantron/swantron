@@ -1,7 +1,6 @@
 ---
 title: 'How Fiber Optics Work'
 date: 2010-09-17T19:23:20+00:00
-id: 2679
 slug: 'how-fiber-optics-work'
 featured_image: '/uploads/2010/09/fiber.jpg'
 aliases:

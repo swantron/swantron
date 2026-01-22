@@ -1,7 +1,6 @@
 ---
 title: 'Android 120V Controller'
 date: 2011-08-26T16:15:40+00:00
-id: 6305
 slug: 'android-120v-controller'
 featured_image: '/uploads/2011/08/ioio-project.jpg'
 aliases:

@@ -1,7 +1,6 @@
 ---
 title: 'Stellarium on Ubuntu'
 date: 2010-06-17T17:30:55+00:00
-id: 2340
 slug: 'stellarium-on-ubuntu'
 featured_image: '/uploads/2010/06/moon-venus.jpg'
 aliases:

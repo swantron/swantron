@@ -1,7 +1,6 @@
 ---
 title: 'New Workspace'
 date: 2012-02-03T17:25:37+00:00
-id: 6351
 slug: 'new-workspace'
 featured_image: '/uploads/2012/02/new_workspace-570x319.jpg'
 aliases:

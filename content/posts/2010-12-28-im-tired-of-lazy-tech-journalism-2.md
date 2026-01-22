@@ -1,7 +1,6 @@
 ---
 title: 'iM tiRed of lazy tech journaliSm'
 date: 2010-12-28T20:27:33+00:00
-id: 2990
 slug: 'im-tired-of-lazy-tech-journalism'
 featured_image: '/uploads/2010/12/ipod_killer.jpg'
 aliases:

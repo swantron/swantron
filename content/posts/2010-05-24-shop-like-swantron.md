@@ -1,7 +1,6 @@
 ---
 title: 'Shop Like Swantron'
 date: 2010-05-24T17:43:53+00:00
-id: 2198
 slug: 'shop-like-swantron'
 featured_image: '/uploads/2010/05/robot-shopping.jpg'
 aliases:

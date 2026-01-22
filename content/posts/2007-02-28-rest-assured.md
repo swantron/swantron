@@ -1,7 +1,6 @@
 ---
 title: 'Rest Assured…'
 date: 2007-02-28T16:58:09+00:00
-id: 485
 slug: 'rest-assured'
 featured_image: '/uploads/2007/02/vhs.jpg'
 aliases:

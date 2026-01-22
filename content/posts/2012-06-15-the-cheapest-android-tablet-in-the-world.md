@@ -1,7 +1,6 @@
 ---
 title: 'The Cheapest Android Tablet in the World'
 date: 2012-06-15T13:15:52+00:00
-id: 4603
 slug: 'the-cheapest-android-tablet-in-the-world'
 featured_image: '/uploads/2012/06/Cruz_Tab.jpg'
 aliases:

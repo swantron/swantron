@@ -1,7 +1,6 @@
 ---
 title: 'Memorial Weekend'
 date: 2007-05-28T01:54:37+00:00
-id: 559
 slug: 'memorial-weekend'
 aliases:
   - '/index.php/2007/05/28/memorial-weekend/'

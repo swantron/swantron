@@ -1,7 +1,6 @@
 ---
 title: 'Excellent Sword'
 date: 2009-07-21T10:52:47+00:00
-id: 6147
 slug: 'excellent-sword'
 featured_image: '/uploads/2009/07/sword.JPG'
 aliases:

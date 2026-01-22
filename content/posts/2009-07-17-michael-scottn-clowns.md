@@ -1,7 +1,6 @@
 ---
 title: 'Michael Scott’n Clowns'
 date: 2009-07-17T08:43:30+00:00
-id: 913
 slug: 'michael-scottn-clowns'
 featured_image: '/uploads/2009/07/pool1.jpg'
 aliases:

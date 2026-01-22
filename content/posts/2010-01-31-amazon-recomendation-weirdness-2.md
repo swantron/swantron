@@ -1,7 +1,6 @@
 ---
 title: 'Amazon Recommendation Weirdness'
 date: 2010-01-31T16:17:38+00:00
-id: 6169
 slug: 'amazon-recomendation-weirdness'
 featured_image: '/uploads/2010/01/Screenshot-575x484.png'
 aliases:

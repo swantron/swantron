@@ -1,7 +1,6 @@
 ---
 title: 'Home Loan Modification Info'
 date: 2010-04-23T11:29:19+00:00
-id: 2053
 slug: 'home-loan-modification-info'
 featured_image: '/uploads/2010/04/home.jpg'
 aliases:

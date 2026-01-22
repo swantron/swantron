@@ -1,11 +1,10 @@
 ---
 title: 'Vegas Reminder'
 date: 2007-03-28T10:11:04+00:00
-id: 515
 slug: 'vegas-reminder'
 featured_image: '/uploads/2007/03/mttat2.jpg'
 aliases:
   - '/index.php/2007/03/28/vegas-reminder/'
 ---
 
-Dave, Chuck Chizzlah, and I are currently being snowed out of our latest fence project. Blah blah blah, Montana weather, blah blah blah. I realized that I have yet to post a picture of the newest addition to my Federline look, courtesy of Twig from Hart &amp; Huntington at the Palms. ![mttat2.jpg](/uploads/2007/03/mttat2.jpg)I think I should quit while I am ahead. Three nerd-ass tattoos are plenty.
+Dave, Chuck Chizzlah, and I are currently being snowed out of our latest fence project. Blah blah blah, Montana weather, blah blah blah. I realized that I have yet to post a picture of the newest addition to my Federline look, courtesy of Twig from Hart & Huntington at the Palms. ![mttat2.jpg](/uploads/2007/03/mttat2.jpg)I think I should quit while I am ahead. Three nerd-ass tattoos are plenty.

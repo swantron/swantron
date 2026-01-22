@@ -1,7 +1,6 @@
 ---
 title: 'Nice Try, Dipshit'
 date: 2009-10-22T16:10:24+00:00
-id: 1015
 slug: 'nice-try-dipshit'
 featured_image: '/uploads/2009/10/tech_douche.jpg'
 aliases:

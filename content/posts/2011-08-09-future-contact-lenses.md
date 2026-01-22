@@ -1,7 +1,6 @@
 ---
 title: 'Future Contact Lenses'
 date: 2011-08-09T09:01:10+00:00
-id: 4669
 slug: 'future-contact-lenses'
 featured_image: '/uploads/2012/08/future_lens.jpg'
 aliases:

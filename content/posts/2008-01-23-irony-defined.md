@@ -1,7 +1,6 @@
 ---
 title: 'Irony Defined'
 date: 2008-01-23T20:22:33+00:00
-id: 659
 slug: 'irony-defined'
 featured_image: '/uploads/2008/01/mexico.jpg'
 aliases:

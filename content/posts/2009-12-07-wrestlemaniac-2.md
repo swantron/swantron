@@ -1,7 +1,6 @@
 ---
 title: 'Wrestlemaniac?'
 date: 2009-12-07T14:56:50+00:00
-id: 6154
 slug: 'wrestlemaniac'
 featured_image: '/uploads/2009/12/wrestlemania.jpg'
 aliases:

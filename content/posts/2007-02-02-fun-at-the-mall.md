@@ -1,7 +1,6 @@
 ---
 title: 'Fun at the Mall'
 date: 2007-02-02T17:39:58+00:00
-id: 469
 slug: 'fun-at-the-mall'
 featured_image: '/uploads/2007/02/amthalete.jpg'
 aliases:

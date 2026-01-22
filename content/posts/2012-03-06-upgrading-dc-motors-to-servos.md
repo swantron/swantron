@@ -1,7 +1,6 @@
 ---
 title: 'Upgrading DC Motors to Servos'
 date: 2012-03-06T11:46:50+00:00
-id: 4431
 slug: 'upgrading-dc-motors-to-servos'
 featured_image: '/uploads/2012/03/clocky_with_servos.jpg'
 aliases:

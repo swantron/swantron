@@ -1,7 +1,6 @@
 ---
 title: 'Layout Amazingness'
 date: 2010-02-20T15:19:18+00:00
-id: 1705
 slug: 'layout-amazingness'
 featured_image: '/uploads/2009/12/official_use.JPG "official_use"'
 aliases:

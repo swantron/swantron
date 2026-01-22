@@ -1,7 +1,6 @@
 ---
 title: 'Quick Salsa'
 date: 2012-03-14T18:20:20+00:00
-id: 4447
 slug: 'quick-salsa'
 featured_image: '/uploads/2012/03/quick-salsa.jpg'
 aliases:

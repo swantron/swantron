@@ -1,7 +1,6 @@
 ---
 title: 'Shoppin’ With Zig'
 date: 2007-12-02T15:22:58+00:00
-id: 628
 slug: 'shoppin-with-zig'
 featured_image: '/uploads/2007/12/media12.jpg'
 aliases:

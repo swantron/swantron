@@ -1,7 +1,6 @@
 ---
 title: 'Android GPS Test'
 date: 2011-01-31T20:03:16+00:00
-id: 3150
 slug: 'android-gps-test'
 featured_image: '/uploads/2011/01/gpsinfo.jpg'
 aliases:

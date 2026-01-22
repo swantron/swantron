@@ -1,7 +1,6 @@
 ---
 title: 'Upgrade to CyanogenMod'
 date: 2011-10-20T12:10:45+00:00
-id: 3942
 slug: 'upgrade-to-cyanogenmod'
 featured_image: '/uploads/2011/10/cyanogenmod1-570x427.jpg'
 aliases:

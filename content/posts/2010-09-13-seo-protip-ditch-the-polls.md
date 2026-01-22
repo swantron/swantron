@@ -1,7 +1,6 @@
 ---
 title: 'SEO Protip:  Ditch the Polls'
 date: 2010-09-13T18:51:25+00:00
-id: 2661
 slug: 'seo-protip-ditch-the-polls'
 featured_image: '/uploads/2010/09/google-custom.jpg'
 aliases:

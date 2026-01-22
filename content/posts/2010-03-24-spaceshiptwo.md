@@ -1,7 +1,6 @@
 ---
 title: 'SpaceShipTwo'
 date: 2010-03-24T18:29:44+00:00
-id: 1874
 slug: 'spaceshiptwo'
 featured_image: '/uploads/2010/03/SpaceShip2.jpg'
 aliases:

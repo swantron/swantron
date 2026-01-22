@@ -1,7 +1,6 @@
 ---
 title: 'MSU Satellite Spoiler'
 date: 2011-11-03T21:28:49+00:00
-id: 6322
 slug: 'msu-satellite-spoiler'
 featured_image: '/uploads/2011/11/HAM-570x319.jpg'
 aliases:

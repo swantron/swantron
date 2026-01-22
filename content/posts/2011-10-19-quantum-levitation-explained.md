@@ -1,7 +1,6 @@
 ---
 title: 'Quantum Levitation Explained'
 date: 2011-10-19T13:01:26+00:00
-id: 3934
 slug: 'quantum-levitation-explained'
 featured_image: '/uploads/2011/10/quantum-levitation-570x316.png'
 aliases:

@@ -1,7 +1,6 @@
 ---
 title: 'The Final Countdown'
 date: 2007-12-10T21:03:47+00:00
-id: 636
 slug: 'the-final-countdown'
 aliases:
   - '/index.php/2007/12/10/the-final-countdown/'

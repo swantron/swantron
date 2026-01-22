@@ -1,7 +1,6 @@
 ---
 title: 'Python IO on rPi'
 date: 2013-01-09T17:01:52+00:00
-id: 6384
 slug: 'python-io-on-rpi'
 featured_image: '/uploads/2013/01/cobbler.jpg'
 aliases:

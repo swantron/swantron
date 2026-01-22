@@ -1,7 +1,6 @@
 ---
 title: 'Arduino Robot'
 date: 2010-05-01T16:01:56+00:00
-id: 2076
 slug: 'arduino-robot'
 featured_image: '/uploads/2010/05/arduinos.jpg'
 aliases:

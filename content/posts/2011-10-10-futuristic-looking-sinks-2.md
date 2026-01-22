@@ -1,7 +1,6 @@
 ---
 title: 'Futuristic Looking Sinks'
 date: 2011-10-10T19:53:36+00:00
-id: 6316
 slug: 'futuristic-looking-sinks'
 featured_image: '/uploads/2011/10/robotic-sinc-570x482.jpg'
 aliases:

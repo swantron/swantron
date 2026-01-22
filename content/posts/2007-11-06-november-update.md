@@ -1,7 +1,6 @@
 ---
 title: 'November Update'
 date: 2007-11-06T19:26:00+00:00
-id: 617
 slug: 'november-update'
 featured_image: '/uploads/2007/11/josephswanson.jpg'
 aliases:

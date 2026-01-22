@@ -1,7 +1,6 @@
 ---
 title: 'Apache Infatuation'
 date: 2006-05-29T17:54:24+00:00
-id: 6113
 slug: 'apache-infatuation'
 aliases:
   - '/index.php/2006/05/29/apache-infatuation/'

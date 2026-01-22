@@ -1,7 +1,6 @@
 ---
 title: 'ALL YOUR BASE'
 date: 2010-03-23T18:14:36+00:00
-id: 1870
 slug: 'all-your-base'
 featured_image: '/uploads/2010/03/all-your-base-are-belong-to-us.jpg'
 aliases:

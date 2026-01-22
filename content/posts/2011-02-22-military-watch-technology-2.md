@@ -1,7 +1,6 @@
 ---
 title: 'Military Watch Technology'
 date: 2011-02-22T08:34:19+00:00
-id: 6265
 slug: 'military-watch-technology'
 featured_image: '/uploads/2011/04/military-watch.jpg'
 aliases:

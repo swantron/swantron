@@ -1,7 +1,6 @@
 ---
 title: 'Tampa Bay Rays'
 date: 2007-09-27T02:34:22+00:00
-id: 604
 slug: 'tampa-bay-rays'
 featured_image: '/uploads/2007/09/dray.jpg'
 aliases:

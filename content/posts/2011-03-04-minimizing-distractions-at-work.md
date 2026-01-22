@@ -1,7 +1,6 @@
 ---
 title: 'Minimizing Distractions at Work'
 date: 2011-03-04T15:26:09+00:00
-id: 3232
 slug: 'minimizing-distractions-at-work'
 featured_image: '/uploads/2011/03/work-lab.jpg'
 aliases:

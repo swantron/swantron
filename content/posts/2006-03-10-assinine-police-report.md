@@ -1,7 +1,6 @@
 ---
 title: 'Assinine Police Report'
 date: 2006-03-10T17:22:22+00:00
-id: 6097
 slug: 'assinine-police-report'
 aliases:
   - '/index.php/2006/03/10/assinine-police-report/'

@@ -1,7 +1,6 @@
 ---
 title: 'House Explostion'
 date: 2007-01-14T19:05:13+00:00
-id: 447
 slug: 'house-explostion'
 featured_image: '/uploads/2007/01/boom.jpg'
 aliases:

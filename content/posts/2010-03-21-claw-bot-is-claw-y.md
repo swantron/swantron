@@ -1,7 +1,6 @@
 ---
 title: 'Claw-bot is Claw-y'
 date: 2010-03-21T14:59:29+00:00
-id: 1842
 slug: 'claw-bot-is-claw-y'
 featured_image: '/uploads/2010/03/IMG00066-1024x768.jpg'
 aliases:

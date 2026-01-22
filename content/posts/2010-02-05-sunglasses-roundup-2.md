@@ -1,7 +1,6 @@
 ---
 title: 'Sunglasses Roundup'
 date: 2010-02-05T11:34:17+00:00
-id: 6171
 slug: 'sunglasses-roundup'
 featured_image: '/uploads/2010/02/oakley_thump_hi.jpg'
 aliases:

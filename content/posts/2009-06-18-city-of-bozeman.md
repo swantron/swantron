@@ -1,7 +1,6 @@
 ---
 title: 'City of Bozeman'
 date: 2009-06-18T11:34:02+00:00
-id: 880
 slug: 'city-of-bozeman'
 featured_image: '/uploads/2009/06/boz.jpg'
 aliases:

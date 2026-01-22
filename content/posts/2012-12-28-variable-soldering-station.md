@@ -1,7 +1,6 @@
 ---
 title: 'Variable Soldering Station'
 date: 2012-12-28T08:35:05+00:00
-id: 4804
 slug: 'variable-soldering-station'
 featured_image: '/uploads/2013/01/cork-sawdust.jpg'
 aliases:

@@ -1,7 +1,6 @@
 ---
 title: 'Filth and Foul'
 date: 2008-04-07T14:15:37+00:00
-id: 723
 slug: 'filth-and-foul'
 featured_image: '/uploads/2008/04/nickb.jpg'
 aliases:

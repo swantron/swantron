@@ -1,7 +1,6 @@
 ---
 title: 'Bluetooth Servo Control'
 date: 2011-11-18T13:55:04+00:00
-id: 4106
 slug: 'bluetooth-servo-control'
 featured_image: '/uploads/2011/11/bluetooth-servo-570x313.png'
 aliases:

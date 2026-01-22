@@ -1,7 +1,6 @@
 ---
 title: 'Uranium For Sale…Yes, Please'
 date: 2010-03-09T16:41:18+00:00
-id: 6182
 slug: 'uranium-for-sale-yes-please'
 featured_image: '/uploads/2010/03/amazon-1.jpg'
 aliases:

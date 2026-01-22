@@ -1,7 +1,6 @@
 ---
 title: 'Home Security Chat'
 date: 2011-02-12T16:42:50+00:00
-id: 3159
 slug: 'home-security-chat'
 featured_image: '/uploads/2011/02/sec_cam.jpg'
 aliases:

@@ -1,7 +1,6 @@
 ---
 title: 'Google Apps Chat'
 date: 2010-06-16T17:14:02+00:00
-id: 6229
 slug: 'google-apps-chat'
 featured_image: '/uploads/2010/06/google.jpg'
 aliases:

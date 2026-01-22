@@ -1,7 +1,6 @@
 ---
 title: 'Ultrasonic Distance Sensing'
 date: 2011-04-12T18:09:29+00:00
-id: 3396
 slug: 'ultrasonic-distance-sensing'
 featured_image: '/uploads/2011/04/ultrasonic.jpg'
 aliases:

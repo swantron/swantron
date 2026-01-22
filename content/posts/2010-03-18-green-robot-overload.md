@@ -1,7 +1,6 @@
 ---
 title: 'Green Robot Overload'
 date: 2010-03-18T18:10:51+00:00
-id: 1830
 slug: 'green-robot-overload'
 featured_image: '/uploads/2010/03/IMG00067-1024x768.jpg'
 aliases:

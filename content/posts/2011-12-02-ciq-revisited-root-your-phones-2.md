@@ -1,7 +1,6 @@
 ---
 title: 'CIQ Revisited: Root Your Phones'
 date: 2011-12-02T13:47:57+00:00
-id: 6332
 slug: 'ciq-revisited-root-your-phones'
 featured_image: '/uploads/2011/12/carrierIQ.jpg'
 aliases:

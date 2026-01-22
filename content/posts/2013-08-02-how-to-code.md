@@ -1,7 +1,6 @@
 ---
 title: 'How to Code'
 date: 2013-08-02T15:21:31+00:00
-id: 4915
 slug: 'how-to-code'
 featured_image: '/uploads/2013/08/how_to_code.jpg'
 aliases:

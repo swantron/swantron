@@ -1,7 +1,6 @@
 ---
 title: 'Windows Woes'
 date: 2009-01-06T20:31:56+00:00
-id: 828
 slug: 'windows-woes'
 featured_image: '/uploads/2009/01/fuck7.jpg'
 aliases:

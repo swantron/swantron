@@ -1,7 +1,6 @@
 ---
 title: 'Celebrity endorsement'
 date: 2006-02-21T10:46:39+00:00
-id: 6091
 slug: 'celebrity-endorsement'
 featured_image: '/uploads/2006/02/biba11.jpg'
 aliases:

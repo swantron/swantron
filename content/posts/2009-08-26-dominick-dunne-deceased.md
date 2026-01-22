@@ -1,7 +1,6 @@
 ---
 title: 'Dominick Dunne, Deceased'
 date: 2009-08-26T14:11:59+00:00
-id: 959
 slug: 'dominick-dunne-deceased'
 featured_image: '/uploads/2009/08/dunne.jpg'
 aliases:

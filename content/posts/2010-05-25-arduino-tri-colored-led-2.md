@@ -1,7 +1,6 @@
 ---
 title: 'Arduino Tri-Colored LED'
 date: 2010-05-25T20:59:39+00:00
-id: 6223
 slug: 'arduino-tri-colored-led'
 featured_image: '/uploads/2010/05/arduino-led.jpg'
 aliases:

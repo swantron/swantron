@@ -1,7 +1,6 @@
 ---
 title: 'Some Peaple are Retarded'
 date: 2009-06-03T13:49:52+00:00
-id: 876
 slug: 'some-peaple-are-retarded'
 featured_image: '/uploads/2009/06/trailer.JPG'
 aliases:

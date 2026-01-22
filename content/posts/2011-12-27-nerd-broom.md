@@ -1,7 +1,6 @@
 ---
 title: 'Nerd Broom'
 date: 2011-12-27T08:09:47+00:00
-id: 4227
 slug: 'nerd-broom'
 featured_image: '/uploads/2011/12/nerd_broom-570x304.jpg'
 aliases:

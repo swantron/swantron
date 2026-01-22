@@ -1,7 +1,6 @@
 ---
 title: 'Ed McMahon Voice…'
 date: 2008-03-27T03:21:50+00:00
-id: 713
 slug: 'ed-mcmahon-voice'
 aliases:
   - '/index.php/2008/03/27/ed-mcmahon-voice/'

@@ -1,7 +1,6 @@
 ---
 title: 'IOIO Servo Project Recap'
 date: 2011-09-28T19:55:01+00:00
-id: 3861
 slug: 'ioio-servo-project-recap'
 featured_image: '/uploads/2011/09/IOIO-Git-570x356.png'
 aliases:

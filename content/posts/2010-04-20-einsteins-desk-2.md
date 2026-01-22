@@ -1,7 +1,6 @@
 ---
 title: 'Einstein’s Desk'
 date: 2010-04-20T19:11:36+00:00
-id: 6204
 slug: 'einsteins-desk-2'
 featured_image: '/uploads/2010/04/einstein-desk.jpg'
 aliases:

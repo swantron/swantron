@@ -1,7 +1,6 @@
 ---
 title: 'Drunken Bull Dance'
 date: 2008-06-14T21:31:39+00:00
-id: 764
 slug: 'drunken-bull-dance'
 aliases:
   - '/index.php/2008/06/14/drunken-bull-dance/'

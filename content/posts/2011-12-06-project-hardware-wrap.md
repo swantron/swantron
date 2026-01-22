@@ -1,7 +1,6 @@
 ---
 title: 'Project Hardware Wrap'
 date: 2011-12-06T19:57:35+00:00
-id: 4139
 slug: 'project-hardware-wrap'
 featured_image: '/uploads/2011/12/rov-570x282.jpg'
 aliases:
