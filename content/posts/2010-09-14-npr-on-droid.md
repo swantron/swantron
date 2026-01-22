@@ -4,7 +4,6 @@ date: 2010-09-14T17:10:11+00:00
 id: 2670
 slug: 'npr-on-droid'
 featured_image: '/uploads/2010/09/green-droid.jpg'
-description: ''
 aliases:
   - '/index.php/2010/09/14/npr-on-droid/'
 ---

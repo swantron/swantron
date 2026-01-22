@@ -4,7 +4,6 @@ date: 2010-10-21T08:43:20+00:00
 id: 6248
 slug: 'neural-network-learning'
 featured_image: '/uploads/2010/10/gay_robot.jpg'
-description: ''
 aliases:
   - '/index.php/2010/10/21/neural-network-learning/'
 ---

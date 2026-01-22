@@ -4,7 +4,6 @@ date: 2012-02-01T17:31:33+00:00
 id: 4337
 slug: 'woot-customer-support'
 featured_image: '/uploads/2012/02/mr_beer-570x319.jpg'
-description: ''
 aliases:
   - '/index.php/2012/02/01/woot-customer-support/'
 ---

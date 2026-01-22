@@ -4,7 +4,6 @@ date: 2012-10-24T12:57:50+00:00
 id: 4765
 slug: 're-imaging-windows-for-work'
 featured_image: '/uploads/2012/10/windows_dev_image.jpg'
-description: ''
 aliases:
   - '/index.php/2012/10/24/re-imaging-windows-for-work/'
 ---

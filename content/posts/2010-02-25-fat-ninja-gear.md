@@ -4,7 +4,6 @@ date: 2010-02-25T15:29:50+00:00
 id: 1747
 slug: 'fat-ninja-gear'
 featured_image: '/uploads/2010/02/fat-ninja.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/25/fat-ninja-gear/'
 ---

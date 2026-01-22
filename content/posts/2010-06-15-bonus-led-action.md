@@ -4,7 +4,6 @@ date: 2010-06-15T18:11:43+00:00
 id: 2317
 slug: 'bonus-led-action'
 featured_image: '/uploads/2010/06/solar-cell-led.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/15/bonus-led-action/'
 ---

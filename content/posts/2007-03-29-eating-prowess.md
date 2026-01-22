@@ -4,7 +4,6 @@ date: 2007-03-29T19:27:15+00:00
 id: 520
 slug: 'eating-prowess'
 featured_image: '/uploads/2007/03/chicken2.jpg'
-description: ''
 aliases:
   - '/index.php/2007/03/29/eating-prowess/'
 ---

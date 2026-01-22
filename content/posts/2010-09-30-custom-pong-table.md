@@ -4,7 +4,6 @@ date: 2010-09-30T16:47:56+00:00
 id: 2714
 slug: 'custom-pong-table'
 featured_image: '/uploads/2010/09/ping-pong.jpg'
-description: ''
 aliases:
   - '/index.php/2010/09/30/custom-pong-table/'
 ---

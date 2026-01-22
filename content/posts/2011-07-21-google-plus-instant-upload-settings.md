@@ -4,7 +4,6 @@ date: 2011-07-21T12:49:30+00:00
 id: 3694
 slug: 'google-plus-instant-upload-settings'
 featured_image: '/uploads/2011/07/cubicle-bacon.jpg'
-description: ''
 aliases:
   - '/index.php/2011/07/21/google-plus-instant-upload-settings/'
 ---

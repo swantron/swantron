@@ -3,7 +3,6 @@ title: 'Phelps Minute'
 date: 2008-09-12T18:36:11+00:00
 id: 772
 slug: 'phelps-minute'
-description: ''
 aliases:
   - '/index.php/2008/09/12/phelps-minute/'
 ---

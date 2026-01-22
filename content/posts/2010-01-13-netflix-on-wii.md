@@ -4,7 +4,6 @@ date: 2010-01-13T13:03:16+00:00
 id: 1479
 slug: 'netflix-on-wii'
 featured_image: '/uploads/2010/01/Wii-Netflix.jpg'
-description: ''
 aliases:
   - '/index.php/2010/01/13/netflix-on-wii/'
 ---

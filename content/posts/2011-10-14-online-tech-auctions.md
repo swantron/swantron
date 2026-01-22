@@ -4,7 +4,6 @@ date: 2011-10-14T12:10:23+00:00
 id: 3925
 slug: 'online-tech-auctions'
 featured_image: '/uploads/2011/10/dealfun-570x351.jpg'
-description: ''
 aliases:
   - '/index.php/2011/10/14/online-tech-auctions/'
 ---

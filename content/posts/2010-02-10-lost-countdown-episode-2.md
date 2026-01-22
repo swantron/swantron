@@ -4,7 +4,6 @@ date: 2010-02-10T08:44:31+00:00
 id: 1665
 slug: 'lost-countdown-episode'
 featured_image: '/uploads/2010/02/lost-kate.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/10/lost-countdown-episode/'
 ---

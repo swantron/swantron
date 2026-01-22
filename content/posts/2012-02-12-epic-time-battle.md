@@ -4,7 +4,6 @@ date: 2012-02-12T13:58:01+00:00
 id: 6354
 slug: 'epic-time-battle'
 featured_image: '/uploads/2012/02/seiko-2-570x537.png'
-description: ''
 aliases:
   - '/index.php/2012/02/12/epic-time-battle/'
 ---

@@ -4,7 +4,6 @@ date: 2006-03-25T13:59:05+00:00
 id: 6100
 slug: 'jamaican-pictorial'
 featured_image: '/uploads/2006/03/jam55.jpg'
-description: ''
 aliases:
   - '/index.php/2006/03/25/jamaican-pictorial/'
 ---

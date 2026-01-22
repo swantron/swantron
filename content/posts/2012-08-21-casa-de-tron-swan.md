@@ -4,7 +4,6 @@ date: 2012-08-21T19:59:33+00:00
 id: 6373
 slug: 'casa-de-tron-swan'
 featured_image: '/uploads/2012/08/swantron_house.jpg'
-description: ''
 aliases:
   - '/index.php/2012/08/21/casa-de-tron-swan/'
 ---

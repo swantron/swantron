@@ -4,7 +4,6 @@ date: 2006-01-06T19:07:05+00:00
 id: 6069
 slug: 'happy-weekend'
 featured_image: '/uploads/2006/01/rocker.jpg'
-description: ''
 aliases:
   - '/index.php/2006/01/06/happy-weekend/'
 ---

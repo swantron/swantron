@@ -4,7 +4,6 @@ date: 2005-11-06T18:13:01+00:00
 id: 5916
 slug: 'here-we-go-again'
 featured_image: '/uploads/swantron/wp-content/daryl1.jpg'
-description: ''
 aliases:
   - '/index.php/2005/11/06/here-we-go-again/'
 ---

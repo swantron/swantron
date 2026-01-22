@@ -4,7 +4,6 @@ date: 2008-09-15T19:30:15+00:00
 id: 775
 slug: 'comics-are-horrible'
 featured_image: '/uploads/2008/09/family_circus.gif'
-description: ''
 aliases:
   - '/index.php/2008/09/15/comics-are-horrible/'
 ---

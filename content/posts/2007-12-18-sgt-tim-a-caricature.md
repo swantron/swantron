@@ -4,7 +4,6 @@ date: 2007-12-18T19:11:44+00:00
 id: 645
 slug: 'sgt-tim-a-caricature'
 featured_image: '/uploads/2007/12/tim.jpg'
-description: ''
 aliases:
   - '/index.php/2007/12/18/sgt-tim-a-caricature/'
 ---

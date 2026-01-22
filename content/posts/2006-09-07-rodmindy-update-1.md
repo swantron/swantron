@@ -4,7 +4,6 @@ date: 2006-09-07T02:02:28+00:00
 id: 366
 slug: 'rodmindy-update-1'
 featured_image: '/uploads/2006/09/zignrev.jpg'
-description: ''
 aliases:
   - '/index.php/2006/09/07/rodmindy-update-1/'
 ---

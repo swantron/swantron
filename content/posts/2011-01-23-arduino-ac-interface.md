@@ -4,7 +4,6 @@ date: 2011-01-23T18:12:02+00:00
 id: 3127
 slug: 'arduino-ac-interface'
 featured_image: '/uploads/2011/01/powerswitchtail.jpg'
-description: ''
 aliases:
   - '/index.php/2011/01/23/arduino-ac-interface/'
 ---

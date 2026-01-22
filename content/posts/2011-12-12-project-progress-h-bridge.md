@@ -4,7 +4,6 @@ date: 2011-12-12T17:20:54+00:00
 id: 4159
 slug: 'project-progress-h-bridge'
 featured_image: '/uploads/2011/12/motor_shield_ioio-570x320.jpg'
-description: ''
 aliases:
   - '/index.php/2011/12/12/project-progress-h-bridge/'
 ---

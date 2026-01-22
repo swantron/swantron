@@ -4,7 +4,6 @@ date: 2008-12-07T20:44:25+00:00
 id: 812
 slug: 'charles-shamamma-artist'
 featured_image: '/uploads/2008/12/crex.jpg'
-description: ''
 aliases:
   - '/index.php/2008/12/07/charles-shamamma-artist/'
 ---

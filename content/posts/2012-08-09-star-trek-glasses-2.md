@@ -4,7 +4,6 @@ date: 2012-08-09T08:56:48+00:00
 id: 6369
 slug: 'star-trek-glasses'
 featured_image: '/uploads/2012/08/geordi_la_forge.jpg'
-description: ''
 aliases:
   - '/index.php/2012/08/09/star-trek-glasses/'
 ---

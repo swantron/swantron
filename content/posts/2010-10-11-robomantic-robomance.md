@@ -4,7 +4,6 @@ date: 2010-10-11T12:35:08+00:00
 id: 2757
 slug: 'robomantic-robomance'
 featured_image: '/uploads/2010/10/king-of-the-world.jpg'
-description: ''
 aliases:
   - '/index.php/2010/10/11/robomantic-robomance/'
 ---

@@ -4,7 +4,6 @@ date: 2010-08-09T17:13:20+00:00
 id: 2520
 slug: 'antivirus-protection-chat'
 featured_image: '/uploads/2010/08/computer-virus.jpg'
-description: ''
 aliases:
   - '/index.php/2010/08/09/antivirus-protection-chat/'
 ---

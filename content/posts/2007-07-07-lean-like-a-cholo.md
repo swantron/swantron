@@ -3,7 +3,6 @@ title: 'Lean like a Cholo'
 date: 2007-07-07T19:21:26+00:00
 id: 576
 slug: 'lean-like-a-cholo'
-description: ''
 aliases:
   - '/index.php/2007/07/07/lean-like-a-cholo/'
 ---

@@ -4,7 +4,6 @@ date: 2012-03-04T22:17:47+00:00
 id: 6356
 slug: 'working-for-oracle'
 featured_image: '/uploads/2012/03/oracle.jpg'
-description: ''
 aliases:
   - '/index.php/2012/03/04/working-for-oracle/'
 ---

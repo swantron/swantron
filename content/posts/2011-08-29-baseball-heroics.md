@@ -4,7 +4,6 @@ date: 2011-08-29T19:12:30+00:00
 id: 3778
 slug: 'baseball-heroics'
 featured_image: '/uploads/2011/08/bozeman-baseball1-648x1024.jpg'
-description: ''
 aliases:
   - '/index.php/2011/08/29/baseball-heroics/'
 ---

@@ -4,7 +4,6 @@ date: 2011-11-19T17:11:24+00:00
 id: 4109
 slug: 'bluetooth-servo-control-redux'
 featured_image: '/uploads/2011/11/no-cord-570x207.jpg'
-description: ''
 aliases:
   - '/index.php/2011/11/19/bluetooth-servo-control-redux/'
 ---

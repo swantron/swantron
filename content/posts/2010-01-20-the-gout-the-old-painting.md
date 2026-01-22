@@ -4,7 +4,6 @@ date: 2010-01-20T12:47:04+00:00
 id: 1533
 slug: 'the-gout-the-old-painting'
 featured_image: '/uploads/2010/01/Gout.jpg'
-description: ''
 aliases:
   - '/index.php/2010/01/20/the-gout-the-old-painting/'
 ---

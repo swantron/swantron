@@ -4,7 +4,6 @@ date: 2008-07-05T21:16:53+00:00
 id: 762
 slug: 'whos-that-guy'
 featured_image: '/uploads/2008/07/thatguy2.jpg'
-description: ''
 aliases:
   - '/index.php/2008/07/05/whos-that-guy/'
 ---

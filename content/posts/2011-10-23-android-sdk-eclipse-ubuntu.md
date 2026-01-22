@@ -4,7 +4,6 @@ date: 2011-10-23T14:05:45+00:00
 id: 3962
 slug: 'android-sdk-eclipse-ubuntu'
 featured_image: '/uploads/2011/10/eclipse-ftl-570x292.png'
-description: ''
 aliases:
   - '/index.php/2011/10/23/android-sdk-eclipse-ubuntu/'
 ---

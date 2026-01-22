@@ -4,7 +4,6 @@ date: 2010-10-27T18:13:23+00:00
 id: 2826
 slug: 'wiimote-input-for-droid'
 featured_image: '/uploads/2010/10/besties.jpg'
-description: ''
 aliases:
   - '/index.php/2010/10/27/wiimote-input-for-droid/'
 ---

@@ -4,7 +4,6 @@ date: 2011-12-21T12:15:22+00:00
 id: 6336
 slug: 'droid-4-vs-droid-razr'
 featured_image: '/uploads/2011/12/moto-droid-4.jpg'
-description: ''
 aliases:
   - '/index.php/2011/12/21/droid-4-vs-droid-razr/'
 ---

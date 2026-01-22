@@ -4,7 +4,6 @@ date: 2010-06-29T18:33:07+00:00
 id: 2392
 slug: 'aruino-ethernet-in-the-mail'
 featured_image: '/uploads/2010/06/arduino-shield.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/29/aruino-ethernet-in-the-mail/'
 ---

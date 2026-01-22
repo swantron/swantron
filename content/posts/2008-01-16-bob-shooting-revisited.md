@@ -4,7 +4,6 @@ date: 2008-01-16T17:45:40+00:00
 id: 657
 slug: 'bob-shooting-revisited'
 featured_image: '/uploads/2008/01/bigbob.jpg'
-description: ''
 aliases:
   - '/index.php/2008/01/16/bob-shooting-revisited/'
 ---

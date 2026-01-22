@@ -4,7 +4,6 @@ date: 2010-05-03T18:12:08+00:00
 id: 2099
 slug: 'high-5-top-online-degrees'
 featured_image: '/uploads/2010/05/computer-dude.jpg'
-description: ''
 aliases:
   - '/index.php/2010/05/03/high-5-top-online-degrees/'
 ---

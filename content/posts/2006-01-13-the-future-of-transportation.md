@@ -4,7 +4,6 @@ date: 2006-01-13T15:51:03+00:00
 id: 6072
 slug: 'the-future-of-transportation'
 featured_image: '/uploads/2006/01/kukaracha.jpg'
-description: ''
 aliases:
   - '/index.php/2006/01/13/the-future-of-transportation/'
 ---

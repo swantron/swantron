@@ -4,7 +4,6 @@ date: 2010-02-02T16:40:34+00:00
 id: 1615
 slug: 'landscaper-vs-toddler'
 featured_image: '/uploads/2010/02/truck1-575x431.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/02/landscaper-vs-toddler/'
 ---

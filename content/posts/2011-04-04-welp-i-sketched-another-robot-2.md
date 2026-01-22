@@ -4,7 +4,6 @@ date: 2011-04-04T18:25:41+00:00
 id: 6266
 slug: 'welp-i-sketched-another-robot'
 featured_image: '/uploads/2011/04/awksed.jpg'
-description: ''
 aliases:
   - '/index.php/2011/04/04/welp-i-sketched-another-robot/'
 ---

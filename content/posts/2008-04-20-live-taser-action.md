@@ -3,7 +3,6 @@ title: 'Live Taser Action'
 date: 2008-04-20T18:10:51+00:00
 id: 730
 slug: 'live-taser-action'
-description: ''
 aliases:
   - '/index.php/2008/04/20/live-taser-action/'
 ---

@@ -4,7 +4,6 @@ date: 2010-12-07T10:43:26+00:00
 id: 2926
 slug: 'north-face-denali'
 featured_image: '/uploads/2010/12/robo_coat.jpg'
-description: ''
 aliases:
   - '/index.php/2010/12/07/north-face-denali/'
 ---

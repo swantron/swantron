@@ -4,7 +4,6 @@ date: 2010-01-24T13:36:02+00:00
 id: 1543
 slug: 'ps3-review-first-person-shooters'
 featured_image: '/uploads/2010/01/PS3-Controller.jpg'
-description: ''
 aliases:
   - '/index.php/2010/01/24/ps3-review-first-person-shooters/'
 ---

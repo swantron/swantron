@@ -3,7 +3,6 @@ title: 'Pee Wee Brawl'
 date: 2007-03-29T02:30:38+00:00
 id: 517
 slug: 'pee-wee-brawl'
-description: ''
 aliases:
   - '/index.php/2007/03/29/pee-wee-brawl/'
 ---

@@ -4,7 +4,6 @@ date: 2010-03-20T15:08:53+00:00
 id: 6192
 slug: 'improving-existing-products-a-how-to-2'
 featured_image: '/uploads/2010/03/dogi-pot.jpg'
-description: ''
 aliases:
   - '/index.php/2010/03/20/improving-existing-products-a-how-to-2/'
 ---

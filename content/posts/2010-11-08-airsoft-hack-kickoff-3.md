@@ -4,7 +4,6 @@ date: 2010-11-08T12:08:01+00:00
 id: 6252
 slug: 'airsoft-hack-kickoff-3'
 featured_image: '/uploads/2010/11/airsoft_hack.jpg'
-description: ''
 aliases:
   - '/index.php/2010/11/08/airsoft-hack-kickoff-3/'
 ---

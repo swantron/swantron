@@ -4,7 +4,6 @@ date: 2011-05-04T12:14:42+00:00
 id: 3457
 slug: 'verizon-wifi-tether-droid-ubuntu'
 featured_image: '/uploads/2011/05/droid2-tether.jpg'
-description: ''
 aliases:
   - '/index.php/2011/05/04/verizon-wifi-tether-droid-ubuntu/'
 ---

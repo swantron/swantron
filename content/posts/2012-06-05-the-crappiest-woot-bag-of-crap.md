@@ -4,7 +4,6 @@ date: 2012-06-05T21:28:08+00:00
 id: 4581
 slug: 'the-crappiest-woot-bag-of-crap'
 featured_image: '/uploads/2012/06/crappiest_bag_of_crap.jpg'
-description: ''
 aliases:
   - '/index.php/2012/06/05/the-crappiest-woot-bag-of-crap/'
 ---

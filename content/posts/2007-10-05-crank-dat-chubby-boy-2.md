@@ -3,7 +3,6 @@ title: 'Crank Dat Chubby Boy'
 date: 2007-10-05T15:23:15+00:00
 id: 6123
 slug: 'crank-dat-chubby-boy'
-description: ''
 aliases:
   - '/index.php/2007/10/05/crank-dat-chubby-boy/'
 ---

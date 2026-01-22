@@ -4,7 +4,6 @@ date: 2012-02-11T14:37:23+00:00
 id: 4361
 slug: 'ioio-project-revamp'
 featured_image: '/uploads/2012/02/ioio_remote-570x283.jpg'
-description: ''
 aliases:
   - '/index.php/2012/02/11/ioio-project-revamp/'
 ---

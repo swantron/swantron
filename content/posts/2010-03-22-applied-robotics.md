@@ -4,7 +4,6 @@ date: 2010-03-22T17:19:49+00:00
 id: 1853
 slug: 'applied-robotics'
 featured_image: '/uploads/2010/03/dwfritzlarge.jpg'
-description: ''
 aliases:
   - '/index.php/2010/03/22/applied-robotics/'
 ---

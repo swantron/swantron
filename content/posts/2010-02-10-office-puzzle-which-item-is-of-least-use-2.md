@@ -4,7 +4,6 @@ date: 2010-02-10T03:19:24+00:00
 id: 6172
 slug: 'office-puzzle-which-item-is-of-least-use'
 featured_image: '/uploads/2010/02/useless.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/10/office-puzzle-which-item-is-of-least-use/'
 ---

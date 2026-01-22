@@ -3,7 +3,6 @@ title: 'Going Places'
 date: 2006-08-06T13:21:51+00:00
 id: 336
 slug: 'going-places'
-description: ''
 aliases:
   - '/index.php/2006/08/06/going-places/'
 ---

@@ -4,7 +4,6 @@ date: 2006-09-19T23:12:55+00:00
 id: 372
 slug: 'stupid-car'
 featured_image: '/uploads/2006/09/stupid-car-two.jpg'
-description: ''
 aliases:
   - '/index.php/2006/09/19/stupid-car/'
 ---

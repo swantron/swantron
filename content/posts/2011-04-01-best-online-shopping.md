@@ -4,7 +4,6 @@ date: 2011-04-01T09:47:48+00:00
 id: 3461
 slug: 'best-online-shopping'
 featured_image: '/uploads/2011/05/saving-money.jpg'
-description: ''
 aliases:
   - '/index.php/2011/04/01/best-online-shopping/'
 ---

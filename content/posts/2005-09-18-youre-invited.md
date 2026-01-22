@@ -4,7 +4,6 @@ date: 2005-09-18T14:37:56+00:00
 id: 5820
 slug: 'youre-invited'
 featured_image: '/uploads/swantron/wp-content/ttwotwo.jpg'
-description: ''
 aliases:
   - '/index.php/2005/09/18/youre-invited/'
 ---

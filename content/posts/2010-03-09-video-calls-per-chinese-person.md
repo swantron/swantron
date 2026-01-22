@@ -4,7 +4,6 @@ date: 2010-03-09T23:14:53+00:00
 id: 1775
 slug: 'video-calls-per-chinese-person'
 featured_image: '/uploads/2010/03/loc2.jpg'
-description: ''
 aliases:
   - '/index.php/2010/03/09/video-calls-per-chinese-person/'
 ---

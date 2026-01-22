@@ -3,7 +3,6 @@ title: 'Sort of Spooky'
 date: 2007-04-05T18:05:02+00:00
 id: 525
 slug: 'sort-of-spooky'
-description: ''
 aliases:
   - '/index.php/2007/04/05/sort-of-spooky/'
 ---

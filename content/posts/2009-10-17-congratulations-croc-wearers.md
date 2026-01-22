@@ -4,7 +4,6 @@ date: 2009-10-17T14:10:59+00:00
 id: 995
 slug: 'congratulations-croc-wearers'
 featured_image: '/uploads/2009/10/dino-shoes.jpg'
-description: ''
 aliases:
   - '/index.php/2009/10/17/congratulations-croc-wearers/'
 ---

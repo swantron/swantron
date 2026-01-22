@@ -4,7 +4,6 @@ date: 2010-04-14T12:27:37+00:00
 id: 1962
 slug: 'laser-tomfoolery-ends-in-arrest'
 featured_image: '/uploads/2010/04/laser.jpg'
-description: ''
 aliases:
   - '/index.php/2010/04/14/laser-tomfoolery-ends-in-arrest/'
 ---

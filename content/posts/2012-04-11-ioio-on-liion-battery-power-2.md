@@ -4,7 +4,6 @@ date: 2012-04-11T20:55:00+00:00
 id: 6364
 slug: 'ioio-on-liion-battery-power'
 featured_image: '/uploads/2012/04/ioio-external-power.jpg'
-description: ''
 aliases:
   - '/index.php/2012/04/11/ioio-on-liion-battery-power/'
 ---

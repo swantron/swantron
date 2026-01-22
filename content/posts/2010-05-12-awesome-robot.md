@@ -4,7 +4,6 @@ date: 2010-05-12T17:12:05+00:00
 id: 2126
 slug: 'awesome-robot'
 featured_image: '/uploads/2010/05/awesome_robot.jpg'
-description: ''
 aliases:
   - '/index.php/2010/05/12/awesome-robot/'
 ---

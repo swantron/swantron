@@ -4,7 +4,6 @@ date: 2011-05-05T17:01:33+00:00
 id: 3465
 slug: 'electronics-recycling-info'
 featured_image: '/uploads/2011/05/old-electronics.jpg'
-description: ''
 aliases:
   - '/index.php/2011/05/05/electronics-recycling-info/'
 ---

@@ -4,7 +4,6 @@ date: 2006-01-22T17:02:33+00:00
 id: 6077
 slug: 'day-trip-to-pony'
 featured_image: '/uploads/2006/01/map2.bmp'
-description: ''
 aliases:
   - '/index.php/2006/01/22/day-trip-to-pony/'
 ---

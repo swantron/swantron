@@ -3,7 +3,6 @@ title: 'Worst Car Bomb Ever'
 date: 2007-02-27T03:44:37+00:00
 id: 482
 slug: 'worst-car-bomb-ever'
-description: ''
 aliases:
   - '/index.php/2007/02/27/worst-car-bomb-ever/'
 ---

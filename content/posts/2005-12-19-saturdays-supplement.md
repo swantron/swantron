@@ -4,7 +4,6 @@ date: 2005-12-19T18:18:53+00:00
 id: 6005
 slug: 'saturdays-supplement'
 featured_image: '/uploads/swantron/wp-content/sb1.jpg'
-description: ''
 aliases:
   - '/index.php/2005/12/19/saturdays-supplement/'
 ---

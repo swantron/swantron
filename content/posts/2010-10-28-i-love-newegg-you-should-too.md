@@ -4,7 +4,6 @@ date: 2010-10-28T18:32:17+00:00
 id: 2829
 slug: 'i-love-newegg-you-should-too'
 featured_image: '/uploads/2010/10/newegg.jpg'
-description: ''
 aliases:
   - '/index.php/2010/10/28/i-love-newegg-you-should-too/'
 ---

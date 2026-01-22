@@ -4,7 +4,6 @@ date: 2013-12-31T12:45:34+00:00
 id: 5011
 slug: 'robotic-arm-assembly'
 featured_image: '/uploads/2013/12/bunny_slips.jpg'
-description: ''
 aliases:
   - '/index.php/2013/12/31/robotic-arm-assembly/'
 ---

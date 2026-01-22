@@ -4,7 +4,6 @@ date: 2010-11-19T09:12:19+00:00
 id: 2891
 slug: 'are-pajama-jeans-awesome'
 featured_image: '/uploads/2010/11/pajama-jean.jpg'
-description: ''
 aliases:
   - '/index.php/2010/11/19/are-pajama-jeans-awesome/'
 ---

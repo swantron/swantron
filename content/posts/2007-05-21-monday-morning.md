@@ -3,7 +3,6 @@ title: 'Monday Morning'
 date: 2007-05-21T18:10:36+00:00
 id: 556
 slug: 'monday-morning'
-description: ''
 aliases:
   - '/index.php/2007/05/21/monday-morning/'
 ---

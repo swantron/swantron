@@ -4,7 +4,6 @@ date: 2010-02-25T14:56:23+00:00
 id: 1752
 slug: 'how-to-make-boring-stuff-awesome'
 featured_image: '/uploads/2010/02/hot-sauce.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/25/how-to-make-boring-stuff-awesome/'
 ---

@@ -4,7 +4,6 @@ date: 2011-02-18T16:27:32+00:00
 id: 3176
 slug: 'solar-cell-teaser'
 featured_image: '/uploads/2011/02/solar-power.jpg'
-description: ''
 aliases:
   - '/index.php/2011/02/18/solar-cell-teaser/'
 ---

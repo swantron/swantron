@@ -4,7 +4,6 @@ date: 2007-11-16T18:52:15+00:00
 id: 622
 slug: 'lolcat-lab'
 featured_image: '/uploads/2007/11/cheezburger.jpg'
-description: ''
 aliases:
   - '/index.php/2007/11/16/lolcat-lab/'
 ---

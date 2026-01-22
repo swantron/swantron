@@ -4,7 +4,6 @@ date: 2005-08-05T21:59:03+00:00
 id: 5745
 slug: 'meet-the-reverend'
 featured_image: '/uploads/swantron/wp-content/Joe5.jpg'
-description: ''
 aliases:
   - '/index.php/2005/08/05/meet-the-reverend/'
 ---

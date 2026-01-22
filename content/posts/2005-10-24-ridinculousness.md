@@ -4,7 +4,6 @@ date: 2005-10-24T21:57:07+00:00
 id: 5874
 slug: 'ridinculousness'
 featured_image: '/uploads/swantron/wp-content/uploads/2010/01/apple.jpg'
-description: ''
 aliases:
   - '/index.php/2005/10/24/ridinculousness/'
 ---

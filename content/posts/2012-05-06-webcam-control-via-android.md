@@ -4,7 +4,6 @@ date: 2012-05-06T16:32:21+00:00
 id: 4546
 slug: 'webcam-control-via-android'
 featured_image: '/uploads/2012/05/ip_webcam.png'
-description: ''
 aliases:
   - '/index.php/2012/05/06/webcam-control-via-android/'
 ---

@@ -4,7 +4,6 @@ date: 2010-01-22T12:14:26+00:00
 id: 1536
 slug: 'things-i-hate-toasters'
 featured_image: '/uploads/2010/01/toaster.bmp "toaster"'
-description: ''
 aliases:
   - '/index.php/2010/01/22/things-i-hate-toasters/'
 ---

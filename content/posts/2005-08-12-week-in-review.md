@@ -4,7 +4,6 @@ date: 2005-08-12T20:08:45+00:00
 id: 5752
 slug: 'week-in-review'
 featured_image: '/uploads/swantron/wp-content/photo_0028_o2_01.jpg'
-description: ''
 aliases:
   - '/index.php/2005/08/12/week-in-review/'
 ---

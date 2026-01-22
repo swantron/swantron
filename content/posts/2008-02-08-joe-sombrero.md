@@ -4,7 +4,6 @@ date: 2008-02-08T15:43:35+00:00
 id: 676
 slug: 'joe-sombrero'
 featured_image: '/uploads/2008/02/mex.jpg'
-description: ''
 aliases:
   - '/index.php/2008/02/08/joe-sombrero/'
 ---

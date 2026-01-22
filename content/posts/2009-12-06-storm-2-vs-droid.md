@@ -4,7 +4,6 @@ date: 2009-12-06T21:06:15+00:00
 id: 1175
 slug: 'storm-2-vs-droid'
 featured_image: '/uploads/2009/12/storm-300x175.jpg'
-description: ''
 aliases:
   - '/index.php/2009/12/06/storm-2-vs-droid/'
 ---

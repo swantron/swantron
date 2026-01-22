@@ -3,7 +3,6 @@ title: 'Paris Hilton Fan'
 date: 2007-06-09T15:46:30+00:00
 id: 563
 slug: 'paris-hilton-fan'
-description: ''
 aliases:
   - '/index.php/2007/06/09/paris-hilton-fan/'
 ---

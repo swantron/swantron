@@ -3,7 +3,6 @@ title: 'Good Stuff'
 date: 2005-10-05T16:32:36+00:00
 id: 5848
 slug: 'good-stuff'
-description: ''
 aliases:
   - '/index.php/2005/10/05/good-stuff/'
 ---

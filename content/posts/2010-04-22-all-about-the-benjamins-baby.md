@@ -4,7 +4,6 @@ date: 2010-04-22T07:58:46+00:00
 id: 2022
 slug: 'all-about-the-benjamins-baby'
 featured_image: '/uploads/2010/04/benjies.jpg'
-description: ''
 aliases:
   - '/index.php/2010/04/22/all-about-the-benjamins-baby/'
 ---

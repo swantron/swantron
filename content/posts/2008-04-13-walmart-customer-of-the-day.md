@@ -4,7 +4,6 @@ date: 2008-04-13T15:53:29+00:00
 id: 727
 slug: 'walmart-customer-of-the-day'
 featured_image: '/uploads/2008/04/femullet.jpg'
-description: ''
 aliases:
   - '/index.php/2008/04/13/walmart-customer-of-the-day/'
 ---

@@ -4,7 +4,6 @@ date: 2010-02-01T16:16:24+00:00
 id: 1611
 slug: 'seaplane-ftw'
 featured_image: '/uploads/2010/02/sea-plane.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/01/seaplane-ftw/'
 ---

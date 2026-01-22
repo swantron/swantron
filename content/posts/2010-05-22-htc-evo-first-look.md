@@ -4,7 +4,6 @@ date: 2010-05-22T12:54:01+00:00
 id: 2162
 slug: 'htc-evo-first-look'
 featured_image: '/uploads/2010/05/htc-evo.jpg'
-description: ''
 aliases:
   - '/index.php/2010/05/22/htc-evo-first-look/'
 ---

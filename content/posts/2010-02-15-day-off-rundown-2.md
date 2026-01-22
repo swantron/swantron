@@ -4,7 +4,6 @@ date: 2010-02-15T16:12:29+00:00
 id: 6175
 slug: 'day-off-rundown'
 featured_image: '/uploads/2010/02/IMG00024.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/15/day-off-rundown/'
 ---

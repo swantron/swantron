@@ -4,7 +4,6 @@ date: 2009-01-10T14:08:49+00:00
 id: 830
 slug: 'giraffe-van'
 featured_image: '/uploads/2009/01/van2.jpg'
-description: ''
 aliases:
   - '/index.php/2009/01/10/giraffe-van/'
 ---

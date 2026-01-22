@@ -4,7 +4,6 @@ date: 2011-09-12T18:39:11+00:00
 id: 3809
 slug: 'bonus-content-ioio-circuit-diagram'
 featured_image: '/uploads/2011/09/ioio-diagram-570x320.jpg'
-description: ''
 aliases:
   - '/index.php/2011/09/12/bonus-content-ioio-circuit-diagram/'
 ---

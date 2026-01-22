@@ -4,7 +4,6 @@ date: 2005-12-11T15:29:15+00:00
 id: 5980
 slug: 'pre-finals-antics'
 featured_image: '/uploads/swantron/wp-content/lr1.jpg'
-description: ''
 aliases:
   - '/index.php/2005/12/11/pre-finals-antics/'
 ---

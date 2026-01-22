@@ -4,7 +4,6 @@ date: 2012-07-06T19:46:22+00:00
 id: 4624
 slug: 'samsung-galaxy-s-iii'
 featured_image: '/uploads/2012/07/G3.jpg'
-description: ''
 aliases:
   - '/index.php/2012/07/06/samsung-galaxy-s-iii/'
 ---

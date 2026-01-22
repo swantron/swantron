@@ -4,7 +4,6 @@ date: 2010-03-11T16:25:43+00:00
 id: 1779
 slug: 'van-diagram'
 featured_image: '/uploads/2010/03/van_diagram.jpg'
-description: ''
 aliases:
   - '/index.php/2010/03/11/van-diagram/'
 ---

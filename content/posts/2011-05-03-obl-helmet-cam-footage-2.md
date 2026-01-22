@@ -4,7 +4,6 @@ date: 2011-05-03T08:20:49+00:00
 id: 6281
 slug: 'obl-helmet-cam-footage'
 featured_image: '/uploads/2011/05/enet.jpg'
-description: ''
 aliases:
   - '/index.php/2011/05/03/obl-helmet-cam-footage/'
 ---

@@ -4,7 +4,6 @@ date: 2011-06-25T18:00:33+00:00
 id: 3585
 slug: 'rc-helicopter-tear-down'
 featured_image: '/uploads/2011/06/batman-1.jpg'
-description: ''
 aliases:
   - '/index.php/2011/06/25/rc-helicopter-tear-down/'
 ---

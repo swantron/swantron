@@ -4,7 +4,6 @@ date: 2010-07-21T19:27:18+00:00
 id: 2477
 slug: 'pull-down-switch-arduino-fun'
 featured_image: '/uploads/2010/07/pull-down-resistor.jpg'
-description: ''
 aliases:
   - '/index.php/2010/07/21/pull-down-switch-arduino-fun/'
 ---

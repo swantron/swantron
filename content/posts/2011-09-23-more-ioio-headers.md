@@ -4,7 +4,6 @@ date: 2011-09-23T23:38:36+00:00
 id: 3846
 slug: 'more-ioio-headers'
 featured_image: '/uploads/2011/09/2011-09-24_14-26-54_676-570x320.jpg'
-description: ''
 aliases:
   - '/index.php/2011/09/23/more-ioio-headers/'
 ---

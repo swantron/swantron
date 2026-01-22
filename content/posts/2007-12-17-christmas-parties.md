@@ -4,7 +4,6 @@ date: 2007-12-17T18:55:21+00:00
 id: 643
 slug: 'christmas-parties'
 featured_image: '/uploads/2007/12/paisano1.jpg'
-description: ''
 aliases:
   - '/index.php/2007/12/17/christmas-parties/'
 ---

@@ -4,7 +4,6 @@ date: 2011-03-27T17:30:20+00:00
 id: 3316
 slug: 'arduino-servo-fan-control'
 featured_image: '/uploads/2011/03/altoids-project-can.jpg'
-description: ''
 aliases:
   - '/index.php/2011/03/27/arduino-servo-fan-control/'
 ---

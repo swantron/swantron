@@ -4,7 +4,6 @@ date: 2010-10-14T15:37:57+00:00
 id: 2770
 slug: 'homemade-croutons'
 featured_image: '/uploads/2010/10/cheese-nibbles.jpg'
-description: ''
 aliases:
   - '/index.php/2010/10/14/homemade-croutons/'
 ---

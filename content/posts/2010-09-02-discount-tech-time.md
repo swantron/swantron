@@ -4,7 +4,6 @@ date: 2010-09-02T15:44:21+00:00
 id: 2612
 slug: 'discount-tech-time'
 featured_image: '/uploads/2010/09/hp.jpg'
-description: ''
 aliases:
   - '/index.php/2010/09/02/discount-tech-time/'
 ---

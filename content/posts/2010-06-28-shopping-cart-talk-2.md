@@ -4,7 +4,6 @@ date: 2010-06-28T16:38:58+00:00
 id: 6232
 slug: 'shopping-cart-talk'
 featured_image: '/uploads/2010/06/robot-shopping.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/28/shopping-cart-talk/'
 ---

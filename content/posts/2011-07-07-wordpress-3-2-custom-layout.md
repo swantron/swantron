@@ -4,7 +4,6 @@ date: 2011-07-07T17:14:16+00:00
 id: 3652
 slug: 'wordpress-3-2-custom-layout'
 featured_image: '/uploads/2011/07/worpress3.2.jpg'
-description: ''
 aliases:
   - '/index.php/2011/07/07/wordpress-3-2-custom-layout/'
 ---

@@ -4,7 +4,6 @@ date: 2010-05-28T13:33:29+00:00
 id: 2226
 slug: 'ipad-updates'
 featured_image: '/uploads/2010/05/apple-ipad.jpg'
-description: ''
 aliases:
   - '/index.php/2010/05/28/ipad-updates/'
 ---

@@ -4,7 +4,6 @@ date: 2011-01-16T16:45:47+00:00
 id: 3119
 slug: 'image-overload-3d-mapping-on-android'
 featured_image: '/uploads/2011/01/animated_gif.gif'
-description: ''
 aliases:
   - '/index.php/2011/01/16/image-overload-3d-mapping-on-android/'
 ---

@@ -4,7 +4,6 @@ date: 2011-12-16T16:43:12+00:00
 id: 4181
 slug: 'myweekend-aspiration'
 featured_image: '/uploads/2011/12/breadboard-570x292.jpg'
-description: ''
 aliases:
   - '/index.php/2011/12/16/myweekend-aspiration/'
 ---

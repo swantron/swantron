@@ -4,7 +4,6 @@ date: 2009-08-05T12:45:00+00:00
 id: 930
 slug: 'big-ol-weiner'
 featured_image: '/uploads/2009/08/weiner.JPG'
-description: ''
 aliases:
   - '/index.php/2009/08/05/big-ol-weiner/'
 ---

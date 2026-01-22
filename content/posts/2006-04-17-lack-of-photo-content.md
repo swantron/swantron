@@ -4,7 +4,6 @@ date: 2006-04-17T15:39:22+00:00
 id: 6104
 slug: 'lack-of-photo-content'
 featured_image: '/uploads/2006/04/mr%20T.jpg'
-description: ''
 aliases:
   - '/index.php/2006/04/17/lack-of-photo-content/'
 ---

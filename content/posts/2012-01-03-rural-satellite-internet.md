@@ -4,7 +4,6 @@ date: 2012-01-03T19:35:27+00:00
 id: 4253
 slug: 'rural-satellite-internet'
 featured_image: '/uploads/2012/01/mybluedish.jpg'
-description: ''
 aliases:
   - '/index.php/2012/01/03/rural-satellite-internet/'
 ---

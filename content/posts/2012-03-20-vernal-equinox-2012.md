@@ -4,7 +4,6 @@ date: 2012-03-20T08:08:33+00:00
 id: 4451
 slug: 'vernal-equinox-2012'
 featured_image: '/uploads/2012/03/snowstorm.jpg'
-description: ''
 aliases:
   - '/index.php/2012/03/20/vernal-equinox-2012/'
 ---

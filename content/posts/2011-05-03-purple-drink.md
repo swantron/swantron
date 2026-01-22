@@ -4,7 +4,6 @@ date: 2011-05-03T09:09:12+00:00
 id: 4536
 slug: 'purple-drink'
 featured_image: '/uploads/2012/05/nopalea.png'
-description: ''
 aliases:
   - '/index.php/2011/05/03/purple-drink/'
 ---

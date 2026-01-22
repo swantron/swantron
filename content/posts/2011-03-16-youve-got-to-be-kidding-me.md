@@ -4,7 +4,6 @@ date: 2011-03-16T11:27:51+00:00
 id: 3249
 slug: 'youve-got-to-be-kidding-me'
 featured_image: '/uploads/2011/03/prtzls.jpg'
-description: ''
 aliases:
   - '/index.php/2011/03/16/youve-got-to-be-kidding-me/'
 ---

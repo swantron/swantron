@@ -4,7 +4,6 @@ date: 2010-07-03T12:14:19+00:00
 id: 2433
 slug: 'how-to-stretch-a-wedding-band'
 featured_image: '/uploads/2010/07/ring-stretcher.jpg'
-description: ''
 aliases:
   - '/index.php/2010/07/03/how-to-stretch-a-wedding-band/'
 ---

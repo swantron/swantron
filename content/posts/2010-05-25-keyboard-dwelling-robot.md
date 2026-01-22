@@ -4,7 +4,6 @@ date: 2010-05-25T12:29:42+00:00
 id: 2194
 slug: 'keyboard-dwelling-robot'
 featured_image: '/uploads/2010/05/green-technology.jpg'
-description: ''
 aliases:
   - '/index.php/2010/05/25/keyboard-dwelling-robot/'
 ---

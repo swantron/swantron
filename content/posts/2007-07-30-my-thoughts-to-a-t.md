@@ -3,7 +3,6 @@ title: 'My Thoughts to a T'
 date: 2007-07-30T19:01:13+00:00
 id: 589
 slug: 'my-thoughts-to-a-t'
-description: ''
 aliases:
   - '/index.php/2007/07/30/my-thoughts-to-a-t/'
 ---

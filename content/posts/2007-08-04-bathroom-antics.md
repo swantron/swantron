@@ -4,7 +4,6 @@ date: 2007-08-04T10:43:14+00:00
 id: 591
 slug: 'bathroom-antics'
 featured_image: '/uploads/2007/08/stevebob.jpg'
-description: ''
 aliases:
   - '/index.php/2007/08/04/bathroom-antics/'
 ---

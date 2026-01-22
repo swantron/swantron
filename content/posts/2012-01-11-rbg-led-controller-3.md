@@ -4,7 +4,6 @@ date: 2012-01-11T17:10:52+00:00
 id: 6343
 slug: 'rbg-led-controller-3'
 featured_image: '/uploads/2012/01/Android-RBG-IOIO-570x311.jpg'
-description: ''
 aliases:
   - '/index.php/2012/01/11/rbg-led-controller-3/'
 ---

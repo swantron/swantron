@@ -4,7 +4,6 @@ date: 2012-06-12T17:29:06+00:00
 id: 4588
 slug: 'script-kiddie'
 featured_image: '/uploads/2012/06/script-kiddie.jpg'
-description: ''
 aliases:
   - '/index.php/2012/06/12/script-kiddie/'
 ---

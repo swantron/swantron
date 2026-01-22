@@ -4,7 +4,6 @@ date: 2007-01-18T16:29:47+00:00
 id: 453
 slug: 'keep-em-coming'
 featured_image: '/uploads/2007/01/woow2-copy.jpg'
-description: ''
 aliases:
   - '/index.php/2007/01/18/keep-em-coming/'
 ---

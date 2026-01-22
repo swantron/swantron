@@ -4,7 +4,6 @@ date: 2010-06-24T17:12:09+00:00
 id: 2366
 slug: '22-degrees-solar-halo'
 featured_image: '/uploads/2010/06/22degreehalo.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/24/22-degrees-solar-halo/'
 ---

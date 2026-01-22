@@ -4,7 +4,6 @@ date: 2011-07-11T11:19:41+00:00
 id: 3656
 slug: 'spoofing-user-agent-types-from-the-command-line'
 featured_image: '/uploads/2011/07/spam-570x356.jpg'
-description: ''
 aliases:
   - '/index.php/2011/07/11/spoofing-user-agent-types-from-the-command-line/'
 ---

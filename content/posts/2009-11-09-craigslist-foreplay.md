@@ -4,7 +4,6 @@ date: 2009-11-09T11:44:28+00:00
 id: 1043
 slug: 'craigslist-foreplay'
 featured_image: '/uploads/2009/11/mulie.bmp "mulie"'
-description: ''
 aliases:
   - '/index.php/2009/11/09/craigslist-foreplay/'
 ---

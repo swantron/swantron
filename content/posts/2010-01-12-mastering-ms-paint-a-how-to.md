@@ -4,7 +4,6 @@ date: 2010-01-12T12:03:23+00:00
 id: 1467
 slug: 'mastering-ms-paint-a-how-to'
 featured_image: '/uploads/2010/01/wiz.jpg'
-description: ''
 aliases:
   - '/index.php/2010/01/12/mastering-ms-paint-a-how-to/'
 ---

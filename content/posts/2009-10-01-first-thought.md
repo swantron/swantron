@@ -4,7 +4,6 @@ date: 2009-10-01T09:14:54+00:00
 id: 982
 slug: 'first-thought'
 featured_image: '/uploads/2009/10/fatass1.jpg'
-description: ''
 aliases:
   - '/index.php/2009/10/01/first-thought/'
 ---

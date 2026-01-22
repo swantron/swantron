@@ -4,7 +4,6 @@ date: 2011-11-05T13:34:52+00:00
 id: 4053
 slug: 'montana-state-satellite'
 featured_image: '/uploads/2011/11/merope_satellite-570x230.jpg'
-description: ''
 aliases:
   - '/index.php/2011/11/05/montana-state-satellite/'
 ---

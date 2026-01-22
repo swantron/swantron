@@ -4,7 +4,6 @@ date: 2010-04-28T07:45:34+00:00
 id: 2060
 slug: 'how-to-make-breakfast-burgers'
 featured_image: '/uploads/2010/04/breakfast-burger.jpg'
-description: ''
 aliases:
   - '/index.php/2010/04/28/how-to-make-breakfast-burgers/'
 ---

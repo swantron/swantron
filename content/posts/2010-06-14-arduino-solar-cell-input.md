@@ -4,7 +4,6 @@ date: 2010-06-14T18:41:13+00:00
 id: 2301
 slug: 'arduino-solar-cell-input'
 featured_image: '/uploads/2010/06/solar-test.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/14/arduino-solar-cell-input/'
 ---

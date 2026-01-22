@@ -4,7 +4,6 @@ date: 2009-09-23T16:32:53+00:00
 id: 972
 slug: 'retraction-not-so-happy-wed'
 featured_image: '/uploads/2009/09/Uncle-Joe.JPG "Uncle-Joe"'
-description: ''
 aliases:
   - '/index.php/2009/09/23/retraction-not-so-happy-wed/'
 ---

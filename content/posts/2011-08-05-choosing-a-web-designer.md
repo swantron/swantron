@@ -4,7 +4,6 @@ date: 2011-08-05T08:53:21+00:00
 id: 3723
 slug: 'choosing-a-web-designer'
 featured_image: '/uploads/2011/08/chicken-crop.jpg'
-description: ''
 aliases:
   - '/index.php/2011/08/05/choosing-a-web-designer/'
 ---

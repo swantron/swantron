@@ -4,7 +4,6 @@ date: 2012-09-04T11:38:41+00:00
 id: 4705
 slug: 'office-ial'
 featured_image: '/uploads/2012/09/new_office.jpg'
-description: ''
 aliases:
   - '/index.php/2012/09/04/office-ial/'
 ---

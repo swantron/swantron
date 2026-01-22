@@ -4,7 +4,6 @@ date: 2009-11-29T15:42:54+00:00
 id: 1106
 slug: 'end-of-an-era'
 featured_image: '/uploads/swantron/wp-content/newfrontpagesmall.jpg'
-description: ''
 aliases:
   - '/index.php/2009/11/29/end-of-an-era/'
 ---

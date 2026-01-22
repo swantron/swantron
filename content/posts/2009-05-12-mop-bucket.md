@@ -4,7 +4,6 @@ date: 2009-05-12T20:02:47+00:00
 id: 861
 slug: 'mop-bucket'
 featured_image: '/uploads/2009/05/mop.jpg'
-description: ''
 aliases:
   - '/index.php/2009/05/12/mop-bucket/'
 ---

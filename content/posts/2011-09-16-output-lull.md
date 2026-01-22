@@ -4,7 +4,6 @@ date: 2011-09-16T18:24:25+00:00
 id: 3825
 slug: 'output-lull'
 featured_image: '/uploads/2011/09/working.jpg'
-description: ''
 aliases:
   - '/index.php/2011/09/16/output-lull/'
 ---

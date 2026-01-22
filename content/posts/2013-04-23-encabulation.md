@@ -4,7 +4,6 @@ date: 2013-04-23T21:00:22+00:00
 id: 4888
 slug: 'encabulation'
 featured_image: '/uploads/2013/04/turbullencabulator.jpg'
-description: ''
 aliases:
   - '/index.php/2013/04/23/encabulation/'
 ---

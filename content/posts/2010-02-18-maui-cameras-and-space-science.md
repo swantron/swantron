@@ -4,7 +4,6 @@ date: 2010-02-18T15:37:00+00:00
 id: 1700
 slug: 'maui-cameras-and-space-science'
 featured_image: '/uploads/2010/02/robot-surfer.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/18/maui-cameras-and-space-science/'
 ---

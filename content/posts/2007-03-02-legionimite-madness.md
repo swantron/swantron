@@ -4,7 +4,6 @@ date: 2007-03-02T03:36:46+00:00
 id: 495
 slug: 'legionimite-madness'
 featured_image: '/uploads/2007/03/jrod52.jpg'
-description: ''
 aliases:
   - '/index.php/2007/03/02/legionimite-madness/'
 ---

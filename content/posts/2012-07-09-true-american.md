@@ -4,7 +4,6 @@ date: 2012-07-09T20:49:34+00:00
 id: 4641
 slug: 'true-american'
 featured_image: '/uploads/2012/07/all-american-truck.jpg'
-description: ''
 aliases:
   - '/index.php/2012/07/09/true-american/'
 ---

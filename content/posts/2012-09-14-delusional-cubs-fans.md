@@ -4,7 +4,6 @@ date: 2012-09-14T13:06:20+00:00
 id: 4723
 slug: 'delusional-cubs-fans'
 featured_image: '/uploads/2012/09/little_cubs_fan.jpg'
-description: ''
 aliases:
   - '/index.php/2012/09/14/delusional-cubs-fans/'
 ---

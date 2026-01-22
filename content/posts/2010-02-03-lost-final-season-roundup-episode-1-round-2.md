@@ -4,7 +4,6 @@ date: 2010-02-03T19:55:53+00:00
 id: 1629
 slug: 'lost-final-season-roundup-episode-1-round'
 featured_image: '/uploads/2010/02/swantron-lost.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/03/lost-final-season-roundup-episode-1-round/'
 ---

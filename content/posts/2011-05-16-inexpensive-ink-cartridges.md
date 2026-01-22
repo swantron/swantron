@@ -4,7 +4,6 @@ date: 2011-05-16T15:26:58+00:00
 id: 3494
 slug: 'inexpensive-ink-cartridges'
 featured_image: '/uploads/2011/05/octopus-ink.jpg'
-description: ''
 aliases:
   - '/index.php/2011/05/16/inexpensive-ink-cartridges/'
 ---

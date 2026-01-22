@@ -4,7 +4,6 @@ date: 2010-05-04T18:35:47+00:00
 id: 2105
 slug: 'arduino-button-implementation'
 featured_image: '/uploads/2010/05/ardueenie.jpg'
-description: ''
 aliases:
   - '/index.php/2010/05/04/arduino-button-implementation/'
 ---

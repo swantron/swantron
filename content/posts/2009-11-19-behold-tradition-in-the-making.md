@@ -4,7 +4,6 @@ date: 2009-11-19T09:39:51+00:00
 id: 1062
 slug: 'behold-tradition-in-the-making'
 featured_image: '/uploads/2009/11/champ.jpg'
-description: ''
 aliases:
   - '/index.php/2009/11/19/behold-tradition-in-the-making/'
 ---

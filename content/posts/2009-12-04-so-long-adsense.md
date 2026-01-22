@@ -4,7 +4,6 @@ date: 2009-12-04T14:47:17+00:00
 id: 1166
 slug: 'so-long-adsense'
 featured_image: '/uploads/2009/12/googlesucks.jpg'
-description: ''
 aliases:
   - '/index.php/2009/12/04/so-long-adsense/'
 ---

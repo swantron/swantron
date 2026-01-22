@@ -3,7 +3,6 @@ title: 'More Onion News'
 date: 2007-05-15T19:14:10+00:00
 id: 552
 slug: 'more-onion-news'
-description: ''
 aliases:
   - '/index.php/2007/05/15/more-onion-news/'
 ---

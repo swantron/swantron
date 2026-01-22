@@ -4,7 +4,6 @@ date: 2010-04-26T09:57:53+00:00
 id: 2056
 slug: 'choosing-an-isp'
 featured_image: '/uploads/2010/04/internet_speed.jpg'
-description: ''
 aliases:
   - '/index.php/2010/04/26/choosing-an-isp/'
 ---

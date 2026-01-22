@@ -4,7 +4,6 @@ date: 2013-05-16T20:58:35+00:00
 id: 4902
 slug: 'encabulating-photon-emission-interface'
 featured_image: '/uploads/2013/05/20130504_122847.jpg'
-description: ''
 aliases:
   - '/index.php/2013/05/16/encabulating-photon-emission-interface/'
 ---

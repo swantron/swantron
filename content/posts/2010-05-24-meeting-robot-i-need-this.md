@@ -4,7 +4,6 @@ date: 2010-05-24T22:47:34+00:00
 id: 2206
 slug: 'meeting-robot-i-need-this'
 featured_image: '/uploads/2010/05/work-robot.png'
-description: ''
 aliases:
   - '/index.php/2010/05/24/meeting-robot-i-need-this/'
 ---

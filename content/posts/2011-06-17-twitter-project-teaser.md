@@ -4,7 +4,6 @@ date: 2011-06-17T11:37:14+00:00
 id: 3570
 slug: 'twitter-project-teaser'
 featured_image: '/uploads/2011/06/twitteroauth.jpg'
-description: ''
 aliases:
   - '/index.php/2011/06/17/twitter-project-teaser/'
 ---

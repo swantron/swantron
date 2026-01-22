@@ -4,7 +4,6 @@ date: 2011-03-05T19:59:37+00:00
 id: 3225
 slug: 'how-to-find-a-blown-electrical-component'
 featured_image: '/uploads/2011/03/boom-goes-the-dynomite.jpg'
-description: ''
 aliases:
   - '/index.php/2011/03/05/how-to-find-a-blown-electrical-component/'
 ---

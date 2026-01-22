@@ -4,7 +4,6 @@ date: 2010-09-08T16:39:57+00:00
 id: 2652
 slug: 'old-cell-phone-uses'
 featured_image: '/uploads/2010/09/slater.jpg'
-description: ''
 aliases:
   - '/index.php/2010/09/08/old-cell-phone-uses/'
 ---

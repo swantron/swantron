@@ -4,7 +4,6 @@ date: 2010-10-19T11:39:52+00:00
 id: 2781
 slug: 'iphone-4-the-loss'
 featured_image: '/uploads/2010/10/diamond_iphone.jpg'
-description: ''
 aliases:
   - '/index.php/2010/10/19/iphone-4-the-loss/'
 ---

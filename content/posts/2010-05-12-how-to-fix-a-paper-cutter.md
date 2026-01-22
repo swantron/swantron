@@ -4,7 +4,6 @@ date: 2010-05-12T17:55:12+00:00
 id: 2130
 slug: 'how-to-fix-a-paper-cutter'
 featured_image: '/uploads/2010/05/papercutter1.jpg'
-description: ''
 aliases:
   - '/index.php/2010/05/12/how-to-fix-a-paper-cutter/'
 ---

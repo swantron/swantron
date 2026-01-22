@@ -4,7 +4,6 @@ date: 2010-01-07T10:49:57+00:00
 id: 6161
 slug: 'ps3-slim-hands-on-browser'
 featured_image: '/uploads/2010/01/ps3-slim.jpg'
-description: ''
 aliases:
   - '/index.php/2010/01/07/ps3-slim-hands-on-browser/'
 ---

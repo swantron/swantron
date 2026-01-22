@@ -4,7 +4,6 @@ date: 2006-03-07T13:48:23+00:00
 id: 6095
 slug: 'kendall-sighting'
 featured_image: '/uploads/2006/03/ken.jpg'
-description: ''
 aliases:
   - '/index.php/2006/03/07/kendall-sighting/'
 ---

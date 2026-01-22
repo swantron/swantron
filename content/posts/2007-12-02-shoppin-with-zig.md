@@ -4,7 +4,6 @@ date: 2007-12-02T15:22:58+00:00
 id: 628
 slug: 'shoppin-with-zig'
 featured_image: '/uploads/2007/12/media12.jpg'
-description: ''
 aliases:
   - '/index.php/2007/12/02/shoppin-with-zig/'
 ---

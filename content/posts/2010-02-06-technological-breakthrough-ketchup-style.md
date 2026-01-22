@@ -4,7 +4,6 @@ date: 2010-02-06T14:52:16+00:00
 id: 1648
 slug: 'technological-breakthrough-ketchup-style'
 featured_image: '/uploads/2010/02/ketchup.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/06/technological-breakthrough-ketchup-style/'
 ---

@@ -3,7 +3,6 @@ title: 'Senator Tester'
 date: 2006-11-09T13:49:03+00:00
 id: 407
 slug: 'senator-tester'
-description: ''
 aliases:
   - '/index.php/2006/11/09/senator-tester/'
 ---

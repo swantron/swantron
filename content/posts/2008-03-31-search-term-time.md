@@ -3,7 +3,6 @@ title: 'Search Term Time!'
 date: 2008-03-31T18:04:52+00:00
 id: 717
 slug: 'search-term-time'
-description: ''
 aliases:
   - '/index.php/2008/03/31/search-term-time/'
 ---

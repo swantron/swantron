@@ -3,7 +3,6 @@ title: 'Retardation'
 date: 2006-12-30T03:05:28+00:00
 id: 433
 slug: 'retardation'
-description: ''
 aliases:
   - '/index.php/2006/12/30/retardation/'
 ---

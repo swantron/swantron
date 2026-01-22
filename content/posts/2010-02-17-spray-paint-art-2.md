@@ -4,7 +4,6 @@ date: 2010-02-17T21:22:03+00:00
 id: 6178
 slug: 'spray-paint-art-2'
 featured_image: '/uploads/2010/02/IMG00030-1024x768.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/17/spray-paint-art-2/'
 ---

@@ -4,7 +4,6 @@ date: 2011-03-06T19:39:21+00:00
 id: 3222
 slug: 'messy-lab-is-messy'
 featured_image: '/uploads/2011/03/messy-lab.jpg'
-description: ''
 aliases:
   - '/index.php/2011/03/06/messy-lab-is-messy/'
 ---

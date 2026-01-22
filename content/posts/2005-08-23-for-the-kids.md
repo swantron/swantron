@@ -4,7 +4,6 @@ date: 2005-08-23T20:55:10+00:00
 id: 5763
 slug: 'for-the-kids'
 featured_image: '/uploads/swantron/wp-content/photo_0008.jpg'
-description: ''
 aliases:
   - '/index.php/2005/08/23/for-the-kids/'
 ---

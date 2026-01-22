@@ -4,7 +4,6 @@ date: 2011-06-09T21:01:50+00:00
 id: 3556
 slug: 'ubuntu-natty-netbook'
 featured_image: '/uploads/2011/06/natty-upgrade.jpg'
-description: ''
 aliases:
   - '/index.php/2011/06/09/ubuntu-natty-netbook/'
 ---

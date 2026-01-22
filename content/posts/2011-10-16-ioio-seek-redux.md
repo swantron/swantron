@@ -4,7 +4,6 @@ date: 2011-10-16T13:35:17+00:00
 id: 3928
 slug: 'ioio-seek-redux'
 featured_image: '/uploads/2011/10/ioio-seek-git-570x356.png'
-description: ''
 aliases:
   - '/index.php/2011/10/16/ioio-seek-redux/'
 ---

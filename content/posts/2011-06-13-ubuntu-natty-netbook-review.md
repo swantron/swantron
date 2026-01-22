@@ -4,7 +4,6 @@ date: 2011-06-13T18:20:41+00:00
 id: 3563
 slug: 'ubuntu-natty-netbook-review'
 featured_image: '/uploads/2011/06/natty-netbook.jpg'
-description: ''
 aliases:
   - '/index.php/2011/06/13/ubuntu-natty-netbook-review/'
 ---

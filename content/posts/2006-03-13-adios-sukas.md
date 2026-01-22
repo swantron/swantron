@@ -4,7 +4,6 @@ date: 2006-03-13T16:52:25+00:00
 id: 6098
 slug: 'adios-sukas'
 featured_image: '/uploads/2006/03/Ar5.jpg'
-description: ''
 aliases:
   - '/index.php/2006/03/13/adios-sukas/'
 ---

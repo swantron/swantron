@@ -4,7 +4,6 @@ date: 2014-06-02T16:06:15+00:00
 id: 5014
 slug: 'custom-copper-end-table'
 featured_image: '/uploads/2014/06/new_table.jpg.jpg'
-description: ''
 aliases:
   - '/index.php/2014/06/02/custom-copper-end-table/'
 ---

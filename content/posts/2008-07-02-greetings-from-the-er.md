@@ -4,7 +4,6 @@ date: 2008-07-02T21:03:58+00:00
 id: 755
 slug: 'greetings-from-the-er'
 featured_image: '/uploads/2008/07/kate.jpg'
-description: ''
 aliases:
   - '/index.php/2008/07/02/greetings-from-the-er/'
 ---

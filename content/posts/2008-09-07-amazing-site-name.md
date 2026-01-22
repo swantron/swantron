@@ -4,7 +4,6 @@ date: 2008-09-07T17:04:55+00:00
 id: 770
 slug: 'amazing-site-name'
 featured_image: '/uploads/2008/09/sp.jpg'
-description: ''
 aliases:
   - '/index.php/2008/09/07/amazing-site-name/'
 ---

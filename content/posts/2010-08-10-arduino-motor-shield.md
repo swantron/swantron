@@ -4,7 +4,6 @@ date: 2010-08-10T14:44:40+00:00
 id: 2527
 slug: 'arduino-motor-shield'
 featured_image: '/uploads/2010/08/motor-shield.jpg'
-description: ''
 aliases:
   - '/index.php/2010/08/10/arduino-motor-shield/'
 ---

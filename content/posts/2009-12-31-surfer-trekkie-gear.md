@@ -4,7 +4,6 @@ date: 2009-12-31T09:51:29+00:00
 id: 1355
 slug: 'surfer-trekkie-gear'
 featured_image: '/uploads/2009/12/star_trek_wetsuits.jpg'
-description: ''
 aliases:
   - '/index.php/2009/12/31/surfer-trekkie-gear/'
 ---

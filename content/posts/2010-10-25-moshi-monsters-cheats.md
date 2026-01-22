@@ -4,7 +4,6 @@ date: 2010-10-25T15:58:14+00:00
 id: 2797
 slug: 'moshi-monsters-cheats'
 featured_image: '/uploads/2010/10/moshi_monster.jpg'
-description: ''
 aliases:
   - '/index.php/2010/10/25/moshi-monsters-cheats/'
 ---

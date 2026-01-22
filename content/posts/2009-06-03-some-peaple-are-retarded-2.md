@@ -4,7 +4,6 @@ date: 2009-06-03T13:49:52+00:00
 id: 6143
 slug: 'some-peaple-are-retarded-2'
 featured_image: '/uploads/2009/06/trailer.JPG'
-description: ''
 aliases:
   - '/index.php/2009/06/03/some-peaple-are-retarded-2/'
 ---

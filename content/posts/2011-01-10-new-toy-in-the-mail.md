@@ -4,7 +4,6 @@ date: 2011-01-10T13:51:35+00:00
 id: 3101
 slug: 'new-toy-in-the-mail'
 featured_image: '/uploads/2011/01/powertail-575x421.jpg'
-description: ''
 aliases:
   - '/index.php/2011/01/10/new-toy-in-the-mail/'
 ---

@@ -4,7 +4,6 @@ date: 2010-01-02T14:15:13+00:00
 id: 1358
 slug: 'movies-an-analysis'
 featured_image: '/uploads/2010/01/movies.jpg'
-description: ''
 aliases:
   - '/index.php/2010/01/02/movies-an-analysis/'
 ---

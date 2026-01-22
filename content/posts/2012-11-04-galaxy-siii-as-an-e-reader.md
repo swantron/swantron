@@ -4,7 +4,6 @@ date: 2012-11-04T15:58:30+00:00
 id: 4770
 slug: 'galaxy-siii-as-an-e-reader'
 featured_image: '/uploads/2012/11/ulysses.jpg'
-description: ''
 aliases:
   - '/index.php/2012/11/04/galaxy-siii-as-an-e-reader/'
 ---

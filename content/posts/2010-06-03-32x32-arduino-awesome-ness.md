@@ -4,7 +4,6 @@ date: 2010-06-03T16:03:05+00:00
 id: 2247
 slug: '32x32-arduino-awesome-ness'
 featured_image: '/uploads/2010/06/32x32.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/03/32x32-arduino-awesome-ness/'
 ---

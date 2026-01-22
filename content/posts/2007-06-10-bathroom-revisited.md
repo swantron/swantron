@@ -4,7 +4,6 @@ date: 2007-06-10T02:05:40+00:00
 id: 565
 slug: 'bathroom-revisited'
 featured_image: '/uploads/2007/06/girls.jpg'
-description: ''
 aliases:
   - '/index.php/2007/06/10/bathroom-revisited/'
 ---

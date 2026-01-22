@@ -4,7 +4,6 @@ date: 2009-10-11T10:51:21+00:00
 id: 988
 slug: 'great-scott'
 featured_image: '/uploads/2009/10/batman_hairdo.jpg'
-description: ''
 aliases:
   - '/index.php/2009/10/11/great-scott/'
 ---

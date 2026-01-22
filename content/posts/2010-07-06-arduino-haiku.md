@@ -4,7 +4,6 @@ date: 2010-07-06T17:51:15+00:00
 id: 2452
 slug: 'arduino-haiku'
 featured_image: '/uploads/2010/07/arduino-haiku.jpg'
-description: ''
 aliases:
   - '/index.php/2010/07/06/arduino-haiku/'
 ---

@@ -4,7 +4,6 @@ date: 2010-05-10T16:03:06+00:00
 id: 6219
 slug: 'zenni-optical-very-zen-like'
 featured_image: '/uploads/2010/05/zenni1.jpg'
-description: ''
 aliases:
   - '/index.php/2010/05/10/zenni-optical-very-zen-like/'
 ---

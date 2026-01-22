@@ -4,7 +4,6 @@ date: 2005-08-16T20:56:39+00:00
 id: 5758
 slug: 'sandwich-outing'
 featured_image: '/uploads/swantron/wp-content/photo_0040.jpg'
-description: ''
 aliases:
   - '/index.php/2005/08/16/sandwich-outing/'
 ---

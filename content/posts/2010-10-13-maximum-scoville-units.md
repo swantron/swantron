@@ -4,7 +4,6 @@ date: 2010-10-13T16:36:03+00:00
 id: 2764
 slug: 'maximum-scoville-units'
 featured_image: '/uploads/2010/10/hot-pepper.jpg'
-description: ''
 aliases:
   - '/index.php/2010/10/13/maximum-scoville-units/'
 ---

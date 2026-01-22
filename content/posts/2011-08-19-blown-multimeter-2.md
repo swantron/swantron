@@ -4,7 +4,6 @@ date: 2011-08-19T09:50:28+00:00
 id: 6304
 slug: 'blown-multimeter'
 featured_image: '/uploads/2011/08/Pull-up-resistor.jpg'
-description: ''
 aliases:
   - '/index.php/2011/08/19/blown-multimeter/'
 ---

@@ -4,7 +4,6 @@ date: 2011-06-06T20:33:52+00:00
 id: 3546
 slug: 'basic-mower-cord-repair'
 featured_image: '/uploads/2011/06/mower_repair_end.jpg'
-description: ''
 aliases:
   - '/index.php/2011/06/06/basic-mower-cord-repair/'
 ---

@@ -4,7 +4,6 @@ date: 2010-10-08T17:02:29+00:00
 id: 2740
 slug: 'work-like-a-fat-kid'
 featured_image: '/uploads/2010/10/work-food.jpg'
-description: ''
 aliases:
   - '/index.php/2010/10/08/work-like-a-fat-kid/'
 ---

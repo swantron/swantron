@@ -3,7 +3,6 @@ title: 'Its a Search Term Party!'
 date: 2006-04-20T16:26:29+00:00
 id: 6107
 slug: 'its-a-search-term-party'
-description: ''
 aliases:
   - '/index.php/2006/04/20/its-a-search-term-party/'
 ---

@@ -4,7 +4,6 @@ date: 2010-07-22T16:10:20+00:00
 id: 2486
 slug: 'cool-robot'
 featured_image: '/uploads/2010/07/cool-robot.jpg'
-description: ''
 aliases:
   - '/index.php/2010/07/22/cool-robot/'
 ---

@@ -4,7 +4,6 @@ date: 2009-11-17T15:28:59+00:00
 id: 1059
 slug: 'from-the-vaults'
 featured_image: '/uploads/2009/11/bblog.JPG "bblog"'
-description: ''
 aliases:
   - '/index.php/2009/11/17/from-the-vaults/'
 ---

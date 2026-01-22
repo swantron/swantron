@@ -4,7 +4,6 @@ date: 2011-10-04T17:47:57+00:00
 id: 3877
 slug: 'triple-monitors-at-work'
 featured_image: '/uploads/2011/10/problem-solved-570x342.jpg'
-description: ''
 aliases:
   - '/index.php/2011/10/04/triple-monitors-at-work/'
 ---

@@ -4,7 +4,6 @@ date: 2008-03-21T18:25:00+00:00
 id: 709
 slug: 'baseball-season'
 featured_image: 'http://www.theonion.com/content/files/images/Kenny-Lofton.thumbnail.jpg'
-description: ''
 aliases:
   - '/index.php/2008/03/21/baseball-season/'
 ---

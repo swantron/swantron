@@ -4,7 +4,6 @@ date: 2005-12-17T17:11:35+00:00
 id: 5996
 slug: 'endorsements'
 featured_image: '/uploads/swantron/wp-content/eat2.jpg'
-description: ''
 aliases:
   - '/index.php/2005/12/17/endorsements/'
 ---

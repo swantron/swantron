@@ -4,7 +4,6 @@ date: 2010-10-02T09:34:32+00:00
 id: 6245
 slug: 'motor-shield-assembly-steps-2'
 featured_image: '/uploads/2010/09/awesome-lab.jpg'
-description: ''
 aliases:
   - '/index.php/2010/10/02/motor-shield-assembly-steps-2/'
 ---

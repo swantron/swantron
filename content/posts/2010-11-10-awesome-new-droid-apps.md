@@ -4,7 +4,6 @@ date: 2010-11-10T20:05:00+00:00
 id: 2868
 slug: 'awesome-new-droid-apps'
 featured_image: '/uploads/2010/11/angry_bird.jpg'
-description: ''
 aliases:
   - '/index.php/2010/11/10/awesome-new-droid-apps/'
 ---

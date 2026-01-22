@@ -4,7 +4,6 @@ date: 2010-05-18T11:54:00+00:00
 id: 2143
 slug: 'wrigley-field-vs-cashman-field'
 featured_image: '/uploads/2010/05/sori.jpg'
-description: ''
 aliases:
   - '/index.php/2010/05/18/wrigley-field-vs-cashman-field/'
 ---

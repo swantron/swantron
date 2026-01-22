@@ -4,7 +4,6 @@ date: 2013-04-19T20:30:26+00:00
 id: 6391
 slug: 'oblig-red-bull-check-in'
 featured_image: '/uploads/2013/04/turbull.jpg'
-description: ''
 aliases:
   - '/index.php/2013/04/19/oblig-red-bull-check-in/'
 ---

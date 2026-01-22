@@ -4,7 +4,6 @@ date: 2011-10-27T16:00:39+00:00
 id: 4039
 slug: 'leaf-blower-pov'
 featured_image: '/uploads/2011/10/black-yukon-570x409.jpg'
-description: ''
 aliases:
   - '/index.php/2011/10/27/leaf-blower-pov/'
 ---

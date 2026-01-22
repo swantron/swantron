@@ -3,7 +3,6 @@ title: 'The Bachelor'
 date: 2008-06-25T21:30:05+00:00
 id: 6131
 slug: 'the-bachelor-2'
-description: ''
 aliases:
   - '/index.php/2008/06/25/the-bachelor-2/'
 ---

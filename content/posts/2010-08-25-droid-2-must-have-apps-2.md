@@ -4,7 +4,6 @@ date: 2010-08-25T19:42:32+00:00
 id: 6241
 slug: 'droid-2-must-have-apps'
 featured_image: '/uploads/2010/08/droid-II.jpg'
-description: ''
 aliases:
   - '/index.php/2010/08/25/droid-2-must-have-apps/'
 ---

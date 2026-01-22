@@ -4,7 +4,6 @@ date: 2005-09-01T20:20:25+00:00
 id: 5779
 slug: 'joes-kindred-spirit'
 featured_image: 'http://www.swantron.com/wp-content/photo_0047.jpg'
-description: ''
 aliases:
   - '/index.php/2005/09/01/joes-kindred-spirit/'
 ---

@@ -4,7 +4,6 @@ date: 2011-06-29T20:48:02+00:00
 id: 3613
 slug: 'evolution-of-a-project'
 featured_image: '/uploads/2011/06/lcd-arduino.jpg'
-description: ''
 aliases:
   - '/index.php/2011/06/29/evolution-of-a-project/'
 ---

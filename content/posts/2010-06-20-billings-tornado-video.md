@@ -3,7 +3,6 @@ title: 'Billings Tornado Video'
 date: 2010-06-20T18:28:10+00:00
 id: 2356
 slug: 'billings-tornado-video'
-description: ''
 aliases:
   - '/index.php/2010/06/20/billings-tornado-video/'
 ---

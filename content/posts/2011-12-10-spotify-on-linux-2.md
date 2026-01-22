@@ -4,7 +4,6 @@ date: 2011-12-10T16:19:55+00:00
 id: 6333
 slug: 'spotify-on-linux'
 featured_image: '/uploads/2011/12/spotify-one-499x570.png'
-description: ''
 aliases:
   - '/index.php/2011/12/10/spotify-on-linux/'
 ---

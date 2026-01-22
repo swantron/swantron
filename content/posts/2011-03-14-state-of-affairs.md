@@ -4,7 +4,6 @@ date: 2011-03-14T12:08:52+00:00
 id: 3242
 slug: 'state-of-affairs'
 featured_image: '/uploads/2011/03/netbook-instal1.jpg'
-description: ''
 aliases:
   - '/index.php/2011/03/14/state-of-affairs/'
 ---

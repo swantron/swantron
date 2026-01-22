@@ -4,7 +4,6 @@ date: 2015-10-16T08:04:14+00:00
 id: 5032
 slug: 'not-a-popsicle'
 featured_image: '/uploads/2015/10/not-a-popsicle.jpg'
-description: ''
 aliases:
   - '/index.php/2015/10/16/not-a-popsicle/'
 ---

@@ -4,7 +4,6 @@ date: 2011-07-08T12:50:19+00:00
 id: 3658
 slug: 'awesome-gadget-blog'
 featured_image: '/uploads/2011/07/calculator-iphone-case.jpg'
-description: ''
 aliases:
   - '/index.php/2011/07/08/awesome-gadget-blog/'
 ---

@@ -4,7 +4,6 @@ date: 2009-09-01T12:27:09+00:00
 id: 961
 slug: 'taxation-with-representation'
 featured_image: '/uploads/2009/09/solitare.jpg'
-description: ''
 aliases:
   - '/index.php/2009/09/01/taxation-with-representation/'
 ---

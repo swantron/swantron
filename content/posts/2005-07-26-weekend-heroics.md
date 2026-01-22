@@ -3,7 +3,6 @@ title: 'Weekend Heroics'
 date: 2005-07-26T20:29:13+00:00
 id: 308
 slug: 'weekend-heroics'
-description: ''
 aliases:
   - '/index.php/2005/07/26/weekend-heroics/'
 ---

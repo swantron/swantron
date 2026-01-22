@@ -4,7 +4,6 @@ date: 2007-05-02T19:40:11+00:00
 id: 540
 slug: 'my-first-chainsaw'
 featured_image: '/uploads/2007/05/squirtt.jpg'
-description: ''
 aliases:
   - '/index.php/2007/05/02/my-first-chainsaw/'
 ---

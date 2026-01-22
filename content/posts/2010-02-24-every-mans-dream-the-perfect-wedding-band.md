@@ -4,7 +4,6 @@ date: 2010-02-24T14:20:44+00:00
 id: 1742
 slug: 'every-mans-dream-the-perfect-wedding-band'
 featured_image: '/uploads/2010/02/horrible-ring.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/24/every-mans-dream-the-perfect-wedding-band/'
 ---

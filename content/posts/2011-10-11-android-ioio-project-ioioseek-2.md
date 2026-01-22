@@ -4,7 +4,6 @@ date: 2011-10-11T04:01:05+00:00
 id: 6312
 slug: 'android-ioio-project-ioioseek'
 featured_image: '/uploads/2011/10/IOIO-Android-Seek-570x320.jpg'
-description: ''
 aliases:
   - '/index.php/2011/10/11/android-ioio-project-ioioseek/'
 ---

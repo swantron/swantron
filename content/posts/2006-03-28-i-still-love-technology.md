@@ -3,7 +3,6 @@ title: 'I still love technology'
 date: 2006-03-28T13:49:52+00:00
 id: 6102
 slug: 'i-still-love-technology'
-description: ''
 aliases:
   - '/index.php/2006/03/28/i-still-love-technology/'
 ---

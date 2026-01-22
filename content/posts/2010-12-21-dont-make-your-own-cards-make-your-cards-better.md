@@ -4,7 +4,6 @@ date: 2010-12-21T14:55:16+00:00
 id: 2945
 slug: 'dont-make-your-own-cards-make-your-cards-better'
 featured_image: '/uploads/2010/12/total_bad_ass.jpg'
-description: ''
 aliases:
   - '/index.php/2010/12/21/dont-make-your-own-cards-make-your-cards-better/'
 ---

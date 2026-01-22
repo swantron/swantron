@@ -4,7 +4,6 @@ date: 2006-07-10T19:58:31+00:00
 id: 6119
 slug: 'swannys-favorite-things'
 featured_image: '/uploads/2006/07/alpaca31.jpg'
-description: ''
 aliases:
   - '/index.php/2006/07/10/swannys-favorite-things/'
 ---

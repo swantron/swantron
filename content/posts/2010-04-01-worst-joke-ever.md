@@ -4,7 +4,6 @@ date: 2010-04-01T17:58:22+00:00
 id: 1915
 slug: 'worst-joke-ever'
 featured_image: '/uploads/2010/04/google-kansas.png'
-description: ''
 aliases:
   - '/index.php/2010/04/01/worst-joke-ever/'
 ---

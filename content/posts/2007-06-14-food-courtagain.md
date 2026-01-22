@@ -4,7 +4,6 @@ date: 2007-06-14T16:13:50+00:00
 id: 567
 slug: 'food-courtagain'
 featured_image: '/uploads/2007/06/jp.jpg'
-description: ''
 aliases:
   - '/index.php/2007/06/14/food-courtagain/'
 ---

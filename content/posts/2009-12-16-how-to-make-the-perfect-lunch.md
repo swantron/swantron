@@ -4,7 +4,6 @@ date: 2009-12-16T12:59:29+00:00
 id: 1252
 slug: 'how-to-make-the-perfect-lunch'
 featured_image: '/uploads/2009/12/lunch.JPG "lunch"'
-description: ''
 aliases:
   - '/index.php/2009/12/16/how-to-make-the-perfect-lunch/'
 ---

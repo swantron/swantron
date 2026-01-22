@@ -4,7 +4,6 @@ date: 2010-02-09T19:40:30+00:00
 id: 1659
 slug: 'ps3-to-support-3d'
 featured_image: '/uploads/2010/02/3D_glasses.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/09/ps3-to-support-3d/'
 ---

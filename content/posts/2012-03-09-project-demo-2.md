@@ -4,7 +4,6 @@ date: 2012-03-09T21:19:20+00:00
 id: 6359
 slug: 'project-demo'
 featured_image: '/uploads/2012/03/IOIO-Garage-Time.jpg'
-description: ''
 aliases:
   - '/index.php/2012/03/09/project-demo/'
 ---

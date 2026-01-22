@@ -4,7 +4,6 @@ date: 2012-01-23T17:15:32+00:00
 id: 4308
 slug: 'android-dev-teaser'
 featured_image: '/uploads/2012/01/xyz-570x320.png'
-description: ''
 aliases:
   - '/index.php/2012/01/23/android-dev-teaser/'
 ---

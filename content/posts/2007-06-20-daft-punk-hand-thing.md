@@ -3,7 +3,6 @@ title: 'Daft Punk Hand Thing'
 date: 2007-06-20T17:54:16+00:00
 id: 569
 slug: 'daft-punk-hand-thing'
-description: ''
 aliases:
   - '/index.php/2007/06/20/daft-punk-hand-thing/'
 ---

@@ -4,7 +4,6 @@ date: 2008-09-21T17:27:19+00:00
 id: 6134
 slug: 'comics-are-still-horrible'
 featured_image: '/uploads/2008/09/marvin.gif'
-description: ''
 aliases:
   - '/index.php/2008/09/21/comics-are-still-horrible/'
 ---

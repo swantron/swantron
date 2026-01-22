@@ -4,7 +4,6 @@ date: 2005-09-11T15:00:33+00:00
 id: 5799
 slug: 'opening-tailgate'
 featured_image: '/uploads/swantron/wp-content/authors/images/Griff.jpg'
-description: ''
 aliases:
   - '/index.php/2005/09/11/opening-tailgate/'
 ---

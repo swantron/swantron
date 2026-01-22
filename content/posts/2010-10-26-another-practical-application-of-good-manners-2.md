@@ -4,7 +4,6 @@ date: 2010-10-26T16:03:13+00:00
 id: 6249
 slug: 'another-practical-application-of-good-manners'
 featured_image: '/uploads/2010/10/nice.jpg'
-description: ''
 aliases:
   - '/index.php/2010/10/26/another-practical-application-of-good-manners/'
 ---

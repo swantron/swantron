@@ -4,7 +4,6 @@ date: 2008-06-11T15:50:45+00:00
 id: 744
 slug: 'guitar-hero-hero'
 featured_image: '/uploads/2008/06/guitar-hero.jpg'
-description: ''
 aliases:
   - '/index.php/2008/06/11/guitar-hero-hero/'
 ---

@@ -4,7 +4,6 @@ date: 2010-08-11T11:33:54+00:00
 id: 2536
 slug: 'servo-schmervo-arduino-sweep'
 featured_image: '/uploads/2010/08/arduino-sweep.jpg'
-description: ''
 aliases:
   - '/index.php/2010/08/11/servo-schmervo-arduino-sweep/'
 ---

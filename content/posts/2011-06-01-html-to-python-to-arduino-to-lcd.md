@@ -4,7 +4,6 @@ date: 2011-06-01T21:42:07+00:00
 id: 3536
 slug: 'html-to-python-to-arduino-to-lcd'
 featured_image: '/uploads/2011/06/outdoor-computer.jpg'
-description: ''
 aliases:
   - '/index.php/2011/06/01/html-to-python-to-arduino-to-lcd/'
 ---

@@ -3,7 +3,6 @@ title: 'Chips and Salsa'
 date: 2008-03-13T14:03:19+00:00
 id: 703
 slug: 'chips-and-salsa'
-description: ''
 aliases:
   - '/index.php/2008/03/13/chips-and-salsa/'
 ---

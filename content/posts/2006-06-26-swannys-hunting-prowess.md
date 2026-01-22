@@ -4,7 +4,6 @@ date: 2006-06-26T21:45:39+00:00
 id: 6118
 slug: 'swannys-hunting-prowess'
 featured_image: '/uploads/2006/06/bull.jpg'
-description: ''
 aliases:
   - '/index.php/2006/06/26/swannys-hunting-prowess/'
 ---

@@ -4,7 +4,6 @@ date: 2010-07-03T11:18:30+00:00
 id: 2429
 slug: 'hot-dog-sandwich'
 featured_image: '/uploads/2010/07/fried-hot-dog.jpg'
-description: ''
 aliases:
   - '/index.php/2010/07/03/hot-dog-sandwich/'
 ---

@@ -4,7 +4,6 @@ date: 2010-06-01T20:53:49+00:00
 id: 2238
 slug: 'weaponized-robot-aggressive'
 featured_image: '/uploads/2010/06/robo-laser.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/01/weaponized-robot-aggressive/'
 ---

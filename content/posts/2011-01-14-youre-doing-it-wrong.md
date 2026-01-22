@@ -4,7 +4,6 @@ date: 2011-01-14T16:02:47+00:00
 id: 3114
 slug: 'youre-doing-it-wrong'
 featured_image: '/uploads/2011/01/parking.jpg'
-description: ''
 aliases:
   - '/index.php/2011/01/14/youre-doing-it-wrong/'
 ---

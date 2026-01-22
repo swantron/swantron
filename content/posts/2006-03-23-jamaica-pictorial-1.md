@@ -4,7 +4,6 @@ date: 2006-03-23T20:23:45+00:00
 id: 6099
 slug: 'jamaica-pictorial-1'
 featured_image: '/uploads/2006/03/jam61.jpg'
-description: ''
 aliases:
   - '/index.php/2006/03/23/jamaica-pictorial-1/'
 ---

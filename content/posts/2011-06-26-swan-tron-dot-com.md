@@ -4,7 +4,6 @@ date: 2011-06-26T20:48:22+00:00
 id: 3598
 slug: 'swan-tron-dot-com'
 featured_image: '/uploads/2011/06/swan-tron-dot-com.jpg'
-description: ''
 aliases:
   - '/index.php/2011/06/26/swan-tron-dot-com/'
 ---

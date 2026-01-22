@@ -4,7 +4,6 @@ date: 2010-07-02T17:29:04+00:00
 id: 2423
 slug: 'american-residential-law-group-info'
 featured_image: '/uploads/2010/07/legal.jpg'
-description: ''
 aliases:
   - '/index.php/2010/07/02/american-residential-law-group-info/'
 ---

@@ -4,7 +4,6 @@ date: 2010-03-11T09:07:02+00:00
 id: 6191
 slug: 'ps3-move-piimote'
 featured_image: '/uploads/2010/03/PS3-move.jpg'
-description: ''
 aliases:
   - '/index.php/2010/03/11/ps3-move-piimote/'
 ---

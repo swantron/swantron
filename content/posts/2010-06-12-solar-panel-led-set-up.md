@@ -4,7 +4,6 @@ date: 2010-06-12T13:35:22+00:00
 id: 2291
 slug: 'solar-panel-led-set-up'
 featured_image: '/uploads/2010/06/solar-panel.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/12/solar-panel-led-set-up/'
 ---

@@ -4,7 +4,6 @@ date: 2009-11-10T17:09:58+00:00
 id: 1050
 slug: 'don-the-wordsmith'
 featured_image: '/uploads/2009/11/don.bmp "don"'
-description: ''
 aliases:
   - '/index.php/2009/11/10/don-the-wordsmith/'
 ---

@@ -4,7 +4,6 @@ date: 2009-08-19T12:15:25+00:00
 id: 951
 slug: 'stereotype-strengthened'
 featured_image: '/uploads/2009/08/pimple.JPG "pimple"'
-description: ''
 aliases:
   - '/index.php/2009/08/19/stereotype-strengthened/'
 ---

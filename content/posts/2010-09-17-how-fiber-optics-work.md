@@ -4,7 +4,6 @@ date: 2010-09-17T19:23:20+00:00
 id: 2679
 slug: 'how-fiber-optics-work'
 featured_image: '/uploads/2010/09/fiber.jpg'
-description: ''
 aliases:
   - '/index.php/2010/09/17/how-fiber-optics-work/'
 ---

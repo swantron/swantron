@@ -3,7 +3,6 @@ title: 'Mahna Mahna'
 date: 2007-01-21T05:08:37+00:00
 id: 455
 slug: 'mahna-mahna'
-description: ''
 aliases:
   - '/index.php/2007/01/21/mahna-mahna/'
 ---

@@ -4,7 +4,6 @@ date: 2011-10-24T19:39:22+00:00
 id: 3965
 slug: 'pushing-to-master'
 featured_image: '/uploads/2011/10/push-to-master.png'
-description: ''
 aliases:
   - '/index.php/2011/10/24/pushing-to-master/'
 ---

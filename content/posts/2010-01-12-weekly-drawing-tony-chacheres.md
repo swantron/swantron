@@ -4,7 +4,6 @@ date: 2010-01-12T14:13:56+00:00
 id: 1470
 slug: 'weekly-drawing-tony-chacheres'
 featured_image: '/uploads/2010/01/tony-chachere.jpg'
-description: ''
 aliases:
   - '/index.php/2010/01/12/weekly-drawing-tony-chacheres/'
 ---

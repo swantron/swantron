@@ -4,7 +4,6 @@ date: 2011-05-26T17:25:25+00:00
 id: 3524
 slug: 'woot-boc-unboxing'
 featured_image: '/uploads/2011/05/woot-bocrap.jpg'
-description: ''
 aliases:
   - '/index.php/2011/05/26/woot-boc-unboxing/'
 ---

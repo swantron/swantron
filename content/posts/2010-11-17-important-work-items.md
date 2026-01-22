@@ -4,7 +4,6 @@ date: 2010-11-17T16:41:49+00:00
 id: 6254
 slug: 'important-work-items'
 featured_image: '/uploads/2010/11/work_food.jpg'
-description: ''
 aliases:
   - '/index.php/2010/11/17/important-work-items/'
 ---

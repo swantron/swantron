@@ -4,7 +4,6 @@ date: 2010-06-04T19:47:10+00:00
 id: 2261
 slug: 'useless-bot'
 featured_image: '/uploads/2010/06/useless-robot.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/04/useless-bot/'
 ---

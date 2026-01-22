@@ -4,7 +4,6 @@ date: 2010-03-13T15:47:05+00:00
 id: 6184
 slug: 'super-computer-setup'
 featured_image: '/uploads/2010/03/max_comput.jpg'
-description: ''
 aliases:
   - '/index.php/2010/03/13/super-computer-setup/'
 ---

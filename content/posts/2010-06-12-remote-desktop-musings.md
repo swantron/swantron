@@ -4,7 +4,6 @@ date: 2010-06-12T12:05:12+00:00
 id: 2284
 slug: 'remote-desktop-musings'
 featured_image: '/uploads/2010/06/dude.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/12/remote-desktop-musings/'
 ---

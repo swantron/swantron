@@ -4,7 +4,6 @@ date: 2008-09-17T17:41:18+00:00
 id: 777
 slug: 'comics-are-horrible-ii'
 featured_image: '/uploads/2008/09/retarded.jpg'
-description: ''
 aliases:
   - '/index.php/2008/09/17/comics-are-horrible-ii/'
 ---

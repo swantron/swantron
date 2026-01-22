@@ -4,7 +4,6 @@ date: 2011-08-03T08:12:39+00:00
 id: 3718
 slug: 'bad-lab-in-action'
 featured_image: '/uploads/2011/08/lab-in-action.jpg'
-description: ''
 aliases:
   - '/index.php/2011/08/03/bad-lab-in-action/'
 ---

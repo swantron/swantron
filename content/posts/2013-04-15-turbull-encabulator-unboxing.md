@@ -4,7 +4,6 @@ date: 2013-04-15T19:13:50+00:00
 id: 4869
 slug: 'turbull-encabulator-unboxing'
 featured_image: '/uploads/2013/04/turbull-encabulator.jpg'
-description: ''
 aliases:
   - '/index.php/2013/04/15/turbull-encabulator-unboxing/'
 ---

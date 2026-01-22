@@ -4,7 +4,6 @@ date: 2008-09-18T18:39:19+00:00
 id: 779
 slug: 'comics-are-horrible-iii'
 featured_image: '/uploads/2008/09/pajama.gif'
-description: ''
 aliases:
   - '/index.php/2008/09/18/comics-are-horrible-iii/'
 ---

@@ -4,7 +4,6 @@ date: 2011-05-26T12:02:09+00:00
 id: 3519
 slug: 'it-never-rains'
 featured_image: '/uploads/2011/05/montana-creek.jpg'
-description: ''
 aliases:
   - '/index.php/2011/05/26/it-never-rains/'
 ---

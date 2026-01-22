@@ -4,7 +4,6 @@ date: 2011-06-06T19:41:29+00:00
 id: 3543
 slug: 'trustworthy-online-brokerage-account-services'
 featured_image: '/uploads/2011/06/saving-money.jpg'
-description: ''
 aliases:
   - '/index.php/2011/06/06/trustworthy-online-brokerage-account-services/'
 ---

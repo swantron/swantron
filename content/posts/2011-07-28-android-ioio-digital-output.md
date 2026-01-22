@@ -4,7 +4,6 @@ date: 2011-07-28T12:05:01+00:00
 id: 3712
 slug: 'android-ioio-digital-output'
 featured_image: '/uploads/2011/07/yoyo.jpg'
-description: ''
 aliases:
   - '/index.php/2011/07/28/android-ioio-digital-output/'
 ---

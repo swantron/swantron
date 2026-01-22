@@ -4,7 +4,6 @@ date: 2010-09-01T18:37:21+00:00
 id: 2579
 slug: 'wereward-review'
 featured_image: '/uploads/2010/09/droid2.jpg'
-description: ''
 aliases:
   - '/index.php/2010/09/01/wereward-review/'
 ---

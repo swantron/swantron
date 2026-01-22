@@ -4,7 +4,6 @@ date: 2010-04-21T17:22:10+00:00
 id: 6203
 slug: 'sinks-are-the-new-tubs-3'
 featured_image: '/uploads/2010/04/stainless-steel-sink.png'
-description: ''
 aliases:
   - '/index.php/2010/04/21/sinks-are-the-new-tubs-3/'
 ---

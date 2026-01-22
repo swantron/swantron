@@ -4,7 +4,6 @@ date: 2008-12-08T20:48:53+00:00
 id: 816
 slug: 'grammatically-awesome-signs-from-the-legion'
 featured_image: '/uploads/2008/12/legion1.jpg'
-description: ''
 aliases:
   - '/index.php/2008/12/08/grammatically-awesome-signs-from-the-legion/'
 ---

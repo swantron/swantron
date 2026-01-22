@@ -4,7 +4,6 @@ date: 2009-12-20T12:45:18+00:00
 id: 1260
 slug: 'brittany-murphy-overdose'
 featured_image: '/uploads/2009/12/brit_murphy.jpg'
-description: ''
 aliases:
   - '/index.php/2009/12/20/brittany-murphy-overdose/'
 ---

@@ -4,7 +4,6 @@ date: 2010-08-03T20:31:25+00:00
 id: 2506
 slug: 'softball-injury'
 featured_image: '/uploads/2010/08/softball-injury.jpg'
-description: ''
 aliases:
   - '/index.php/2010/08/03/softball-injury/'
 ---

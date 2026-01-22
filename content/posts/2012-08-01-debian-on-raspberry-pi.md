@@ -4,7 +4,6 @@ date: 2012-08-01T13:06:47+00:00
 id: 4659
 slug: 'debian-on-raspberry-pi'
 featured_image: '/uploads/2012/08/rpi.jpg'
-description: ''
 aliases:
   - '/index.php/2012/08/01/debian-on-raspberry-pi/'
 ---

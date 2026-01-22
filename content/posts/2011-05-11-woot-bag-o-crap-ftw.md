@@ -4,7 +4,6 @@ date: 2011-05-11T15:10:30+00:00
 id: 3482
 slug: 'woot-bag-o-crap-ftw'
 featured_image: '/uploads/2011/05/bag-o-crap.jpg'
-description: ''
 aliases:
   - '/index.php/2011/05/11/woot-bag-o-crap-ftw/'
 ---

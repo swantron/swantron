@@ -4,7 +4,6 @@ date: 2006-10-18T17:36:27+00:00
 id: 397
 slug: 'denim-danielle'
 featured_image: '/uploads/swantron/wp-content/photo_0041.jpg'
-description: ''
 aliases:
   - '/index.php/2006/10/18/denim-danielle/'
 ---

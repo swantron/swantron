@@ -4,7 +4,6 @@ date: 2014-05-02T08:07:16+00:00
 id: 5013
 slug: 'rooting_stuff'
 featured_image: '/uploads/2014/06/rooting_stuff.jpg.jpg'
-description: ''
 aliases:
   - '/index.php/2014/05/02/rooting_stuff/'
 ---

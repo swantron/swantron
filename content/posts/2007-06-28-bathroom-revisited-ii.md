@@ -4,7 +4,6 @@ date: 2007-06-28T02:12:31+00:00
 id: 573
 slug: 'bathroom-revisited-ii'
 featured_image: '/uploads/2007/06/tim.jpg'
-description: ''
 aliases:
   - '/index.php/2007/06/28/bathroom-revisited-ii/'
 ---

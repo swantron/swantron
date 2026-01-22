@@ -4,7 +4,6 @@ date: 2009-01-05T21:02:34+00:00
 id: 823
 slug: 'ddrnew-year'
 featured_image: '/uploads/2009/01/ddrtt.jpg'
-description: ''
 aliases:
   - '/index.php/2009/01/05/ddrnew-year/'
 ---

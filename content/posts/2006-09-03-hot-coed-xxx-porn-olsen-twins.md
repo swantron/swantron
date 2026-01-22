@@ -4,7 +4,6 @@ date: 2006-09-03T22:53:58+00:00
 id: 359
 slug: 'hot-coed-xxx-porn-olsen-twins'
 featured_image: '/uploads/2006/09/hotdudes.jpg'
-description: ''
 aliases:
   - '/index.php/2006/09/03/hot-coed-xxx-porn-olsen-twins/'
 ---

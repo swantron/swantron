@@ -4,7 +4,6 @@ date: 2010-05-31T14:44:50+00:00
 id: 2233
 slug: 'business-card-2-0'
 featured_image: '/uploads/2010/05/usb-card.jpg'
-description: ''
 aliases:
   - '/index.php/2010/05/31/business-card-2-0/'
 ---

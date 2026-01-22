@@ -3,7 +3,6 @@ title: 'Weekend Results'
 date: 2005-08-28T18:08:56+00:00
 id: 5769
 slug: 'weekend-results'
-description: ''
 aliases:
   - '/index.php/2005/08/28/weekend-results/'
 ---

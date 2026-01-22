@@ -4,7 +4,6 @@ date: 2005-11-28T20:21:29+00:00
 id: 5957
 slug: 'the-good-the-bad-the-ugly'
 featured_image: '/uploads/swantron/wp-content/emone.jpg'
-description: ''
 aliases:
   - '/index.php/2005/11/28/the-good-the-bad-the-ugly/'
 ---

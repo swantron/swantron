@@ -4,7 +4,6 @@ date: 2010-04-02T09:32:30+00:00
 id: 1898
 slug: 'chew-bot-is-cancer-y'
 featured_image: '/uploads/2010/04/IMG00077.jpg'
-description: ''
 aliases:
   - '/index.php/2010/04/02/chew-bot-is-cancer-y/'
 ---

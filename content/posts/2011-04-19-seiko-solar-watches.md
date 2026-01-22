@@ -4,7 +4,6 @@ date: 2011-04-19T09:24:50+00:00
 id: 4511
 slug: 'seiko-solar-watches'
 featured_image: '/uploads/2012/04/seiko-solar.png'
-description: ''
 aliases:
   - '/index.php/2011/04/19/seiko-solar-watches/'
 ---

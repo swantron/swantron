@@ -4,7 +4,6 @@ date: 2008-06-09T21:08:51+00:00
 id: 742
 slug: 'catmobile'
 featured_image: '/uploads/2008/06/catwindow.jpg'
-description: ''
 aliases:
   - '/index.php/2008/06/09/catmobile/'
 ---

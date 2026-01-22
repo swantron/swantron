@@ -4,7 +4,6 @@ date: 2010-06-29T18:41:15+00:00
 id: 2395
 slug: 'computer-forensics'
 featured_image: '/uploads/2010/06/investigator.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/29/computer-forensics/'
 ---

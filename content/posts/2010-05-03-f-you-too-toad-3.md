@@ -4,7 +4,6 @@ date: 2010-05-03T12:01:09+00:00
 id: 6213
 slug: 'f-you-too-toad-3'
 featured_image: '/uploads/2010/05/MarioandToad.gif'
-description: ''
 aliases:
   - '/index.php/2010/05/03/f-you-too-toad-3/'
 ---

@@ -4,7 +4,6 @@ date: 2012-01-25T18:40:08+00:00
 id: 6348
 slug: 'v-day-eyeglasses'
 featured_image: '/uploads/2012/01/roboframe-570x386.jpg'
-description: ''
 aliases:
   - '/index.php/2012/01/25/v-day-eyeglasses/'
 ---

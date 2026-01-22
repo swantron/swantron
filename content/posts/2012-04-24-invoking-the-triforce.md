@@ -4,7 +4,6 @@ date: 2012-04-24T17:30:33+00:00
 id: 4517
 slug: 'invoking-the-triforce'
 featured_image: '/uploads/2012/04/custom_baum.jpg'
-description: ''
 aliases:
   - '/index.php/2012/04/24/invoking-the-triforce/'
 ---

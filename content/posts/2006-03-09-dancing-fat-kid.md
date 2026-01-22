@@ -3,7 +3,6 @@ title: 'Dancing Fat Kid'
 date: 2006-03-09T13:16:12+00:00
 id: 6096
 slug: 'dancing-fat-kid'
-description: ''
 aliases:
   - '/index.php/2006/03/09/dancing-fat-kid/'
 ---

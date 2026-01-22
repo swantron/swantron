@@ -3,7 +3,6 @@ title: 'Excuse Me, Link'
 date: 2008-01-03T14:13:51+00:00
 id: 650
 slug: 'excuse-me-link'
-description: ''
 aliases:
   - '/index.php/2008/01/03/excuse-me-link/'
 ---

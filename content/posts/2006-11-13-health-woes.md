@@ -4,7 +4,6 @@ date: 2006-11-13T22:21:49+00:00
 id: 410
 slug: 'health-woes'
 featured_image: '/uploads/2006/11/earpost.jpg'
-description: ''
 aliases:
   - '/index.php/2006/11/13/health-woes/'
 ---

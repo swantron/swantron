@@ -4,7 +4,6 @@ date: 2009-08-25T13:11:45+00:00
 id: 957
 slug: 'microsoft-faux-pas'
 featured_image: '/uploads/2009/08/microsoft_US.jpg'
-description: ''
 aliases:
   - '/index.php/2009/08/25/microsoft-faux-pas/'
 ---

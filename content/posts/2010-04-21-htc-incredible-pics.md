@@ -4,7 +4,6 @@ date: 2010-04-21T17:11:37+00:00
 id: 2017
 slug: 'htc-incredible-pics'
 featured_image: '/uploads/2010/04/Incredible-HTC.jpg'
-description: ''
 aliases:
   - '/index.php/2010/04/21/htc-incredible-pics/'
 ---

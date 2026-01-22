@@ -4,7 +4,6 @@ date: 2010-06-04T20:09:54+00:00
 id: 6225
 slug: 'ringtone-mania'
 featured_image: '/uploads/2010/06/robot-jigga.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/04/ringtone-mania/'
 ---

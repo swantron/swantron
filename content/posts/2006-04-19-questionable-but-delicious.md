@@ -4,7 +4,6 @@ date: 2006-04-19T19:10:05+00:00
 id: 6106
 slug: 'questionable-but-delicious'
 featured_image: '/uploads/2006/04/0418062354.jpg'
-description: ''
 aliases:
   - '/index.php/2006/04/19/questionable-but-delicious/'
 ---

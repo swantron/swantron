@@ -4,7 +4,6 @@ date: 2011-08-29T18:46:04+00:00
 id: 3770
 slug: 'so-long-zoot'
 featured_image: '/uploads/2011/08/zoot-enterprises-570x320.jpg'
-description: ''
 aliases:
   - '/index.php/2011/08/29/so-long-zoot/'
 ---

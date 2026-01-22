@@ -4,7 +4,6 @@ date: 2009-06-18T11:34:02+00:00
 id: 6144
 slug: 'city-of-bozeman-2'
 featured_image: '/uploads/2009/06/boz.jpg'
-description: ''
 aliases:
   - '/index.php/2009/06/18/city-of-bozeman-2/'
 ---

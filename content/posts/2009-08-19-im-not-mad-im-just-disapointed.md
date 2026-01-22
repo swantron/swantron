@@ -4,7 +4,6 @@ date: 2009-08-19T12:02:44+00:00
 id: 945
 slug: 'im-not-mad-im-just-disapointed'
 featured_image: '/uploads/2009/08/gaytat.JPG "gaytat"'
-description: ''
 aliases:
   - '/index.php/2009/08/19/im-not-mad-im-just-disapointed/'
 ---

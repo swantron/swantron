@@ -4,7 +4,6 @@ date: 2012-05-17T14:38:44+00:00
 id: 4562
 slug: 'bonus-bacon-lattice'
 featured_image: '/uploads/2012/05/bacon-lattice.jpg'
-description: ''
 aliases:
   - '/index.php/2012/05/17/bonus-bacon-lattice/'
 ---

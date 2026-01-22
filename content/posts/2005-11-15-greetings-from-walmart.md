@@ -4,7 +4,6 @@ date: 2005-11-15T18:03:05+00:00
 id: 5942
 slug: 'greetings-from-walmart'
 featured_image: '/uploads/swantron/wp-content/uploads/2006/12/tree.jpg'
-description: ''
 aliases:
   - '/index.php/2005/11/15/greetings-from-walmart/'
 ---

@@ -4,7 +4,6 @@ date: 2009-12-09T16:57:43+00:00
 id: 1203
 slug: 'there-i-fixed-that-shitty-comic-for-you-keene'
 featured_image: '/uploads/2009/12/famcirc.gif'
-description: ''
 aliases:
   - '/index.php/2009/12/09/there-i-fixed-that-shitty-comic-for-you-keene/'
 ---

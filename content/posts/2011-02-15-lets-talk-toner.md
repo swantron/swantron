@@ -4,7 +4,6 @@ date: 2011-02-15T20:47:34+00:00
 id: 3171
 slug: 'lets-talk-toner'
 featured_image: '/uploads/2011/02/toner.jpg'
-description: ''
 aliases:
   - '/index.php/2011/02/15/lets-talk-toner/'
 ---

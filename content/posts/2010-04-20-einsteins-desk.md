@@ -4,7 +4,6 @@ date: 2010-04-20T19:11:36+00:00
 id: 2011
 slug: 'einsteins-desk'
 featured_image: '/uploads/2010/04/einstein-desk.jpg'
-description: ''
 aliases:
   - '/index.php/2010/04/20/einsteins-desk/'
 ---

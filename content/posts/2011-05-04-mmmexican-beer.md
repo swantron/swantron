@@ -4,7 +4,6 @@ date: 2011-05-04T17:37:16+00:00
 id: 3450
 slug: 'mmmexican-beer'
 featured_image: '/uploads/2011/05/mexican-beer.jpg'
-description: ''
 aliases:
   - '/index.php/2011/05/04/mmmexican-beer/'
 ---

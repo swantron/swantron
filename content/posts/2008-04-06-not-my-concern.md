@@ -4,7 +4,6 @@ date: 2008-04-06T18:21:24+00:00
 id: 720
 slug: 'not-my-concern'
 featured_image: '/uploads/2008/04/mprior.jpg'
-description: ''
 aliases:
   - '/index.php/2008/04/06/not-my-concern/'
 ---

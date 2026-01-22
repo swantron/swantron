@@ -3,7 +3,6 @@ title: 'Soul Brother Number One'
 date: 2007-01-06T03:53:17+00:00
 id: 438
 slug: 'soul-brother-number-one'
-description: ''
 aliases:
   - '/index.php/2007/01/06/soul-brother-number-one/'
 ---

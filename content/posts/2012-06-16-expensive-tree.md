@@ -4,7 +4,6 @@ date: 2012-06-16T16:39:29+00:00
 id: 4607
 slug: 'expensive-tree'
 featured_image: '/uploads/2012/06/expensive_tree.jpg'
-description: ''
 aliases:
   - '/index.php/2012/06/16/expensive-tree/'
 ---

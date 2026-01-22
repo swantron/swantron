@@ -4,7 +4,6 @@ date: 2011-08-20T13:06:33+00:00
 id: 3757
 slug: 'ubuntu-fast-flash-issue'
 featured_image: '/uploads/2011/08/ubuntu-audio-570x491.jpg'
-description: ''
 aliases:
   - '/index.php/2011/08/20/ubuntu-fast-flash-issue/'
 ---

@@ -4,7 +4,6 @@ date: 2011-04-19T11:34:48+00:00
 id: 3405
 slug: 'diy-minority-report'
 featured_image: '/uploads/2011/04/minority-report.jpg'
-description: ''
 aliases:
   - '/index.php/2011/04/19/diy-minority-report/'
 ---

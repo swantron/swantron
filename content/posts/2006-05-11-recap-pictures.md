@@ -4,7 +4,6 @@ date: 2006-05-11T18:27:13+00:00
 id: 6110
 slug: 'recap-pictures'
 featured_image: '/uploads/2006/05/torque3.JPG'
-description: ''
 aliases:
   - '/index.php/2006/05/11/recap-pictures/'
 ---

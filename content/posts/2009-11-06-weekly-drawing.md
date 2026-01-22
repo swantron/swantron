@@ -4,7 +4,6 @@ date: 2009-11-06T11:10:50+00:00
 id: 1040
 slug: 'weekly-drawing'
 featured_image: '/uploads/2009/11/cholula.JPG "cholula"'
-description: ''
 aliases:
   - '/index.php/2009/11/06/weekly-drawing/'
 ---

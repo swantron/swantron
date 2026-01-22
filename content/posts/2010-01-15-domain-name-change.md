@@ -4,7 +4,6 @@ date: 2010-01-15T11:46:10+00:00
 id: 1498
 slug: 'domain-name-change'
 featured_image: '/uploads/2009/12/official_use-300x230.jpg'
-description: ''
 aliases:
   - '/index.php/2010/01/15/domain-name-change/'
 ---

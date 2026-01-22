@@ -4,7 +4,6 @@ date: 2007-04-02T21:07:57+00:00
 id: 523
 slug: 'case-of-the-moondays'
 featured_image: 'http://www.beisbolprofesional.com/images/big_leaguers/carlos_zambrano8.jpg'
-description: ''
 aliases:
   - '/index.php/2007/04/02/case-of-the-moondays/'
 ---

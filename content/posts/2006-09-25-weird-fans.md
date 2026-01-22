@@ -3,7 +3,6 @@ title: 'Weird Fans'
 date: 2006-09-25T17:31:30+00:00
 id: 375
 slug: 'weird-fans'
-description: ''
 aliases:
   - '/index.php/2006/09/25/weird-fans/'
 ---

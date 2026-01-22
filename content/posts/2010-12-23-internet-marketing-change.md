@@ -4,7 +4,6 @@ date: 2010-12-23T14:03:40+00:00
 id: 2950
 slug: 'internet-marketing-change'
 featured_image: '/uploads/2010/12/SWANTRON2.jpg'
-description: ''
 aliases:
   - '/index.php/2010/12/23/internet-marketing-change/'
 ---

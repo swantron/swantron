@@ -4,7 +4,6 @@ date: 2013-04-21T09:58:16+00:00
 id: 6390
 slug: 'red-bull-project-update'
 featured_image: '/uploads/2013/04/lab-assistant.jpg'
-description: ''
 aliases:
   - '/index.php/2013/04/21/red-bull-project-update/'
 ---

@@ -4,7 +4,6 @@ date: 2007-03-01T04:00:11+00:00
 id: 487
 slug: 'check-your-calender'
 featured_image: '/uploads/2007/03/ladies2.jpg'
-description: ''
 aliases:
   - '/index.php/2007/03/01/check-your-calender/'
 ---

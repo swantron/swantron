@@ -4,7 +4,6 @@ date: 2010-01-25T15:25:56+00:00
 id: 1555
 slug: 'free-cheese-poster-get-em-while-ere-hot'
 featured_image: '/uploads/2010/01/free-cheese.bmp "free-cheese"'
-description: ''
 aliases:
   - '/index.php/2010/01/25/free-cheese-poster-get-em-while-ere-hot/'
 ---

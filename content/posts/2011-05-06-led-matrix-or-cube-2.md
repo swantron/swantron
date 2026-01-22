@@ -4,7 +4,6 @@ date: 2011-05-06T11:32:42+00:00
 id: 6284
 slug: 'led-matrix-or-cube'
 featured_image: '/uploads/2011/05/white-led.jpg'
-description: ''
 aliases:
   - '/index.php/2011/05/06/led-matrix-or-cube/'
 ---

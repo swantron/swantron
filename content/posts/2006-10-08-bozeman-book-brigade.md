@@ -4,7 +4,6 @@ date: 2006-10-08T15:43:55+00:00
 id: 385
 slug: 'bozeman-book-brigade'
 featured_image: '/uploads/2006/10/books.jpg'
-description: ''
 aliases:
   - '/index.php/2006/10/08/bozeman-book-brigade/'
 ---

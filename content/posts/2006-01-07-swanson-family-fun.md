@@ -4,7 +4,6 @@ date: 2006-01-07T18:24:12+00:00
 id: 6070
 slug: 'swanson-family-fun'
 featured_image: '/uploads/2006/01/snye3.jpg'
-description: ''
 aliases:
   - '/index.php/2006/01/07/swanson-family-fun/'
 ---

@@ -4,7 +4,6 @@ date: 2010-02-16T14:09:32+00:00
 id: 6176
 slug: 'truck-gizmos'
 featured_image: '/uploads/2010/02/stake_pocket_utility_racki.jpg'
-description: ''
 aliases:
   - '/index.php/2010/02/16/truck-gizmos/'
 ---

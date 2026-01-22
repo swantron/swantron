@@ -4,7 +4,6 @@ date: 2011-10-13T12:55:56+00:00
 id: 3921
 slug: 'ubuntu-update-day'
 featured_image: '/uploads/2011/10/ubuntu-ocelot-570x333.jpg'
-description: ''
 aliases:
   - '/index.php/2011/10/13/ubuntu-update-day/'
 ---

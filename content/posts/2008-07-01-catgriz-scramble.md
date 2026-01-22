@@ -4,7 +4,6 @@ date: 2008-07-01T20:57:56+00:00
 id: 753
 slug: 'catgriz-scramble'
 featured_image: '/uploads/2008/07/golfisfun.jpg'
-description: ''
 aliases:
   - '/index.php/2008/07/01/catgriz-scramble/'
 ---

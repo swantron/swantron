@@ -4,7 +4,6 @@ date: 2006-06-07T20:39:52+00:00
 id: 6115
 slug: 'morrison-malita-update'
 featured_image: '/uploads/2006/06/landscapefour.jpg'
-description: ''
 aliases:
   - '/index.php/2006/06/07/morrison-malita-update/'
 ---

@@ -3,7 +3,6 @@ title: 'Fun at Best Buy'
 date: 2007-02-25T18:28:17+00:00
 id: 481
 slug: 'fun-at-best-buy'
-description: ''
 aliases:
   - '/index.php/2007/02/25/fun-at-best-buy/'
 ---

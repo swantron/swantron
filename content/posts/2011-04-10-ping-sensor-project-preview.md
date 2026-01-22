@@ -4,7 +4,6 @@ date: 2011-04-10T17:54:51+00:00
 id: 3382
 slug: 'ping-sensor-project-preview'
 featured_image: '/uploads/2011/04/ping-sensor.jpg'
-description: ''
 aliases:
   - '/index.php/2011/04/10/ping-sensor-project-preview/'
 ---

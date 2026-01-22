@@ -4,7 +4,6 @@ date: 2009-12-20T12:37:04+00:00
 id: 1257
 slug: 'avatar-in-a-nutshell'
 featured_image: '/uploads/2009/12/avatar.jpg'
-description: ''
 aliases:
   - '/index.php/2009/12/20/avatar-in-a-nutshell/'
 ---

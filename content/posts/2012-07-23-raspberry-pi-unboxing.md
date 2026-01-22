@@ -4,7 +4,6 @@ date: 2012-07-23T08:23:12+00:00
 id: 4648
 slug: 'raspberry-pi-unboxing'
 featured_image: '/uploads/2012/07/Rasberry-Pi.jpg'
-description: ''
 aliases:
   - '/index.php/2012/07/23/raspberry-pi-unboxing/'
 ---

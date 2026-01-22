@@ -4,7 +4,6 @@ date: 2010-12-09T19:27:28+00:00
 id: 2933
 slug: 'too-many-projects-too-little-time'
 featured_image: '/uploads/2010/12/notime.jpg'
-description: ''
 aliases:
   - '/index.php/2010/12/09/too-many-projects-too-little-time/'
 ---

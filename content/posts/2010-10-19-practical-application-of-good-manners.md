@@ -4,7 +4,6 @@ date: 2010-10-19T17:58:53+00:00
 id: 2786
 slug: 'practical-application-of-good-manners'
 featured_image: '/uploads/2010/10/have_a_nice_day.jpg'
-description: ''
 aliases:
   - '/index.php/2010/10/19/practical-application-of-good-manners/'
 ---

@@ -4,7 +4,6 @@ date: 2010-06-12T13:39:05+00:00
 id: 2294
 slug: 'life-insurance-star'
 featured_image: '/uploads/2010/06/dead-robot.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/12/life-insurance-star/'
 ---

@@ -4,7 +4,6 @@ date: 2009-06-26T09:02:23+00:00
 id: 888
 slug: 'just-a-bad-idea'
 featured_image: '/uploads/2009/06/water.jpg'
-description: ''
 aliases:
   - '/index.php/2009/06/26/just-a-bad-idea/'
 ---

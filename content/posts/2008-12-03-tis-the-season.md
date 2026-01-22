@@ -4,7 +4,6 @@ date: 2008-12-03T20:38:11+00:00
 id: 810
 slug: 'tis-the-season'
 featured_image: '/uploads/2008/12/kate.jpg'
-description: ''
 aliases:
   - '/index.php/2008/12/03/tis-the-season/'
 ---

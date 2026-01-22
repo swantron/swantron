@@ -4,7 +4,6 @@ date: 2011-11-22T19:47:29+00:00
 id: 4115
 slug: 'boc-unboxing'
 featured_image: '/uploads/2011/11/boc-woot-570x320.jpg'
-description: ''
 aliases:
   - '/index.php/2011/11/22/boc-unboxing/'
 ---

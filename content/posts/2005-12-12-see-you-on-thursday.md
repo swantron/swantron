@@ -4,7 +4,6 @@ date: 2005-12-12T11:24:38+00:00
 id: 5987
 slug: 'see-you-on-thursday'
 featured_image: '/uploads/swantron/wp-content/ddddd.jpg'
-description: ''
 aliases:
   - '/index.php/2005/12/12/see-you-on-thursday/'
 ---

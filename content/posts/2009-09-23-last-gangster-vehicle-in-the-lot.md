@@ -4,7 +4,6 @@ date: 2009-09-23T18:03:26+00:00
 id: 977
 slug: 'last-gangster-vehicle-in-the-lot'
 featured_image: '/uploads/2009/09/lonely1-1024x768.jpg'
-description: ''
 aliases:
   - '/index.php/2009/09/23/last-gangster-vehicle-in-the-lot/'
 ---

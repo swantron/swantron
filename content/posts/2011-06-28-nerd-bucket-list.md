@@ -4,7 +4,6 @@ date: 2011-06-28T18:36:15+00:00
 id: 3607
 slug: 'nerd-bucket-list'
 featured_image: '/uploads/2011/06/ocarina3d.jpg'
-description: ''
 aliases:
   - '/index.php/2011/06/28/nerd-bucket-list/'
 ---

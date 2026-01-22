@@ -4,7 +4,6 @@ date: 2006-02-04T13:39:37+00:00
 id: 6087
 slug: 'who-needs-a-dodge'
 featured_image: '/uploads/2006/02/cars2.jpg'
-description: ''
 aliases:
   - '/index.php/2006/02/04/who-needs-a-dodge/'
 ---

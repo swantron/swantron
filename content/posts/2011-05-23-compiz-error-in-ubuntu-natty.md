@@ -4,7 +4,6 @@ date: 2011-05-23T11:46:28+00:00
 id: 3513
 slug: 'compiz-error-in-ubuntu-natty'
 featured_image: '/uploads/2011/05/compiz-fail.jpg'
-description: ''
 aliases:
   - '/index.php/2011/05/23/compiz-error-in-ubuntu-natty/'
 ---

@@ -4,7 +4,6 @@ date: 2009-12-08T09:04:26+00:00
 id: 1187
 slug: 'montana-weather-channel'
 featured_image: '/uploads/2009/12/hace_frio.JPG "hace_frio"'
-description: ''
 aliases:
   - '/index.php/2009/12/08/montana-weather-channel/'
 ---

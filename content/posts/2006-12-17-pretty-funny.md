@@ -2,7 +2,6 @@
 title: 'Pretty Funny'
 id: 430
 slug: 'pretty-funny'
-description: ''
 aliases:
   - '/index.php/2006/12/17/pretty-funny/'
 ---

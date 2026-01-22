@@ -4,7 +4,6 @@ date: 2011-04-13T21:19:53+00:00
 id: 6272
 slug: 'garage-door-hack'
 featured_image: '/uploads/2011/04/ghetto-fabulus.jpg'
-description: ''
 aliases:
   - '/index.php/2011/04/13/garage-door-hack/'
 ---

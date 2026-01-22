@@ -3,7 +3,6 @@ title: 'Alma Mater'
 date: 2007-05-11T02:06:56+00:00
 id: 548
 slug: 'alma-mater'
-description: ''
 aliases:
   - '/index.php/2007/05/11/alma-mater/'
 ---

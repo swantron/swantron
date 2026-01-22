@@ -4,7 +4,6 @@ date: 2007-02-10T04:03:09+00:00
 id: 471
 slug: 'bouncer-pauls-woes'
 featured_image: '/uploads/2007/02/paul-wall.jpg'
-description: ''
 aliases:
   - '/index.php/2007/02/10/bouncer-pauls-woes/'
 ---

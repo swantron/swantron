@@ -4,7 +4,6 @@ date: 2011-06-21T12:31:50+00:00
 id: 6290
 slug: 'twitter-cli-teaser'
 featured_image: '/uploads/2011/06/cli-twitter.jpg'
-description: ''
 aliases:
   - '/index.php/2011/06/21/twitter-cli-teaser/'
 ---

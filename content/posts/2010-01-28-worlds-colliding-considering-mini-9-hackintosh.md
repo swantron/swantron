@@ -4,7 +4,6 @@ date: 2010-01-28T19:57:45+00:00
 id: 1597
 slug: 'worlds-colliding-considering-mini-9-hackintosh'
 featured_image: '/uploads/2010/01/hackintosh-575x205.jpg'
-description: ''
 aliases:
   - '/index.php/2010/01/28/worlds-colliding-considering-mini-9-hackintosh/'
 ---

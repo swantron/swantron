@@ -4,7 +4,6 @@ date: 2010-12-25T12:37:27+00:00
 id: 2955
 slug: 'new-egg-a-tribute-to-angry-birds'
 featured_image: '/uploads/2010/12/SWANTRON1.jpg'
-description: ''
 aliases:
   - '/index.php/2010/12/25/new-egg-a-tribute-to-angry-birds/'
 ---

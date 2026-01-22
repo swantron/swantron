@@ -4,7 +4,6 @@ date: 2011-12-11T21:32:12+00:00
 id: 6334
 slug: 'quad-monitors'
 featured_image: '/uploads/2011/12/triple_monitors_work-570x330.jpg'
-description: ''
 aliases:
   - '/index.php/2011/12/11/quad-monitors/'
 ---

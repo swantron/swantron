@@ -4,7 +4,6 @@ date: 2010-02-15T16:27:34+00:00
 id: 1680
 slug: 'joe-swanson-i-beg-to-differ'
 featured_image: '/uploads/2010/02/wtf-me.png'
-description: ''
 aliases:
   - '/index.php/2010/02/15/joe-swanson-i-beg-to-differ/'
 ---

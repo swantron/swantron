@@ -4,7 +4,6 @@ date: 2005-07-30T16:45:54+00:00
 id: 317
 slug: 'welcome-back'
 featured_image: '/uploads/swantron/wp-content/photo_0022.jpg'
-description: ''
 aliases:
   - '/index.php/2005/07/30/welcome-back/'
 ---

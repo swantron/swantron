@@ -4,7 +4,6 @@ date: 2009-08-14T08:30:56+00:00
 id: 942
 slug: 'president-obaman'
 featured_image: '/uploads/2009/08/obaman.jpg'
-description: ''
 aliases:
   - '/index.php/2009/08/14/president-obaman/'
 ---

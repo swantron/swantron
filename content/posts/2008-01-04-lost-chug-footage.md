@@ -3,7 +3,6 @@ title: 'Lost Chug Footage'
 date: 2008-01-04T02:32:54+00:00
 id: 651
 slug: 'lost-chug-footage'
-description: ''
 aliases:
   - '/index.php/2008/01/04/lost-chug-footage/'
 ---

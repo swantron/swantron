@@ -4,7 +4,6 @@ date: 2010-06-23T16:51:20+00:00
 id: 2358
 slug: 'video-card-mania'
 featured_image: '/uploads/2010/06/robot-atari.jpg'
-description: ''
 aliases:
   - '/index.php/2010/06/23/video-card-mania/'
 ---
