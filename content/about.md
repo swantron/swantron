@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2024-01-01T00:00:00+00:00
-type: page
 ---
 
 This site started in the late 00s as 'bouncerblog.com' when blogs were popular and the internet was fun. I was a blogging bouncer.. blogging about bouncing.  I started dating a bartender.
