@@ -2,7 +2,7 @@
 
 <!-- Build trigger -->
 
-- ([swantron/swantron](https://swantron.github.io/swantron/)) is the og blog, in static format 
+- ([swantron/swantron](https://swantron.com/)) is the og blog, in static format 
 
 - ([swantron/tronswan](https://tronswan.com/)) is the landing spot for several newer projects
 
@@ -17,7 +17,7 @@
 hugo server
 
 # Build for production
-hugo --baseURL https://swantron.github.io/swantron/
+hugo --baseURL https://swantron.com/
 ```
 
 ## Directory Structure
@@ -32,13 +32,9 @@ hugo --baseURL https://swantron.github.io/swantron/
 ## Configuration
 
 - **Theme**: Paper
-- **Base URL**: `https://swantron.github.io/swantron/`
-- **Permalinks**: `/index.php/:year/:month/:day/:slug/` (WordPress-compatible)
+- **Base URL**: `https://swantron.com/`
+- **Permalinks**: `/:year/:month/:day/:slug/`
 - **Pagination**: 10 posts per page
 
 Build output is deployed to GitHub Pages via GitHub Actions.
-
-## TODO
-
-- [ ] **Permalink redirects**: Remove `/index.php/` from URLs (change to `/:year/:month/:day/:slug/`) and add redirects from old WordPress URLs to new clean URLs to preserve SEO and existing links
 

@@ -5,7 +5,7 @@ date: 2024-01-01T00:00:00+00:00
 
 This site started in the late 00s as 'bouncerblog.com' when blogs were popular and the internet was fun. I was a blogging bouncer.. blogging about bouncing.  I started dating a bartender.
 
-Then the bar blew up.. [literally](https://swantron.github.io/swantron/index.php/2009/03/05/extra-dirty-legion/).  My gf and I were still working at the American Legion in BZ super part time, early into our careers. It was an interesting way to retire from that sort of thing.
+Then the bar blew up.. [literally](https://swantron.com/2009/03/05/extra-dirty-legion/).  My gf and I were still working at the American Legion in BZ super part time, early into our careers. It was an interesting way to retire from that sort of thing.
 
 At some other point 'bouncerblog.com' morphed into 'swantron.com'. I was really into microcontrollers around that time.
 
