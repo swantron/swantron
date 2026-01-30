@@ -30,7 +30,7 @@ Setup was straightforward. The official Bluesky installer handles most of it—s
 
 ![](/uploads/2026/01/jswan-dev-atprotocol.png)
 
-Once it was up, I created an account: `@swantron.jswan.dev`. Handle format is `@username.yourdomain.com`.
+Once it was up, I created an account: `swantron@com.jswan.dev`. Handle format is `username@com.yourdomain.com`.
 
 ![](/uploads/2026/01/bsky-handle.png)
 
@@ -51,7 +51,7 @@ Written for people who are technical but maybe haven't self-hosted much.
 
 ## The Reality: I Don't Really Use It
 
-I have a Bluesky account at `@swantron.jswan.dev`, and I've set up this whole infrastructure, but I'm not really posting on social media these days. I'm just not that into it.
+I have a Bluesky account at `swantron@com.jswan.dev`, and I've set up this whole infrastructure, but I'm not really posting on social media these days. I'm just not that into it.
 
 But that's fine. The point wasn't necessarily to become an active Bluesky user. The point was learning how federated protocols work, understanding how to set up and maintain a service, and having the infrastructure if I want it. If friends want accounts, I can give them invites. The data lives on my server, even if that data is currently just me shouting into the void once every three months.
 
