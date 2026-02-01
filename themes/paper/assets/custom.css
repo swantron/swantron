@@ -32,12 +32,19 @@ html.dark article header h1 a:hover {
   color: rgba(255, 255, 255, 0.8);
 }
 
-/* Enhanced date formatting */
+/* Enhanced date formatting with better contrast */
 article header time {
   font-weight: 500;
   letter-spacing: 0.025em;
   margin-top: 0.5rem;
   display: block;
+  font-size: 0.925rem;
+  opacity: 0.7;
+}
+
+html.dark article header time {
+  opacity: 0.75;
+  color: rgba(255, 255, 255, 0.85);
 }
 
 /* Better post content spacing */
@@ -76,11 +83,17 @@ html.dark .post-content a:hover {
   color: rgba(255, 255, 255, 0.9);
 }
 
-/* Better header title size on mobile */
+/* Better mobile header spacing and sizing */
 @media (max-width: 768px) {
+  header {
+    padding-top: 1.5rem !important;
+    padding-bottom: 1rem !important;
+  }
+
   header a[style*="font-size: 3rem"] {
     font-size: 2rem !important;
     line-height: 1.3 !important;
+    margin-bottom: 0.5rem !important;
   }
 }
 
@@ -157,23 +170,128 @@ html {
 }
 
 /* Improved article spacing */
-article + article {
+article+article {
   margin-top: 3rem;
   padding-top: 2rem;
   border-top: 1px solid rgba(0, 0, 0, 0.05);
 }
 
-html.dark article + article {
+html.dark article+article {
   border-top-color: rgba(255, 255, 255, 0.1);
 }
 
-/* Lazy loading images */
-.post-content img {
-  loading: lazy;
-}
+/* Lazy loading images - handled via HTML attribute, not CSS */
 
 /* Ensure images don't break layout */
 .post-content img {
   max-width: 100%;
   height: auto;
+}
+
+/* Optimal line length for readability (50-75 characters) */
+.post-content,
+article .prose {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Also apply to main post container */
+main article {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Better search input sizing */
+#search-input,
+input[type="search"] {
+  max-width: 600px;
+  margin: 0 auto;
+  display: block;
+}
+
+/* Improved search result highlighting */
+mark {
+  padding: 2px 6px;
+  border-radius: 3px;
+  background-color: rgba(255, 235, 59, 0.4);
+}
+
+html.dark mark {
+  background-color: rgba(255, 235, 59, 0.3);
+}
+
+/* Reduce search result spacing */
+#search-results article {
+  margin-bottom: 1.5rem !important;
+}
+
+/* Reduce robot background intensity in dark mode */
+html.dark body::before {
+  opacity: 0.4;
+}
+
+html.dark {
+  --background-image-opacity: 0.15;
+}
+
+/* Add subtle overlay to reduce background contrast in dark mode */
+html.dark body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.3);
+  pointer-events: none;
+  z-index: 0;
+}
+
+html.dark main,
+html.dark header,
+html.dark nav {
+  position: relative;
+  z-index: 1;
+}
+
+/* Simple footer styling */
+.site-footer {
+  margin-top: 4rem;
+  padding: 2rem 1rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-size: 0.875rem;
+  opacity: 0.8;
+}
+
+html.dark .site-footer {
+  border-top-color: rgba(255, 255, 255, 0.1);
+}
+
+.site-footer p {
+  margin-bottom: 0.75rem;
+}
+
+.footer-nav {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.footer-nav a {
+  transition: opacity 0.2s ease;
+}
+
+.footer-nav a:hover {
+  opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+  .footer-nav {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
 }
