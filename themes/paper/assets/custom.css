@@ -211,20 +211,30 @@ input[type="search"] {
   display: block;
 }
 
-/* Improved search result highlighting */
+/* Improved search result highlighting - theme aware */
 mark {
-  padding: 2px 6px;
+  padding: 1px 4px;
   border-radius: 3px;
-  background-color: rgba(255, 235, 59, 0.4);
+  background-color: rgba(255, 235, 59, 0.5);
+  /* Vibrant yellow in light mode */
+  color: #000;
 }
 
 html.dark mark {
-  background-color: rgba(255, 235, 59, 0.3);
+  background-color: rgba(255, 171, 0, 0.3);
+  /* Muted gold in dark mode */
+  color: #fff;
 }
 
-/* Reduce search result spacing */
+/* Reduce search result spacing and remove unwanted borders */
 #search-results article {
-  margin-bottom: 1.5rem !important;
+  margin-bottom: 2rem !important;
+}
+
+#search-results article+article {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 0;
 }
 
 /* Reduce robot background intensity in dark mode */
@@ -294,4 +304,28 @@ html.dark .site-footer {
     flex-direction: column;
     gap: 0.75rem;
   }
+}
+
+/* Hall of Fame & Search Container Mobile Padding */
+@media (max-width: 640px) {
+
+  .hof-container,
+  .search-container {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+}
+
+/* HoF Specific Styling */
+.hof-container section {
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+html.dark .hof-container section {
+  border-bottom-color: rgba(255, 255, 255, 0.1);
+}
+
+.hof-container section:last-of-type {
+  border-bottom: none;
 }

@@ -7,7 +7,7 @@
     "title": {{ $post.Title | jsonify }},
     "content": {{ $plainContent | jsonify }},
     "permalink": "{{ $post.Permalink }}",
-    "date": "{{ $post.Date.Format "2006-01-02" }}",
+    "date": "{{ $post.Date.Format "Jan 2, 2006" }}",
     "tags": {{ if $post.Params.tags }}{{ $post.Params.tags | jsonify }}{{ else }}[]{{ end }}
   }
   {{- end -}}

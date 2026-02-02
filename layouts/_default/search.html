@@ -1,220 +1,221 @@
 {{- define "main" -}}
 <div class="search-container">
   <h1 class="mb-8">Search Posts</h1>
-  
+
   <div class="search-box mb-8">
-    <input 
-      type="text" 
-      id="search-input" 
-      placeholder="Search posts..." 
-      class="search-input"
-      autofocus
-    />
+    <input type="text" id="search-input" placeholder="Search posts..." class="search-input" autofocus />
     <div id="search-results" class="mt-6"></div>
   </div>
-  
+
   <div id="search-stats" class="text-sm opacity-60 mb-4"></div>
 </div>
 
 <script>
-(function() {
-  let searchData = [];
-  let searchIndex = null;
-  
-  // Load search data
-  async function loadSearchData() {
-    let jsonPath;
-    try {
-      // Get base path from current location (handles baseURL like /swantron/)
-      const pathname = window.location.pathname;
-      const pathParts = pathname.split('/').filter(p => p);
-      const searchIndex = pathParts.indexOf('search');
-      
-      if (searchIndex > 0) {
-        // We're in a subdirectory like /swantron/search/
-        const basePath = '/' + pathParts.slice(0, searchIndex).join('/');
-        jsonPath = basePath + '/search/index.json';
-      } else {
-        // We're at root /search/
-        jsonPath = '/search/index.json';
+  (function () {
+    let searchData = [];
+    let searchIndex = null;
+
+    // Load search data
+    async function loadSearchData() {
+      let jsonPath;
+      try {
+        // Get base path from current location (handles baseURL like /swantron/)
+        const pathname = window.location.pathname;
+        const pathParts = pathname.split('/').filter(p => p);
+        const searchIndex = pathParts.indexOf('search');
+
+        if (searchIndex > 0) {
+          // We're in a subdirectory like /swantron/search/
+          const basePath = '/' + pathParts.slice(0, searchIndex).join('/');
+          jsonPath = basePath + '/search/index.json';
+        } else {
+          // We're at root /search/
+          jsonPath = '/search/index.json';
+        }
+
+        const response = await fetch(jsonPath);
+        if (!response.ok) {
+          throw new Error(`Failed to load search data: ${response.status} ${response.statusText}`);
+        }
+        searchData = await response.json();
+        buildSearchIndex();
+      } catch (error) {
+        console.error('Error loading search data:', error);
+        console.error('Attempted path:', jsonPath);
+        document.getElementById('search-results').innerHTML =
+          '<p class="text-red-500">Error loading search data. Please refresh the page.</p>';
       }
-      
-      const response = await fetch(jsonPath);
-      if (!response.ok) {
-        throw new Error(`Failed to load search data: ${response.status} ${response.statusText}`);
+    }
+
+    // Build simple search index
+    function buildSearchIndex() {
+      searchIndex = searchData.map((post, index) => ({
+        ...post,
+        searchText: `${post.title} ${post.content} ${(post.tags || []).join(' ')}`.toLowerCase(),
+        index: index
+      }));
+    }
+
+    // Simple search function
+    function search(query) {
+      if (!query || query.trim().length === 0) {
+        return [];
       }
-      searchData = await response.json();
-      buildSearchIndex();
-    } catch (error) {
-      console.error('Error loading search data:', error);
-      console.error('Attempted path:', jsonPath);
-      document.getElementById('search-results').innerHTML = 
-        '<p class="text-red-500">Error loading search data. Please refresh the page.</p>';
-    }
-  }
-  
-  // Build simple search index
-  function buildSearchIndex() {
-    searchIndex = searchData.map((post, index) => ({
-      ...post,
-      searchText: `${post.title} ${post.content} ${(post.tags || []).join(' ')}`.toLowerCase(),
-      index: index
-    }));
-  }
-  
-  // Simple search function
-  function search(query) {
-    if (!query || query.trim().length === 0) {
-      return [];
-    }
-    
-    const terms = query.toLowerCase().trim().split(/\s+/);
-    const results = [];
-    
-    searchIndex.forEach(post => {
-      let score = 0;
-      let matches = 0;
-      
-      terms.forEach(term => {
-        if (post.searchText.includes(term)) {
-          matches++;
-          // Boost score for title matches
-          if (post.title.toLowerCase().includes(term)) {
-            score += 10;
+
+      const terms = query.toLowerCase().trim().split(/\s+/);
+      const results = [];
+
+      searchIndex.forEach(post => {
+        let score = 0;
+        let matches = 0;
+
+        terms.forEach(term => {
+          if (post.searchText.includes(term)) {
+            matches++;
+            // Boost score for title matches
+            if (post.title.toLowerCase().includes(term)) {
+              score += 10;
+            }
+            // Boost score for tag matches
+            if (post.tags && post.tags.some(tag => tag.toLowerCase().includes(term))) {
+              score += 5;
+            }
+            // Content matches
+            score += 1;
           }
-          // Boost score for tag matches
-          if (post.tags && post.tags.some(tag => tag.toLowerCase().includes(term))) {
-            score += 5;
-          }
-          // Content matches
-          score += 1;
+        });
+
+        // Only include if at least one term matched
+        if (matches > 0) {
+          results.push({
+            ...post,
+            score: score + matches
+          });
         }
       });
-      
-      // Only include if at least one term matched
-      if (matches > 0) {
-        results.push({
-          ...post,
-          score: score + matches
+
+      // Sort by score (highest first)
+      results.sort((a, b) => b.score - a.score);
+
+      return results.slice(0, 50); // Limit to 50 results
+    }
+
+    // Render search results
+    function renderResults(results, query) {
+      const container = document.getElementById('search-results');
+      const stats = document.getElementById('search-stats');
+
+      if (!query || query.trim().length === 0) {
+        container.innerHTML = '<p class="opacity-60">Enter a search term to find posts.</p>';
+        stats.textContent = '';
+        return;
+      }
+
+      if (results.length === 0) {
+        container.innerHTML = `<p class="opacity-60">No results found for "${query}".</p>`;
+        stats.textContent = '0 results';
+        return;
+      }
+
+      stats.textContent = `${results.length} result${results.length !== 1 ? 's' : ''} found`;
+
+      const html = results.map(post => {
+        // Highlight search terms in title
+        let highlightedTitle = post.title;
+        const terms = query.trim().split(/\s+/);
+        terms.forEach(term => {
+          const regex = new RegExp(`(${term})`, 'gi');
+          highlightedTitle = highlightedTitle.replace(regex, '<mark>$1</mark>');
         });
-      }
-    });
-    
-    // Sort by score (highest first)
-    results.sort((a, b) => b.score - a.score);
-    
-    return results.slice(0, 50); // Limit to 50 results
-  }
-  
-  // Render search results
-  function renderResults(results, query) {
-    const container = document.getElementById('search-results');
-    const stats = document.getElementById('search-stats');
-    
-    if (!query || query.trim().length === 0) {
-      container.innerHTML = '<p class="opacity-60">Enter a search term to find posts.</p>';
-      stats.textContent = '';
-      return;
-    }
-    
-    if (results.length === 0) {
-      container.innerHTML = `<p class="opacity-60">No results found for "${query}".</p>`;
-      stats.textContent = '0 results';
-      return;
-    }
-    
-    stats.textContent = `${results.length} result${results.length !== 1 ? 's' : ''} found`;
-    
-    const html = results.map(post => {
-      // Highlight search terms in title
-      let highlightedTitle = post.title;
-      const terms = query.trim().split(/\s+/);
-      terms.forEach(term => {
-        const regex = new RegExp(`(${term})`, 'gi');
-        highlightedTitle = highlightedTitle.replace(regex, '<mark class="bg-yellow-200 dark:bg-yellow-800">$1</mark>');
-      });
-      
-      // Get excerpt from content
-      const contentLower = post.content.toLowerCase();
-      const firstTerm = terms[0];
-      const termIndex = contentLower.indexOf(firstTerm.toLowerCase());
-      let excerpt = '';
-      
-      if (termIndex !== -1) {
-        const start = Math.max(0, termIndex - 100);
-        const end = Math.min(post.content.length, termIndex + firstTerm.length + 100);
-        excerpt = post.content.substring(start, end);
-        if (start > 0) excerpt = '...' + excerpt;
-        if (end < post.content.length) excerpt = excerpt + '...';
-      } else {
-        excerpt = post.content.substring(0, 200);
-        if (post.content.length > 200) excerpt += '...';
-      }
-      
-      // Highlight terms in excerpt
-      terms.forEach(term => {
-        const regex = new RegExp(`(${term})`, 'gi');
-        excerpt = excerpt.replace(regex, '<mark class="bg-yellow-200 dark:bg-yellow-800">$1</mark>');
-      });
-      
-      const tagsHtml = post.tags && post.tags.length > 0
-        ? `<div class="mt-2 flex flex-wrap gap-2">
-            ${post.tags.map(tag => `<span class="text-xs px-2 py-1 rounded bg-black/5 dark:bg-white/10">${tag}</span>`).join('')}
+
+        // Get excerpt from content
+        const contentLower = post.content.toLowerCase();
+        const firstTerm = terms[0];
+        const termIndex = contentLower.indexOf(firstTerm.toLowerCase());
+        let excerpt = '';
+
+        if (termIndex !== -1) {
+          const start = Math.max(0, termIndex - 100);
+          const end = Math.min(post.content.length, termIndex + firstTerm.length + 100);
+          excerpt = post.content.substring(start, end);
+          if (start > 0) excerpt = '...' + excerpt;
+          if (end < post.content.length) excerpt = excerpt + '...';
+        } else {
+          excerpt = post.content.substring(0, 200);
+          if (post.content.length > 200) excerpt += '...';
+        }
+
+        // Highlight terms in excerpt
+        terms.forEach(term => {
+          const regex = new RegExp(`(${term})`, 'gi');
+          excerpt = excerpt.replace(regex, '<mark>$1</mark>');
+        });
+
+        const tagsHtml = post.tags && post.tags.length > 0
+          ? `<div class="mt-2 flex flex-wrap gap-2">
+            ${post.tags.map(tag => `<span class="text-xs px-2 py-1 rounded bg-black/5 dark:bg-white/10 opacity-70 border border-black/5 dark:border-white/5">${tag}</span>`).join('')}
            </div>`
-        : '';
-      
-      return `
-        <article class="mb-6 p-4 border border-black/10 dark:border-white/20 rounded-lg hover:bg-black/5 dark:hover:bg-white/5 transition-colors">
-          <h2 class="text-xl font-semibold mb-2">
-            <a href="${post.permalink}" class="no-underline hover:underline">${highlightedTitle}</a>
+          : '';
+
+        const postDate = new Date(post.date);
+        const formattedDate = postDate.toLocaleDateString('en-US', {
+          year: 'numeric',
+          month: 'short',
+          day: 'numeric'
+        });
+
+        return `
+        <article class="mb-12 hover:bg-black/[0.01] dark:hover:bg-white/[0.01] transition-all">
+          <h2 class="text-xl font-bold mb-2">
+            <a href="${post.permalink}" class="no-underline hover:underline decoration-accent-color decoration-2 underline-offset-4">${highlightedTitle}</a>
           </h2>
-          <time class="text-xs opacity-60">${post.date}</time>
-          <p class="mt-2 text-sm opacity-80">${excerpt}</p>
+          <time class="text-xs font-medium opacity-50 block mb-3 uppercase tracking-wider">${formattedDate}</time>
+          <p class="mt-2 text-sm leading-relaxed opacity-80">${excerpt}</p>
           ${tagsHtml}
         </article>
       `;
-    }).join('');
-    
-    container.innerHTML = html;
-  }
-  
-  // Handle search input
-  let searchTimeout;
-  const searchInput = document.getElementById('search-input');
-  
-  searchInput.addEventListener('input', function(e) {
-    const query = e.target.value;
-    
-    clearTimeout(searchTimeout);
-    
-    searchTimeout = setTimeout(() => {
-      if (!searchIndex) {
-        renderResults([], query);
-        return;
-      }
-      
-      const results = search(query);
-      renderResults(results, query);
-    }, 150); // Debounce search
-  });
-  
-  // Handle Enter key
-  searchInput.addEventListener('keydown', function(e) {
-    if (e.key === 'Enter') {
-      e.preventDefault();
-      const query = e.target.value;
-      if (!searchIndex) return;
-      
-      const results = search(query);
-      if (results.length > 0) {
-        window.location.href = results[0].permalink;
-      }
+      }).join('');
+
+      container.innerHTML = html;
     }
-  });
-  
-  // Load search data on page load
-  loadSearchData();
-})();
+
+    // Handle search input
+    let searchTimeout;
+    const searchInput = document.getElementById('search-input');
+
+    searchInput.addEventListener('input', function (e) {
+      const query = e.target.value;
+
+      clearTimeout(searchTimeout);
+
+      searchTimeout = setTimeout(() => {
+        if (!searchIndex) {
+          renderResults([], query);
+          return;
+        }
+
+        const results = search(query);
+        renderResults(results, query);
+      }, 150); // Debounce search
+    });
+
+    // Handle Enter key
+    searchInput.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        const query = e.target.value;
+        if (!searchIndex) return;
+
+        const results = search(query);
+        if (results.length > 0) {
+          window.location.href = results[0].permalink;
+        }
+      }
+    });
+
+    // Load search data on page load
+    loadSearchData();
+  })();
 </script>
 
 <style>
@@ -222,7 +223,7 @@
     max-width: 800px;
     margin: 0 auto;
   }
-  
+
   .search-input {
     width: 100%;
     padding: 1rem 1.25rem;
@@ -236,32 +237,32 @@
     outline: none;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
   }
-  
+
   .search-input:focus {
     border-color: rgba(0, 0, 0, 0.3);
     background-color: rgba(255, 255, 255, 0.95);
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   }
-  
+
   .search-input::placeholder {
     color: rgba(0, 0, 0, 0.5);
   }
-  
+
   html.dark .search-input {
     border-color: rgba(255, 255, 255, 0.2);
     background-color: rgba(0, 0, 0, 0.3);
     color: #fff;
   }
-  
+
   html.dark .search-input:focus {
     border-color: rgba(255, 255, 255, 0.4);
     background-color: rgba(0, 0, 0, 0.5);
   }
-  
+
   html.dark .search-input::placeholder {
     color: rgba(255, 255, 255, 0.5);
   }
-  
+
   mark {
     padding: 0 2px;
     border-radius: 2px;
