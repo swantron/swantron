@@ -29,6 +29,13 @@ jobs:
     - name: Build Hugo site
       run: hugo --minify
 
+    - name: Check for broken links
+      uses: lycheeverse/lychee-action@v2
+      with:
+        args: --no-progress --exclude-mail './public/**/*.html'
+        fail: false  # warn but don't block deploys
+        jobSummary: true
+
     - name: Setup Pages
       uses: actions/configure-pages@v4
 
