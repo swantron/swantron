@@ -32,7 +32,7 @@ jobs:
     - name: Check for broken links
       uses: lycheeverse/lychee-action@v2
       with:
-        args: --no-progress --exclude-mail './public/**/*.html'
+        args: --no-progress './public/**/*.html'
         fail: false  # warn but don't block deploys
         jobSummary: true
 
