@@ -7,4 +7,4 @@ aliases:
   - '/index.php/2005/11/03/wwkfd-apparently-this/'
 ---
 
-![Federline or Swanny?  Too tough to call.](![](/uploads/legacy/Ar2.jpg))
+![Federline or Swanny? Too tough to call.](/uploads/legacy/Ar2.jpg)
