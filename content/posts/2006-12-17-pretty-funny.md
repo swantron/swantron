@@ -1,5 +1,6 @@
 ---
 title: 'Pretty Funny'
+date: 2006-12-17T12:00:00+00:00
 slug: 'pretty-funny'
 aliases:
   - '/index.php/2006/12/17/pretty-funny/'
