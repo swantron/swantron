@@ -7,4 +7,14 @@ aliases:
   - '/index.php/2011/12/27/nerd-broom/'
 ---
 
-Better sweeping through technology: ![nerd broom](/uploads/2011/12/nerd_broom-570x304.jpg "nerd_broom") Hit the link for yet another awesome video: <!--more-->
+Better sweeping through technology:
+
+![whoosh](/uploads/2011/12/nerd_broom-570x304.jpg "nerd_broom")
+
+Hit the link for yet another awesome video:
+
+<!--more-->
+
+<iframe width="570" height="416" src="https://www.youtube.com/embed/FK8QfQ-A-Cs" frameborder="0" allowfullscreen></iframe>
+
+Still really enjoying this leaf blower...

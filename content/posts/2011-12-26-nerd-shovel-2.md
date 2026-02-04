@@ -1,10 +1,20 @@
 ---
-title: 'Nerd Shovel'
+title: 'Nerd Shovel 2'
 date: 2011-12-26T12:04:37+00:00
-slug: 'nerd-shovel'
+slug: 'nerd-shovel-2'
 featured_image: '/uploads/2011/12/Nerd_shovel-570x304.jpg'
 aliases:
-  - '/index.php/2011/12/26/nerd-shovel/'
+  - '/index.php/2011/12/26/nerd-shovel-2/'
 ---
 
-Better snow removal through technology: ![nerd shovel](/uploads/2011/12/Nerd_shovel-570x304.jpg "Nerd_shovel") Click the link to see an action-packed video: <!--more-->
+Better snow removal through technology:
+
+![poof](/uploads/2011/12/Nerd_shovel-570x304.jpg "Nerd_shovel")
+
+Click the link to see an action-packed video:
+
+<!--more-->
+
+<iframe width="569" height="386" src="https://www.youtube.com/embed/Ki6y8eBIFUE" frameborder="0" allowfullscreen></iframe>
+
+Good times with the Hitachi.

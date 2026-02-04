@@ -20,4 +20,5 @@ params:
     - "rpi-hardware-servo-control"
     - "remote-control-via-android"
     - "garage-door-hack"
+    - "ultrasonic-distance-sensing"
 ---
