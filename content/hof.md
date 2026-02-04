@@ -18,4 +18,6 @@ params:
     - "chomptron"
     - "aggressive-tv-repair-baking-a-motherboard"
     - "rpi-hardware-servo-control"
+    - "remote-control-via-android"
+    - "garage-door-hack"
 ---
