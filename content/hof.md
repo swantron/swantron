@@ -12,4 +12,10 @@ params:
     - "html-to-python-to-arduino-to-lcd"
     - "how-to-use-a-ladder-2"
     - "green-robots-everywhere"
+    - "diy-copper-end-table"
+    - "wordpress-to-hugo-migration"
+    - "wildly-innacurate-map-of-montana"
+    - "chomptron"
+    - "aggressive-tv-repair-baking-a-motherboard"
+    - "rpi-hardware-servo-control"
 ---
