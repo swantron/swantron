@@ -1,6 +1,6 @@
 {{- define "main" -}}
-<div class="hof-container">
-  <h1 class="mb-14">Hall of Fame</h1>
+<div class="search-container">
+  <h1 class="mb-8">Hall of Fame</h1>
 
   {{- $hofSlugs := .Params.hof_slugs | default slice -}}
   {{- $hofPosts := slice -}}
@@ -20,14 +20,34 @@
   {{- if gt (len $hofPosts) 0 -}}
   {{- $sortedPosts := sort $hofPosts "Date" "desc" -}}
   {{- range $sortedPosts -}}
-  <section class="relative my-8 first-of-type:mt-0 last-of-type:mb-0">
-    <h2 class="my-0! font-semibold tracking-tight">{{- .Title -}}</h2>
-    <time class="text-xs antialiased opacity-60 block mt-1">{{- .Date | time.Format ":date_medium" -}}</time>
-    <a class="absolute inset-0 text-[0px]" href="{{- .Permalink -}}">{{- .Title -}}</a>
-  </section>
+  <article class="mb-12 hover:bg-black/[0.01] dark:hover:bg-white/[0.01] transition-all">
+    <h2 class="text-xl font-bold mb-2">
+      <a href="{{ .Permalink }}"
+        class="no-underline hover:underline decoration-accent-color decoration-2 underline-offset-4">{{ .Title }}</a>
+    </h2>
+    <time class="text-xs font-medium opacity-50 block mb-3 uppercase tracking-wider">{{ .Date.Format "Jan 2, 2006"
+      }}</time>
+    <p class="mt-2 text-sm leading-relaxed opacity-80">{{ .Summary | plainify | truncate 200 }}</p>
+    {{- with .Params.tags -}}
+    <div class="mt-2 flex flex-wrap gap-2">
+      {{- range . -}}
+      <span
+        class="text-xs px-2 py-1 rounded bg-black/5 dark:bg-white/10 opacity-70 border border-black/5 dark:border-white/5">{{
+        . }}</span>
+      {{- end -}}
+    </div>
+    {{- end -}}
+  </article>
   {{- end -}}
   {{- else -}}
-  <p>No Hall of Fame posts found.</p>
+  <p class="opacity-60">No Hall of Fame posts found.</p>
   {{- end -}}
 </div>
+
+<style>
+  .search-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+</style>
 {{- end -}}
