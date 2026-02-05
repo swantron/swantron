@@ -17,9 +17,8 @@ I have been messing around with an algorithm nicknamed "Predator." Messing aroun
 
 How is this applicable? It works to track unknown objects in unbounded video streams. Here, it can be used to compare a reference image (known pic of Osama) to the example footage (military helmet cam) for identification purposes. This could be used also to dampen the movement of the video...take out the bounce.
 
-Check out the video of this thing in action, in a demonstration by the creator Zdenek Kalal, after the bump:
 
-<!--more-->
+
 
 <iframe width="570" height="457" src="https://www.youtube.com/embed/1GhNXHCQGsM" frameborder="0" allowfullscreen></iframe>
 

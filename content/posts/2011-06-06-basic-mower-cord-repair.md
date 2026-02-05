@@ -13,9 +13,8 @@ As it happens, I can fix anything. Without exception.
 
 ![looks factory fresh](/uploads/2011/06/mower_repair_end.jpg "mower_repair_end")
 
-Hit the fold for details, four action pics, and a video.
 
-<!--more-->
+
 
 My one-pull-wonder lawnmower has been a great machine. Katie has been using this mower since she was a tween...my father-in-law upgraded and packed this to Bozeman when he upgraded to a new mower many mows ago. With a thunderstorm brewing, I was in a hurry, and swoll, and I ripped the cord in two.
 

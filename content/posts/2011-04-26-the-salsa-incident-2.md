@@ -11,9 +11,8 @@ Having automated junk is awesome, for the most part. One drawback became glaring
 
 ![seltzer? salsa? seltzer? salsa?](/uploads/2011/04/salsa-incident.jpg "salsa-incident")
 
-Gloom and doom. Hit the bump for a video (SPOLER: It is tagic)
 
-<!--more-->
+
 
 <iframe title="YouTube video player" width="570" height="458" src="https://www.youtube.com/embed/o-iTTgb2EV8" frameborder="0" allowfullscreen></iframe>
 

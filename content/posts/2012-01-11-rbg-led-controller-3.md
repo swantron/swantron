@@ -17,9 +17,8 @@ So, the controller was born...IOIORBG.
 
 ![RBG ... RGB](/uploads/2012/01/Android-RBG-IOIO-570x311.jpg "Android-RBG-IOIO")
 
-Hit the bump for a video and some more info...
 
-<!--more-->
+
 
 <iframe width="569" height="386" src="https://www.youtube.com/embed/cQiLr5uGrE4" frameborder="0" allowfullscreen></iframe>
 

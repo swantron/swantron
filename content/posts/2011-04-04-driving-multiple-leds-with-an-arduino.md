@@ -17,9 +17,6 @@ Here is he setup...
 
 I put together a little sketch. I managed to grab the time-stamp notion from [this sketch that is included with the IDE](http://www.arduino.cc/en/Tutorial/BlinkWithoutDelay), and run with the rest of it. There will be snippet, but snippet will follow A SWEET VIDEO FTW
 
-Video / snippet / wrap-up after the bump
-
-<!--more-->
 
 <iframe title="YouTube video player" width="570" height="500" src="https://www.youtube.com/embed/4c4XXmJBck4" frameborder="0" allowfullscreen></iframe>
 

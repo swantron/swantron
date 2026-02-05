@@ -15,9 +15,6 @@ Eclipse and I are still having our issues, but the ADK is becoming less Greek to
 
 I shot a video of one of my debugging tests. I eventually will be using an 'open drain' setup, in order to get 5V output, but am doing some testing at 3.3V. I hooked up an old speaker that I salvaged from a CRT tear-down to my test pins, to verify that my Android App was working.
 
-Hit the jump to view said vid...
-
-<!--more-->
 
 <iframe width="425" height="349" src="https://www.youtube.com/embed/qVpGdNMJ7p4" frameborder="0" allowfullscreen></iframe>
 

@@ -11,9 +11,8 @@ My LED work-in-progress has manifested itself as a binary counter, with 100 ms a
 
 ![217](/uploads/2011/04/binary-code.jpg "binary-code")
 
-Images only tell part of the story, so I have included a video for your perusal...after the bump
 
-<!--more-->
+
 
 <iframe title="YouTube video player" width="570" height="458" src="https://www.youtube.com/embed/LMW7c_gKCuE" frameborder="0" allowfullscreen></iframe>
 

@@ -26,9 +26,8 @@ Survey says:
 ![+11 awesome](/uploads/2011/05/awesome-count.jpg "awesome-count")
 
 Eleven "awesome"s. Awesome.
-(Hit the bump for some code, an oddity, and more fun...)
 
-<!--more-->
+
 
 So that is that. You could link two of these together for 160 characters...toss together a shell (or Python, etc.) and have a Twitter display, for example. Whatever you want to...gosh.
 

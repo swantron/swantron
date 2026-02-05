@@ -16,9 +16,8 @@ I do know that there is some sort of hands free interface, and that is what I ha
 
 Long story short, I have extended upon my PING))) project to include some sweet touchless home automation. I have the ultrasonic sensor interfacing with my garage door and a lamp, utilizing a servo and a PowerSwitch Tail, respectively.
 
-Hit the bump for an awesome video of this thing in action, and for my spippet.
 
-<!--more-->
+
 
 *Video contains a rare thumbs up from the author*
 

@@ -17,9 +17,8 @@ I have had this sitting on the workbench of bad lab for a while. Time to get aft
 
 The unit came assembled, minus the jumpers I needed to plug this into my breadboard for prototyping. Coincidentally, my soldering station needed to come out of retirement. Sixteen pins...sounds about perfect.
 
-(hit the bump for several more pics, a snippet, and some other awesome stuff)
 
-<!--more-->
+
 
 ![those.](/uploads/2011/05/soldering-wire.jpg "soldering-wire")
 

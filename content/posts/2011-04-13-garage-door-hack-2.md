@@ -9,9 +9,8 @@ aliases:
 
 Introducing Open-er-o-matic 3000. OOM3K. My finest project to date. I have my Arduino poking around with a PING))) sensor, a servo, some LEDs, and best of all...my garage door opener. End result: some Star Trek-ass shit. ![hit the vid](/uploads/2011/04/ghetto-fabulus.jpg "ghetto-fabulus") Check this footage of the OOM3K in action. Here, I had it configured to open the door when the ultrasonic sensor echoes off of something within 8 cm...
 
-After the bump, of course
 
-<!--more-->
+
 <iframe title="YouTube video player" width="570" height="458" src="https://www.youtube.com/embed/vNHdoPARyLs" frameborder="0" allowfullscreen></iframe>
 
 Not only is this thing awesome, but you can get all sorts of clear looks at my trusty Ronco Showtime rotisserie oven. Yard bird is a big hit at the old Swanson place.

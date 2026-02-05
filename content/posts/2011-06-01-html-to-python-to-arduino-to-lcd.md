@@ -27,9 +27,8 @@ Check, check, check, etc. Video time:
 
 <iframe width="569" height="427" src="https://www.youtube.com/embed/4nyInt_5HHU" frameborder="0" allowfullscreen></iframe>
 
-Pretty slick...hit the fold for the code, as promised, and a summary.
 
-<!--more-->
+
 
 Python parser / serial writer
 

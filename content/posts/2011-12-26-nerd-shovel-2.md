@@ -11,9 +11,8 @@ Better snow removal through technology:
 
 ![poof](/uploads/2011/12/Nerd_shovel-570x304.jpg "Nerd_shovel")
 
-Click the link to see an action-packed video:
 
-<!--more-->
+
 
 <iframe width="569" height="386" src="https://www.youtube.com/embed/Ki6y8eBIFUE" frameborder="0" allowfullscreen></iframe>
 

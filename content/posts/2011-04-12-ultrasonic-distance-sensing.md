@@ -13,8 +13,8 @@ Picture time:
 
 ![doing work at work, again](/uploads/2011/04/ultrasonic.jpg "ultrasonic")
 
-Follow the bump for a vid / snippet
-<!--more-->
+
+
 Video time:
 
 <iframe title="YouTube video player" width="570" height="458" src="https://www.youtube.com/embed/12JpMXZUJpM" frameborder="0" allowfullscreen></iframe>
