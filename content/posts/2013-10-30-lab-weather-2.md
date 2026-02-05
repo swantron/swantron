@@ -7,7 +7,7 @@ aliases:
   - '/index.php/2013/10/30/lab-weather/'
 ---
 
-My small lab assistant and I have our anti-cabin fever project figured out... [![pinchy](/uploads/2013/10/robot_arm.jpg)](https://swantron.com/lab-weather/robot_arm/)
+My small lab assistant and I have our anti-cabin fever project figured out... ![pinchy](/uploads/2013/10/robot_arm.jpg)
 
 1. **Phase 1:** Assemble as is
 2. **Phase 2:** Go nuts for a while

@@ -7,4 +7,5 @@ aliases:
   - '/index.php/2008/01/16/bob-shooting-revisited/'
 ---
 
-![bob's big head](/uploads/2008/01/bigbob.jpg)1) Dennis Francis Buckley and Sgt. Tim love to point out how large Bob's head is. 2) It turns out that I am much more apt to fuck around with my computer as I avoid reading my physics. 
+![bob's big head](/uploads/2008/01/bigbob.jpg)1) Dennis Francis Buckley and Sgt. Tim love to point out how large Bob's head is.
+ 2) It turns out that I am much more apt to fuck around with my computer as I avoid reading my physics. 

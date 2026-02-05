@@ -7,7 +7,7 @@ aliases:
   - '/index.php/2013/08/02/how-to-code/'
 ---
 
-I snapped a picture of a coworker's "script" he is working on utilizing the object libraries we develop. Apparently, I've been doing it all wrong. [![how_to_code](/uploads/2013/08/how_to_code.jpg)](https://swantron.com/how-to-code/how_to_code/)
+I snapped a picture of a coworker's "script" he is working on utilizing the object libraries we develop. Apparently, I've been doing it all wrong. ![how_to_code](/uploads/2013/08/how_to_code.jpg)
 
 ### How to code
 -----------

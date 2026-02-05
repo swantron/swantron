@@ -7,4 +7,4 @@ aliases:
   - '/index.php/2016/08/17/palm-face-phishing/'
 ---
 
-I've been phished... ineptly [![Screenshot_20160817-085940](/uploads/2016/08/Screenshot_20160817-085940.png)](https://swantron.com/palm-face-phishing/screenshot_20160817-085940/)Did I catch a 'manny' in there? [![mannybeingmanny](/uploads/2016/08/mannybeingmanny.jpg)](https://swantron.com/palm-face-phishing/mannybeingmanny/)
+I've been phished... ineptly ![Screenshot_20160817-085940](/uploads/2016/08/Screenshot_20160817-085940.png)Did I catch a 'manny' in there? ![mannybeingmanny](/uploads/2016/08/mannybeingmanny.jpg)

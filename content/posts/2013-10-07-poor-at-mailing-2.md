@@ -7,4 +7,4 @@ aliases:
   - '/index.php/2013/10/07/poor-at-mailing/'
 ---
 
-My attempt to mail a physical letter had mixed results: [![coffee_cup](/uploads/2013/10/coffee_cup.jpg)](https://swantron.com/poor-at-mailing/coffee_cup/)Mail mailed: none Resultant coasters: one
+My attempt to mail a physical letter had mixed results: ![coffee_cup](/uploads/2013/10/coffee_cup.jpg)Mail mailed: none Resultant coasters: one

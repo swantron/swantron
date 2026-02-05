@@ -7,4 +7,7 @@ aliases:
   - '/index.php/2009/10/22/nice-try-dipshit/'
 ---
 
-In celebration of the release of Windows 7, (do not want) enjoy the following Bozeman craigslist entry... [![tech_douche](/uploads/2009/10/tech_douche.jpg "tech_douche")](/uploads/2009/10/tech_douche.jpg)Where do I begin? 1) Window NT came out in 1993??? 2) $200 buys a 160gb netbook??? 3) "If your savy"??? There it is...#3. Missed an apostrophe, an "e", and a "v". The poster likely would have caught that if he could have fired up the spell checker in Word Perfect...son-of-a-bitchin' passwords, huh.
+In celebration of the release of Windows 7, (do not want) enjoy the following Bozeman craigslist entry... [![tech_douche](/uploads/2009/10/tech_douche.jpg "tech_douche")](/uploads/2009/10/tech_douche.jpg)Where do I begin?
+ 1) Window NT came out in 1993???
+ 2) $200 buys a 160gb netbook???
+ 3) "If your savy"??? There it is...#3. Missed an apostrophe, an "e", and a "v". The poster likely would have caught that if he could have fired up the spell checker in Word Perfect...son-of-a-bitchin' passwords, huh.
