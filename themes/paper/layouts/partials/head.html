@@ -1,10 +1,7 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1, shrink-to-fit=no"
-  />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
   <!-- title -->
   <title>
@@ -18,14 +15,11 @@
   {{- $site_author := or site.Author.name site.Params.name site.Title -}}
   <!---->
   {{- if eq .Kind "page" -}}
-  <meta name="description" content="{{- .Summary -}}" />
+  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}" />
   <meta name="author" content="{{- or .Params.author $site_author -}}" />
   {{- else -}}
   <!---->
-  <meta
-    name="description"
-    content="{{- site.Params.description | default (print `A personal blog`) -}}"
-  />
+  <meta name="description" content="{{- site.Params.description | default (print `A personal blog`) -}}" />
   <meta name="author" content="{{- $site_author -}}" />
   {{- end -}}
 
@@ -60,11 +54,7 @@
 
   <!-- highlight js -->
   {{- if and .IsPage (not site.Params.disableHLJS) -}}
-  <script
-    defer
-    src="{{- `highlight.min.js` | absURL -}}"
-    onload="hljs.initHighlightingOnLoad();"
-  ></script>
+  <script defer src="{{- `highlight.min.js` | absURL -}}" onload="hljs.initHighlightingOnLoad();"></script>
   {{- end -}}
 
   <!-- math -->
@@ -76,14 +66,8 @@
   <!---->
 
   <!-- favicon -->
-  <link
-    rel="icon"
-    href="{{- site.Params.favicon | default `favicon.ico` | absURL -}}"
-  />
-  <link
-    rel="apple-touch-icon"
-    href="{{- site.Params.appleTouchIcon | default `apple-touch-icon.png` | absURL -}}"
-  />
+  <link rel="icon" href="{{- site.Params.favicon | default `favicon.ico` | absURL -}}" />
+  <link rel="apple-touch-icon" href="{{- site.Params.appleTouchIcon | default `apple-touch-icon.png` | absURL -}}" />
 
   <!-- generator -->
   {{- hugo.Generator -}}
@@ -100,12 +84,7 @@
   {{- template "_internal/twitter_cards.html" . -}}
   <!-- RSS -->
   {{- range .AlternativeOutputFormats -}}
-  <link
-    rel="{{- .Rel -}}"
-    type="{{- .MediaType.Type -}}"
-    href="{{- .Permalink -}}"
-    title="{{- site.Title -}}"
-  />
+  <link rel="{{- .Rel -}}" type="{{- .MediaType.Type -}}" href="{{- .Permalink -}}" title="{{- site.Title -}}" />
   {{- end -}}
 
   <!-- canonical -->

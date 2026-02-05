@@ -19,18 +19,15 @@
     {{- end -}}
   </header>
 
-  <section>{{- .Content -}}</section>
+  <section class="post-content">{{- .Content -}}</section>
 
   <!-- Post Tags -->
   {{- if .Params.tags -}}
   <footer class="mt-12 flex flex-wrap">
     {{- range .Params.tags -}} {{- $href := print (absURL "tags/") (urlize .)
     -}}
-    <a
-      class="mb-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] ltr:mr-1.5 rtl:ml-1.5 dark:bg-white/[8%] dark:hover:bg-white/[12%]"
-      href="{{- $href -}}"
-      >{{- . -}}</a
-    >
+    <a class="mb-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] ltr:mr-1.5 rtl:ml-1.5 dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+      href="{{- $href -}}">{{- . -}}</a>
     {{- end -}}
   </footer>
   {{- end -}}
@@ -40,19 +37,14 @@
   {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections -}}<!---->
   {{- if and (gt (len $pages) 1) (in $pages . ) -}}
   <nav
-    class="mt-24 flex overflow-hidden rounded-xl bg-black/[3%] text-lg leading-[1.2]! *:flex *:w-1/2 *:items-center *:p-5 *:font-medium *:no-underline dark:bg-white/[8%] [&>*:hover]:bg-black/[2%] dark:[&>*:hover]:bg-white/[3%]"
-  >
+    class="mt-24 flex overflow-hidden rounded-xl bg-black/[3%] text-lg leading-[1.2]! *:flex *:w-1/2 *:items-center *:p-5 *:font-medium *:no-underline dark:bg-white/[8%] [&>*:hover]:bg-black/[2%] dark:[&>*:hover]:bg-white/[3%]">
     {{- with $pages.Next . -}}
-    <a class="ltr:pr-3 rtl:pl-3" href="{{- .Permalink -}}"
-      ><span class="ltr:mr-1.5 rtl:ml-1.5">←</span><span>{{- .Name -}}</span></a
-    >
+    <a class="ltr:pr-3 rtl:pl-3" href="{{- .Permalink -}}"><span class="ltr:mr-1.5 rtl:ml-1.5">←</span><span>{{- .Name
+        -}}</span></a>
     {{- end -}}<!---->
     {{- with $pages.Prev . -}}
-    <a
-      class="justify-end pl-3 ltr:ml-auto rtl:mr-auto"
-      href="{{- .Permalink -}}"
-      ><span>{{- .Name -}}</span><span class="ltr:ml-1.5 rtl:mr-1.5">→</span></a
-    >
+    <a class="justify-end pl-3 ltr:ml-auto rtl:mr-auto" href="{{- .Permalink -}}"><span>{{- .Name -}}</span><span
+        class="ltr:ml-1.5 rtl:mr-1.5">→</span></a>
     {{- end -}}
   </nav>
   {{- end -}}<!---->
@@ -109,11 +101,8 @@
   <!-- giscus comment -->
   {{- if and site.Params.giscus.repo (not (eq .Params.comments false)) -}}
   <div class="giscus mt-24"></div>
-  <script
-    src="https://giscus.app/client.js"
-    data-repo="{{- site.Params.giscus.repo -}}"
-    data-repo-id="{{- site.Params.giscus.repoId -}}"
-    data-category="{{- site.Params.giscus.category -}}"
+  <script src="https://giscus.app/client.js" data-repo="{{- site.Params.giscus.repo -}}"
+    data-repo-id="{{- site.Params.giscus.repoId -}}" data-category="{{- site.Params.giscus.category -}}"
     data-category-id="{{- site.Params.giscus.categoryId -}}"
     data-mapping="{{- site.Params.giscus.mapping | default (print `pathname`) -}}"
     data-strict="{{- site.Params.giscus.strict | default (print `1`) -}}"
@@ -122,11 +111,62 @@
     data-input-position="{{- site.Params.giscus.inputPosition | default (print `top`) -}}"
     data-theme="{{- site.Params.giscus.theme | default (print `light`) -}}"
     data-lang="{{- site.Params.giscus.lang | default (print `en`) -}}"
-    data-loading="{{- site.Params.giscus.loading | default (print `lazy`) -}}"
-    crossorigin="anonymous"
-    async
-  ></script>
+    data-loading="{{- site.Params.giscus.loading | default (print `lazy`) -}}" crossorigin="anonymous" async></script>
   {{- end -}}
+  <!-- Lightbox -->
+  <div id="lightbox-overlay" aria-hidden="true">
+    <img id="lightbox-image" src="" alt="">
+    <div id="lightbox-caption"></div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const overlay = document.getElementById('lightbox-overlay');
+      const lightboxImg = document.getElementById('lightbox-image');
+      const caption = document.getElementById('lightbox-caption');
+      const postImages = document.querySelectorAll('.post-content img');
+
+      const openLightbox = (img) => {
+        lightboxImg.src = img.src;
+        lightboxImg.alt = img.alt;
+        caption.textContent = img.title || img.alt || '';
+        overlay.classList.add('active');
+        overlay.setAttribute('aria-hidden', 'false');
+        document.body.style.overflow = 'hidden';
+      };
+
+      const closeLightbox = () => {
+        overlay.classList.remove('active');
+        overlay.setAttribute('aria-hidden', 'true');
+        document.body.style.overflow = '';
+      };
+
+      postImages.forEach(img => {
+        // Skip images that are already wrapped in a different link (except our own full-size links)
+        if (img.parentElement.tagName === 'A') {
+          // If it's a link to swantron.com/uploads, we still want to handle it with lightbox
+          const href = img.parentElement.getAttribute('href');
+          if (href && (href.startsWith('/uploads/') || href.includes('swantron.com/uploads/'))) {
+            img.parentElement.addEventListener('click', (e) => {
+              e.preventDefault();
+              openLightbox(img);
+            });
+          }
+          return;
+        }
+
+        img.addEventListener('click', () => openLightbox(img));
+      });
+
+      overlay.addEventListener('click', closeLightbox);
+
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && overlay.classList.contains('active')) {
+          closeLightbox();
+        }
+      });
+    });
+  </script>
 </article>
 
 {{- end -}}
