@@ -20,7 +20,7 @@ So I built **[Wrenchtron](https://wrenchtron.com)**.
 
 Nothing out there handles a mixed fleet well. Apps designed for "car guys" are overkill and assume you're running a shop. Generic spreadsheets are fine until you have five vehicles with different maintenance schedules. OBD-based apps only work while you're plugged in and don't help with the mower.
 
-I also wanted receipt capture. If I do an oil change on the F-150 and buy the oil and filter at Murdoch's, I want that receipt attached to the log entry. That's the documentation that makes the warranty coverage real.
+I also wanted receipt capture. I'm running Kirkland 5W-30 and buying OEM filters at the dealership parts counter—best of both worlds, keeps the warranty happy. I want that receipt for the filter and the Costco run attached to the log entry. That's the documentation that makes the warranty coverage real.
 
 ## The Solution
 
@@ -41,24 +41,7 @@ Wrenchtron tracks service history across your whole fleet—whatever that looks 
 
 ## The Stack
 
-| Layer | Tech |
-|---|---|
-| Framework | Next.js 15 (fully static export) |
-| Styling | Tailwind CSS v4 |
-| Auth | Firebase Authentication (Google sign-in) |
-| Database | Firestore (real-time subscriptions) |
-| Storage | Firebase Cloud Storage |
-| PWA | @serwist/next v9 |
-| Validation | Zod v4 |
-| Hosting | Firebase Hosting |
-
-No server. No API routes. Everything runs in the browser; security is enforced entirely by Firestore and Storage rules.
-
-## The Routing Problem
-
-Next.js 15 with `output: 'export'` (fully static, no server) has a known bug with dynamic route segments. If you have a page at `/vehicles/[vehicleId]` and return an empty array from `generateStaticParams`, the build fails with a "missing generateStaticParams" error. This affects any dynamic route where the set of IDs isn't known at build time—which is all of them when the data lives in Firestore.
-
-The fix is ugly but simple: ditch the dynamic segments entirely and use query parameters instead. `/vehicles/detail?id=xxx` instead of `/vehicles/xxx`. It works fine, the URLs are a little less pretty, and you move on. I filed it away and didn't look back.
+Next.js 15 static export, Tailwind CSS v4, Firebase for auth, Firestore, and Storage, with @serwist/next handling the PWA layer. Hosted on Firebase Hosting. No server, no API routes—everything runs in the browser and security is enforced entirely by Firestore and Storage rules.
 
 ## Firebase as the Backend
 
