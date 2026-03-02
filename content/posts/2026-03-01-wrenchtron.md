@@ -3,7 +3,7 @@ title: 'Wrenchtron: DIY Vehicle Maintenance Tracker'
 date: 2026-03-01T04:00:00+00:00
 slug: 'wrenchtron'
 description: 'A vehicle service tracker for the DIY crowd who would rather do the work themselves than wait three months for a dealership appointment'
-featured_image: '/uploads/2026/03/wrenchtron-demo.png'
+featured_image: '/uploads/2026/03/wrenchtron-f150.png'
 ---
 
 Getting into Kendall Ford in Bozeman is basically impossible. I'm not exaggerating—scheduling anything is a multi-month endeavor. My 2021 F-150 is still under powertrain warranty, which means I'm supposed to care about documented service intervals, but the dealership has made that inconvenient enough that I've just embraced doing it myself.
@@ -14,7 +14,7 @@ The real issue with the F-150 specifically is the warranty. If something goes si
 
 So I built **[Wrenchtron](https://wrenchtron.com)**.
 
-![Wrenchtron garage view](/uploads/2026/03/wrenchtron-demo.png)
+![2017 F-150 Platinum — service status and maintenance history](/uploads/2026/03/wrenchtron-f150.png)
 
 ## The Problem
 
