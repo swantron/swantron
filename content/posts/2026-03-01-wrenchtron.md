@@ -10,7 +10,7 @@ Kendall Ford in Bozeman books out three months. I have a 2021 F-150 under powert
 
 Those two facts are incompatible, so I've just started doing everything myself.
 
-I was already servicing most of the fleet at home—ATVs, a mower, a snowblower. DIY is usually faster and cheaper anyway. The warranty situation just made it urgent to actually document everything, and a glovebox full of Costco receipts wasn't going to cut it.
+I was already servicing most of the fleet at home—RZR, old wheeler, mower on its last leg, a snowblower. DIY is usually faster and cheaper, and to be honest fun. The warranty situation just made it urgent to actually document everything, and a glovebox full of Costco receipts wasn't going to cut it.
 
 So I built **[Wrenchtron](https://wrenchtron.com)**.
 
@@ -18,7 +18,7 @@ So I built **[Wrenchtron](https://wrenchtron.com)**.
 
 ## The Problem
 
-Nothing out there handles a mixed fleet well. Apps for car guys assume you're running a shop. Spreadsheets fall apart once you have a few vehicles on different schedules. OBD apps don't know what a snowblower is.
+Nothing out there handles a mixed fleet well. Apps for car guys assume you're running a shop. Spreadsheets fall apart once you have a few vehicles on different schedules, and I'm not about to use a spreadsheet in the first place. OBD apps don't know what a snowblower is. Etc etc..
 
 I'm running Kirkland 5W-30 and buying OEM filters at the parts counter—best of both worlds for the warranty. But I need those receipts attached to a log entry to make any of it mean anything.
 
@@ -53,4 +53,4 @@ Demo (no login): [https://wrenchtron.com/demo](https://wrenchtron.com/demo)
 
 Source: [https://github.com/swantron/wrenchtron](https://github.com/swantron/wrenchtron)
 
-Do your own work, document it properly, skip the three-month wait. Torque wrench..
+Do your own work, document it properly, skip the three-month wait. Wrench cheers..
