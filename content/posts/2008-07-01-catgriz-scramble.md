@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2008/07/01/catgriz-scramble/'
 ---
 
-Pretty classy. ![golf](/uploads/2008/07/golfisfun.jpg)![golfing](/uploads/2008/07/golfisfun2.jpg)
+Pretty classy.
+
+![golf](/uploads/2008/07/golfisfun.jpg)
+
+![golfing](/uploads/2008/07/golfisfun2.jpg)

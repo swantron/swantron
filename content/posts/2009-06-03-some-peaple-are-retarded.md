@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2009/06/03/some-peaple-are-retarded/'
 ---
 
-![](/uploads/2009/06/trailer.JPG)I'm not going to get into his lack of punctuation, capitolization, or word usage. "Fore"...Really? 
+![](/uploads/2009/06/trailer.JPG)
+
+I'm not going to get into his lack of punctuation, capitolization, or word usage. "Fore"...Really? 

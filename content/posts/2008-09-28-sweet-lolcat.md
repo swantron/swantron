@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2008/09/28/sweet-lolcat/'
 ---
 
-![](/uploads/2008/09/funny-pictures-cat-asks-for-a-towel.jpg)I love these things. 
+![](/uploads/2008/09/funny-pictures-cat-asks-for-a-towel.jpg)
+
+I love these things. 

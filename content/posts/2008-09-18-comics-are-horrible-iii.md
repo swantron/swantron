@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2008/09/18/comics-are-horrible-iii/'
 ---
 
-Here is one called Pajama Diaries ![](/uploads/2008/09/pajama.gif)TFL...didn't read it. I would wager that it is absolutely horrible though.
+Here is one called Pajama Diaries
+
+![](/uploads/2008/09/pajama.gif)
+
+TFL...didn't read it. I would wager that it is absolutely horrible though.

@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2008/10/23/booooyeahhhh/'
 ---
 
-Take that!![weird Palin shirt](/uploads/2008/10/weird.jpg)
+Take that!
+
+![weird Palin shirt](/uploads/2008/10/weird.jpg)

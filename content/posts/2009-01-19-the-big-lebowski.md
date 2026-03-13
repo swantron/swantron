@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2009/01/19/the-big-lebowski/'
 ---
 
-For those readers unfamiliar with The Big Lebowski...watch the movie. Those familiar with the film know this is pretty funny. I found this comment in a [billingsgazette.com](http://billingsgazette.com) editorial. ![](/uploads/2009/01/hungus.jpg)Jesus and Karl Hungus are two prominent characters in the show. Pretty sure this one is getting on CollegeHumor.
+For those readers unfamiliar with The Big Lebowski...watch the movie. Those familiar with the film know this is pretty funny. I found this comment in a [billingsgazette.com](http://billingsgazette.com) editorial.
+
+![](/uploads/2009/01/hungus.jpg)
+
+Jesus and Karl Hungus are two prominent characters in the show. Pretty sure this one is getting on CollegeHumor.

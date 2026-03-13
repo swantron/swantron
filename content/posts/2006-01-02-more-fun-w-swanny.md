@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2006/01/02/more-fun-w-swanny/'
 ---
 
-Shitty Photoshop is the best Photoshop ![](/uploads/legacy/surf1.jpg)![](/uploads/legacy/surf3.jpg)
+Shitty Photoshop is the best Photoshop
+
+![](/uploads/legacy/surf1.jpg)
+
+![](/uploads/legacy/surf3.jpg)

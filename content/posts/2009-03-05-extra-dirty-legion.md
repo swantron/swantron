@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2009/03/05/extra-dirty-legion/'
 ---
 
-Long story short...Boodles exploded. Archaic gas lines caught fire sans shut-off valve. ![](/uploads/2009/03/image.jpg)It was one hell of a run.
+Long story short...Boodles exploded. Archaic gas lines caught fire sans shut-off valve.
+
+![](/uploads/2009/03/image.jpg)
+
+It was one hell of a run.

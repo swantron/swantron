@@ -7,4 +7,14 @@ aliases:
   - '/index.php/2006/05/11/recap-pictures/'
 ---
 
-![drinkin torque 3](/uploads/2006/05/torque3.JPG)![drinkin torque 2](/uploads/2006/05/torque2.JPG)![drinkin a torque](/uploads/2006/05/torque1.JPG)![shirtless dudes](/uploads/2006/05/coolestdudesever.JPG)![swanny is confused](/uploads/2006/05/swannyconfused.JPG)![dancin shirtless](/uploads/2006/05/dancinmachines.JPG)
+![drinkin torque 3](/uploads/2006/05/torque3.JPG)
+
+![drinkin torque 2](/uploads/2006/05/torque2.JPG)
+
+![drinkin a torque](/uploads/2006/05/torque1.JPG)
+
+![shirtless dudes](/uploads/2006/05/coolestdudesever.JPG)
+
+![swanny is confused](/uploads/2006/05/swannyconfused.JPG)
+
+![dancin shirtless](/uploads/2006/05/dancinmachines.JPG)
