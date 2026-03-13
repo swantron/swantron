@@ -1,5 +1,5 @@
 ---
-title: 'You're Invited'
+title: "You're Invited"
 date: 2005-09-18T14:37:56+00:00
 slug: 'youre-invited'
 featured_image: '/uploads/legacy/ttwotwo.jpg'
