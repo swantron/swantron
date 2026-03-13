@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2014/04/01/lab-assistants-3/'
 ---
 
-![20140323_093250-MOTION](/uploads/2014/04/20140323_093250-MOTION.gif)Seriously, you two. 
+![20140323_093250-MOTION](/uploads/2014/04/20140323_093250-MOTION.gif)
+
+Seriously, you two. 

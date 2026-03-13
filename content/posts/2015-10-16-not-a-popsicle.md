@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2015/10/16/not-a-popsicle/'
 ---
 
-Cheese sticks, while delicious, are not popsicles. ![not-a-popsicle](/uploads/2015/10/not-a-popsicle.jpg)Not a popsicle.
+Cheese sticks, while delicious, are not popsicles.
+
+![not-a-popsicle](/uploads/2015/10/not-a-popsicle.jpg)
+
+Not a popsicle.
