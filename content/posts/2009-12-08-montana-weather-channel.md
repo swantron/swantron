@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2009/12/08/montana-weather-channel/'
 ---
 
-Tuesday, December the 8th. Balls cold. [![hace_frio](/uploads/2009/12/hace_frio.JPG "hace_frio")](/uploads/2009/12/hace_frio.JPG)-18 F -28 C 245 kelvin
+Tuesday, December the 8th. Balls cold.
+
+[![hace_frio](/uploads/2009/12/hace_frio.JPG "hace_frio")](/uploads/2009/12/hace_frio.JPG)
+
+-18 F -28 C 245 kelvin

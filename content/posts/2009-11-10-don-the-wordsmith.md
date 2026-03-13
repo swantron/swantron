@@ -7,4 +7,10 @@ aliases:
   - '/index.php/2009/11/10/don-the-wordsmith/'
 ---
 
-... [![Don, my god.  ](/uploads/2009/11/don.bmp "don")](/uploads/2009/11/don.bmp)... [![dude](/uploads/2009/11/dude.JPG "dude")](/uploads/2009/11/dude.JPG)
+...
+
+[![Don, my god.](/uploads/2009/11/don.bmp "don")](/uploads/2009/11/don.bmp)
+
+...
+
+[![dude](/uploads/2009/11/dude.JPG "dude")](/uploads/2009/11/dude.JPG)

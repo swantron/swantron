@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2009/12/12/funyons-never-heard-of-em/'
 ---
 
-[![onyums](/uploads/2009/12/onyums.jpg "onyums")](/uploads/2009/12/onyums.jpg)Fuck Funyons. I'm an Onyums guy. 
+[![onyums](/uploads/2009/12/onyums.jpg "onyums")](/uploads/2009/12/onyums.jpg)
+
+Fuck Funyons. I'm an Onyums guy. 

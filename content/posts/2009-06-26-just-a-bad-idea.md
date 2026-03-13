@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2009/06/26/just-a-bad-idea/'
 ---
 
-![](/uploads/2009/06/water.jpg)Surfboard + outboard = horrible idea. 
+![](/uploads/2009/06/water.jpg)
+
+Surfboard + outboard = horrible idea. 

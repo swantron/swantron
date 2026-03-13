@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2009/12/20/avatar-in-a-nutshell/'
 ---
 
-Are you... Too cheap to shell out $ for a theatre seat? The resident of a 3-D theatre-less town? (Bozeman) Sure James Cameron can't top Titanic...don't care? Here you go...from [Comixed](http://comixed.com/2009/12/18/comics-comic-strip-yonkoma-avatar-summary/): [![avatar](/uploads/2009/12/avatar.jpg "avatar")](/uploads/2009/12/avatar.jpg)Looks good...I'm going.
+Are you... Too cheap to shell out $ for a theatre seat? The resident of a 3-D theatre-less town? (Bozeman) Sure James Cameron can't top Titanic...don't care? Here you go...from [Comixed](http://comixed.com/2009/12/18/comics-comic-strip-yonkoma-avatar-summary/): [![avatar](/uploads/2009/12/avatar.jpg "avatar")](/uploads/2009/12/avatar.jpg)
+
+Looks good...I'm going.

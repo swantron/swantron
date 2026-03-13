@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2010/01/19/jeffys-accident/'
 ---
 
-[![](/uploads/2010/01/jeffy.gif "jeffy")](/uploads/2010/01/jeffy.gif)Gross, Jeffy. 
+[![](/uploads/2010/01/jeffy.gif "jeffy")](/uploads/2010/01/jeffy.gif)
+
+Gross, Jeffy. 

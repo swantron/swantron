@@ -7,4 +7,12 @@ aliases:
   - '/index.php/2009/12/09/unidentified-swirly-thing-over-norway/'
 ---
 
-I'm going to side with the realists and say that this is likely due to a rocket, (exhaust, or out-gassing payload) and not a UFO... [![norway1](/uploads/2009/12/norway1.jpg "norway1")](/uploads/2009/12/norway1.jpg)[![norway3](/uploads/2009/12/norway3.jpg "norway3")](/uploads/2009/12/norway3.jpg)[![norway2](/uploads/2009/12/norway2.jpg "norway2")](/uploads/2009/12/norway2.jpg)...but just in case, swantron.com welcomes our swirly overlords. Click on some ads.
+I'm going to side with the realists and say that this is likely due to a rocket, (exhaust, or out-gassing payload) and not a UFO...
+
+[![norway1](/uploads/2009/12/norway1.jpg "norway1")](/uploads/2009/12/norway1.jpg)
+
+[![norway3](/uploads/2009/12/norway3.jpg "norway3")](/uploads/2009/12/norway3.jpg)
+
+[![norway2](/uploads/2009/12/norway2.jpg "norway2")](/uploads/2009/12/norway2.jpg)
+
+...but just in case, swantron.com welcomes our swirly overlords. Click on some ads.

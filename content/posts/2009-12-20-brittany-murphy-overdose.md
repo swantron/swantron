@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2009/12/20/brittany-murphy-overdose/'
 ---
 
-[![](/uploads/2009/12/brit_murphy.jpg)](/uploads/2009/12/brit_murphy.jpg)Best known for playing the "I'll never tell" girl, and the chick who humped Eminem in the factory during 8-mile, former Clueless star Brittany Murphy has died. Oh nos! Drug overdose? Show of hands... 
+[![](/uploads/2009/12/brit_murphy.jpg)](/uploads/2009/12/brit_murphy.jpg)
+
+Best known for playing the "I'll never tell" girl, and the chick who humped Eminem in the factory during 8-mile, former Clueless star Brittany Murphy has died. Oh nos! Drug overdose? Show of hands... 

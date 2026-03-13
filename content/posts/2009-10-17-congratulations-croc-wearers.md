@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2009/10/17/congratulations-croc-wearers/'
 ---
 
-...it is now possible for someone to retard-up their feet even more effectively than via the wearing of Crocs...introducing... [![dino-shoes](/uploads/2009/10/dino-shoes.jpg "dino-shoes")](/uploads/2009/10/dino-shoes.jpg)Dinos? Velocs? Velococrapters? I don't know.
+...it is now possible for someone to retard-up their feet even more effectively than via the wearing of Crocs...introducing...
+
+[![dino-shoes](/uploads/2009/10/dino-shoes.jpg "dino-shoes")](/uploads/2009/10/dino-shoes.jpg)
+
+Dinos? Velocs? Velococrapters? I don't know.

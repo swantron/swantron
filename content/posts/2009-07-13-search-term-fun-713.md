@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2009/07/13/search-term-fun-713/'
 ---
 
-I finally was able to log into our cpanel and check the traffic stats...from May, we had the following: ![](/uploads/2009/07/penishamburger.jpg)*Four* people searched for "penis hamburger"...and came here? Yessssss!
+I finally was able to log into our cpanel and check the traffic stats...from May, we had the following:
+
+![](/uploads/2009/07/penishamburger.jpg)
+
+*Four* people searched for "penis hamburger"...and came here? Yessssss!

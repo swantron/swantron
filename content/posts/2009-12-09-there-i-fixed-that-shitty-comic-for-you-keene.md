@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2009/12/09/there-i-fixed-that-shitty-comic-for-you-keene/'
 ---
 
-[![famcirc](/uploads/2009/12/famcirc.gif "famcirc")](/uploads/2009/12/famcirc.gif)~~~~much, much better~~~~~ 
+[![famcirc](/uploads/2009/12/famcirc.gif "famcirc")](/uploads/2009/12/famcirc.gif)
+
+~~~~much, much better~~~~~ 

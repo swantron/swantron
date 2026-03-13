@@ -7,4 +7,12 @@ aliases:
   - '/index.php/2009/07/06/more-craigslist-antics/'
 ---
 
-Nice try, dude... ![](/uploads/2009/07/orig.jpg)here you go... ![](/uploads/2009/07/rep.jpg)...ball is in your court
+Nice try, dude...
+
+![](/uploads/2009/07/orig.jpg)
+
+here you go...
+
+![](/uploads/2009/07/rep.jpg)
+
+...ball is in your court
