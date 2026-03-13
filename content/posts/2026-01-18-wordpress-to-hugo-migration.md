@@ -9,6 +9,7 @@ aliases:
 ---
 
 This is the first time in decades I haven't had a WordPress instance live. Lordamercy...
+
 ![Deleting WordPress site - final step](/uploads/2026/01/delete-wordpress-site.png)
 
 ## WP Trucker Logs: From Shared Hosting to Code-First

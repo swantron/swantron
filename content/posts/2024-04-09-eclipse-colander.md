@@ -9,4 +9,9 @@ aliases:
 
 strain noodles: ❌  
 strain sun: ✅
-![](/uploads/2024/04/PXL_20240408_182152088.MP_-1024x576.jpg)![](/uploads/2024/04/PXL_20240408_182207481.MP_-1024x576.jpg)40%-ish solar eclipse in Bozeman. Time to make crescents.
+
+![](/uploads/2024/04/PXL_20240408_182152088.MP_-1024x576.jpg)
+
+![](/uploads/2024/04/PXL_20240408_182207481.MP_-1024x576.jpg)
+
+40%-ish solar eclipse in Bozeman. Time to make crescents.
