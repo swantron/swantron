@@ -1,5 +1,5 @@
 ---
-title: 'Saturday's Supplement'
+title: "Saturday's Supplement"
 date: 2005-12-19T18:18:53+00:00
 slug: 'saturdays-supplement'
 featured_image: '/uploads/legacy/sb1.jpg'
