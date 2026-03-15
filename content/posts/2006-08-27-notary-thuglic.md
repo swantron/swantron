@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2006/08/27/notary-thuglic/'
 ---
 
-![picture.jpg](/uploads/2006/08/picture.jpg)Bring on the affidavits. 
+![picture.jpg](/uploads/2006/08/picture.jpg)
+
+Bring on the affidavits. 

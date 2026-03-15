@@ -7,4 +7,12 @@ aliases:
   - '/index.php/2005/07/30/welcome-back/'
 ---
 
-Bouncerblog.com is most proud to announce the reemergence of the rat-tail into societal commonplace. Note the fact that Bozeman is a college town...i.e. a hotbed of uppity poser folk. Our SubaruwithblacklabwithYakimaracktotingNalgenebottles to person ratio is off the goddamn scales. Go buy some outerwear and hike the M, Bozemanites. Anyhow... ![](/uploads/legacy/photo_0022.jpg) ![](/uploads/legacy/photo_0021.jpg) ![](/uploads/legacy/photo_0023.jpg)Here's Bouncerblog.com's cofounder at Samurai Sam's yesturday afternoon next in line to a bonafide rat-tail sportin' dude. I had a laugh and a bowl of yaki soba. Do feel free to email some hairdo pics to Swanson@bouncerblog.com...keep it PG though, I was raised Catholic. Joe ---sorry about the poor quality of the shots and to hell with Audiovox cell phones---
+Bouncerblog.com is most proud to announce the reemergence of the rat-tail into societal commonplace. Note the fact that Bozeman is a college town...i.e. a hotbed of uppity poser folk. Our SubaruwithblacklabwithYakimaracktotingNalgenebottles to person ratio is off the goddamn scales. Go buy some outerwear and hike the M, Bozemanites. Anyhow...
+
+![](/uploads/legacy/photo_0022.jpg)
+
+![](/uploads/legacy/photo_0021.jpg)
+
+![](/uploads/legacy/photo_0023.jpg)
+
+Here's Bouncerblog.com's cofounder at Samurai Sam's yesturday afternoon next in line to a bonafide rat-tail sportin' dude. I had a laugh and a bowl of yaki soba. Do feel free to email some hairdo pics to Swanson@bouncerblog.com...keep it PG though, I was raised Catholic. Joe ---sorry about the poor quality of the shots and to hell with Audiovox cell phones---

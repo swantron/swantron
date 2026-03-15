@@ -7,6 +7,14 @@ aliases:
   - '/index.php/2007/05/02/my-first-chainsaw/'
 ---
 
-Item! The most effeminate chainsaw of all time! ![squirtt.jpg](/uploads/2007/05/squirtt.jpg)Complete with "cord." ![chainsaww.jpg](/uploads/2007/05/chainsaww.jpg)I cannot imagine this lil' guy tearing even through balsa, so there must be another reason for it's existence. For example:
+Item! The most effeminate chainsaw of all time!
+
+![squirtt.jpg](/uploads/2007/05/squirtt.jpg)
+
+Complete with "cord."
+
+![chainsaww.jpg](/uploads/2007/05/chainsaww.jpg)
+
+I cannot imagine this lil' guy tearing even through balsa, so there must be another reason for it's existence. For example:
  1) Prank gift for a gay lumberjack
  2) ... That is really all that I have.

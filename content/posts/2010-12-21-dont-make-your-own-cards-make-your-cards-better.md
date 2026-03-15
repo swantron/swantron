@@ -1,5 +1,5 @@
 ---
-title: 'Don’t Make Your Own Cards, Make Your Cards Better'
+title: "Don’t Make Your Own Cards, Make Your Cards Better"
 date: 2010-12-21T14:55:16+00:00
 slug: 'dont-make-your-own-cards-make-your-cards-better'
 featured_image: '/uploads/2010/12/total_bad_ass.jpg'

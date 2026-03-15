@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2007/02/28/rest-assured/'
 ---
 
-Hey there VHS owners. ![vhs.jpg](/uploads/2007/02/vhs.jpg)Fear not...Target still stocks VHS rewinders. \*Rewinds Tapes Quickly \*No Delay of Next Viewing ...and my favorite... \*Automatic Stop/Eject No more hard to find stop and eject buttons on this gem.
+Hey there VHS owners.
+
+![vhs.jpg](/uploads/2007/02/vhs.jpg)
+
+Fear not...Target still stocks VHS rewinders. \*Rewinds Tapes Quickly \*No Delay of Next Viewing ...and my favorite... \*Automatic Stop/Eject No more hard to find stop and eject buttons on this gem.

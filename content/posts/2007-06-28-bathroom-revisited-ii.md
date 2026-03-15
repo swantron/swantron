@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2007/06/28/bathroom-revisited-ii/'
 ---
 
-![tim.jpg](/uploads/2007/06/tim.jpg)My future Mexican roommate, Sgt. Tim, and I in the ladies room. "I'll hold the hand towel; you take the photo." Happy Thursday fans. 
+![tim.jpg](/uploads/2007/06/tim.jpg)
+
+My future Mexican roommate, Sgt. Tim, and I in the ladies room. "I'll hold the hand towel; you take the photo." Happy Thursday fans. 

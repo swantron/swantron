@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2009/05/09/fat-kid-watching-tv-on-the-couch-eating-potato-chips/'
 ---
 
-![Fat Kid Watching TV on the Couch, Eating Potato Chips](/uploads/2009/05/fatkid.jpg)^Fat Kid Watching TV on the Couch, Eating Potato Chips 
+![Fat Kid Watching TV on the Couch, Eating Potato Chips](/uploads/2009/05/fatkid.jpg)
+
+^Fat Kid Watching TV on the Couch, Eating Potato Chips 

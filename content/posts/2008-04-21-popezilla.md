@@ -7,4 +7,12 @@ aliases:
   - '/index.php/2008/04/21/popezilla/'
 ---
 
-New this week on [bustedtees.com](http://bustedtees.com): ![pope](/uploads/2008/04/tee.jpg)Benedict does rock a retarded miter, which is slightly more retarded than this spicy red number... ![pope hat](/uploads/2008/04/pope.jpg)I cannot tell you whether or not that was the shirt's intention, but it is pretty funny regardless. *To infinity and beyond, pope.*
+New this week on [bustedtees.com](http://bustedtees.com):
+
+![pope](/uploads/2008/04/tee.jpg)
+
+Benedict does rock a retarded miter, which is slightly more retarded than this spicy red number...
+
+![pope hat](/uploads/2008/04/pope.jpg)
+
+I cannot tell you whether or not that was the shirt's intention, but it is pretty funny regardless. *To infinity and beyond, pope.*

@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2007/03/20/season-start/'
 ---
 
-![landsmall.jpg](/uploads/2007/03/landsmall.jpg)Back from Vegas; sort of broke. Landscape time. 
+![landsmall.jpg](/uploads/2007/03/landsmall.jpg)
+
+Back from Vegas; sort of broke. Landscape time. 

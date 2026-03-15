@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2008/09/28/horrible-comic/'
 ---
 
-![horrible comic](/uploads/2008/09/453105.gif)No comment. 
+![horrible comic](/uploads/2008/09/453105.gif)
+
+No comment. 

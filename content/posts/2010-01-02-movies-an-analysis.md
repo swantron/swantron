@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2010/01/02/movies-an-analysis/'
 ---
 
-![not pictured, movie titles beginning with P.S.](/uploads/2010/01/movies.jpg "movies")\*\*\*Note\*\*\*\* The probability of me enjoying any given movie is inversely proportional to the existance of "P.S." in said movie's title. 
+![not pictured, movie titles beginning with P.S.](/uploads/2010/01/movies.jpg "movies")
+
+\*\*\*Note\*\*\*\* The probability of me enjoying any given movie is inversely proportional to the existance of "P.S." in said movie's title. 

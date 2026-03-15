@@ -7,4 +7,12 @@ aliases:
   - '/index.php/2007/03/29/eating-prowess/'
 ---
 
-I love yard bird. Before ![chicken2.jpg](/uploads/2007/03/chicken2.jpg)After ![chicken.jpg](/uploads/2007/03/chicken.jpg)I am all that is man.
+I love yard bird. Before
+
+![chicken2.jpg](/uploads/2007/03/chicken2.jpg)
+
+After
+
+![chicken.jpg](/uploads/2007/03/chicken.jpg)
+
+I am all that is man.

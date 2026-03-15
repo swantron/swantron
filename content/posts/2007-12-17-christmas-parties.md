@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2007/12/17/christmas-parties/'
 ---
 
-Gone are the days of the [space bag](http://en.wikipedia.org/wiki/Box_wine), but Christmas parties for me still involve funny servings of wine. ![wine jug](/uploads/2007/12/paisano1.jpg)Yep, I drank that.
+Gone are the days of the [space bag](http://en.wikipedia.org/wiki/Box_wine), but Christmas parties for me still involve funny servings of wine.
+
+![wine jug](/uploads/2007/12/paisano1.jpg)
+
+Yep, I drank that.

@@ -7,4 +7,12 @@ aliases:
   - '/index.php/2007/03/25/more-food-court-action/'
 ---
 
-Remember this guy? Well, he is still at it. ![zebra.jpg](/uploads/2007/03/zebra.jpg)Pimpin' all over the mall. ![zebras.jpg](/uploads/2007/03/zebras.jpg)Double up...I love this guy.
+Remember this guy? Well, he is still at it.
+
+![zebra.jpg](/uploads/2007/03/zebra.jpg)
+
+Pimpin' all over the mall.
+
+![zebras.jpg](/uploads/2007/03/zebras.jpg)
+
+Double up...I love this guy.

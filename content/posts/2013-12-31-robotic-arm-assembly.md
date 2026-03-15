@@ -7,6 +7,20 @@ aliases:
   - '/index.php/2013/12/31/robotic-arm-assembly/'
 ---
 
-The small lab assistant and I tackled the robot arm project last weekend. Fifty percent of team swan tron embarked upon the assembly phase wearing bunny slippers... ![bunny_slips](/uploads/2013/12/bunny_slips.jpg)We did this in two big chunks, due to attention span limitations and nap purposes. ![team_swantron](/uploads/2013/12/team_swantron.jpg)Testing Phase
- 1) ![moving_robot](/uploads/2013/12/moving_robot.jpg)Testing Phase
- 2) ![robot_arm](/uploads/2013/12/robot_arm.jpg)Emma figured out the remote pretty quickly, especially considering she has interfaced nearly exclusively with touch screen UIs. That may be next, in a round-about way. I'd like to stick some rPi brains in this and build a web UI, so the small assistant can run this with a phone or tablet. We'll see where we end up with this.
+The small lab assistant and I tackled the robot arm project last weekend. Fifty percent of team swan tron embarked upon the assembly phase wearing bunny slippers...
+
+![bunny_slips](/uploads/2013/12/bunny_slips.jpg)
+
+We did this in two big chunks, due to attention span limitations and nap purposes.
+
+![team_swantron](/uploads/2013/12/team_swantron.jpg)
+
+Testing Phase 1)
+
+![moving_robot](/uploads/2013/12/moving_robot.jpg)
+
+Testing Phase 2)
+
+![robot_arm](/uploads/2013/12/robot_arm.jpg)
+
+Emma figured out the remote pretty quickly, especially considering she has interfaced nearly exclusively with touch screen UIs. That may be next, in a round-about way. I'd like to stick some rPi brains in this and build a web UI, so the small assistant can run this with a phone or tablet. We'll see where we end up with this.

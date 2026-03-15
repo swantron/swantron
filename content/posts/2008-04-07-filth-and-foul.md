@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2008/04/07/filth-and-foul/'
 ---
 
-![NickB](/uploads/2008/04/nickb.jpg)Oddly enough, the Bozeman Daily Chronicle sat down with my buddy Nick and wrote a good article about his new album. Check out the article [here](http://bozemandailychronicle.com/articles/2008/04/07/news/000rappers.txt). Good work Nickel. 
+![NickB](/uploads/2008/04/nickb.jpg)
+
+Oddly enough, the Bozeman Daily Chronicle sat down with my buddy Nick and wrote a good article about his new album. Check out the article [here](http://bozemandailychronicle.com/articles/2008/04/07/news/000rappers.txt). Good work Nickel. 

@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2009/05/12/mop-bucket/'
 ---
 
-Times tough? Recession hurting the ol' pocketbook? Simple solution: sell shit from work! ![awesome](/uploads/2009/05/mop.jpg)...I wonder how much I could get for my pen caddy?
+Times tough? Recession hurting the ol' pocketbook? Simple solution: sell shit from work!
+
+![awesome](/uploads/2009/05/mop.jpg)
+
+...I wonder how much I could get for my pen caddy?

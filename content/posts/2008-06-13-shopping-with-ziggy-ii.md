@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2008/06/13/shopping-with-ziggy-ii/'
 ---
 
-![wine and chew](/uploads/2008/07/post1.jpg)You can keep that Skoal. 
+![wine and chew](/uploads/2008/07/post1.jpg)
+
+You can keep that Skoal. 

@@ -1,5 +1,5 @@
 ---
-title: 'Big Ol’ Weiner'
+title: "Big Ol’ Weiner"
 date: 2009-08-05T12:45:00+00:00
 slug: 'big-ol-weiner'
 featured_image: '/uploads/2009/08/weiner.JPG'

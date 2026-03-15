@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2010/01/05/kids-say-the-darnedest-things/'
 ---
 
-![butt rub?  gross](/uploads/2010/01/billy.gif "billy")You rubbed that on your butt? What does that even mean? 
+![butt rub?  gross](/uploads/2010/01/billy.gif "billy")
+
+You rubbed that on your butt? What does that even mean? 

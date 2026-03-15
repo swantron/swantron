@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2008/03/01/march-mustache-madness/'
 ---
 
-![mmm](/uploads/2008/03/mmmsmall.jpg)Entry one: Me with a "Spanish Carney" ![joestache](/uploads/2008/03/stach08.jpg)
+![mmm](/uploads/2008/03/mmmsmall.jpg)
+
+Entry one: Me with a "Spanish Carney"
+
+![joestache](/uploads/2008/03/stach08.jpg)

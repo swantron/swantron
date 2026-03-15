@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2007/03/09/ready-for-spring/'
 ---
 
-While B.O.B. is waiting for his "I am actually not Larry Bird. I am however his brother, Terry Bird" mustache to darken, I am waiting for Spring to spring. ![landscapesmall.jpg](/uploads/2007/03/landscapesmall.jpg)Nice vest Joe.
+While B.O.B. is waiting for his "I am actually not Larry Bird. I am however his brother, Terry Bird" mustache to darken, I am waiting for Spring to spring.
+
+![landscapesmall.jpg](/uploads/2007/03/landscapesmall.jpg)
+
+Nice vest Joe.

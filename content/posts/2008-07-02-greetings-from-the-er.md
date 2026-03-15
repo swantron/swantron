@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2008/07/02/greetings-from-the-er/'
 ---
 
-J.C. snapped a pic from the ER during the *Great Bozeman Beach Incident of '08* aftermath... ![ER](/uploads/2008/07/kate.jpg)I think it would make for a good Christmas Card.
+J.C. snapped a pic from the ER during the *Great Bozeman Beach Incident of '08* aftermath...
+
+![ER](/uploads/2008/07/kate.jpg)
+
+I think it would make for a good Christmas Card.

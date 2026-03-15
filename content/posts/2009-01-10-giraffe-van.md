@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2009/01/10/giraffe-van/'
 ---
 
-Charles made a nice find... ![gay van](/uploads/2009/01/van2.jpg)...A giraffe van. WTF? On par with the wizard truck.
+Charles made a nice find...
+
+![gay van](/uploads/2009/01/van2.jpg)
+
+...A giraffe van. WTF? On par with the wizard truck.

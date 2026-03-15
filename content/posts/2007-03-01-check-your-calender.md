@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2007/03/01/check-your-calender/'
 ---
 
-![ladies2.jpg](/uploads/2007/03/ladies2.jpg)Steve the Intern's brother B.O.B. and I decided that perhaps a pre-March Mustache Madness pic might be blog worthy. I decided to render the hell out of the women's room photo, both to enhance our 'staches and hide the photo evidence that the muscle of the Legion owns and wears a maroon sweater. 
+![ladies2.jpg](/uploads/2007/03/ladies2.jpg)
+
+Steve the Intern's brother B.O.B. and I decided that perhaps a pre-March Mustache Madness pic might be blog worthy. I decided to render the hell out of the women's room photo, both to enhance our 'staches and hide the photo evidence that the muscle of the Legion owns and wears a maroon sweater. 

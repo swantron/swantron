@@ -1,5 +1,5 @@
 ---
-title: 'Bouncer Paul’s Woes'
+title: "Bouncer Paul’s Woes"
 date: 2007-02-10T04:03:09+00:00
 slug: 'bouncer-pauls-woes'
 featured_image: '/uploads/2007/02/paul-wall.jpg'
@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2007/02/10/bouncer-pauls-woes/'
 ---
 
-Oh boy oh boy oh Hoy... As luck would have it, Bozeman Deaconess Hospital's finest could not adequately diagnose when enough is enough regarding seizure medication. Example: ![paul-wall.jpg](/uploads/2007/02/paul-wall.jpg)Our Boy Hoy received a clear bill of health four weeks preceding an unheard of three seizure day. Three fractured verts and a mashed up tongue to boot! Awesome! I am not a litigious guy, but this might be worth a look. Abbster...since Wednesday you just jumped three hundred points in my make believe log. For reals though.
+Oh boy oh boy oh Hoy... As luck would have it, Bozeman Deaconess Hospital's finest could not adequately diagnose when enough is enough regarding seizure medication. Example:
+
+![paul-wall.jpg](/uploads/2007/02/paul-wall.jpg)
+
+Our Boy Hoy received a clear bill of health four weeks preceding an unheard of three seizure day. Three fractured verts and a mashed up tongue to boot! Awesome! I am not a litigious guy, but this might be worth a look. Abbster...since Wednesday you just jumped three hundred points in my make believe log. For reals though.

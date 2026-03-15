@@ -7,4 +7,6 @@ aliases:
   - '/index.php/2009/12/29/parked-domain-switcheroo/'
 ---
 
-![](/uploads/2009/12/official_use-300x230.jpg "official_use")nothing to see here...testing to see if my archives are switched from bouncerblog to swantron 
+![](/uploads/2009/12/official_use-300x230.jpg "official_use")
+
+nothing to see here...testing to see if my archives are switched from bouncerblog to swantron 

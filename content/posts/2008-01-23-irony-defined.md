@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2008/01/23/irony-defined/'
 ---
 
-The Swantron family is headed to sunny Mexico for our first family get-together in a decade here in two weeks. In preparation for my trip, I decided to pick up a fresh new pair of Adidas Shell-toes. Overstock.com...white on white...free shipping...sign me up. This is what showed up: ![Mexico Kicks](/uploads/2008/01/mexico.jpg)LOLercoaster. I'm rocking them...hopefully with a sombrero.
+The Swantron family is headed to sunny Mexico for our first family get-together in a decade here in two weeks. In preparation for my trip, I decided to pick up a fresh new pair of Adidas Shell-toes. Overstock.com...white on white...free shipping...sign me up. This is what showed up:
+
+![Mexico Kicks](/uploads/2008/01/mexico.jpg)
+
+LOLercoaster. I'm rocking them...hopefully with a sombrero.

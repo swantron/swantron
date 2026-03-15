@@ -1,5 +1,5 @@
 ---
-title: 'Weekly Drawing: Tony Chachere’s'
+title: "Weekly Drawing: Tony Chachere’s"
 date: 2010-01-12T14:13:56+00:00
 slug: 'weekly-drawing-tony-chacheres'
 featured_image: '/uploads/2010/01/tony-chachere.jpg'

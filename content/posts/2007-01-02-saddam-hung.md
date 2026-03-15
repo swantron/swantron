@@ -7,4 +7,8 @@ aliases:
   - '/index.php/2007/01/02/saddam-hung/'
 ---
 
-Saddam's hung... ![saddam-hung.jpg](/uploads/2007/01/saddam-hung.jpg)...get it?
+Saddam's hung...
+
+![saddam-hung.jpg](/uploads/2007/01/saddam-hung.jpg)
+
+...get it?
