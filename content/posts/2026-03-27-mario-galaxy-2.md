@@ -5,14 +5,16 @@ slug: 'mario-galaxy-2'
 featured_image: '/uploads/2026/03/galaxy-2-done.jpg'
 ---
 
-Super Mario Galaxy 2 came out in 2010. Galaxy 1 was already my favorite Mario game, so I was all in. Got around 80 stars and dropped it somewhere along the way—not because it was bad, just because life moved on. It left a bad taste though, the kind where a game sits in the back of your head as unfinished business for sixteen years.
+Super Mario Galaxy 2 droped a billion yars ago.  Simpler times.  
+The Wii was so much fun.. Sunshine was perfect and somehow Galaxy was better.  Galaxy 2 was not better for me.. it was a game I dropped and I do not do that.  I *think* I got around 80 stars and dropped it.  I don't quit books and finish the games I go in on.  Weird stuff.. I guess life happens etc etc.
 
-I've played through Galaxy 1 a few times since then on 3D All-Stars on the Switch Lite. Started Galaxy 2 on the Lite too, got about 30 stars in, and somehow put it down again. Earlier this year I popped the save over to the Switch 2 and decided I was actually going to finish it this time.
+My gaming setup is pretty straight forward.  I'm a Nintendo guy, exclusively.  We play family stuff docked, and I roll through Zelda and Mario stuff when I travel or when I need a break from projects.  I have a short list of games I replay.. OoT on the 3DS, 3D All-Stars, BotW, TotK.  I've had stints with Splatoon and Red Dead, but it is mostly Zelda and Mario. I beat the shit out of my Switch Lite between work travel to the Midwast, work from home acclimation, and then again on work trips to the Bay.  It is my walking the dog mental reset after the dog is walked, I suppose
 
 ![242 stars](/uploads/2026/03/galaxy-2-done.jpg)
 
-It's 2026. I have less free time than I did in 2010 and somehow more patience for a game like this. Playing in short handheld spurts works really well for a difficult platformer—you put it down before the frustration gets ahead of you, come back fresh, and make a little more progress. I don't think I could have done this planted in front of a TV.
+Here we are in 2026.  Katie bought me a switch before my last onsite, so I've done my lap through the regulars.  Odyssey as well.. it is better after some time away.  Nintendo definitelhy had me profiled with the Switch version of Galaxy 1 / 2.. I was 30 stars into Galaxy 1 when it dropped, so did a quick pivot and started on the new console (handheld, obvs.)  I did the main runthrough, and picked up Galaxy 2 out of muscle memory.  It *finally* clicked.
 
-The last two stars are a different category of brutal. Grandmaster Galaxy is a pure endurance test where one hit sends you back to the beginning, and it doesn't care how close you were. It took a while.
 
-10/10. Might be the best 3D platformer ever made, and it only took me 16 years to actually find out.
+Maybe the second playthrough of Odysseyhad me primed for a grind, or maybe I'm just older and more patient. Galaxy 2 makes is super easy to be directly in the middle of a challenging platform situation, but not feel frustrated.  The levels are fun, so it isn't a pain in the ass I guess.  The final stars were honestly brutal, but it was an endurance test in a way.  
+
+Lon story short, it is a 10/10.  Best platformer I've played.. it took me 16 years to finish, but worth it.
