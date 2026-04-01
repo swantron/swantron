@@ -22,7 +22,7 @@ jobs:
 
     - name: Setup Hugo
       run: |
-        wget -q -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v0.155.1/hugo_extended_0.155.1_linux-amd64.tar.gz
+        wget -q -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v0.159.1/hugo_extended_0.159.1_linux-amd64.tar.gz
         tar xzf hugo.tar.gz hugo
         sudo mv hugo /usr/local/bin/
 
@@ -37,7 +37,7 @@ jobs:
         jobSummary: true
 
     - name: Setup Pages
-      uses: actions/configure-pages@v5
+      uses: actions/configure-pages@v6
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v4
