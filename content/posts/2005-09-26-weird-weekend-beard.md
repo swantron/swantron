@@ -2,14 +2,14 @@
 title: 'Weird Weekend – Beard'
 date: 2005-09-26T19:45:29+00:00
 slug: 'weird-weekend-beard'
-featured_image: '/uploads/legacy/uploads/2006/10/tux.jpg'
+featured_image: '/uploads/2006/10/tux.jpg'
 aliases:
   - '/index.php/2005/09/26/weird-weekend-beard/'
 ---
 
 Well here we go again. Here is the weekend in review from this blogger's point of view. Let me first start by throwing up a thumb, as well as a crooked ass pinky to those Fightin' 'Cats. It appears as though there is ample enough parking at MSU to accommodate our football squad, Josh. Anyhow, the weekend looked super Thursday afternoon. jLo shoots me this sweet pic from campus. Yessir, that is a true Canadian tuxedo. Don't get me wrong, I love denim...just not as much as this fella. editor's note: I would like to know who made the call to throw the auxiliary dry erase board in this room. Give me a break.
 
-![](/uploads/legacy/uploads/2006/10/tux.jpg)
+![](/uploads/2006/10/tux.jpg)
 
 Jump nearer to quitting time. Dave, who incidentally signs my checks, shows me what side is the best side.
 
@@ -31,4 +31,4 @@ And this. I managed to get blindsided; some guy elevates me up a few stairs by m
 
 Charges are pending...Until this junk blows over lets keep things shrouded in secrecy, and ice packs.
 
-![](/uploads/legacy/uploads/2006/11/anon2.jpg)
+![](/uploads/2006/11/anon2.jpg)

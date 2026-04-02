@@ -2,7 +2,7 @@
 title: 'Ridiculousness'
 date: 2005-10-24T21:57:07+00:00
 slug: 'ridinculousness'
-featured_image: '/uploads/legacy/uploads/2010/01/apple.jpg'
+featured_image: '/uploads/2010/01/apple.jpg'
 aliases:
   - '/index.php/2005/10/24/ridinculousness/'
 ---
@@ -11,7 +11,7 @@ Foremost...check out the new hot or not section. It is linkable to your right. E
 
 Now, here is the good stuff. Zig and I have collected in the past week some nice examples of the crazy things a guy or gal can get a laugh out of if he or she keeps his or her eyes open. Ziggy, who is, at present, affiliated with the Whitefish bar scene, mentioned his run in with the largest apple perhaps ever.
 
-![](/uploads/legacy/uploads/2010/01/apple.jpg)
+![](/uploads/2010/01/apple.jpg)
 
 Gage the size of the apple in comparison with the hand basket...that is a big apple. Not a day later I run into this dandy in the McDonald's parking lot.
 

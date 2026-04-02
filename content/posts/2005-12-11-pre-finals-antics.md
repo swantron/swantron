@@ -29,6 +29,6 @@ Big shout out to Griff and his board game double date last night. Thumbs up.
 
 The last order of business involves our second confirmed "hater" of bouncerblog.com. I know we have disappointed a few people, and apparently brought one to tears by letting Shama do his thing in the gallery. I think Grant is honestly offended by his lack of recognition on the site, so here you go. Nerd.
 
-![](/uploads/legacy/uploads/2006/09/eve.jpg)
+![](/uploads/2006/09/eve.jpg)
 
 I am toying with the idea of taking my laptop on the trip to keep folks posted as to what sort of trouble Dave and I cause. Perhaps I could create a chart to log my Wells Fargo balance...who knows. Frankie Munez and I watching the pirate show at Treasure Island?
