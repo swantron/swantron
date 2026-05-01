@@ -21,4 +21,5 @@ params:
     - "remote-control-via-android"
     - "garage-door-hack"
     - "ultrasonic-distance-sensing"
+    - "wrenchtron"
 ---
