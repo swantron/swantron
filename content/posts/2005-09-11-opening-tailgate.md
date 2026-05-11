@@ -2,14 +2,11 @@
 title: 'Opening Tailgate'
 date: 2005-09-11T15:00:33+00:00
 slug: 'opening-tailgate'
-featured_image: '/uploads/legacy/authors/images/Griff.jpg'
 aliases:
   - '/index.php/2005/09/11/opening-tailgate/'
 ---
 
 This Saturday marked the Montana State Fighting Bobcat's home opener. The MSU grounds crew has provided the Cats with a terrific playing surface this season…unbeknownst to most alum and practically all coeds in attendance, Grif and Steve Sampson included.
-
-![](/uploads/legacy/authors/images/Griff.jpg)
 
 ![](/uploads/legacy/photo_0051.jpg)
 
