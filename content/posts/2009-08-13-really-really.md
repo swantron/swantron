@@ -13,6 +13,6 @@ aliases:
 
 Well, that is great. My top priority is alerting the public to the fact that you look like Blanche from the Golden Girls...
 
-![blanche](/uploads/2009/08/blanche2.jpg "blanche")
+![blanche](/uploads/2009/08/blanche.jpg "blanche")
 
 ...nicely played Senator. Good luck with the volatility

@@ -2,9 +2,9 @@
 title: 'Just This Thing'
 date: 2016-01-10T14:59:44+00:00
 slug: 'just-this-thing'
-featured_image: '/uploads/2016/01/dealwithit-1.gif'
+featured_image: '/uploads/2016/01/dealwithit.gif'
 aliases:
   - '/index.php/2016/01/10/just-this-thing/'
 ---
 
-![dealwithit](/uploads/2016/01/dealwithit-1.gif)
+![dealwithit](/uploads/2016/01/dealwithit.gif)
