@@ -1,15 +1,7 @@
 <!doctype html>
 
-{{- $.Scratch.Delete "bg_color" -}}<!---->
 {{- $.Scratch.Delete "social_list" -}}<!---->
 {{- $.Scratch.Delete "avatar_url" -}}<!---->
-
-<!-- bg_color -->
-{{- $color_map := dict "linen" "#faf8f1" "wheat" "#f8f5d7" "gray" "#fbfbfb"
-"light" "#fff" -}}<!---->
-{{- $.Scratch.Set "bg_color" (index $color_map (site.Params.color | default
-(print "linen"))) -}}<!---->
-{{- $bg_color := $.Scratch.Get "bg_color" -}}<!---->
 
 <!-- social_list -->
 {{- $social_params := slice "twitter" "github" "instagram" "linkedin" "mastodon"
@@ -34,8 +26,8 @@
 {{- end -}}<!---->
 
 <html
-  class="not-ready lg:text-base"
-  style="--bg: {{- $bg_color -}}"
+  class="not-ready lg:text-base dark"
+  style="--bg: #000"
   lang="{{- or site.LanguageCode site.Language.Lang -}}"
   dir="{{- if site.Params.direction -}}{{- site.Params.direction -}}{{- else -}}ltr{{- end -}}"
 >
@@ -54,150 +46,54 @@
     {{- partial "footer.html" . -}}
     
     <style>
-      /* Robot background image - use pseudo-element so we can control z-index */
+      /* Robot background image */
       html::after {
         content: '';
         position: fixed;
         inset: 0;
         z-index: -2;
-        background-image: url('{{ "robotard_512x512.png" | absURL }}') !important;
-        background-attachment: fixed !important;
-        background-position: 50% -150px !important;
-        background-repeat: no-repeat !important;
-        background-size: 100vw auto !important;
+        background-image: url('{{ "robotard_512x512.png" | absURL }}');
+        background-attachment: fixed;
+        background-position: 50% -150px;
+        background-repeat: no-repeat;
+        background-size: 100vw auto;
         pointer-events: none;
       }
-      
-      /* Subtle overlay on top of robot image to make it hazy */
+
+      /* Hazy dark overlay on top of robot image */
       html::before {
         content: '';
         position: fixed;
         inset: 0;
         z-index: -1;
-        background-color: var(--bg);
-        opacity: 0.15;
+        background-color: rgba(0, 0, 0, 0.3);
+        opacity: 0.40;
         pointer-events: none;
       }
-      
-      /* More overlay in dark mode for hazy effect */
-      html.dark::before {
-        opacity: 0.40 !important;
-        background-color: rgba(0, 0, 0, 0.3) !important;
-      }
-      
-      /* HTML background color */
+
       html {
-        background-color: var(--bg) !important;
+        background-color: #000;
       }
-      
-      /* Body background - less opaque in light mode so robot image pops */
-      html:not(.dark) body {
-        background-color: rgba(250, 248, 241, 0.75) !important;
-      }
-      
-      /* Main content area - fully transparent in light mode */
-      html:not(.dark) main {
+
+      body,
+      main,
+      main article {
         background-color: transparent !important;
       }
-      
-      /* Articles within main - fully transparent */
-      html:not(.dark) main article {
-        background-color: transparent !important;
-      }
-      
-      /* Fix dark mode - make body transparent so dark overlay shows */
-      html.dark body {
-        background-color: transparent !important;
-      }
-      
-      html.dark main {
-        background-color: transparent !important;
-      }
-      
-      html.dark main article {
-        background-color: transparent !important;
-      }
-      
-      /* Dark mode overlay - 100% black background, robot image on top */
-      html.dark body::before {
+
+      /* Theme dark overlay pushed behind robot image */
+      body::before,
+      body.dark-bg::before {
         opacity: 1 !important;
-        background-color: rgb(0, 0, 0) !important;
+        background-color: #000 !important;
         z-index: -3 !important;
       }
-      
-      /* Robot image on top of dark overlay in dark mode */
-      html.dark::after {
-        z-index: -2 !important;
-        opacity: 1 !important;
-      }
-      
-      /* Force override theme's dark overlay */
-      body.dark-bg::before,
-      html.dark body.dark-bg::before {
-        opacity: 1 !important;
-        background-color: rgb(0, 0, 0) !important;
-        z-index: -3 !important;
-      }
-      
-      /* Make content area wider - override theme's max-width */
-      body main.prose {
-        max-width: 1200px !important;
-      }
-      
-      body header {
-        max-width: 1200px !important;
-      }
-      
+
+      body main.prose,
+      body header,
       body footer {
         max-width: 1200px !important;
       }
     </style>
-    <script>
-      // Fix dark mode - handle body and content transparency
-      (function() {
-        function fixDarkMode() {
-          const html = document.documentElement;
-          const body = document.body;
-          const main = document.querySelector('main');
-          const articles = document.querySelectorAll('main article');
-          const isDark = html.classList.contains('dark');
-          
-          // Body - less opaque in light mode so robot image pops, transparent in dark
-          if (isDark) {
-            body.style.setProperty('background-color', 'transparent', 'important');
-          } else {
-            // Light mode: less opaque background so robot image shows through more
-            body.style.setProperty('background-color', 'rgba(250, 248, 241, 0.75)', 'important');
-          }
-          
-          // Main and articles - fully transparent in both modes
-          if (main) {
-            main.style.setProperty('background-color', 'transparent', 'important');
-          }
-          
-          articles.forEach(article => {
-            article.style.setProperty('background-color', 'transparent', 'important');
-          });
-        }
-        
-        // Run after CSS loads
-        if (document.readyState === 'loading') {
-          document.addEventListener('DOMContentLoaded', function() {
-            setTimeout(fixDarkMode, 100);
-          });
-        } else {
-          setTimeout(fixDarkMode, 100);
-        }
-        
-        // Watch for dark mode toggle
-        const observer = new MutationObserver(function() {
-          setTimeout(fixDarkMode, 50);
-        });
-        observer.observe(document.documentElement, {
-          attributes: true,
-          attributeFilter: ['class']
-        });
-      })();
-    </script>
   </body>
 </html>
