@@ -18,8 +18,8 @@ The resistance started jumping around and acting erratic a few weeks ago. Peloto
 
 I was curious what the "odometer" actually looked like after six years. Since this is an early bike, I had to manually pull the numbers from our profiles:
 
-- **Me:** 1,825 rides + 209 Bootcamps
-- **Katie:** 1,505 rides
+- **jswan:** 1,825 rides + 209 Bootcamps
+- **kt:** 1,505 rides
 - **Total:** 3,539 sessions
 
 I do enough 45-minute rides to offset the short 10-minute add-ons, so this hardware has easily seen 2,000+ hours of work. Honestly, one sensor board failure after that much volume is less of a defect and more of a badge of honor.

@@ -288,15 +288,6 @@ html.dark mark {
   margin-top: 0;
 }
 
-/* Reduce robot background intensity in dark mode */
-html.dark body::before {
-  opacity: 0.4;
-}
-
-html.dark {
-  --background-image-opacity: 0.15;
-}
-
 /* Add subtle overlay to reduce background contrast in dark mode */
 html.dark body::after {
   content: '';

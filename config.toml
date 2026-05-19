@@ -23,7 +23,6 @@ relativeURLs = false
   author = 'swantron'
   
   # Paper theme settings
-  color = 'linen'  # linen, wheat, gray, light
   rss = true  # show RSS icon
   
   # Disable comments (can enable later if needed)
