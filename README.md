@@ -1,40 +1,27 @@
-# swan tron dot com
+# hi, i'm joseph swanson
+
+staff software engineer @ demandbase — devx · ci/cd · iac · ai tooling · react. based in bozeman, montana.
 
 <!-- Build trigger -->
 
-- ([swantron/swantron](https://swantron.com/)) is the og blog, in static format 
+## what i build
 
-- ([swantron/tronswan](https://tronswan.com/)) is the landing spot for several newer projects
+- **[tronswan.com](https://tronswan.com)** — personal portfolio + experiments hub. react 19, react router 7, vite, deployed on digitalocean app platform.
+- **[chomptron.com](https://chomptron.com)** — ai recipe generator powered by google gemini. node + express, deployed on google cloud run.
+- **[wrenchtron.com](https://wrenchtron.com)** — vehicle maintenance tracker for mixed fleets. next.js 15, firebase, offline-capable pwa.
+- **[swantron.com](https://swantron.com)** — the og blog. fourteen years of posts, recently migrated wordpress → hugo. [hall of fame](https://swantron.com/hof/) collects the standouts.
 
-- ([swantron/chomptron](https://chomptron.com/)) is great if you are hungry, and cook
+## things i've open-sourced
 
-- ([swantron/* repos](https://github.com/swantron)) has several useful tools.. look around
+- **[secure-base-images](https://github.com/swantron/secure-base-images)** — distroless docker base for static go binaries. zero vulns, no shell, non-root.
+- **[bluesky-pds-guide](https://github.com/swantron/bluesky-pds-guide)** — walkthrough for self-hosting your own at-protocol personal data server.
 
-## Quick Start
+## elsewhere
 
-```bash
-# Serve locally
-hugo server
+- [tronswan.com](https://tronswan.com) — portfolio
+- [swantron.com](https://swantron.com) — blog
+- [linkedin](https://www.linkedin.com/in/joseph-swanson-11092758/)
 
-# Build for production
-hugo --baseURL https://swantron.com/
-```
+---
 
-## Directory Structure
-
-- `content/posts/` - All blog posts (1,040 posts)
-- `content/` - Standalone pages (about.md, contact.md, etc.)
-- `static/uploads/` - All images and media files from WordPress
-- `themes/paper/` - Paper theme
-- `layouts/` - Custom theme overrides
-- `config.toml` - Hugo configuration
-
-## Configuration
-
-- **Theme**: Paper
-- **Base URL**: `https://swantron.com/`
-- **Permalinks**: `/:year/:month/:day/:slug/`
-- **Pagination**: 10 posts per page
-
-Build output is deployed to GitHub Pages via GitHub Actions.
-
+<sub>this repository is also the source for swantron.com — see [DEVELOPMENT.md](./DEVELOPMENT.md) for local-dev instructions.</sub>
