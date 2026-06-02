@@ -1,0 +1,22 @@
+/* Code block: match the subtle transparency of nav/card elements */
+.post-content pre,
+article pre {
+  background-color: rgba(0, 0, 0, 0.04) !important;
+  color: inherit !important;
+  border-radius: 0.75rem;
+}
+
+html.dark .post-content pre,
+html.dark article pre {
+  background-color: rgba(255, 255, 255, 0.08) !important;
+  color: inherit !important;
+}
+
+/* Reset Chroma inline span colors so text is readable on the new background */
+.post-content pre span,
+.post-content pre code,
+article pre span,
+article pre code {
+  color: inherit !important;
+  background-color: transparent !important;
+}

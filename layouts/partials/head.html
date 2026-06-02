@@ -28,7 +28,9 @@
     <!---->
     {{- $custom := resources.Get "custom.css" -}}
     <!---->
-    {{- $css := slice $main $custom | resources.Concat "main.css" | minify -}}
+    {{- $overrides := resources.Get "overrides.css" -}}
+    <!---->
+    {{- $css := slice $main $custom $overrides | resources.Concat "main.css" | minify -}}
     <link rel="preload stylesheet" as="style" href="{{- $css.Permalink -}}" />
 
     <!-- avatar -->
