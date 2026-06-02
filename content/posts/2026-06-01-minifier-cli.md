@@ -34,11 +34,7 @@ minifier-cli trace start --image datadog/agent:latest --name dd-prod
 # Ctrl+C to stop tracing
 ```
 
-**2. Analyze.** The trace log is a list of paths. Before rebuilding anything, the tool parses every ELF binary in that list using Go's `debug/elf` package — finding every shared library it imports, extracting the dynamic linker via PT_INTERP, and recursively resolving the full dependency tree. It also injects a small safelist of files everything needs (passwd, group, hosts, resolv.conf) that processes may not explicitly open but rely on being there.
-
-```bash
-# nothing to run manually — analysis happens automatically as part of repackage
-```
+**2. Analyze.** The trace log is a list of paths. Before rebuilding anything, the tool parses every ELF binary in that list using Go's `debug/elf` package — finding every shared library it imports, extracting the dynamic linker via PT_INTERP, and recursively resolving the full dependency tree. It also injects a small safelist of files everything needs (passwd, group, hosts, resolv.conf) that processes may not explicitly open but rely on being there. This all happens automatically as part of the next step.
 
 **3. Repackage.**
 
@@ -48,7 +44,7 @@ minifier-cli repackage --name dd-prod --output datadog-minimal:prod
 
 The tool extracts Docker metadata from the original image (ENV, CMD, ENTRYPOINT, EXPOSE, all of it), copies only the traced files via `docker export` tar streaming, generates a `FROM scratch` Dockerfile, and builds the result. No manual file selection, no guessing, no rebuilding from source.
 
-nginx:alpine goes from 91.7MB to 14.1MB. In testing, Datadog's agent went from 1.2GB to around 150MB. The attack surface shrinks proportionally — and the vuln scanner suddenly has a lot less to say.
+nginx:alpine goes from 91.7MB to 14.1MB. A startup-only trace of `datadog/agent:latest` (1.17GB) produces a 59MB image — and a longer, more thorough trace exercising all the agent features would land somewhere larger but still a fraction of the original. The attack surface shrinks proportionally — and the vuln scanner suddenly has a lot less to say.
 
 ![minifier-cli terminal output: trace, repackage, and docker images before and after](/uploads/2026/06/minifier-cli-terminal.png)
 
