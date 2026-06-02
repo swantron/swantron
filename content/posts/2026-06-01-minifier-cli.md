@@ -6,7 +6,7 @@ description: "A Go tool born out of product security vuln noise on third-party i
 featured_image: '/uploads/2026/06/minifier-cli-terminal.png'
 ---
 
-We've been getting flagged a lot by our product security team. Vulns on images across our various namespaces, some of them looking pretty gnarly on paper. The kind of thing that shows up in a dashboard and generates tickets.
+Our product security team was burying us in tickets. Vulnerabilities stacking up across our namespaces, a lot of them flagged critical on paper — the classic enterprise situation where dashboards are red and every alert demands a response.
 
 The catch: most of those images aren't ours. We're on DevX, which sits inside CloudOps alongside Platform Engineering, SRE, and Cloud Cost — and a big part of what that org does is run the infrastructure that makes the clusters work. Wiz, Datadog agents, observability tooling. Closed source, proprietary, not ours to rebuild. But they live in our namespaces, so we own the vuln count.
 
@@ -26,7 +26,7 @@ If you can answer that, you can rebuild the image from scratch with only those f
 
 **[minifier-cli](https://github.com/swantron/minifier-cli)** is a Go tool that does exactly this. Three steps:
 
-**1. Trace.** You run your container through the tool and it watches which files the process actually opens and maps into memory — polling `/proc/*/fd` and `/proc/*/maps` inside the container every second. Everything that gets touched ends up in a log.
+**1. Trace.** You run your container through the tool and it watches which files the process actually opens and maps into memory — polling `/proc/*/fd` and `/proc/*/maps` inside the container every second. Everything that gets touched ends up in a log. This isn't a real-time eBPF stream, so a process that spawns, opens a file, and dies in under a second could theoretically be missed. In practice, that's rarely an issue for the long-running agent processes this tool is designed for — and the ELF dependency pass in the next step catches the shared libraries anyway.
 
 ```bash
 minifier-cli trace start --image datadog/agent:latest --name dd-prod
@@ -34,7 +34,7 @@ minifier-cli trace start --image datadog/agent:latest --name dd-prod
 # Ctrl+C to stop tracing
 ```
 
-**2. Analyze.** The trace log is a list of paths. Before rebuilding anything, the tool parses every ELF binary in that list using Go's `debug/elf` package — finding every shared library it imports, extracting the dynamic linker via PT_INTERP, and recursively resolving the full dependency tree. It also injects a small safelist of files everything needs (passwd, group, hosts, resolv.conf) that processes may not explicitly open but rely on being there. This all happens automatically as part of the next step.
+**2. Analyze** *(internal phase — no command to run).* Before rebuilding, the tool parses every ELF binary in the trace log using Go's `debug/elf` package — finding every shared library it imports, extracting the dynamic linker via PT_INTERP, and recursively resolving the full dependency tree. It also injects a safelist of files everything needs (passwd, group, hosts, resolv.conf) that processes rely on without explicitly opening. This analysis runs automatically inside the repackage step.
 
 **3. Repackage.**
 
@@ -42,7 +42,7 @@ minifier-cli trace start --image datadog/agent:latest --name dd-prod
 minifier-cli repackage --name dd-prod --output datadog-minimal:prod
 ```
 
-The tool extracts Docker metadata from the original image (ENV, CMD, ENTRYPOINT, EXPOSE, all of it), copies only the traced files via `docker export` tar streaming, generates a `FROM scratch` Dockerfile, and builds the result. No manual file selection, no guessing, no rebuilding from source.
+The tool extracts Docker metadata from the original image (ENV, CMD, ENTRYPOINT, EXPOSE), copies the traced files via `docker export` tar streaming, generates a `FROM scratch` Dockerfile, and builds the final image. No manual file selection, no guessing, no rebuilding from source.
 
 nginx:alpine goes from 91.7MB to 14.1MB. A startup-only trace of `datadog/agent:latest` (1.17GB) produces a 59MB image — and a longer, more thorough trace exercising all the agent features would land somewhere larger but still a fraction of the original. The attack surface shrinks proportionally — and the vuln scanner suddenly has a lot less to say.
 
@@ -60,7 +60,7 @@ It took a real problem to push me to actually build it. Open-sourcing it now on 
 
 Your minified image contains exactly what was accessed during the trace — nothing more. That's the point, but it's also the risk.
 
-Error-handling code that only fires under specific conditions won't get traced during a happy-path run. Plugins loaded by name at runtime won't show up unless that feature was exercised. A database driver that only activates for a certain config flag won't be there if you didn't trigger that path.
+Error-handling code that only fires under specific conditions won't get traced during a happy-path run. Plugins loaded by name at runtime won't show up unless that feature was exercised. A database driver that only activates for a certain config flag won't be there if you didn't trigger that path. And if your agent only calls out to a third-party webhook when a network timeout occurs, the library handling that request won't be in your minified image unless you deliberately induced a timeout during the trace.
 
 The playbook: run your full integration test suite while tracing. Hit every feature flag. Trigger error states. If the application has a warm-up or health-check mode, run those too. The more representative your trace workload, the more complete the image.
 
