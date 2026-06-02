@@ -50,6 +50,8 @@ The tool extracts Docker metadata from the original image (ENV, CMD, ENTRYPOINT,
 
 nginx:alpine goes from 91.7MB to 14.1MB. In testing, Datadog's agent went from 1.2GB to around 150MB. The attack surface shrinks proportionally — and the vuln scanner suddenly has a lot less to say.
 
+![minifier-cli terminal output: trace, repackage, and docker images before and after](/uploads/2026/06/minifier-cli-terminal.png)
+
 ## How It Ended Up
 
 We eventually landed on a different solution for the actual hardening problem — something more off-the-shelf, lower overhead, and frankly easier to justify to the security team than a custom tool. Less culpable, as one of us put it.
