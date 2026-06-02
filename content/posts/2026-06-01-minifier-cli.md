@@ -18,7 +18,7 @@ Getting creative meant asking: what if we just... cut the parts that aren't runn
 
 A typical third-party agent image is built for maximum compatibility. It's got shells, package managers, debug utilities, locale files, man pages, and a bunch of shared libraries for features nobody in your environment uses. All of that adds up to hundreds of megabytes, and from a security scanner's perspective, every one of those binaries is an attack surface.
 
-The honest question is: what does the thing actually *use* at runtime?
+So we asked the obvious question: what does the container actually touch at runtime?
 
 If you can answer that, you can rebuild the image from scratch with only those files. The binary still runs. The agent still phones home. But the shell that would give an attacker a foothold is gone. So is the package manager. So is most of the attack surface the scanner was complaining about.
 
@@ -34,7 +34,11 @@ minifier-cli trace start --image datadog/agent:latest --name dd-prod
 # Ctrl+C to stop tracing
 ```
 
-**2. Analyze.** The trace log is a list of paths. Before it rebuilds anything, the tool parses every ELF binary in that list using Go's `debug/elf` package — finds every shared library it imports, extracts the dynamic linker via PT_INTERP, and recursively resolves the full dependency tree. It also adds a small safelist of files everything needs (passwd, group, hosts, resolv.conf) that processes may not explicitly open but rely on being there.
+**2. Analyze.** The trace log is a list of paths. Before rebuilding anything, the tool parses every ELF binary in that list using Go's `debug/elf` package — finding every shared library it imports, extracting the dynamic linker via PT_INTERP, and recursively resolving the full dependency tree. It also injects a small safelist of files everything needs (passwd, group, hosts, resolv.conf) that processes may not explicitly open but rely on being there.
+
+```bash
+# nothing to run manually — analysis happens automatically as part of repackage
+```
 
 **3. Repackage.**
 
@@ -42,7 +46,7 @@ minifier-cli trace start --image datadog/agent:latest --name dd-prod
 minifier-cli repackage --name dd-prod --output datadog-minimal:prod
 ```
 
-The tool extracts Docker metadata from the original image (ENV, CMD, ENTRYPOINT, EXPOSE, all of it), copies only the traced files from the original via `docker export` tar streaming, generates a `FROM scratch` Dockerfile, and builds the result. No manual file selection, no guessing, no rebuilding from source.
+The tool extracts Docker metadata from the original image (ENV, CMD, ENTRYPOINT, EXPOSE, all of it), copies only the traced files via `docker export` tar streaming, generates a `FROM scratch` Dockerfile, and builds the result. No manual file selection, no guessing, no rebuilding from source.
 
 nginx:alpine goes from 91.7MB to 14.1MB. In testing, Datadog's agent went from 1.2GB to around 150MB. The attack surface shrinks proportionally — and the vuln scanner suddenly has a lot less to say.
 
@@ -54,7 +58,15 @@ But this approach holds up. The pattern is legitimate, the implementation works,
 
 It took a real problem to push me to actually build it. Open-sourcing it now on the theory that someone else has the same problem.
 
-**Important caveat:** your minified image only contains files accessed during the trace. Trace thoroughly. Run your full test suite against it. Exercise every code path you actually use. Keep the original image around until you've validated the minified one in staging.
+## The Catch
+
+Your minified image contains exactly what was accessed during the trace — nothing more. That's the point, but it's also the risk.
+
+Error-handling code that only fires under specific conditions won't get traced during a happy-path run. Plugins loaded by name at runtime won't show up unless that feature was exercised. A database driver that only activates for a certain config flag won't be there if you didn't trigger that path.
+
+The playbook: run your full integration test suite while tracing. Hit every feature flag. Trigger error states. If the application has a warm-up or health-check mode, run those too. The more representative your trace workload, the more complete the image.
+
+Then validate the minified image thoroughly in staging before it goes anywhere near production. Keep the original around as a fallback. Don't ship it on the strength of a five-minute trace and a `curl localhost`.
 
 ## Get It
 
