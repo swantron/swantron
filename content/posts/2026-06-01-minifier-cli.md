@@ -8,7 +8,7 @@ featured_image: '/uploads/2026/06/minifier-cli-terminal.png'
 
 Our ProdSec team at work recently leaned hard into Wiz and Slack-ops. Vulnerabilities started piling up across our various namespaces, a lot of them flagged critical on paper.. typical enterprise scenario where dashboards are red and every alert demands a response.
 
-The catch: most of those images aren't ours. We're DevX, which sits inside CloudOps alongside Platform Engineering, SRE, and Cloud Cost — and a big part of what that org does is run the infrastructure that makes the clusters work. Wiz, Datadog agents, observability tooling, a bunch of GitOps stuff. Closed source, proprietary, not ours to rebuild. But they live in our namespaces, so we own the vuln count.  Same for anything legacy or shared.. that comes as well.
+The catch: most of those images aren't ours. We're DevX, which sits inside CloudOps alongside Platform Engineering, SRE, and Cloud Cost.. a big part of what our org does is run the infrastructure that makes the clusters work. Wiz, Datadog agents, observability tooling, a bunch of GitOps stuff. Closed source, proprietary, not ours to rebuild. But they live in our namespaces, so we own the vuln count.  Same for anything legacy or shared.. that comes as well.
 
 Coworker bud and I started talking about what you'd actually do about this. You can't patch a binary you don't ship. You can't swap the base image. The vendor updates when they update. The realistic options are: accept the noise, get exceptions granted, or get creative.
 
