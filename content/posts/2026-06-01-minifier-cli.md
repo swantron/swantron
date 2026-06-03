@@ -1,5 +1,5 @@
 ---
-title: 'minifier-cli: Shrink Any Docker Image Without Touching Its Dockerfile'
+title: 'Shrinking third-party containers without touching a Dockerfile'
 date: 2026-06-01T00:00:00+00:00
 slug: 'minifier-cli'
 description: "A Go tool born out of product security vuln noise on third-party images we run but don't own — observes runtime file access, rebuilds from scratch with only what's needed."
