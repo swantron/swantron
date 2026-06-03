@@ -6,7 +6,7 @@ description: "A Go tool born out of ProdSec vuln noise on third-party images we 
 featured_image: '/uploads/2026/06/minifier-cli-terminal.png'
 ---
 
-Our ProdSec team at work consecutively leaned hard into both Wiz and Slack-ops. Vulnerabilities cyclically reported up across our various namespaces, a lot of them flagged critical.. typical enterprise scenario where dashboards are red and every alert demands a response.
+Our ProdSec team at work recently leaned hard into Wiz and Slack-ops. Vulnerabilities started piling up across our various namespaces, a lot of them flagged critical on paper.. typical enterprise scenario where dashboards are red and every alert demands a response.
 
 The catch: most of those images aren't ours. We're DevX, which sits inside CloudOps alongside Platform Engineering, SRE, and Cloud Cost — and a big part of what that org does is run the infrastructure that makes the clusters work. Wiz, Datadog agents, observability tooling, a bunch of GitOps stuff. Closed source, proprietary, not ours to rebuild. But they live in our namespaces, so we own the vuln count.  Same for anything legacy or shared.. that comes as well.
 
@@ -18,7 +18,7 @@ Moment of clarity: what if we just... axe the parts that aren't running?
 
 A typical third-party agent image is built for maximum compatibility. It's got shells, package managers, debug utilities, junk, man pages, and a bunch of shared libraries for features nobody in your environment uses. All of that adds up to hundreds of megabytes, and from a security scanner's perspective, every one of those binaries is an attack surface.
 
-Follup question: what does the container actually touch at runtime?
+Follow-up question: what does the container actually touch at runtime?
 
 If you can answer that, you can rebuild the image from scratch with only those files. The binary still runs. The agent still pongs. But.. the shell that would give an attacker a foothold is gone. So is the package manager. So is most of the attack surface the scanner was complaining about.
 
@@ -50,7 +50,7 @@ nginx:alpine goes from 91.7MB to 14.1MB. A startup-only trace of `datadog/agent:
 
 ## How It Ended Up
 
-We eventually landed on a different solution for the actual hardening problem — something more off-the-shelf, lower overhead, and frankly easier to justify to the security team than a custom tool. We are basically buying some images that somebody has doen surgery on.  Vendor, security buy-off.. we are somewhat less culpable.
+We eventually landed on a different solution for the actual hardening problem.. we are basically buying pre-hardened images that someone else has already performed surgery on. With vendor backing and security buy-off, we are somewhat less culpable.
 
 But this approach holds up. The pattern is legitimate, the implementation works, and as a way to discover exactly what a black-box container actually needs at runtime, it's genuinely useful — for hardening, for compliance audits, for understanding legacy applications you're about to migrate, for cutting CI pull times.
 
@@ -62,7 +62,7 @@ Your minified image contains exactly what was accessed during the trace — noth
 
 Error-handling code that only fires under specific conditions won't get traced during a happy-path run. Plugins loaded by name at runtime won't show up unless that feature was exercised. A database driver that only activates for a certain config flag won't be there if you didn't trigger that path. And if your agent only calls out to a third-party webhook when a network timeout occurs, the lib handling that request won't be in your minified image unless you deliberately induced a timeout during the trace.
 
-The playbook: so.. run your full integration test suite while tracing. Write your integration test suite if you don't have one.. rinse and repeat. Hit ya feature flags. Trigger ya error states. If the application has a warm-up or health-check mode, run those too. The more representative your trace workload, the more complete the image.
+The playbook: so.. run your full integration test suite while tracing. Write your integration test suite if you don't have one.. rinse and repeat. Hit ya feature flags. Hit your feature flags. Trigger your error states. If the application has a warm-up or health-check mode, run those too. The more representative your trace workload, the more complete the image.
 
 Then validate the minified image thoroughly in staging before it goes anywhere near production. Keep the original around as a fallback. Normal SRE stuff. Don't ship it on the strength of a five-minute trace and a `curl localhost`.
 
