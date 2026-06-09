@@ -47,3 +47,15 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v5
+
+  # Post-deploy gate: drive synthetic golden-signal traffic at the live URL and
+  # confirm the telemetry landed in the watchtron control plane (black-box —
+  # availability, p95 and route coverage). No-ops if the secrets aren't set yet.
+  watchtron-verify:
+    needs: build
+    uses: swantron/watchtron/.github/workflows/verify.yml@main
+    with:
+      service: swantron
+    secrets:
+      otlp_endpoint: ${{ secrets.WATCHTRON_OTLP_ENDPOINT }}
+      token: ${{ secrets.WATCHTRON_TOKEN }}
