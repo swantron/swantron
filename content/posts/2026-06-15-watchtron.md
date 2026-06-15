@@ -1,5 +1,5 @@
 ---
-title: 'Watchtron: making a deploy prove it actually works'
+title: 'Evolved deploy gates: leveraging OTel for deployment verification'
 date: 2026-06-15T00:00:00+00:00
 slug: 'watchtron'
 description: "A fleet observability paved road — every deploy drives synthetic OpenTelemetry traffic at the live service and fails unless the new build proves it's serving real requests end-to-end. Plus what happened when I held it up against a 234-line uptime monitor."
@@ -14,7 +14,7 @@ I wanted a deploy to *prove* it worked before calling itself done.
 
 ## The Idea
 
-OpenTelemetry, but pointed backwards. Instead of instrumenting for dashboards you read after something already broke, use it as a gate. Right after a deploy: fire synthetic traffic at the live URL, tag every request with a W3C trace id, and check that the telemetry for *that exact run* actually lands. If it lands, the request flowed all the way through to the real application — not an edge cache, not a stale instance. If it doesn't land within the latency and availability you expect.. fail the deploy.
+OpenTelemetry (OTel), but pointed backwards. Instead of instrumenting for dashboards you read after something already broke, use it as a gate. Right after a deploy: fire synthetic traffic at the live URL, tag every request with a W3C trace id, and check that the telemetry for *that exact run* actually lands. If it lands, the request flowed all the way through to the real application — not an edge cache, not a stale instance. If it doesn't land within the latency and availability you expect.. fail the deploy.
 
 A CI step can lie about an exit code. It can't fake a span showing up in a buffer.
 
