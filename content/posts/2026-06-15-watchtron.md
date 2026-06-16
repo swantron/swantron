@@ -91,4 +91,4 @@ The heartbeat half: [github.com/swantron/uptime-monitor](https://github.com/swan
 
 Live: [watch.swantron.com](https://watch.swantron.com) · [tronswan.com/status](https://tronswan.com/status)
 
-It runs at $0 on free tiers, onboarding a service is a few lines of yaml, and a green checkmark means a bit more.
+It runs at $0 on free tiers, onboarding a service is a few lines of yaml, and a green checkmark means a bit more.  Check it out ^
