@@ -1,5 +1,5 @@
 ---
-title: 'Evolved deploy gates: leveraging OTel for deployment verification'
+title: 'The deploy gate, evolved: proving a deploy with OpenTelemetry'
 date: 2026-06-15T00:00:00+00:00
 slug: 'watchtron'
 description: "Two small, $0 tools for two different questions. A 234-line cron answers 'are my sites up?'. watchtron answers 'did this deploy actually work?' — driving synthetic OpenTelemetry traffic that fails the deploy unless the new build proves it's serving real requests end-to-end."
