@@ -2,23 +2,27 @@
 title: 'Evolved deploy gates: leveraging OTel for deployment verification'
 date: 2026-06-15T00:00:00+00:00
 slug: 'watchtron'
-description: "A fleet observability paved road — every deploy drives synthetic OpenTelemetry traffic at the live service and fails unless the new build proves it's serving real requests end-to-end. Plus what happened when I held it up against a 234-line uptime monitor."
+description: "Two small, $0 tools for two different questions. A 234-line cron answers 'are my sites up?'. watchtron answers 'did this deploy actually work?' — driving synthetic OpenTelemetry traffic that fails the deploy unless the new build proves it's serving real requests end-to-end."
 featured_image: '/uploads/2026/06/watchtron-dashboard.png'
 ---
 
-I run a little fleet of sites.. tronswan, chomptron, swantron, mt, wrenchtron, a self-hosted bluesky pds. Every one of them deploys from CI, and every one hands me a satisfying green checkmark when it's done.
+I run a little fleet of sites.. tronswan, chomptron, swantron, mt, wrenchtron, a self-hosted bluesky pds. A while back I wanted a simple answer to a simple question: are they up?
 
-The checkmark means the pipeline exited 0. It does not mean the site is up, serving the code I just shipped, to a real request. A `HEAD /` coming back 200 can be a CDN handing you a cached page while the origin behind it is face-down. The build can be green while the thing is broken.
+So I wrote the simplest thing that could answer it. **[uptime-monitor](https://github.com/swantron/uptime-monitor)** is 234 lines in one file — a GitHub Actions cron that pings every site every 5 minutes and writes uptime % and incidents to a public gist. No VM, no terraform, no control plane. It runs at $0 and basically never breaks. For "is it up, over time, and when did it break," it's honestly hard to beat. It's still my heartbeat, and I'd build it the same way again.
 
-I wanted a deploy to *prove* it worked before calling itself done.
+But it answers one question, and there's another it can't touch: did this *deploy* actually work?
 
-## The Idea
+Every site deploys from CI, and every deploy hands me a green checkmark when it's done. The checkmark means the pipeline exited 0 — not that the site is up, serving the code I just shipped, to a real request. A `HEAD /` coming back 200 can be a CDN handing you a cached page while the origin behind it is face-down. And the uptime monitor won't save me here: a cached 200 looks "up" to a pinger too, and a five-minute cron isn't tied to the deploy that just went out.
+
+The usual answer to *that* is a post-deploy smoke test — curl the homepage in CI, check for a 200, move on. That's a deploy gate, and it beats nothing. But a 200 is a low bar. I wanted to improve on it: a gate that *proves* the new build is serving real requests before the deploy is allowed to call itself done. Same instinct as the uptime monitor — small, cheap, $0 — aimed at a different question.
+
+## The Approach
 
 OpenTelemetry (OTel), but pointed backwards. Instead of instrumenting for dashboards you read after something already broke, use it as a gate. Right after a deploy: fire synthetic traffic at the live URL, tag every request with a W3C trace id, and check that the telemetry for *that exact run* actually lands. If it lands, the request flowed all the way through to the real application — not an edge cache, not a stale instance. If it doesn't land within the latency and availability you expect.. fail the deploy.
 
 A CI step can lie about an exit code. It can't fake a span showing up in a buffer.
 
-## So I Built Something
+## What I Built
 
 **[watchtron](https://github.com/swantron/watchtron)** is the paved road for that. A few moving parts:
 
@@ -42,7 +46,7 @@ verify:
 
 For the two services I own the runtime for (tronswan, chomptron) there's a drop-in `@swantron/otel-bootstrap` so the origin emits its *own* server span. That's the good part — it lets the control plane confirm the synthetic request actually reached the instrumented app and stitch the two halves of the trace together.
 
-## What It Checks
+## What It Verifies
 
 For each run, the control plane scores:
 
@@ -54,21 +58,15 @@ For each run, the control plane scores:
 
 Anything fails, the deploy fails. The control plane is the authority, not the CI log.
 
-## The Honest Part
+## The Honest Comparison
 
-Here's where it gets uncomfortable. I already had an uptime monitor.
+Once watchtron grew up a bit — a dashboard, persistence on the little VM, regression baselines — I had to be honest with myself about something. A chunk of what I was bolting on was quietly wandering into the exact territory the 234-line gist-pinger already owned: continuous health over time. And on that turf it was losing. The pinger is cheaper, simpler, runs 6x more often, and actually keeps history. Keep going down that road and I'd just be rebuilding the uptime monitor, worse.
 
-234 lines. One file. A GitHub Actions cron that pings the fleet every 5 minutes and writes uptime % and incidents to a public gist. No VM, no terraform, no control plane. Runs at $0 and basically never breaks.
+So I drew a line and stopped making them compete. They're not the same job. uptime-monitor is the **heartbeat** — is it up, over time, when did it break? watchtron is the **deploy gate** — did *this deploy* ship working, instrumented code, and should we let it through? A cron pinger can't fail a deploy or prove the new version is serving. Two small $0 tools, two different questions. Both viable.
 
-So is watchtron.. better?
+Once I drew that line, the nice part showed up.
 
-For *uptime monitoring* — no. Not close. The little gist-pinger is cheaper, simpler, runs 6x more often, and actually keeps history. And if I'm honest, a chunk of what I'd been bolting onto watchtron — persistence, a dashboard, regression baselines — was quietly wandering into the exact territory that 234-line tool already owned, and losing.
-
-But they're not the same job. The uptime monitor is the **heartbeat**: is it up, over time, and when did it break? watchtron is the **deploy gate**: did *this deploy* ship working, instrumented code, and should we even let it through? A cron pinger can't fail a deploy, and it can't prove the new version is the one answering. Different question entirely.
-
-Once I stopped making them compete, the nice part showed up.
-
-## The Picture
+## The Combined View
 
 Both tools watch the same fleet, so I stopped duplicating and started overlaying. Take the uptime monitor's continuous up/down timeline, and drop watchtron's verified-deploy markers right on it. One strip per service: green up, red down, and little triangles where deploys landed — green if the deploy proved itself end-to-end, red if it didn't.
 
@@ -78,14 +76,14 @@ It lives on watchtron's dashboard at [watch.swantron.com](https://watch.swantron
 
 ![watchtron dashboard: per-service uptime strips with verified-deploy markers](/uploads/2026/06/watchtron-dashboard.png)
 
-## The Catch
+## Caveats
 
 - It's a **gate, not an SLO**. The score comes off a small synthetic burst fired right after deploy. It tells you "the new build answered fast and correctly just now," not "we hit four nines this quarter." Calling it an SLO would be lying, so I don't.
 - The control plane is a **single point of failure** for the whole pipeline. If the e2-micro is down, every deploy wants to block on it. So it fails *open* — an unreachable control plane is a watchtron outage, not a service failure, and it won't hold your deploy hostage unless you opt into strict mode.
 - Green still only means "passed a synthetic check." It won't catch a bug that only shows up under real user behavior. Strong signal, not proof.
 - And the one that got me: GitHub disables scheduled workflows after ~60 days of repo inactivity. The uptime monitor has a keepalive for exactly this. watchtron's cron.. did not. The new dashboard's staleness flag is what surfaced it — hoisted by my own petard.
 
-## Get It
+## Try It
 
 Source: [github.com/swantron/watchtron](https://github.com/swantron/watchtron)
 
