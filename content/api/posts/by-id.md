@@ -1,5 +1,5 @@
 ---
 title: "Posts by ID API"
-layout: "api/posts/by-id"
+layout: "by-id"
 outputs: ["JSON"]
 ---

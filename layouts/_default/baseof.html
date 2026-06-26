@@ -28,7 +28,7 @@
 <html
   class="not-ready lg:text-base dark"
   style="--bg: #000"
-  lang="{{- or site.LanguageCode site.Language.Lang -}}"
+  lang="{{- site.Language.Locale -}}"
   dir="{{- if site.Params.direction -}}{{- site.Params.direction -}}{{- else -}}ltr{{- end -}}"
 >
   {{- partial "head.html" . -}}

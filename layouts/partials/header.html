@@ -4,7 +4,7 @@
   <div class="relative z-50 flex items-center ltr:mr-auto rtl:ml-auto">
     <a
       class="font-medium"
-      style="font-size: 3rem !important; line-height: 1.2 !important;"
+      style="font-size: clamp(1.4rem, 6vw, 3rem) !important; line-height: 1.2 !important;"
       href="{{- `` | absURL -}}"
       >{{ site.Title }}</a
     >
@@ -37,9 +37,11 @@
       class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-10 rtl:space-x-reverse"
     >
       {{- range . -}}
+      {{- $active := or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) -}}
       <a
-        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
+        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal{{- if $active }} font-bold underline underline-offset-4{{- end }}"
         href="{{- .URL -}}"
+        {{- if $active }} aria-current="page"{{- end }}
         >{{- .Name -}}</a
       >
       {{- end -}}
