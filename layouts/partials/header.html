@@ -38,6 +38,7 @@
     >
       {{- range . -}}
       {{- $active := or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) -}}
+      {{- if and (eq .Identifier "all-posts") (in site.Params.mainSections $.Type) -}}{{- $active = true -}}{{- end -}}
       <a
         class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal{{- if $active }} font-bold underline underline-offset-4{{- end }}"
         href="{{- .URL -}}"
