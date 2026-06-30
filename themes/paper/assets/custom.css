@@ -180,7 +180,6 @@ html.dark .post-content img {
 
 /* Improved code block styling */
 .post-content pre {
-  border-radius: 0.5rem;
   padding: 1rem;
   overflow-x: auto;
 }
@@ -243,13 +242,6 @@ html.dark article+article {
 .post-content,
 article .prose {
   max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* Also apply to main post container */
-main article {
-  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
