@@ -1,4 +1,4 @@
-# hi, i'm joseph swanson
+# Joseph Swanson
 
 staff software engineer @ demandbase — devx · ci/cd · iac · ai tooling · react. based in bozeman, montana.
 
