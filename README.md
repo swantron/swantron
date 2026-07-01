@@ -13,6 +13,7 @@ staff software engineer @ demandbase — devx · ci/cd · iac · ai tooling · r
 
 ## things i've open-sourced
 
+- **[difftron](https://github.com/swantron/difftron)** — language-agnostic delta-coverage gate. fails the pr when the lines you changed aren't tested (lcov, cobertura, go). [live on the github marketplace](https://github.com/marketplace/actions/difftron-delta-coverage-gate).
 - **[minifier-cli](https://github.com/swantron/minifier-cli)** — tool for creating minimal container images by tracing runtime file access and repackaging with only the essentials. 80-90% size reduction.
 - **[secure-base-images](https://github.com/swantron/secure-base-images)** — distroless docker base for static go binaries. zero vulns, no shell, non-root.
 - **[bluesky-pds-guide](https://github.com/swantron/bluesky-pds-guide)** — walkthrough for self-hosting your own at-protocol personal data server.
