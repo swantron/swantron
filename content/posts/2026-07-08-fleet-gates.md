@@ -1,15 +1,13 @@
 ---
 title: 'Heartbeat, deploy, merge: three gates on one fleet'
-date: 2026-07-15T00:00:00+00:00
+date: 2026-07-08T00:00:00+00:00
 slug: 'fleet-gates'
 draft: true
-description: "WIP — watchtron and difftron answer different lies at different points in the pipeline. Same yaml-shaped instinct, real examples from tronswan, chomptron, swantron, and the rest of the fleet."
-# featured_image: '/uploads/2026/07/fleet-gates.png'
+description: "watchtron and difftron answer different lies at different points in the pipeline. Same instinct, real examples from the fleet, no repeats of either post."
+featured_image: '/uploads/2026/06/watchtron-dashboard.png'
 ---
 
-<!-- WIP stub. Companion to the watchtron and difftron posts — compares the deploy gate and the PR gate side by side, with screenshots and yaml pulled from the repos that actually run them. -->
-
-I've written up [watchtron](/2026/06/15/watchtron/) and [difftron](/2026/06/30/difftron/) separately. This one is the comparison: same instinct, different moment in the pipeline, with examples from the sites that actually use both.
+I've written up [watchtron](/2026/06/15/watchtron/) and [difftron](/2026/06/30/difftron/) separately. This is the comparison: same instinct, different moment in the pipeline, same fleet.
 
 ## The three questions
 
@@ -19,22 +17,16 @@ I've written up [watchtron](/2026/06/15/watchtron/) and [difftron](/2026/06/30/d
 | After deploy | [watchtron](https://github.com/swantron/watchtron) | Did *this* deploy work? | `HEAD / → 200` |
 | On PR | [difftron](https://github.com/swantron/difftron) | Are *these* lines tested? | "The repo is 84% covered" |
 
-TODO: tighten intro — one paragraph on why comparing them in one place is useful (you'll run both on the same repo, they don't overlap, neither replaces the heartbeat).
+They don't overlap. difftron never sees a production URL. watchtron never sees a diff. The heartbeat doesn't know either exists — it just pings. Run all three and each one is answering something the other two structurally can't.
 
 ## watchtron on the fleet
 
-Post-deploy, synthetic traffic, OTLP proof. Every site that deploys from CI calls the same reusable workflow.
+Every deployed site calls the same reusable workflow, but "the same workflow" verifies less the less you own. chomptron gets the full treatment — white-box via `@swantron/otel-bootstrap`, a version assertion (`version: ${{ github.sha }}`), Cloud Run's cold start absorbed with a throwaway warmup request in the registry. Green there means `versionMatch: true` — not just that something answered, that *this build* did.
 
-**TODO: chomptron** — white-box + version assertion. Cloud Run cold start handled in the registry (`warmup`, extra requests). Show a green deploy marker on [watch.swantron.com](https://watch.swantron.com) next to a failed one. Screenshot of `/verify` JSON with `versionMatch: true`.
-
-**TODO: tronswan** — white-box Express on DigitalOcean, no version wired yet (gate skips it cleanly). Playwright still runs pre-verify; watchtron is the lighter post-deploy proof. Link to [tronswan.com/status](https://tronswan.com/status).
-
-**TODO: swantron / mt / wrenchtron** — black-box only (Hugo static, Firebase, no server spans). Same workflow, fewer assertions — availability, p95, route coverage. Note what you *don't* get without white-box.
-
-**TODO: jswan.dev** — schedule-only (no deploy pipeline). Probed on watchtron's 30-minute cron instead of `verify.yml`.
+tronswan is white-box too, minus the version check — not wired up yet, so it skips the assertion clean instead of failing on it. swantron, mt, and wrenchtron are black-box only: static sites and a runtime we don't control, so watchtron proves the edge answered and stops there. That's the ceiling on any deploy you don't own the process for. jswan.dev has no deploy pipeline to hook at all — self-hosted, upstream code, deliberately not forked — so it rides watchtron's cron instead.
 
 ```yaml
-# chomptron — the fullest watchtron wiring
+# chomptron — the fullest wiring
 verify:
   needs: deploy
   uses: swantron/watchtron/.github/workflows/verify.yml@main
@@ -46,35 +38,17 @@ verify:
     token: ${{ secrets.WATCHTRON_TOKEN }}
 ```
 
+![watchtron dashboard: per-service uptime strips with verified-deploy markers](/uploads/2026/06/watchtron-dashboard.png)
+
 ## difftron on the fleet
 
-Pre-merge, changed-line coverage only. One Action shape; swap the coverage file your test runner already emits.
+Same yaml shape everywhere; only the coverage command changes. `go test -coverprofile` for the Go repos — difftron dogfoods itself this way. `vitest --coverage` for tronswan. `c8` wrapping `node --test` for chomptron, and for watchtron's own three-workspace monorepo gating its own PRs with the tool it ships. Four toolchains, one sticky comment:
 
-**TODO: difftron (Go)** — `go test -coverprofile=coverage.out`, dogfoods itself. Mention report-only mode while coverage catches up (`fail-on-error: 'false'`).
+![difftron sticky comment on a tronswan PR: 6.7% changed-line coverage, uncovered line numbers listed, test file skipped](/uploads/2026/06/difftron-comment.png)
 
-**TODO: tronswan (vitest)** — `yarn vitest run --coverage --coverage.reporter=lcov`. Screenshot of sticky PR comment with per-file breakdown.
-
-**TODO: chomptron (node:test + c8)** — `npx c8 --reporter=lcovonly node test.js`. Same comment shape, different test runner.
-
-**TODO: watchtron (node:test monorepo + c8)** — prober, control-plane, and registry packages in one repo. The meta case: the deploy gate repo gates its own PRs.
-
-**TODO: minifier-cli / readme-lint (Go)** — same yaml, `go test -coverprofile`. Language-agnostic pitch with two more data points.
-
-**TODO: docs-only PR bug** — cross-link the difftron post's README failure story; maybe show a skipped-files comment on a real docs PR.
-
-```yaml
-# tronswan — vitest -> lcov -> difftron
-- uses: swantron/difftron@v1
-  with:
-    coverage: coverage/lcov.info
-    threshold: '80'
-    comment-pr: 'true'
-    fail-on-error: 'false' # flip when ready
-```
+Every repo above runs the version that skips docs-only files instead of failing them — [the difftron post](/2026/06/30/difftron/#dogfooding-the-fleet) has that bug in full.
 
 ## Side by side
-
-TODO: table or short prose block — trigger, signal, authority, fail mode, cost.
 
 | | watchtron | difftron |
 | --- | --- | --- |
@@ -87,17 +61,15 @@ TODO: table or short prose block — trigger, signal, authority, fail mode, cost
 
 ## When they compose
 
-TODO: walk one repo end-to-end — e.g. chomptron or tronswan.
+chomptron, start to finish: PR opens, difftron grades the diff and comments — report-only, not blocking yet. Merge, and CI builds, pushes, deploys to Cloud Run. A `verify` job fires synthetic traffic at the live URL and checks the served version matches the SHA that just shipped. uptime-monitor keeps pinging regardless, and [watch.swantron.com](https://watch.swantron.com) overlays the deploy markers on that same uptime strip.
 
-1. PR opens → difftron grades the diff (report-only today, blocking soon).
-2. Merge → deploy runs → watchtron fires synthetic traffic at the live URL.
-3. uptime-monitor keeps pinging every 5 minutes regardless; dashboard overlays deploy markers on the uptime strip.
-
-Neither tool replaces the other. difftron can't tell you the deploy landed. watchtron can't tell you the new function has a test. The heartbeat can't fail either gate.
+difftron passing says nothing about whether the deploy landed. watchtron passing says nothing about whether the new function has a test. Three narrow questions, one fleet.
 
 ## The caveats, because there are always caveats
 
-TODO: don't repeat both posts verbatim — one bullet each on scope (gate vs SLO), and one on "report-only while rolling out" since both are in that phase on some repos.
+- Both are gates, not SLOs — a synthetic burst or one PR's lines, not a windowed guarantee about anything.
+- Every repo above still runs difftron report-only (`fail-on-error: 'false'`) until its coverage catches up.
+- They fail differently: difftron just doesn't run; watchtron's control plane fails *open*, so its own outage blocks nothing unless a service opts into `strict: true`.
 
 ## Try It
 
