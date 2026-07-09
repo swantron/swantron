@@ -1,5 +1,5 @@
 ---
-title: 'Heartbeat, deploy, merge: three gates on one fleet'
+title: 'Fleet Gates: Watchtron vs Difftron'
 date: 2026-07-08T00:00:00+00:00
 slug: 'fleet-gates'
 draft: true
