@@ -12,7 +12,7 @@ Do you hate cooking blogs? Sure, we all do..
 
 Inane story, some ads, ingredient somewhere, more adds, quatities somewhere else, another ad.  Like and subscribe..
 
-It is embarrassing to say that I bought the domain name with that sort of thing in mind. I have some of our go-tos in texts from Katie and others that I have emailed to myself (from texts from Katie). I parked some stuff on WordPress and promptly remembered that I hate WordPress about as much as I hate cooking blogs. We know what we have and what we like—it wasn't a very practical idea. No reason to host that sort of thing.
+It is embarrassing to say that I bought the domain name with that sort of thing in mind. I have some of our go-tos in texts from Katie and others that I have emailed to myself (from texts from Katie). I parked some stuff on WordPress and promptly remembered that I hate WordPress about as much as I hate cooking blogs. We know what we have and what we like.. it wasn't a very practical idea. No reason to host that sort of thing.
 
 So instead, I sort of built an anti-food-blog: **[Chomptron](https://chomptron.com)**. It's an AI-powered engine that turns whatever's in your fridge into actual recipes. No fluff, no life stories, just dinner.
 
@@ -73,4 +73,4 @@ Live: [https://chomptron.com](https://chomptron.com)
 
 Source: [https://github.com/swantron/chomptron](https://github.com/swantron/chomptron)
 
-It's free to use and nearly free to run (plz don't spam it). It was a fun excuse to get back into GCP and keep a JS project clean. No bloat, no stories—just the recipes.  Chef kiss..
+It's free to use and nearly free to run (plz don't spam it). It was a fun excuse to get back into GCP and keep a JS project clean. No bloat, no stories.. just the recipes.  Chef kiss..

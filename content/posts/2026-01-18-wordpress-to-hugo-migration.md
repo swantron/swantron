@@ -29,7 +29,7 @@ I had a shower thought about how gross a WordPress database might end up after b
 
 ![SQL file size - 555,947 lines](/uploads/2026/01/sql-file-size.png)
 
-* **122,307 references** to `bouncerblog.com`—a domain that died over a decade ago.
+* **122,307 references** to `bouncerblog.com`.. a domain that died over a decade ago.
 * **Serialized PHP arrays** stored as strings. Want to change a simple rewrite rule? Nope.  Good luck parsing a 2,000-character string in `wp_options`.
 * **Zombie Data:** Thousands of `_transient` entries and orphaned plugin settings that WordPress autoloads on every single page request, long after the plugins are deleted.
 
@@ -59,7 +59,7 @@ Super straightforward. Hugo generates redirect HTML pages at the old paths durin
 
 ## The New Stack
 
-**Hugo 0.154.5** for static generation, **GitHub Pages + Actions** for hosting and CI/CD. No themes—just custom CSS and layout code that I control entirely.  No comments, because I'm not collecting feedback from blog commentators.
+**Hugo 0.154.5** for static generation, **GitHub Pages + Actions** for hosting and CI/CD. No themes.. just custom CSS and layout code that I control entirely.  No comments, because I'm not collecting feedback from blog commentators.
 
 ### The Tipping Point
 

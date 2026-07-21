@@ -15,6 +15,6 @@ My gaming setup is pretty straight forward.  I'm a Nintendo guy, exclusively.  W
 Here we are in 2026.  Katie bought me a switch before my last onsite, so I've done my lap through the regulars.  Odyssey as well.. it is better after some time away.  Nintendo definitely had me profiled with the Switch version of Galaxy 1 / 2.. I was 30 stars into Galaxy 2 when it dropped, so did a quick pivot and started on the new console (handheld, obvs.)  I did the main runthrough, and picked up Galaxy 2 out of muscle memory.  It *finally* clicked.
 
 
-Maybe the second playthrough of Odyssey had me primed for a grind, or maybe I'm just older and more patient. Galaxy 2 makes it super easy to be directly in the middle of a challenging platform situation, but not feel frustrated.  The levels are fun, so it isn't a pain in the ass.  The final stars were honestly brutal—it was an endurance test.
+Maybe the second playthrough of Odyssey had me primed for a grind, or maybe I'm just older and more patient. Galaxy 2 makes it super easy to be directly in the middle of a challenging platform situation, but not feel frustrated.  The levels are fun, so it isn't a pain in the ass.  The final stars were honestly brutal.. it was an endurance test.
 
 Long story short, it is a 10/10.  Best platformer I've played.. it took me 16 years to finish, but worth it.

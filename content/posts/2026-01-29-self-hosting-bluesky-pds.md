@@ -11,7 +11,7 @@ I've been sitting on a Bluesky Personal Data Server (PDS) for a few months now. 
 
 ## Why the AT Protocol?
 
-The AT Protocol (Authenticated Transfer Protocol) was created by the Bluesky team. When you use Twitter or Facebook, your data lives on their servers. You're locked in. A platform changes policies, gets acquired, shuts down—you lose everything.
+The AT Protocol (Authenticated Transfer Protocol) was created by the Bluesky team. When you use Twitter or Facebook, your data lives on their servers. You're locked in. A platform changes policies, gets acquired, shuts down.. you lose everything.
 
 The AT Protocol flips this. Instead of one company owning everyone's data, you can run your own Personal Data Server (PDS). Your posts, follows, and media live on your server. You can move between PDS providers, or run your own, without losing your identity.
 
@@ -28,7 +28,7 @@ I set up a PDS at `jswan.dev`. Running:
 | **Engine** | Docker + Caddy |
 | **Storage** | SQLite + Local Disk |
 
-Setup was straightforward. The official Bluesky installer handles most of it—sets up Docker, configures Caddy for TLS certificates, gets everything running. Main work was configuring DNS records (A record for root domain, wildcard for subdomains) and running through installer prompts.
+Setup was straightforward. The official Bluesky installer handles most of it.. sets up Docker, configures Caddy for TLS certificates, gets everything running. Main work was configuring DNS records (A record for root domain, wildcard for subdomains) and running through installer prompts.
 
 ![](/uploads/2026/01/jswan-dev-atprotocol.png)
 
@@ -57,7 +57,7 @@ I have a Bluesky account at `@com.jswan.dev`, and I've set up this whole infrast
 
 But that's fine. The point wasn't necessarily to become an active Bluesky user. The point was learning how federated protocols work, understanding how to set up and maintain a service, and having the infrastructure if I want it. If friends want accounts, I can give them invites. The data lives on my server, even if that data is currently just me posting a sweet link to a swantron blog post once every three months.
 
-Creating the guide was valuable—forced me to think through the process clearly and make it reproducible. Hopefully it saves somebody debug time.
+Creating the guide was valuable.. forced me to think through the process clearly and make it reproducible. Hopefully it saves somebody debug time.
 
 ## The Cost
 

@@ -7,11 +7,11 @@ featured_image: '/uploads/2026/07/mt-baldy-summit-again.jpg'
 
 The girls are back in Glasgow with my parents for the week. Time for another relaxing aggressive hike.
 
-Katie and I went back up [Baldy](https://outsidebozeman.com/trails-tours/hiking-trails/m-mt-baldy-trail) — published as 8 miles round trip, 4,300 feet of gain — this time with a bit more tact: right amount of water, a fancy sun shirt, protein bars.
+Katie and I went back up [Baldy](https://outsidebozeman.com/trails-tours/hiking-trails/m-mt-baldy-trail).. published as 8 miles round trip, 4,300 feet of gain.. this time with a bit more tact: right amount of water, a fancy sun shirt, protein bars.
 
 ![summit selfie with Bozeman below](/uploads/2026/07/mt-baldy-summit-again.jpg)
 
-Still a contested name, [as I mentioned last year](/2025/07/14/mt-baldy/) — but this time we kept going past the register box to the next bald spot along the ridge. A bit higher, closer to Ross Peak. From town the two of them look like a pair of bald camel humps — meanwhile the "official" Baldy Mountain, a mile further north, is covered in trees with a rock scramble to its actual summit. Not bald at all, and you'd never even notice it. Looking back:
+Still a contested name, [as I mentioned last year](/2025/07/14/mt-baldy/).. but this time we kept going past the register box to the next bald spot along the ridge. A bit higher, closer to Ross Peak. From town the two of them look like a pair of bald camel humps.. meanwhile the "official" Baldy Mountain, a mile further north, is covered in trees with a rock scramble to its actual summit. Not bald at all, and you'd never even notice it. Looking back:
 
 ![looking back down the ridge past the register box](/uploads/2026/07/mt-baldy-ridge.jpg)
 
