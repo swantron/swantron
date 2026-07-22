@@ -7,7 +7,7 @@ featured_image: '/uploads/2026/07/mt-baldy-summit-again.jpg'
 
 The girls are back in Glasgow with my parents for the week. Time for another relaxing aggressive hike.
 
-Katie and I went back up [Baldy](https://outsidebozeman.com/trails-tours/hiking-trails/m-mt-baldy-trail).. published as 8 miles round trip, 4,300 feet of gain.. this time with a bit more tact: right amount of water, a fancy sun shirt, protein bars.
+Katie and I went back up [Baldy](https://outsidebozeman.com/trails-tours/hiking-trails/m-mt-baldy-trail).. published as 8 miles round trip, 4,300 feet of gain.. this time with a bit more tact: right amount of water, a wore a bougie sun shirt, we had protein bars.
 
 ![summit selfie with Bozeman below](/uploads/2026/07/mt-baldy-summit-again.jpg)
 
