@@ -21,7 +21,7 @@ Over two decades, swantron.com hopped through several hosting trends:
 * **Phase 3: IaC-adjacent** – Dockerized one-click pets (GCP, but mostly DigitalOcean)
 * **Phase 4: The End State** – Static delivery via Hugo + GitHub Actions
 
-Each previous phase was just a different way of babysitting a server. This migration is different. It's not just a new host; it's a fundamental change in philosophy from 'managed system' to **code-first delivery.**
+Each previous phase was just a different way of babysitting a server. This one's a different kind of change: from 'managed system' to **code-first delivery.**
 
 ## The Database Horror (The Lordamercy)
 

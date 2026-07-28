@@ -29,7 +29,7 @@ You've got chicken, some tomatoes, garlic, and half an onion. Or maybe just srir
 
 ## The Solution
 
-Type the ingredients, hit generate, and get a recipe with scaled measurements and instructions. It uses **Google Gemini** under the hood to handle the logic.  Bam..
+Type the ingredients, hit generate, and get a recipe with scaled measurements and instructions. It uses **Google Gemini** under the hood to handle the logic.
 
 **Features that actually matter:**
 
@@ -49,7 +49,7 @@ I wanted this to be fast and 'tidy.' No framework bloat, no heavy lifting on the
 
 ## Why Serverless?
 
-Chomptron runs on **Google Cloud Run**, which fits the old 'cattle, not pets' thing nicely:
+Chomptron runs on **Google Cloud Run**, serverless enough that I never think about the box it's on:
 
 * **Scales to zero:** If nobody is using the site, I pay $0. It costs me effectively nothing to keep this live.
 * **Auto-scales:** If it suddenly gets traffic, GCP spins up containers to handle it.
@@ -67,10 +67,10 @@ It's got the regular dev junk:
 * Proper SEO/Open Graph tags
 * PWA support so you can pin it to your home screen
 
-## Check it out
+## Find It
 
 Live: [https://chomptron.com](https://chomptron.com)
 
 Source: [https://github.com/swantron/chomptron](https://github.com/swantron/chomptron)
 
-It's free to use and nearly free to run (plz don't spam it). It was a fun excuse to get back into GCP and keep a JS project clean. No bloat, no stories.. just the recipes.  Chef kiss..
+It's free to use and nearly free to run (plz don't spam it). It was a fun excuse to get back into GCP and keep a JS project clean. No bloat, no stories.. just the recipes.

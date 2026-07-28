@@ -7,7 +7,7 @@ aliases:
   - '/index.php/2026/01/29/self-hosting-bluesky-pds/'
 ---
 
-I've been sitting on a Bluesky Personal Data Server (PDS) for a few months now. Why? Great question.. I guess because a few of my privacy-nerd friends were asking if anyone had tried to set one up.  I like setting stuff up so I did, and am finally getting around to documenting the thing. I put together a guide for others who want to do something similar: [bluesky-pds-guide](https://github.com/swantron/bluesky-pds-guide).
+I've been sitting on a Bluesky Personal Data Server (PDS) for a few months now. A few of my privacy-nerd friends were asking if anyone had tried to set one up, and I like setting stuff up, so I did.  Finally getting around to documenting the thing. I put together a guide for others who want to do something similar: [bluesky-pds-guide](https://github.com/swantron/bluesky-pds-guide).
 
 ## Why the AT Protocol?
 

@@ -65,7 +65,7 @@ chomptron, start to finish: PR opens, difftron grades the diff and comments.. re
 
 difftron passing says nothing about whether the deploy landed. watchtron passing says nothing about whether the new function has a test. Three narrow questions, one fleet.
 
-## The caveats, because there are always caveats
+## The Fine Print
 
 - Both are gates, not SLOs.. a synthetic burst or one PR's lines, not a windowed guarantee about anything.
 - Every repo above still runs difftron report-only (`fail-on-error: 'false'`) until its coverage catches up.

@@ -14,9 +14,9 @@ But it answers one question, and there's another it can't touch: did this *deplo
 
 Every site deploys from CI, and every deploy hands me a green checkmark when it's done. The checkmark means the pipeline exited 0.. not that the site is up, serving the code I just shipped, to a real request. A `HEAD /` coming back 200 can be a CDN handing you a cached page while the origin behind it is face-down. And the uptime monitor won't save me here: a cached 200 looks "up" to a pinger too, and a five-minute cron isn't tied to the deploy that just went out.
 
-The usual answer to *that* is a post-deploy smoke test.. curl the homepage in CI, check for a 200, move on. That's a deploy gate, and it beats nothing. I do lean on a lot of post-deployment Playwright jobs, but that's classic overhead. Still.. a 200 is a low bar, and I wanted to improve on it: a gate that *proves* the new build is serving real requests before the deploy is allowed to call itself done. Same instinct as the uptime heartbeat.. small, cheap, $0.. pointed at a different question.
+The usual answer to *that* is a post-deploy smoke test.. curl the homepage in CI, check for a 200, move on. That's a deploy gate, and it beats nothing. I do lean on a lot of post-deployment Playwright jobs, but that's classic overhead. Still.. a 200 is a low bar, and I wanted to improve on it: a gate that *proves* the new build is serving real requests before the deploy is allowed to call itself done. Same $0-tool instinct, aimed at a different question this time.
 
-## The Idea
+## Pointing OTel Backwards
 
 We're going OTel. OpenTelemetry, but pointed backwards. Instead of instrumenting for dashboards you read after something already broke, use it as a gate. Right after a deploy: fire synthetic traffic at the live URL, tag every request with a W3C trace id, and check that the telemetry for *that exact run* actually lands. If it lands, the request flowed all the way through to the real application.. not an edge cache, not a stale instance. If it doesn't land within the latency and availability you expect.. fail the deploy.
 
@@ -82,7 +82,7 @@ It lives on watchtron's dashboard at [watch.swantron.com](https://watch.swantron
 
 ![watchtron dashboard: per-service uptime strips with verified-deploy markers](/uploads/2026/06/watchtron-dashboard.png)
 
-## The caveats, because there are always caveats
+## Where This Falls Short
 
 - It's a **gate, not an SLO**. The score comes off a small synthetic burst fired right after deploy. It tells you "the new build answered fast and correctly just now," not "we hit four nines this quarter." Calling it an SLO would be lying, so I don't.
 - The control plane is a **single point of failure** for the whole pipeline. If the e2-micro is down, every deploy wants to block on it. So it fails *open*.. an unreachable control plane is a watchtron outage, not a service failure, and it won't hold your deploy hostage unless you opt into strict mode.
@@ -98,4 +98,4 @@ The heartbeat half: [github.com/swantron/uptime-monitor](https://github.com/swan
 
 Live: [watch.swantron.com](https://watch.swantron.com) · [tronswan.com/status](https://tronswan.com/status)
 
-It runs at $0 on free tiers, onboarding a service is a few lines of yaml, and a green checkmark means a bit more. Check it out ^
+It runs at $0 on free tiers, onboarding a service is a few lines of yaml, and now a green checkmark actually means something.
