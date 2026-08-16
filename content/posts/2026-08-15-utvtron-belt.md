@@ -20,17 +20,19 @@ Saturday morning the ThermoPro was still sitting on the bay plastic, 77 / 72 / 6
 
 Garage names for this one: Engine bay / Clutch / Ambient. Plugs matching the holes.
 
-## What the Log Said
+## The Loop
 
 Aug 15 · Afternoon. Started 12:42pm. 2017 RZR 4 900.
 
+Out of Four Corners, south on River Road, all the way down Axtell / Anceney to Amsterdam, then backroads back to pavement. That's the first ~45 minutes.. the rectangle on the GPS trace, start and end on the right. Then 84, last climb into Four Corners from the west, before Cottonwood.. **65+ mph** up a long hill. That's where it finally gave.
+
 ![utvtron history: 58 min, 36.6 mi, Clutch 164°F peak, 54 impacts](/uploads/2026/08/utvtron-aug15-history.png)
 
-58 minutes, 36.6 miles, 65 mph peak, 54 impacts (max 8.5g). Three series the whole time. Headline is **Clutch 164°F**, avg 127°. Engine bay max 102°. Ambient max 89°. Hottest channel every sample is jack 2. The card and the CSV agree this time.
+58 minutes, 36.6 miles, 65 mph peak, 54 impacts (max 8.5g). Headline is **Clutch 164°F**, avg 127°. Engine bay max 102°. Ambient max 89°. Hottest channel every sample is jack 2. The card and the CSV agree this time.
 
-Clutch sat in a 115–134° band for most of the hour. The last six minutes are the hill: coming back toward Four Corners from the west, last climb before Cottonwood, **65+ mph**. 126° at minute 50, 140° at 52, 151° at 54, **164° at 55:56**. That's where it finally gave. Engine was fine. I could hear the belt shredding. Bay and ambient bump in the same window. The 65 max mph on the card is that pull.
+Clutch sat in a 115–134° band for the River Road / Amsterdam loop. The last six minutes are the hill: 126° at minute 50, 140° at 52, 151° at 54, **164° at 55:56**. Engine was fine. I could hear the belt shredding. Bay and ambient bump in the same window. The 65 max mph on the card is that pull, not a random sprint.
 
-BLE dropped once, about four minutes of missing temp samples in the first five minutes of the ride. GPS and impacts kept going. The probe came back. That's a bug I already knew about, and a behavior I already shipped: losing the thermometer doesn't kill the session.
+BLE dropped once, about four minutes of missing temp samples in the first five minutes. GPS and impacts kept going. The probe came back. Losing the thermometer doesn't kill the session anymore.
 
 2,155 temp rows after that, every ~1.5 seconds. No screen-lock timestamp pileup like July.
 
@@ -56,10 +58,10 @@ I'm measuring clutch **exhaust air**, not the carcass. 164° in that duct is not
 
 The factory dash still only shows coolant. The $30 thermometer finally showed me *something* the dash can't. It didn't get close enough to the belt to predict it.
 
-## The Tool, Briefly
+## What's Next
 
-utvtron is still a PWA. No backend. Chrome on Android. Since July it grew GPS, impacts, vehicles, a share card, and a headline that follows the hottest probe instead of jack 1. That last one is why this ride's card says 164° instead of 102°.
+New belt. Same three names. Same hole in the outlet. Write the mounts on the session before rolling this time. If a healthy clutch exhaust stays in that 115–134° cruise band on the same loop, Saturday's spike was the failure, not a number I should have been watching all hour. If a fresh belt also kisses 160° in that duct on the Cottonwood hill, dump air isn't diagnostic and the tip has to get closer.. inner cover, primary, something that sees the carcass.
 
-Still not a product. Still not an App Store listing. Still not a solved CVT monitor. It is, finally, a session from the outlet duct.. with a belt in the hose.
+I'm not going to add a "belt health" score to the app until one of those two things is true.
 
 Live: [utvtron.vercel.app](https://utvtron.vercel.app)
