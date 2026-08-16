@@ -2,70 +2,50 @@
 title: 'utvtron: Then the Belt Came Apart'
 date: 2026-08-15T00:00:00+00:00
 slug: 'utvtron-belt'
-description: "Third ride on the 2017 RZR 4 900. Tip in the clutch outlet this time. 58 minutes, 36.6 miles, clutch exhaust 164°F.. and a handful of belt. The first duct I found was the intake. This one wasn't."
+description: "Tip in the clutch outlet this time. 58 minutes, 36.6 miles, 65 up the last hill.. and a nine-year-old belt that finally let go. The app logged it. It didn't predict it."
 featured_image: '/uploads/2026/08/utvtron-aug15-belt.png'
 ---
 
-[Last time](/2026/08/10/utvtron-duct/) the hose I could see was the CVT intake. Share card said 96°; the CSV said the bay hit 163° on a probe I'd named Ambient. Next tip was supposed to go in the hose that *leaves* the clutch.
+[Last time](/2026/08/10/utvtron-duct/) the hose I could see was the CVT intake. Share card said 96°. CSV said the bay hit 163° on a channel I'd named Ambient. Next tip was supposed to go in the hose that *leaves* the clutch.
 
-Saturday I put it there. 58 minutes later I was holding a piece of belt.
+Saturday I put it there. The belt died on the way home. The log has a pretty spike. I already knew it was coming.. I heard it.
 
-## Outlet, Not Intake
+## The Tip
 
-Saturday morning the ThermoPro was still sitting on the bay plastic, 77 / 72 / 68. Jack 2 (blue) went into the machine. The tip sat above the slotted housing, next to the quilted heat shield.. clutch exhaust, not cabin air.
+ThermoPro on the bay plastic, 77 / 72 / 68 before we rolled. Jack 2 (blue) into the machine, tip above the slotted housing next to the quilted heat shield. Outlet air, not cabin. Names on the ride: Engine bay / Clutch / Ambient.
 
 ![ThermoPro TP25 in the RZR engine bay before the Saturday ride, three tips live, jack 4 empty](/uploads/2026/08/utvtron-aug15-thermopro.png)
 
 ![ThermoPro tip at the clutch outlet, quilted heat shield on the left](/uploads/2026/08/utvtron-aug15-outlet.png)
 
-Garage names for this one: Engine bay / Clutch / Ambient. Plugs matching the holes.
+## The Ride
 
-## The Loop
+Out of Four Corners, south on River Road, all the way down Axtell / Anceney to Amsterdam, backroads back to pavement. Forty-five minutes. Then 84, last climb into Four Corners from the west, before Cottonwood. **65+** up a long hill. That's where it gave.
 
-Aug 15 · Afternoon. Started 12:42pm. 2017 RZR 4 900.
-
-Out of Four Corners, south on River Road, all the way down Axtell / Anceney to Amsterdam, then backroads back to pavement. That's the first ~45 minutes. Start and end on the right. Then 84, last climb into Four Corners from the west, before Cottonwood.. **65+ mph** up a long hill. That's where it finally gave.
-
-![GPS trace of the Saturday loop: south on River Road, Axtell / Anceney to Amsterdam, back to Four Corners](/uploads/2026/08/utvtron-aug15-route.png)
+![GPS trace: Four Corners, River Road, Axtell / Anceney, Amsterdam, back](/uploads/2026/08/utvtron-aug15-route.png)
 
 ![utvtron history: 58 min, 36.6 mi, Clutch 164°F peak, 54 impacts](/uploads/2026/08/utvtron-aug15-history.png)
 
-58 minutes, 36.6 miles, 65 mph peak, 54 impacts (max 8.5g). Headline is **Clutch 164°F**, avg 127°.. engine bay topped out at 102°, ambient at 89°. Hottest channel every sample is jack 2; the card and the CSV agree this time.
+58 minutes, 36.6 miles, 65 mph peak, 54 impacts. Clutch **164°** max, 127° avg. Bay 102°. Ambient 89°. Headline follows the hot probe this time, so the card isn't lying.
 
-Clutch sat in a 115–134° band for the River Road / Amsterdam loop. The last six minutes are the hill: 126° at minute 50, 140° at 52, 151° at 54, **164° at 55:56**. Engine was fine, but I could hear the belt shredding. Bay and ambient bump in the same window.. the 65 max mph on the card is that pull, not a random sprint.
+Cruise on the loop was 115–134°. Last six minutes are the hill: 126°, 140°, 151°, **164°** at 55:56. Engine was fine. I could hear the belt shredding. That's also the 65 on the card.
 
-BLE dropped once, about four minutes of missing temp samples in the first five minutes. GPS and impacts kept going, and the probe came back on its own. Losing the thermometer doesn't kill the session anymore.
+The app did what it's supposed to do. Session held, GPS held, a BLE drop in the first five minutes didn't kill the ride. None of that told me the belt was about to go. I heard it.
 
-2,155 temp rows after that, every ~1.5 seconds. No screen-lock timestamp pileup like July.
+## What Came Apart
 
-## What a Belt Is
+A CVT belt has cogs on both faces and a tensile core through the middle. The core went. Outer cogs started peeling. That fluff in the tunnel is the core, blown into fiber. Same stuff packed the **output duct**.. the hose the tip was sitting in.
 
-A CVT belt isn't a fan belt. Cogs on both faces, a tensile core through the middle, fabric on the inner teeth. The core is what keeps it from stretching. When that lets go you get fiber, not a clean break.
+![Shredded belt packed around the probe braid in the tunnel](/uploads/2026/08/utvtron-aug15-nest.png)
 
-The center core went. The outer-diameter cogs started peeling off. The fluff in the tunnel is that core, blown apart. Same stuff packed the **output duct**.. the hose the tip was sitting in.
+I pulled the fiber out of the outlet and drove it home at 50. Didn't walk. Wasn't limping. It was already cooked.
 
-![RZR tunnel access between the seats: shredded belt packed around the probe braid](/uploads/2026/08/utvtron-aug15-nest.png)
+![Broken CVT belt fragment over the RZR center console](/uploads/2026/08/utvtron-aug15-belt.png)
 
-I pulled the fiber out of the outlet and drove it home. Still did 50.. didn't have to walk, wasn't even really limping.. the belt was already cooked.
+![2017 RZR 4 900 in the yard after the ride](/uploads/2026/08/utvtron-aug15-rzr.png)
 
-![Broken CVT belt fragment held over the RZR center console](/uploads/2026/08/utvtron-aug15-belt.png)
+The belt was nine years old. The machine lives outside in Montana.. twenty below, then a hundred. Timebomb. Expected. Saturday it went off. 164° in dump air is not a prediction. It's the funeral.
 
-Home on the lawn, mud to the doors.
-
-![2017 RZR 4 900 in the yard after the ride, dirt up the bodywork](/uploads/2026/08/utvtron-aug15-rzr.png)
-
-## What I Think Happened
-
-The belt was nine years old, and the machine lives outside in Montana.. twenty below, then a hundred. That's a timebomb, and I knew it. Saturday it went off on the Cottonwood hill, 65 mph with a load on it. Engine was fine.. I heard it shred, dug the fiber out of the outlet, and drove home. Didn't walk.
-
-I'm measuring clutch **exhaust air**, not the carcass. 164° in that duct is not a claim that the rubber was 164°. The number moved because the belt was already coming apart in the hose I was logging. It didn't warn me. A nine-year-old outdoor belt doesn't need a thermometer to be on borrowed time.
-
-The factory dash still only shows coolant. The $30 thermometer finally showed me *something* the dash can't. It didn't get close enough to predict a failure I already expected.
-
-## What's Next
-
-New belt, same three names, same hole in the outlet. Write the mounts on the session before rolling this time. If a healthy clutch exhaust stays in that 115–134° cruise band on the same loop, Saturday's spike was the failure, not a number I should have been watching all hour. If a fresh belt also kisses 160° in that duct on the Cottonwood hill, dump air isn't diagnostic and the tip has to get closer.. inner cover, primary, something that sees the carcass.
-
-I'm not going to add a "belt health" score to the app until one of those two things is true.
+I'm not doing that loop again to "see if a new belt looks different." I'm putting a new belt in so I can drive the thing. utvtron is a ride logger. It is not a crystal ball.
 
 Live: [utvtron.vercel.app](https://utvtron.vercel.app)
