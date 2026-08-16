@@ -6,7 +6,7 @@ description: "Third ride on the 2017 RZR 4 900. Tip in the clutch outlet this ti
 featured_image: '/uploads/2026/08/utvtron-aug15-belt.png'
 ---
 
-[Last time](/2026/08/10/utvtron-duct/) the hose I could see was the CVT intake. Share card said 96°. CSV said the bay hit 163° on a probe I'd named Ambient. Next tip was supposed to go in the hose that *leaves* the clutch.
+[Last time](/2026/08/10/utvtron-duct/) the hose I could see was the CVT intake. Share card said 96°; the CSV said the bay hit 163° on a probe I'd named Ambient. Next tip was supposed to go in the hose that *leaves* the clutch.
 
 Saturday I put it there. 58 minutes later I was holding a piece of belt.
 
@@ -24,15 +24,17 @@ Garage names for this one: Engine bay / Clutch / Ambient. Plugs matching the hol
 
 Aug 15 · Afternoon. Started 12:42pm. 2017 RZR 4 900.
 
-Out of Four Corners, south on River Road, all the way down Axtell / Anceney to Amsterdam, then backroads back to pavement. That's the first ~45 minutes.. the rectangle on the GPS trace, start and end on the right. Then 84, last climb into Four Corners from the west, before Cottonwood.. **65+ mph** up a long hill. That's where it finally gave.
+Out of Four Corners, south on River Road, all the way down Axtell / Anceney to Amsterdam, then backroads back to pavement. That's the first ~45 minutes. Start and end on the right. Then 84, last climb into Four Corners from the west, before Cottonwood.. **65+ mph** up a long hill. That's where it finally gave.
+
+![GPS trace of the Saturday loop: south on River Road, Axtell / Anceney to Amsterdam, back to Four Corners](/uploads/2026/08/utvtron-aug15-route.png)
 
 ![utvtron history: 58 min, 36.6 mi, Clutch 164°F peak, 54 impacts](/uploads/2026/08/utvtron-aug15-history.png)
 
-58 minutes, 36.6 miles, 65 mph peak, 54 impacts (max 8.5g). Headline is **Clutch 164°F**, avg 127°. Engine bay max 102°. Ambient max 89°. Hottest channel every sample is jack 2. The card and the CSV agree this time.
+58 minutes, 36.6 miles, 65 mph peak, 54 impacts (max 8.5g). Headline is **Clutch 164°F**, avg 127°.. engine bay topped out at 102°, ambient at 89°. Hottest channel every sample is jack 2; the card and the CSV agree this time.
 
-Clutch sat in a 115–134° band for the River Road / Amsterdam loop. The last six minutes are the hill: 126° at minute 50, 140° at 52, 151° at 54, **164° at 55:56**. Engine was fine. I could hear the belt shredding. Bay and ambient bump in the same window. The 65 max mph on the card is that pull, not a random sprint.
+Clutch sat in a 115–134° band for the River Road / Amsterdam loop. The last six minutes are the hill: 126° at minute 50, 140° at 52, 151° at 54, **164° at 55:56**. Engine was fine, but I could hear the belt shredding. Bay and ambient bump in the same window.. the 65 max mph on the card is that pull, not a random sprint.
 
-BLE dropped once, about four minutes of missing temp samples in the first five minutes. GPS and impacts kept going. The probe came back. Losing the thermometer doesn't kill the session anymore.
+BLE dropped once, about four minutes of missing temp samples in the first five minutes. GPS and impacts kept going, and the probe came back on its own. Losing the thermometer doesn't kill the session anymore.
 
 2,155 temp rows after that, every ~1.5 seconds. No screen-lock timestamp pileup like July.
 
@@ -44,7 +46,7 @@ The center core went. The outer-diameter cogs started peeling off. The fluff in 
 
 ![RZR tunnel access between the seats: shredded belt packed around the probe braid](/uploads/2026/08/utvtron-aug15-nest.png)
 
-I pulled the fiber out of the outlet and drove it home. Still did 50. Didn't have to walk. Not really limping.. the belt was already cooked.
+I pulled the fiber out of the outlet and drove it home. Still did 50.. didn't have to walk, wasn't even really limping.. the belt was already cooked.
 
 ![Broken CVT belt fragment held over the RZR center console](/uploads/2026/08/utvtron-aug15-belt.png)
 
@@ -54,7 +56,7 @@ Home on the lawn, mud to the doors.
 
 ## What I Think Happened
 
-The belt was nine years old. The machine lives outside in Montana.. twenty below, then a hundred. That's a timebomb. I knew it. Saturday it went off on the Cottonwood hill at 65 with a load on it. Engine was fine. I heard it shred, dug the fiber out of the outlet, and drove home. Didn't walk.
+The belt was nine years old, and the machine lives outside in Montana.. twenty below, then a hundred. That's a timebomb, and I knew it. Saturday it went off on the Cottonwood hill, 65 mph with a load on it. Engine was fine.. I heard it shred, dug the fiber out of the outlet, and drove home. Didn't walk.
 
 I'm measuring clutch **exhaust air**, not the carcass. 164° in that duct is not a claim that the rubber was 164°. The number moved because the belt was already coming apart in the hose I was logging. It didn't warn me. A nine-year-old outdoor belt doesn't need a thermometer to be on borrowed time.
 
@@ -62,7 +64,7 @@ The factory dash still only shows coolant. The $30 thermometer finally showed me
 
 ## What's Next
 
-New belt. Same three names. Same hole in the outlet. Write the mounts on the session before rolling this time. If a healthy clutch exhaust stays in that 115–134° cruise band on the same loop, Saturday's spike was the failure, not a number I should have been watching all hour. If a fresh belt also kisses 160° in that duct on the Cottonwood hill, dump air isn't diagnostic and the tip has to get closer.. inner cover, primary, something that sees the carcass.
+New belt, same three names, same hole in the outlet. Write the mounts on the session before rolling this time. If a healthy clutch exhaust stays in that 115–134° cruise band on the same loop, Saturday's spike was the failure, not a number I should have been watching all hour. If a fresh belt also kisses 160° in that duct on the Cottonwood hill, dump air isn't diagnostic and the tip has to get closer.. inner cover, primary, something that sees the carcass.
 
 I'm not going to add a "belt health" score to the app until one of those two things is true.
 
