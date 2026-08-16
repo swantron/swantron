@@ -6,19 +6,15 @@ description: "Third ride on the 2017 RZR 4 900. Tip in the clutch outlet this ti
 featured_image: '/uploads/2026/08/utvtron-aug15-belt.png'
 ---
 
-[Last time](/2026/08/10/utvtron-duct/) I stuffed a tip in the wrong hose and the share card lied about which probe was hot. That's still true. It isn't the end of the story.
+[Last time](/2026/08/10/utvtron-duct/) the hose I could see was the CVT intake. Share card said 96°. CSV said the bay hit 163° on a probe I'd named Ambient. Next tip was supposed to go in the hose that *leaves* the clutch.
 
-Saturday I finally put a tip in the hose that *leaves* the clutch. 58 minutes later I was holding a piece of belt.
+Saturday I put it there. 58 minutes later I was holding a piece of belt.
 
-## The Hose I Could See, Twice
+## Outlet, Not Intake
 
-Clutch housing, left-rear wheel well, fat J-shaped hose on the round cover. That's the hose you can see from outside, so that's where the first "duct" tip went. On this chassis that tube is the **CVT intake**. Cooling air in. A probe through the wall sits in air that tracks cabin ambient. The clutches are inboard, at the far end of the cover. Hot air dumps the other way: into the engine bay, over the trans, at the block.
-
-Sunday, Aug 9, I ran three tips anyway. Jack 1 I called Belt: 88–96°. Jack 3 similar. Jack 2 I called Ambient: **163°**. The card headlined 96°. The CSV said the bay was cooking. Labels were wrong. The intake hose was never going to tell me about the belt.
+Saturday morning the ThermoPro was still sitting on the bay plastic, 77 / 72 / 68. Jack 2 (blue) went into the machine. The tip sat above the slotted housing, next to the quilted heat shield.. clutch exhaust, not cabin air.
 
 ![ThermoPro TP25 in the RZR engine bay before the Saturday ride, three tips live, jack 4 empty](/uploads/2026/08/utvtron-aug15-thermopro.png)
-
-Saturday morning the controller was still sitting on the bay plastic, 77 / 72 / 68. Jack 2 (blue) went into the machine. The tip sat above the slotted housing, next to the quilted heat shield.. clutch exhaust, not cabin air.
 
 ![ThermoPro tip at the clutch outlet, quilted heat shield on the left](/uploads/2026/08/utvtron-aug15-outlet.png)
 
