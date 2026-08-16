@@ -2,13 +2,11 @@
 title: 'utvtron: Then the Belt Came Apart'
 date: 2026-08-15T00:00:00+00:00
 slug: 'utvtron-belt'
-aliases:
-  - /2026/08/10/utvtron-duct/
 description: "Third ride on the 2017 RZR 4 900. Tip in the clutch outlet this time. 58 minutes, 36.6 miles, clutch exhaust 164°F.. and a handful of belt. The first duct I found was the intake. This one wasn't."
 featured_image: '/uploads/2026/08/utvtron-aug15-belt.png'
 ---
 
-[Last time](/2026/07/27/utvtron/) I said the next ride was the duct. I took that ride. Then I took another one. This post replaces the in-between: I had written up a Sunday where I stuffed a tip in the wrong hose and the share card lied about which probe was hot. That's still true. It just isn't the end of the story.
+[Last time](/2026/08/10/utvtron-duct/) I stuffed a tip in the wrong hose and the share card lied about which probe was hot. That's still true. It isn't the end of the story.
 
 Saturday I finally put a tip in the hose that *leaves* the clutch. 58 minutes later I was holding a piece of belt.
 
