@@ -44,7 +44,7 @@ The center core went. The outer-diameter cogs started peeling off. The fluff in 
 
 ![RZR tunnel access between the seats: shredded belt packed around the probe braid](/uploads/2026/08/utvtron-aug15-nest.png)
 
-I pulled the fiber out of the outlet and drove it home. Still did 50. Not really limping. The belt was already cooked.
+I pulled the fiber out of the outlet and drove it home. Still did 50. Didn't have to walk. Not really limping.. the belt was already cooked.
 
 ![Broken CVT belt fragment held over the RZR center console](/uploads/2026/08/utvtron-aug15-belt.png)
 
@@ -54,9 +54,11 @@ Home on the lawn, mud to the doors.
 
 ## What I Think Happened
 
-I'm measuring clutch **exhaust air**, not the carcass. 164° in that duct is not a claim that the rubber was 164°. I was loaded up a long hill at 65 and heard it shred. The core let go and dumped itself into the hose I was logging. The number moved because the belt was already failing, not because the air warned me in time to save it.
+The belt was nine years old. The machine lives outside in Montana.. twenty below, then a hundred. That's a timebomb. I knew it. Saturday it went off on the Cottonwood hill at 65 with a load on it. Engine was fine. I heard it shred, dug the fiber out of the outlet, and drove home. Didn't walk.
 
-The factory dash still only shows coolant. The $30 thermometer finally showed me *something* the dash can't. It didn't get close enough to the belt to predict it.
+I'm measuring clutch **exhaust air**, not the carcass. 164° in that duct is not a claim that the rubber was 164°. The number moved because the belt was already coming apart in the hose I was logging. It didn't warn me. A nine-year-old outdoor belt doesn't need a thermometer to be on borrowed time.
+
+The factory dash still only shows coolant. The $30 thermometer finally showed me *something* the dash can't. It didn't get close enough to predict a failure I already expected.
 
 ## What's Next
 
