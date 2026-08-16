@@ -38,11 +38,11 @@ BLE dropped once, about four minutes of missing temp samples in the first five m
 
 Stopped around 1:40. Tunnel panel off a minute later.
 
-![RZR tunnel access between the seats: probe braid routed into a rodent nest](/uploads/2026/08/utvtron-aug15-nest.png)
+![RZR tunnel access between the seats: shredded belt packed around the probe braid](/uploads/2026/08/utvtron-aug15-nest.png)
 
-The same braid I'd just been logging is going into a **rodent nest**. Fur and insulation packed around the heat shield, the fill cap, the probe cable.
+That's the belt. Cord and rubber blown through the clutch housing, packed around the heat shield, the fill cap, and the same braid I'd been logging. Not a second mystery. One failure.
 
-A couple hours later, a chunk of belt in the cabin. Ribbed CVT fragment, torn ends. Floor panel open.
+A couple hours later, a chunk of it in the cabin. Ribbed fragment, torn ends. Floor panel open.
 
 ![Broken CVT belt fragment held over the RZR center console](/uploads/2026/08/utvtron-aug15-belt.png)
 
@@ -52,9 +52,9 @@ Home on the lawn, mud to the doors.
 
 ## What I Think Happened
 
-I'm measuring clutch **exhaust air**, not the belt carcass. 164° in that duct is not a claim that the rubber was 164°. The belt can run a lot hotter than the air leaving the cover. A nest in that tunnel can destroy a belt with or without a heat story.. debris in the clutch, insulation, chewed bits.
+I'm measuring clutch **exhaust air**, not the belt carcass. 164° in that duct is not a claim that the rubber was 164°. The belt can run a lot hotter than the air leaving the cover. The last six minutes on the chart are the failure, then I shut it down. Opening the tunnel just showed me where it went.
 
-The honest read: the tip was finally in the right hose, the log showed a late runaway, and when I opened the machine I found nest plus shredded belt. Heat, debris, or both. The factory dash still only shows coolant. The $30 thermometer finally showed me *something* the dash can't. It didn't save the belt.
+The factory dash still only shows coolant. The $30 thermometer finally showed me *something* the dash can't. It didn't get close enough to the belt to warn me before it came apart.
 
 ## The Tool, Briefly
 
