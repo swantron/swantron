@@ -49,3 +49,5 @@ The belt was nine years old. The machine lives outside in Montana.. twenty below
 I'm not doing that loop again to "see if a new belt looks different." I'm putting a new belt in so I can drive the thing. utvtron is a ride logger. It is not a crystal ball.
 
 Live: [utvtron.vercel.app](https://utvtron.vercel.app)
+
+*Update, Aug 20: belt's in. [Short break-in ride, tips in the right ducts.](/2026/08/20/utvtron-new-belt/)*
