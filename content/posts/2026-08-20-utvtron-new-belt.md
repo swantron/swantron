@@ -2,7 +2,7 @@
 title: 'utvtron: New Belt, Same Tips'
 date: 2026-08-20T00:00:00+00:00
 slug: 'utvtron-new-belt'
-description: "Belt swapped after the Cottonwood death march. Tips where they belong this time. Eighteen minutes of boring break-in temps.. clutch outlet 130°, not a rematch with the hill."
+description: "Belt swapped after the Cottonwood shred. Tips where they belong this time. Eighteen minutes of boring break-in temps.. clutch outlet 130°, not a rematch with the hill."
 featured_image: '/uploads/2026/08/utvtron-aug20-belt-new.png'
 ---
 
@@ -34,7 +34,7 @@ Eighteen minutes. 7.4 miles. Eight impacts. Easy loop.. not River Road to Amster
 
 CSV: 671 rows. One hole at ~9 minutes.. about 99 seconds with no samples. The app dropped; I hit Resume. Session held together as one ride. Probe needed a reconnect after the kill. The card is still honest.
 
-Saturday's death march peaked **164°** on that same outlet channel after a hard hill. Tonight was half an hour of not doing that. Different question.
+Saturday's shred peaked **164°** on that same outlet channel after a hard hill. Tonight was half an hour of not doing that. Different question.
 
 ## What This Proves
 
