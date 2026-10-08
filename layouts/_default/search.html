@@ -1,271 +1,193 @@
 {{- define "main" -}}
-<div class="search-container">
+<div class="narrow-container">
   <h1 class="mb-8">Search Posts</h1>
 
-  <div class="search-box mb-8">
-    <input type="text" id="search-input" placeholder="Search posts..." class="search-input" autofocus />
-    <div id="search-results" class="mt-6"></div>
+  <div class="search-box">
+    <input type="search" id="search-input" placeholder="Search posts..." class="search-input" aria-label="Search posts"
+      aria-controls="search-results" autocomplete="off" autofocus />
   </div>
 
-  <div id="search-stats" class="text-sm opacity-60 mb-4"></div>
+  <div id="search-stats" class="search-stats" role="status" aria-live="polite"></div>
+  <div id="search-results"></div>
 </div>
 
 <script>
   (function () {
-    let searchData = [];
+    const input = document.getElementById('search-input');
+    const container = document.getElementById('search-results');
+    const stats = document.getElementById('search-stats');
     let searchIndex = null;
 
-    // Load search data
+    const escapeHtml = (s) => String(s).replace(/[&<>"']/g, (c) => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+    })[c]);
+
+    const escapeRegExp = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+    // Escape text and wrap any of the search terms in <mark>. Splitting on the raw text
+    // (rather than running a regex over escaped HTML) keeps entities like &amp; intact.
+    function highlight(text, terms) {
+      if (!terms.length) return escapeHtml(text);
+      const pattern = new RegExp('(' + terms.map(escapeRegExp).join('|') + ')', 'gi');
+      return text.split(pattern)
+        .map((part, i) => (i % 2 ? '<mark>' + escapeHtml(part) + '</mark>' : escapeHtml(part)))
+        .join('');
+    }
+
+    function getTerms(query) {
+      return query.toLowerCase().trim().split(/\s+/).filter(Boolean);
+    }
+
     async function loadSearchData() {
-      let jsonPath;
+      // Resolve the index relative to this page so it works under a subpath baseURL too
+      const jsonPath = new URL('index.json', window.location.href.replace(/[?#].*$/, '').replace(/\/?$/, '/'));
       try {
-        // Get base path from current location (handles baseURL like /swantron/)
-        const pathname = window.location.pathname;
-        const pathParts = pathname.split('/').filter(p => p);
-        const searchIndex = pathParts.indexOf('search');
-
-        if (searchIndex > 0) {
-          // We're in a subdirectory like /swantron/search/
-          const basePath = '/' + pathParts.slice(0, searchIndex).join('/');
-          jsonPath = basePath + '/search/index.json';
-        } else {
-          // We're at root /search/
-          jsonPath = '/search/index.json';
-        }
-
         const response = await fetch(jsonPath);
         if (!response.ok) {
           throw new Error(`Failed to load search data: ${response.status} ${response.statusText}`);
         }
-        searchData = await response.json();
-        buildSearchIndex();
+        const data = await response.json();
+        searchIndex = data.map((post) => ({
+          ...post,
+          titleLower: post.title.toLowerCase(),
+          tagsLower: (post.tags || []).map((t) => t.toLowerCase()),
+          searchText: `${post.title} ${post.content} ${(post.tags || []).join(' ')}`.toLowerCase()
+        }));
+        // Run any query typed while the index was still loading
+        update();
       } catch (error) {
-        console.error('Error loading search data:', error);
-        console.error('Attempted path:', jsonPath);
-        document.getElementById('search-results').innerHTML =
-          '<p class="text-red-500">Error loading search data. Please refresh the page.</p>';
+        console.error('Error loading search data from', String(jsonPath), error);
+        stats.textContent = '';
+        container.innerHTML = '<p class="search-error">Couldn’t load search data. Please refresh the page.</p>';
       }
     }
 
-    // Build simple search index
-    function buildSearchIndex() {
-      searchIndex = searchData.map((post, index) => ({
-        ...post,
-        searchText: `${post.title} ${post.content} ${(post.tags || []).join(' ')}`.toLowerCase(),
-        index: index
-      }));
-    }
-
-    // Simple search function
-    function search(query) {
-      if (!query || query.trim().length === 0) {
-        return [];
-      }
-
-      const terms = query.toLowerCase().trim().split(/\s+/);
+    function search(terms) {
       const results = [];
 
-      searchIndex.forEach(post => {
+      searchIndex.forEach((post) => {
         let score = 0;
         let matches = 0;
 
-        terms.forEach(term => {
+        terms.forEach((term) => {
           if (post.searchText.includes(term)) {
             matches++;
             // Boost score for title matches
-            if (post.title.toLowerCase().includes(term)) {
-              score += 10;
-            }
+            if (post.titleLower.includes(term)) score += 10;
             // Boost score for tag matches
-            if (post.tags && post.tags.some(tag => tag.toLowerCase().includes(term))) {
-              score += 5;
-            }
+            if (post.tagsLower.some((tag) => tag.includes(term))) score += 5;
             // Content matches
             score += 1;
           }
         });
 
-        // Only include if at least one term matched
         if (matches > 0) {
-          results.push({
-            ...post,
-            score: score + matches
-          });
+          results.push({ post, score: score + matches });
         }
       });
 
-      // Sort by score (highest first)
       results.sort((a, b) => b.score - a.score);
-
-      return results.slice(0, 50); // Limit to 50 results
+      return results;
     }
 
-    // Render search results
-    function renderResults(results, query) {
-      const container = document.getElementById('search-results');
-      const stats = document.getElementById('search-stats');
+    function excerptFor(content, terms) {
+      const idx = content.toLowerCase().indexOf(terms[0]);
+      if (idx === -1) {
+        return content.length > 200 ? content.substring(0, 200) + '…' : content;
+      }
+      const start = Math.max(0, idx - 100);
+      const end = Math.min(content.length, idx + terms[0].length + 100);
+      return (start > 0 ? '…' : '') + content.substring(start, end) + (end < content.length ? '…' : '');
+    }
 
-      if (!query || query.trim().length === 0) {
-        container.innerHTML = '<p class="opacity-60">Enter a search term to find posts.</p>';
+    const MAX_RESULTS = 50;
+
+    function render(query) {
+      const terms = getTerms(query);
+
+      if (!terms.length) {
         stats.textContent = '';
+        container.innerHTML = '<p class="search-message">Enter a search term to find posts.</p>';
         return;
       }
 
-      if (results.length === 0) {
-        container.innerHTML = `<p class="opacity-60">No results found for "${query}".</p>`;
+      if (!searchIndex) {
+        stats.textContent = 'Loading posts…';
+        container.innerHTML = '';
+        return;
+      }
+
+      const results = search(terms);
+
+      if (!results.length) {
         stats.textContent = '0 results';
+        container.innerHTML = `<p class="search-message">No results found for “${escapeHtml(query.trim())}”.</p>`;
         return;
       }
 
-      stats.textContent = `${results.length} result${results.length !== 1 ? 's' : ''} found`;
+      const shown = results.slice(0, MAX_RESULTS);
+      stats.textContent = results.length > MAX_RESULTS
+        ? `${results.length} results, showing the top ${MAX_RESULTS}`
+        : `${results.length} result${results.length !== 1 ? 's' : ''}`;
 
-      const html = results.map(post => {
-        // Highlight search terms in title
-        let highlightedTitle = post.title;
-        const terms = query.trim().split(/\s+/);
-        terms.forEach(term => {
-          const regex = new RegExp(`(${term})`, 'gi');
-          highlightedTitle = highlightedTitle.replace(regex, '<mark>$1</mark>');
-        });
-
-        // Get excerpt from content
-        const contentLower = post.content.toLowerCase();
-        const firstTerm = terms[0];
-        const termIndex = contentLower.indexOf(firstTerm.toLowerCase());
-        let excerpt = '';
-
-        if (termIndex !== -1) {
-          const start = Math.max(0, termIndex - 100);
-          const end = Math.min(post.content.length, termIndex + firstTerm.length + 100);
-          excerpt = post.content.substring(start, end);
-          if (start > 0) excerpt = '...' + excerpt;
-          if (end < post.content.length) excerpt = excerpt + '...';
-        } else {
-          excerpt = post.content.substring(0, 200);
-          if (post.content.length > 200) excerpt += '...';
-        }
-
-        // Highlight terms in excerpt
-        terms.forEach(term => {
-          const regex = new RegExp(`(${term})`, 'gi');
-          excerpt = excerpt.replace(regex, '<mark>$1</mark>');
-        });
-
-        const tagsHtml = post.tags && post.tags.length > 0
-          ? `<div class="mt-2 flex flex-wrap gap-2">
-            ${post.tags.map(tag => `<span class="text-xs px-2 py-1 rounded bg-black/5 dark:bg-white/10 opacity-70 border border-black/5 dark:border-white/5">${tag}</span>`).join('')}
-           </div>`
-          : '';
-
-        const postDate = new Date(post.date);
-        const formattedDate = postDate.toLocaleDateString('en-US', {
-          year: 'numeric',
-          month: 'short',
-          day: 'numeric'
-        });
-
-        return `
-        <article class="mb-12 hover:bg-black/[0.01] dark:hover:bg-white/[0.01] transition-all">
-          <h2 class="text-xl font-bold mb-2">
-            <a href="${post.permalink}" class="no-underline hover:underline decoration-accent-color decoration-2 underline-offset-4">${highlightedTitle}</a>
-          </h2>
-          <time class="text-xs font-medium opacity-50 block mb-3 uppercase tracking-wider">${formattedDate}</time>
-          <p class="mt-2 text-sm leading-relaxed opacity-80">${excerpt}</p>
-          ${tagsHtml}
+      container.innerHTML = shown.map(({ post }) => `
+        <article class="post-card">
+          <h2 class="post-card-title"><a href="${escapeHtml(post.permalink)}">${highlight(post.title, terms)}</a></h2>
+          <time class="post-card-date">${escapeHtml(post.date)}</time>
+          <p class="post-card-excerpt">${highlight(excerptFor(post.content, terms), terms)}</p>
         </article>
-      `;
-      }).join('');
-
-      container.innerHTML = html;
+      `).join('');
     }
 
-    // Handle search input
     let searchTimeout;
-    const searchInput = document.getElementById('search-input');
+    const update = () => render(input.value);
 
-    searchInput.addEventListener('input', function (e) {
-      const query = e.target.value;
-
+    input.addEventListener('input', () => {
       clearTimeout(searchTimeout);
-
-      searchTimeout = setTimeout(() => {
-        if (!searchIndex) {
-          renderResults([], query);
-          return;
-        }
-
-        const results = search(query);
-        renderResults(results, query);
-      }, 150); // Debounce search
+      searchTimeout = setTimeout(update, 150); // Debounce search
     });
 
-    // Handle Enter key
-    searchInput.addEventListener('keydown', function (e) {
+    // Enter moves focus to the first result instead of navigating away from the list
+    input.addEventListener('keydown', (e) => {
       if (e.key === 'Enter') {
         e.preventDefault();
-        const query = e.target.value;
-        if (!searchIndex) return;
-
-        const results = search(query);
-        if (results.length > 0) {
-          window.location.href = results[0].permalink;
-        }
+        clearTimeout(searchTimeout);
+        update();
+        const first = container.querySelector('.post-card-title a');
+        if (first) first.focus();
       }
     });
 
-    // Load search data on page load
+    update();
     loadSearchData();
   })();
 </script>
 
 <style>
-  .search-container {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-
   .search-input {
+    -webkit-appearance: none;
+    appearance: none;
     width: 100%;
     padding: 1rem 1.25rem;
     font-size: 1.125rem;
     line-height: 1.5;
-    border: 2px solid rgba(0, 0, 0, 0.1);
+    border: 2px solid rgba(255, 255, 255, 0.2);
     border-radius: 0.75rem;
-    background-color: rgba(255, 255, 255, 0.8);
-    color: #000;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #fff;
     transition: all 0.2s ease;
     outline: none;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
   }
 
   .search-input:focus {
-    border-color: rgba(0, 0, 0, 0.3);
-    background-color: rgba(255, 255, 255, 0.95);
+    border-color: rgba(255, 255, 255, 0.4);
+    background-color: rgba(0, 0, 0, 0.5);
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   }
 
   .search-input::placeholder {
-    color: rgba(0, 0, 0, 0.5);
-  }
-
-  html.dark .search-input {
-    border-color: rgba(255, 255, 255, 0.2);
-    background-color: rgba(0, 0, 0, 0.3);
-    color: #fff;
-  }
-
-  html.dark .search-input:focus {
-    border-color: rgba(255, 255, 255, 0.4);
-    background-color: rgba(0, 0, 0, 0.5);
-  }
-
-  html.dark .search-input::placeholder {
     color: rgba(255, 255, 255, 0.5);
-  }
-
-  mark {
-    padding: 0 2px;
-    border-radius: 2px;
   }
 </style>
 {{- end -}}

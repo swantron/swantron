@@ -1,0 +1,15 @@
+{{- /* Post summary card. Pass the page, or a dict with "page" and "level" (heading level, default 2). */ -}}
+{{- $page := . -}}
+{{- $level := 2 -}}
+{{- if reflect.IsMap . -}}
+{{- $page = .page -}}
+{{- $level = .level | default 2 -}}
+{{- end -}}
+{{- $excerpt := $page.Description | default $page.Summary | plainify | htmlUnescape | strings.TrimSpace | truncate 200 -}}
+<article class="post-card">
+  <h{{ $level }} class="post-card-title"><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></h{{ $level }}>
+  <time class="post-card-date" datetime="{{ $page.Date.Format "2006-01-02" }}">{{ $page.Date.Format "Jan 2, 2006" }}</time>
+  {{- with $excerpt }}
+  <p class="post-card-excerpt">{{ . }}</p>
+  {{- end }}
+</article>

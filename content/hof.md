@@ -6,11 +6,11 @@ params:
   hof_slugs:
     - "encabulating-photon-emission-interface"
     - "the-seo-web-ninja-incident"
-    - "android-ioio-project-ioioseek-2"
+    - "android-ioio-project-ioioseek"
     - "ioio-servo-controller"
     - "ioio-powerswitch-project"
     - "html-to-python-to-arduino-to-lcd"
-    - "how-to-use-a-ladder-2"
+    - "how-to-use-a-ladder"
     - "green-robots-everywhere"
     - "diy-copper-end-table"
     - "wordpress-to-hugo-migration"

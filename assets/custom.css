@@ -1,5 +1,4 @@
-/* Place custom css here. */
-@reference './app.css';
+/* Site styles (loaded after the theme's main.css, before overrides.css) */
 
 /* Improved post list styling */
 article.my-10 {
@@ -340,26 +339,111 @@ html.dark .site-footer {
   }
 }
 
-/* Hall of Fame & Search Container Mobile Padding */
-@media (max-width: 640px) {
+/* Narrow single-column pages: All Posts, Hall of Fame, Search */
+.narrow-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
 
-  .hof-container,
-  .search-container {
+@media (max-width: 640px) {
+  .narrow-container {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
   }
 }
 
-/* HoF Specific Styling */
-.hof-container section {
-  padding-bottom: 2rem;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+/* Post cards (partials/post-card.html, and the search results rendered in search.html) */
+.post-card {
+  margin: 0;
 }
 
-html.dark .hof-container section {
-  border-bottom-color: rgba(255, 255, 255, 0.1);
+/* Tighter than the generic article+article separator above */
+.post-card + .post-card {
+  margin-top: 2rem;
+  padding-top: 2rem;
 }
 
-.hof-container section:last-of-type {
-  border-bottom: none;
+.post-card-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.35;
+  margin: 0 0 0.5rem;
+}
+
+.post-card-title a {
+  text-decoration: none;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
+.post-card-title a:hover,
+.post-card-title a:focus-visible {
+  text-decoration-line: underline;
+}
+
+.post-card-date {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  opacity: 0.6;
+  margin-bottom: 0.5rem;
+}
+
+.post-card-excerpt {
+  font-size: 0.875rem;
+  line-height: 1.65;
+  opacity: 0.8;
+  margin: 0;
+}
+
+/* All Posts: year jump links and year headings */
+.year-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  margin-bottom: 3rem;
+  font-size: 0.875rem;
+}
+
+.year-nav a {
+  text-decoration: none;
+  opacity: 0.7;
+}
+
+.year-nav a:hover,
+.year-nav a:focus-visible {
+  opacity: 1;
+  text-decoration-line: underline;
+  text-underline-offset: 4px;
+}
+
+.year-heading {
+  scroll-margin-top: 1.5rem;
+  margin: 3.5rem 0 1.5rem;
+  font-size: 1.5rem;
+}
+
+.year-heading .year-count {
+  font-size: 0.875rem;
+  font-weight: 400;
+  opacity: 0.5;
+  margin-left: 0.5rem;
+}
+
+/* Search page */
+.search-stats {
+  font-size: 0.875rem;
+  opacity: 0.6;
+  margin: 1.5rem 0 2rem;
+  min-height: 1.25rem;
+}
+
+.search-message {
+  opacity: 0.6;
+}
+
+.search-error {
+  color: #f87171;
 }
