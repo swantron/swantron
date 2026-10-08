@@ -245,14 +245,6 @@ article .prose {
   margin-right: auto;
 }
 
-/* Better search input sizing */
-#search-input,
-input[type="search"] {
-  max-width: 600px;
-  margin: 0 auto;
-  display: block;
-}
-
 /* Improved search result highlighting - theme aware */
 mark {
   padding: 1px 4px;

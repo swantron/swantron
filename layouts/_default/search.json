@@ -2,7 +2,7 @@
 [
   {{- range $index, $post := $posts -}}
   {{- if $index }},{{- end }}
-  {{- $plainContent := $post.Plain | default (replaceRE "<[^>]*>" "" $post.Content) | default "" -}}
+  {{- $plainContent := $post.Plain | default (replaceRE "<[^>]*>" "" $post.Content) | default "" | htmlUnescape -}}
   {
     "title": {{ $post.Title | jsonify }},
     "content": {{ $plainContent | jsonify }},

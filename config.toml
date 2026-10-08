@@ -27,6 +27,9 @@ relativeURLs = false
   
   # Disable comments (can enable later if needed)
   disablePostNavigation = false
+
+  # Code is highlighted at build time by Hugo; the theme's bundled highlight.js (v9) adds nothing
+  disableHLJS = true
   
   # Main sections for Paper theme (posts directory)
   mainSections = ['posts']
@@ -38,31 +41,31 @@ relativeURLs = false
   [[menu.main]]
     identifier = 'home'
     name = 'Home'
-    url = '/'
+    pageRef = '/'
     weight = 10
   
   [[menu.main]]
     identifier = 'about'
     name = 'About'
-    url = '/about/'
+    pageRef = '/about'
     weight = 20
   
   [[menu.main]]
     identifier = 'hof'
     name = 'HoF'
-    url = '/hof/'
+    pageRef = '/hof'
     weight = 30
   
   [[menu.main]]
     identifier = 'all-posts'
     name = 'Posts'
-    url = '/all-posts/'
+    pageRef = '/all-posts'
     weight = 35
   
   [[menu.main]]
     identifier = 'search'
     name = 'Search'
-    url = '/search/'
+    pageRef = '/search'
     weight = 40
 
 # Sitemap configuration
