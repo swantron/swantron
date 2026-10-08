@@ -29,3 +29,16 @@ article pre code {
   padding-left: 2rem;
   padding-right: 2rem;
 }
+
+/* Title link hover underline (all-posts, search, hof); these utilities aren't in the theme's compiled main.css */
+.hover\:underline:hover {
+  text-decoration-line: underline;
+}
+
+.decoration-2 {
+  text-decoration-thickness: 2px;
+}
+
+.underline-offset-4 {
+  text-underline-offset: 4px;
+}
