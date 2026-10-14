@@ -16,15 +16,15 @@ Moment of clarity: what if we just... axe the parts that aren't running?
 
 ## Trace What's Actually Used
 
-A typical third-party agent image is built for maximum compatibility. It's got shells, package managers, debug utilities, junk, man pages, and a bunch of shared libraries for features nobody in your environment uses. All of that adds up to hundreds of megabytes, and from a security scanner's perspective, every one of those binaries is an attack surface.
+A typical third-party agent image is built for maximum compatibility. Shells, package managers, debug utilities, man pages, and a pile of shared libraries for features nobody in your environment uses. Hundreds of megabytes, and every one of those binaries is something for the scanner to yell about.
 
-Rebuild the image from scratch with only the files the container actually touches at runtime, and the binary still runs, the agent still pongs.. but the shell that would give an attacker a foothold is gone. So is the package manager. So is most of the attack surface the scanner was complaining about.
+Rebuild the image from scratch with only the files the container actually touches at runtime, and the agent still pongs.. but the shell is gone. So is the package manager. So is most of what the scanner was complaining about.
 
 ## So I Built Something
 
-**[minifier-cli](https://github.com/swantron/minifier-cli)** is a Go tool that does exactly this. Three steps:
+**[minifier-cli](https://github.com/swantron/minifier-cli)** is a Go tool that does exactly this.
 
-**1. Trace.** You run your container through the tool and it watches which files the process actually opens and maps into memory.. polling `/proc/*/fd` and `/proc/*/maps` inside the container every second. Everything that gets touched ends up in a log. This isn't a real-time kernel stream, so a process that spawns, opens a file, and dies in under a second could theoretically be missed. In practice, that's rarely an issue for the long-running agent processes this tool is designed for.. and the ELF dependency pass in the next step catches the shared libs anyway.
+**1. Trace.** Run your container through the tool and it watches which files the process opens and maps into memory, polling `/proc` inside the container every second.
 
 ```bash
 minifier-cli trace start --image datadog/agent:latest --name dd-prod
@@ -32,17 +32,13 @@ minifier-cli trace start --image datadog/agent:latest --name dd-prod
 # Ctrl+C to stop tracing
 ```
 
-**2. Analyze** *(internal phase.. no command to run).* Before rebuilding, the tool parses every ELF binary in the trace log using Go's `debug/elf` package.. finding every shared library it imports, extracting the dynamic linker via PT_INTERP, and recursively resolving the full dependency tree. It also injects a safelist of files everything needs (passwd, group, hosts, resolv.conf) that processes rely on without explicitly opening. This analysis runs automatically inside the repackage step.
-
-**3. Repackage.**
+**2. Repackage.** It walks every binary in the trace for the shared libraries it needs, adds the handful of files everything quietly relies on (passwd, hosts, resolv.conf), copies it all out, and builds a `FROM scratch` image with the original ENV, CMD, and ENTRYPOINT.
 
 ```bash
 minifier-cli repackage --name dd-prod --output datadog-minimal:prod
 ```
 
-The tool extracts Docker metadata from the original image (ENV, CMD, ENTRYPOINT, EXPOSE), copies the traced files via `docker export` tar streaming, generates a `FROM scratch` Dockerfile, and builds the final image. No manual file selection, no guessing, no rebuilding from source.
-
-nginx:alpine goes from 91.7MB to 14.1MB. A startup-only trace of `datadog/agent:latest` (1.17GB) produces a 59MB image.. and a longer, more thorough trace exercising all the agent features would land somewhere larger but still a fraction of the original. The attack surface shrinks proportionally.. and the vuln scanner suddenly has a lot less to say.
+nginx:alpine goes from 91.7MB to 14.1MB. A startup-only trace of `datadog/agent:latest` takes it from 1.17GB to 59MB. The vuln scanner suddenly has a lot less to say.
 
 ![minifier-cli terminal output: trace, repackage, and docker images before and after](/uploads/2026/06/minifier-cli-terminal.png)
 
@@ -50,28 +46,10 @@ nginx:alpine goes from 91.7MB to 14.1MB. A startup-only trace of `datadog/agent:
 
 We eventually landed on a different solution for the actual hardening problem.. we are basically buying pre-hardened images that someone else has already performed surgery on. With vendor backing and security buy-off, we are somewhat less culpable.
 
-But this approach holds up. The pattern is legitimate, the implementation works, and as a way to discover exactly what a black-box container actually needs at runtime, it's genuinely useful.. for hardening, for compliance audits, for understanding legacy applications you're about to migrate, for cutting CI pull times.
+Still, it's a handy way to find out what a black-box container actually needs at runtime.. for hardening, audits, or poking at a legacy app before you migrate it. Open-sourcing it on the theory that someone else has the same problem.
 
-It took a real problem to push me to actually build it. Open-sourcing it now on the theory that someone else has the same problem.
+The catch: the image only has what got touched during the trace. Error paths, plugins, and config-flag-only drivers won't be there unless you exercised them. Run your integration tests while tracing, trigger your error states, test it in staging, and keep the original around. Don't ship it on the strength of a five-minute trace and a `curl localhost`.
 
-## The Catch
-
-Your minified image contains exactly what was accessed during the trace.. nothing more. That's the point, but it's also the risk.
-
-Error-handling code that only fires under specific conditions won't get traced during a happy-path run. Plugins loaded by name at runtime won't show up unless that feature was exercised. A database driver that only activates for a certain config flag won't be there if you didn't trigger that path. And if your agent only calls out to a third-party webhook when a network timeout occurs, the lib handling that request won't be in your minified image unless you deliberately induced a timeout during the trace.
-
-The playbook: run your full integration test suite while tracing. Write your integration test suite if you don't have one. Hit your feature flags. Trigger your error states. If the application has a warm-up or health-check mode, run those too. The more representative your trace workload, the more complete the image.
-
-Then validate the minified image thoroughly in staging before it goes anywhere near production. Keep the original around as a fallback. Normal SRE stuff. Don't ship it on the strength of a five-minute trace and a `curl localhost`.
-
-## Enjoy
-
-```bash
-git clone https://github.com/swantron/minifier-cli
-cd minifier-cli
-go build -o minifier-cli .
-```
-
-Pre-built binaries for Linux amd64/arm64 and macOS amd64/arm64 on the [releases page](https://github.com/swantron/minifier-cli/releases). The tracer requires Linux (it reads `/proc` inside the container), but the repackager runs fine on macOS against a remote Docker daemon.
+Binaries on the [releases page](https://github.com/swantron/minifier-cli/releases). The tracer needs Linux; the repackager runs fine on a Mac.
 
 Source: [github.com/swantron/minifier-cli](https://github.com/swantron/minifier-cli)
