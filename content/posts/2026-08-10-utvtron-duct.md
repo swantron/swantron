@@ -20,7 +20,7 @@ The clutch housing is in the left-rear wheel well, and a fat J-shaped hose clamp
 
 ![CVT intake hose on the 2017 RZR 4 900, clamping onto the outer clutch cover](/uploads/2026/08/utvtron-cvt-intake.png)
 
-In the app I named them Belt and Ambient, and the third one just ended up as "Probe 3."
+In the app I labeled the first two jacks Belt and Ambient, and the third fell through as "Probe 3."
 
 ## What the CSV Said
 

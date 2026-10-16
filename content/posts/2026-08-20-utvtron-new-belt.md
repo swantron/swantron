@@ -28,7 +28,7 @@ Eighteen minutes, 7.4 miles, easy loop. Not River Road to Amsterdam, and definit
 
 ![utvtron share card: New belt ride, Clutch 130°F, 18 min, 7.4 mi](/uploads/2026/08/utvtron-aug20-share.png)
 
-One hiccup: around nine minutes in the app dropped for a minute and a half. I hit Resume, reconnected the probe, and it kept it all as one ride.
+One hiccup: around nine minutes in, the app dropped for a minute and a half. I hit Resume, reconnected the probe, and it kept it all as one ride.
 
 New belt handles a normal evening loop just fine. More miles before anything spicy.
 

@@ -8,7 +8,7 @@ featured_image: '/uploads/2026/06/minifier-cli-terminal.png'
 
 Our ProdSec team at work recently leaned hard into Wiz and Slack-ops. Vulnerabilities started piling up across our various namespaces, a lot of them flagged critical on paper.. typical enterprise scenario where dashboards are red and every alert demands a response.
 
-The catch: most of those images aren't ours. We're DevX, which sits inside CloudOps alongside Platform Engineering, SRE, and Cloud Cost.. a big part of what our org does is run the infrastructure that makes the clusters work. Wiz, Datadog agents, observability tooling, a bunch of GitOps stuff. Closed source, proprietary, not ours to rebuild. But they live in our namespaces, so we own the vuln count.  Same for anything legacy or shared.. that comes as well.
+The catch: most of those images aren't ours. We're DevX, which sits inside CloudOps alongside Platform Engineering, SRE, and Cloud Cost.. a big part of what our org does is run the infrastructure that makes the clusters work. Wiz, Datadog agents, observability tooling, a bunch of GitOps stuff. Closed source, proprietary, not ours to rebuild. But they live in our namespaces, so we own the vuln count. Anything legacy or shared comes along for the ride too.
 
 Coworker bud and I started talking about what you'd actually do about this. You can't patch a binary you don't ship. You can't swap the base image. The vendor updates when they update. The realistic options are: accept the noise, get exceptions granted, or get creative.
 
@@ -48,7 +48,7 @@ We eventually landed on a different solution for the actual hardening problem.. 
 
 Still, it's a handy way to find out what a black-box container actually needs at runtime.. for hardening, audits, or poking at a legacy app before you migrate it. Open-sourcing it on the theory that someone else has the same problem.
 
-The catch: the image only has what got touched during the trace. Error paths, plugins, and config-flag-only drivers won't be there unless you exercised them. Run your integration tests while tracing, trigger your error states, test it in staging, and keep the original around. Don't ship it on the strength of a five-minute trace and a `curl localhost`.
+Fair warning: the image only has what got touched during the trace. Error paths, plugins, and config-flag-only drivers won't be there unless you exercised them. Run your integration tests while tracing, trigger your error states, test it in staging, and keep the original around. Don't ship it on the strength of a five-minute trace and a `curl localhost`.
 
 Binaries on the [releases page](https://github.com/swantron/minifier-cli/releases). The tracer needs Linux; the repackager runs fine on a Mac.
 

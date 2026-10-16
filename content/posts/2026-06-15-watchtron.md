@@ -30,7 +30,7 @@ verify:
     token: ${{ secrets.WATCHTRON_TOKEN }}
 ```
 
-The fleet is all over the place.. DigitalOcean, Cloud Run, GitHub Pages, Firebase, a self-hosted PDS.. and one workflow covers all of it. For the two Express apps I own, the app emits its own span too, so watchtron can match it to the probe and check that the git SHA it reports is the one that just shipped. Green means *this build* is serving, not just *something*.
+The fleet is all over the place.. DigitalOcean, Cloud Run, GitHub Pages, Firebase, a self-hosted PDS.. and one workflow covers all of it. The two Express apps I actually own also report back their own span and git SHA, so watchtron can tie the response to the probe and confirm the build that answered is the one that just shipped. Green means *this build* is serving, not just *something*.
 
 ## Two Tools, One Strip
 
