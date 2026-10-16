@@ -24,7 +24,7 @@ ThermoPro in the cargo recess behind the seats, three tips live: Engine bay, Clu
 
 ![ThermoPro TP25 in the RZR cargo recess, three tips live before the break-in ride](/uploads/2026/08/utvtron-aug20-thermopro.png)
 
-Eighteen minutes, 7.4 miles, easy loop. Not River Road to Amsterdam, and definitely not 65 up the hill. The clutch outlet peaked at **130°**, climbed and then just sat there. Last week's shred hit 164° on that same channel. Boring is good.
+Eighteen minutes, 7.4 miles, easy loop. Not River Road to Amsterdam, and definitely not 65 up the hill. The clutch outlet peaked at **130°**, climbed and then just sat there. Saturday's shred hit 164° on that same channel. Boring is good.
 
 ![utvtron share card: New belt ride, Clutch 130°F, 18 min, 7.4 mi](/uploads/2026/08/utvtron-aug20-share.png)
 

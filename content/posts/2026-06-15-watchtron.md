@@ -40,7 +40,7 @@ I started bolting history and dashboards onto watchtron and caught myself rebuil
 
 It's up at [watch.swantron.com](https://watch.swantron.com), with a cleaner cut on [tronswan.com/status](https://tronswan.com/status).
 
-The dashboard paid for itself right away. GitHub quietly disables scheduled workflows after ~60 days without a commit. The uptime monitor has a dirty keepalive for exactly this. watchtron's cron.. did not. The staleness flag caught it.
+The dashboard paid for itself right away: its staleness flag noticed watchtron's own cron had gone quiet. GitHub disables scheduled workflows after ~60 days without a commit. The uptime monitor has a dirty keepalive for exactly this. watchtron's cron.. did not.
 
 Source: [github.com/swantron/watchtron](https://github.com/swantron/watchtron)
 
