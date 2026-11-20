@@ -20,6 +20,8 @@ That wasn't going to work in our house. So instead of the sheet, I wrote an app.
 
 Tap Start when you pull out, Stop when you're back. Any phone in the family can start a drive and any other can stop it, and everybody sees the same log.
 
+![Emma's log, mid-drive](/uploads/2026/11/drivetron-emma-log.png)
+
 Night minutes get split out from sunset and sunrise where you actually drove. Montana doesn't define "night" anywhere I could find, so sunset to sunrise it is.
 
 Drives the teen logs on their own phone wait for a parent to confirm. Anything typed in after the fact, or with times edited, gets marked on the printout. I'm signing a state form that says these hours happened, so the log should be honest about which ones were timed live.
