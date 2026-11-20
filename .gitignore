@@ -35,3 +35,6 @@ Thumbs.db
 # Database backups (keep locally, don't commit)
 *.sql
 dbmfzsmoeow53u.sql
+
+# Local credentials scratch file; never commit
+temp.tokens
