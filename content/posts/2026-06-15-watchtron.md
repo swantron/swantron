@@ -43,5 +43,3 @@ It's up at [watch.swantron.com](https://watch.swantron.com), with a cleaner cut 
 The dashboard paid for itself right away: its staleness flag noticed watchtron's own cron had gone quiet. GitHub disables scheduled workflows after ~60 days without a commit. The uptime monitor has a dirty keepalive for exactly this. watchtron's cron.. did not.
 
 Source: [github.com/swantron/watchtron](https://github.com/swantron/watchtron)
-
-Now the green checkmark actually means something.
