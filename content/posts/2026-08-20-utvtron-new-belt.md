@@ -16,7 +16,7 @@ Cover off. Old fluff still clinging to the inner housing lip. New belt on the Po
 
 ![Inner clutch housing after cleanup.. ducting, loom, leftover belt fiber on the seal lip](/uploads/2026/08/utvtron-aug20-housing.png)
 
-Logged it in [wrenchtron](https://wrenchtron.com) as a belt replacement. utvtron signs into the same Google account now, so the garage and the maintenance log are one machine again.
+Logged it in [wrenchtron](https://wrenchtron.com) as a belt replacement.
 
 ## The Ride
 
@@ -28,8 +28,6 @@ Eighteen minutes, 7.4 miles, easy loop. Not River Road to Amsterdam, and definit
 
 ![utvtron share card: New belt ride, Clutch 130°F, 18 min, 7.4 mi](/uploads/2026/08/utvtron-aug20-share.png)
 
-One hiccup: around nine minutes in, the app dropped for a minute and a half. I hit Resume, reconnected the probe, and it kept it all as one ride.
+One hiccup: around nine minutes in, the probe dropped for a minute and a half. Hit Resume, reconnected, kept riding.
 
 New belt handles a normal evening loop just fine. More miles before anything spicy.
-
-Live: [utvtron.vercel.app](https://utvtron.vercel.app)

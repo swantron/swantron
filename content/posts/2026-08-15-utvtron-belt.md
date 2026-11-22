@@ -28,7 +28,7 @@ Out of Four Corners, south on River Road, all the way down Axtell / Anceney to A
 
 58 minutes, 36.6 miles. The clutch outlet cruised around 115–134° on the loop. Then the hill: 126°, 140°, 151°, **164°**. Engine was fine. I could hear the belt shredding.
 
-The app held up.. session, GPS, even a Bluetooth drop early on. It just didn't see it coming any sooner than my ears did.
+The log caught it, but no sooner than my ears did.
 
 ## What Came Apart
 
@@ -45,7 +45,5 @@ I pulled the fiber out of the duct and drove it home at 50.
 The belt was nine years old, and the machine lives outside in Montana.. twenty below, then a hundred. It was a timebomb. Saturday it went off.
 
 I'm not going to run that loop again to see what a new belt looks like on the chart. I'm putting a new belt in so I can drive the thing.
-
-Live: [utvtron.vercel.app](https://utvtron.vercel.app)
 
 *Update, Aug 20: belt's in. [Short break-in ride, tips in the right ducts.](/2026/08/20/utvtron-new-belt/)*

@@ -36,10 +36,8 @@ And on this generation there's no clutch exhaust grill. Polaris dumps the hot ai
 
 ![ThermoPro TP25 on the RZR floor, one cable routed through the floor toward the clutch](/uploads/2026/08/utvtron-thermopro-floor.png)
 
-I wasn't going to build GPS or multiple probes this early. Built them anyway, and they paid off.. three lines on one chart is what made the mixup obvious.
+Having all three on one chart is the only reason I caught it.
 
 Next tip goes in the hose that *leaves* the clutch, and this time the names match the plugs.
-
-Live: [utvtron.vercel.app](https://utvtron.vercel.app).. Chrome on Android.
 
 *Update, Aug 15: I got the tip in that hose. [Then the belt came apart.](/2026/08/15/utvtron-belt/)*
