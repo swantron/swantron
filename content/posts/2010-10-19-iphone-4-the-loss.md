@@ -1,4 +1,5 @@
 ---
+id: 670
 title: 'iPhone 4 The Loss'
 date: 2010-10-19T11:39:52+00:00
 slug: 'iphone-4-the-loss'

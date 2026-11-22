@@ -1,4 +1,5 @@
 ---
+id: 500
 title: 'How To Make Boring Stuff Awesome'
 date: 2010-02-25T14:56:23+00:00
 slug: 'how-to-make-boring-stuff-awesome'

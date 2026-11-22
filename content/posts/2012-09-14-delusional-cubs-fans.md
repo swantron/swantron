@@ -1,4 +1,5 @@
 ---
+id: 939
 title: 'Delusional Cubs Fans'
 date: 2012-09-14T13:06:20+00:00
 slug: 'delusional-cubs-fans'

@@ -1,4 +1,5 @@
 ---
+id: 922
 title: 'Samsung Galaxy S III'
 date: 2012-07-06T19:46:22+00:00
 slug: 'samsung-galaxy-s-iii'

@@ -1,4 +1,5 @@
 ---
+id: 602
 title: 'Billings Metra Tornado'
 date: 2010-06-20T16:12:44+00:00
 slug: 'billings-metra-tornado'

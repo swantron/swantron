@@ -1,4 +1,5 @@
 ---
+id: 332
 title: 'My Firefox is Crapping'
 date: 2008-12-01T13:45:11+00:00
 slug: 'my-firefox-is-crapping'

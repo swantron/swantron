@@ -1,4 +1,5 @@
 ---
+id: 597
 title: 'Arduino Solar Cell Input'
 date: 2010-06-14T18:41:13+00:00
 slug: 'arduino-solar-cell-input'

@@ -1,4 +1,5 @@
 ---
+id: 756
 title: 'MMMexican Beer'
 date: 2011-05-04T17:37:16+00:00
 slug: 'mmmexican-beer'

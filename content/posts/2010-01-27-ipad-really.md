@@ -1,4 +1,5 @@
 ---
+id: 471
 title: 'IPad.  Really?'
 date: 2010-01-27T11:55:17+00:00
 slug: 'ipad-really'

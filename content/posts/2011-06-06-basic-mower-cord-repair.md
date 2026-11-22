@@ -1,4 +1,5 @@
 ---
+id: 773
 title: 'Basic Mower Cord Repair'
 date: 2011-06-06T20:33:52+00:00
 slug: 'basic-mower-cord-repair'

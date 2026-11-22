@@ -1,4 +1,5 @@
 ---
+id: 300
 title: 'The Bachelor'
 date: 2008-06-25T21:30:05+00:00
 slug: 'the-bachelor'

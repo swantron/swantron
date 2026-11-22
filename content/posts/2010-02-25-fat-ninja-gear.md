@@ -1,4 +1,5 @@
 ---
+id: 501
 title: 'Fat Ninja Gear'
 date: 2010-02-25T15:29:50+00:00
 slug: 'fat-ninja-gear'

@@ -1,4 +1,5 @@
 ---
+id: 897
 title: 'Working for Oracle'
 date: 2012-03-04T22:17:47+00:00
 slug: 'working-for-oracle'

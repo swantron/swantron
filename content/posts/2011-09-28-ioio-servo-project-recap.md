@@ -1,4 +1,5 @@
 ---
+id: 822
 title: 'IOIO Servo Project Recap'
 date: 2011-09-28T19:55:01+00:00
 slug: 'ioio-servo-project-recap'

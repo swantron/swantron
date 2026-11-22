@@ -1,4 +1,5 @@
 ---
+id: 699
 title: 'Celebrity Insurance Policies'
 date: 2010-12-30T15:47:10+00:00
 slug: 'celebrity-insurance-policies'

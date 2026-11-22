@@ -1,4 +1,5 @@
 ---
+id: 642
 title: 'Bonus Bacon'
 date: 2010-08-24T19:11:02+00:00
 slug: 'bonus-bacon'

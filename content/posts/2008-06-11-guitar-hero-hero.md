@@ -1,4 +1,5 @@
 ---
+id: 296
 title: 'Guitar Hero Hero'
 date: 2008-06-11T15:50:45+00:00
 slug: 'guitar-hero-hero'

@@ -1,4 +1,5 @@
 ---
+id: 954
 title: 'Python IO on rPi'
 date: 2013-01-09T17:01:52+00:00
 slug: 'python-io-on-rpi'

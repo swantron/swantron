@@ -1,4 +1,5 @@
 ---
+id: 745
 title: 'Garage Door Hack'
 date: 2011-04-13T21:19:53+00:00
 slug: 'garage-door-hack'

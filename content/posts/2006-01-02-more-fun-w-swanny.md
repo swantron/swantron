@@ -1,4 +1,5 @@
 ---
+id: 42
 title: 'More Fun W/ Swanny'
 date: 2006-01-02T18:09:11+00:00
 slug: 'more-fun-w-swanny'

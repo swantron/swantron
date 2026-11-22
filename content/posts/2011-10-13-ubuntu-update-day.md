@@ -1,4 +1,5 @@
 ---
+id: 833
 title: 'Ubuntu Update Day'
 date: 2011-10-13T12:55:56+00:00
 slug: 'ubuntu-update-day'

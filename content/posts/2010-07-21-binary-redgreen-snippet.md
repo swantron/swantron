@@ -1,4 +1,5 @@
 ---
+id: 625
 title: 'Binary Red/Green Snippet'
 date: 2010-07-21T20:49:58+00:00
 slug: 'binary-redgreen-snippet'

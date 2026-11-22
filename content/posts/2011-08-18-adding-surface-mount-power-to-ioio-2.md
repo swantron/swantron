@@ -1,4 +1,5 @@
 ---
+id: 803
 title: 'Adding Surface Mount Power to IOIO'
 date: 2011-08-18T15:43:10+00:00
 slug: 'adding-surface-mount-power-to-ioio'

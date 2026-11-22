@@ -1,4 +1,5 @@
 ---
+id: 626
 title: 'Cool Robot'
 date: 2010-07-22T16:10:20+00:00
 slug: 'cool-robot'

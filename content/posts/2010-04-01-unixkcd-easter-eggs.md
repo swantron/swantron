@@ -1,4 +1,5 @@
 ---
+id: 529
 title: 'unixkcd easter eggs'
 date: 2010-04-01T14:29:27+00:00
 slug: 'unixkcd-easter-eggs'

@@ -1,4 +1,5 @@
 ---
+id: 796
 title: 'Bad Lab in Action'
 date: 2011-08-03T08:12:39+00:00
 slug: 'bad-lab-in-action'

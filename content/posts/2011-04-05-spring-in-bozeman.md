@@ -1,4 +1,5 @@
 ---
+id: 740
 title: 'Spring in Bozeman'
 date: 2011-04-05T19:23:28+00:00
 slug: 'spring-in-bozeman'

@@ -1,4 +1,5 @@
 ---
+id: 611
 title: 'Computer Forensics'
 date: 2010-06-29T18:41:15+00:00
 slug: 'computer-forensics'

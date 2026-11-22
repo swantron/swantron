@@ -1,4 +1,5 @@
 ---
+id: 484
 title: 'PS3 To Support 3D'
 date: 2010-02-09T19:40:30+00:00
 slug: 'ps3-to-support-3d'

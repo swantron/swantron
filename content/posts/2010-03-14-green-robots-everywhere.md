@@ -1,4 +1,5 @@
 ---
+id: 514
 title: 'Green Robots Everywhere'
 date: 2010-03-14T09:49:29+00:00
 slug: 'green-robots-everywhere'

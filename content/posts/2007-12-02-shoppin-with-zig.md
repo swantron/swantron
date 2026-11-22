@@ -1,4 +1,5 @@
 ---
+id: 236
 title: "Shoppin' With Zig"
 date: 2007-12-02T15:22:58+00:00
 slug: 'shoppin-with-zig'

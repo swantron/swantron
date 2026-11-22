@@ -1,4 +1,5 @@
 ---
+id: 643
 title: 'Soldering Station'
 date: 2010-08-25T19:22:11+00:00
 slug: 'soldering-station'

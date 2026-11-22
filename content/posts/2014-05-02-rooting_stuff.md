@@ -1,4 +1,5 @@
 ---
+id: 976
 title: 'Rooting Stuff'
 date: 2014-05-02T08:07:16+00:00
 slug: 'rooting_stuff'

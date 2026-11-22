@@ -1,4 +1,5 @@
 ---
+id: 685
 title: 'Awesome Droid Apps Redux'
 date: 2010-11-10T20:05:00+00:00
 slug: 'awesome-new-droid-apps'

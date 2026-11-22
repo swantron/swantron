@@ -1,4 +1,5 @@
 ---
+id: 879
 title: 'WWF Royal Rumble'
 date: 2012-01-19T07:20:21+00:00
 slug: 'wwf-royal-rumble'

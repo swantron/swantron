@@ -1,4 +1,5 @@
 ---
+id: 795
 title: 'Android IOIO Digital Output'
 date: 2011-07-28T12:05:01+00:00
 slug: 'android-ioio-digital-output'

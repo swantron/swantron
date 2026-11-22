@@ -1,4 +1,5 @@
 ---
+id: 65
 title: 'Jamaica Pictorial #1'
 date: 2006-03-23T20:23:45+00:00
 slug: 'jamaica-pictorial-1'

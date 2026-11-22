@@ -1,4 +1,5 @@
 ---
+id: 824
 title: 'Triple Monitors at Work'
 date: 2011-10-04T17:47:57+00:00
 slug: 'triple-monitors-at-work'

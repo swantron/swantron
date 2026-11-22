@@ -1,4 +1,5 @@
 ---
+id: 876
 title: 'RBG LED Controller'
 date: 2012-01-11T17:10:52+00:00
 slug: 'rbg-led-controller-3'

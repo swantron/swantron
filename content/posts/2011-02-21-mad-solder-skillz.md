@@ -1,4 +1,5 @@
 ---
+id: 716
 title: 'Mad Solder Skillz'
 date: 2011-02-21T21:56:37+00:00
 slug: 'mad-solder-skillz'

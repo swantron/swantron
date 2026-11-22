@@ -1,4 +1,5 @@
 ---
+id: 336
 title: 'Charles Shamamma, Artist'
 date: 2008-12-07T20:44:25+00:00
 slug: 'charles-shamamma-artist'

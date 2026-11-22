@@ -1,4 +1,5 @@
 ---
+id: 907
 title: 'DIY Baseball Trainer'
 date: 2012-04-10T08:56:59+00:00
 slug: 'diy-baseball-trainer'

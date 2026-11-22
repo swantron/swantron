@@ -1,4 +1,5 @@
 ---
+id: 9
 title: "Joe’s Kindred Spirit"
 date: 2005-09-01T20:20:25+00:00
 slug: 'joes-kindred-spirit'

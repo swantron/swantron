@@ -1,4 +1,5 @@
 ---
+id: 286
 title: 'WalMart Customer of the Day'
 date: 2008-04-13T15:53:29+00:00
 slug: 'walmart-customer-of-the-day'

@@ -1,4 +1,5 @@
 ---
+id: 955
 title: 'rPi Hardware Servo Control'
 date: 2013-01-18T18:19:57+00:00
 slug: 'rpi-hardware-servo-control'

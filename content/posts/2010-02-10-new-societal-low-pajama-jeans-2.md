@@ -1,4 +1,5 @@
 ---
+id: 487
 title: 'New Societal Low: Pajama Jeans'
 date: 2010-02-10T16:03:59+00:00
 slug: 'new-societal-low-pajama-jeans'

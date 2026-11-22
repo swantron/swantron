@@ -1,4 +1,5 @@
 ---
+id: 349
 title: 'Sweet Craigslist Entry'
 date: 2009-04-16T08:54:15+00:00
 slug: 'sweet-craigslist-entry'

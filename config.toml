@@ -68,6 +68,20 @@ relativeURLs = false
     pageRef = '/search'
     weight = 40
 
+  [[menu.main]]
+    identifier = 'contact'
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 50
+
+# Posts publish an index.json next to the HTML page so a client can load one
+# post instead of the whole archive. ids live in front matter and must stay put.
+[[cascade]]
+  outputs = ["html", "json"]
+  [cascade.target]
+    kind = "page"
+    path = "/posts/**"
+
 # Sitemap configuration
 [sitemap]
   changefreq = 'monthly'

@@ -1,4 +1,5 @@
 ---
+id: 942
 title: 'Legend of Zeltron'
 date: 2012-10-06T22:37:52+00:00
 slug: 'legend-of-zeltron'

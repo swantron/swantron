@@ -1,4 +1,5 @@
 ---
+id: 188
 title: 'Which is Worse?'
 date: 2007-05-14T20:05:42+00:00
 slug: 'which-is-worse'

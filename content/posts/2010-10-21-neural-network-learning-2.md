@@ -1,4 +1,5 @@
 ---
+id: 672
 title: 'Neural Network Learning'
 date: 2010-10-21T08:43:20+00:00
 slug: 'neural-network-learning'

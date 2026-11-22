@@ -1,4 +1,5 @@
 ---
+id: 14
 title: 'Weird Weekend – Beard'
 date: 2005-09-26T19:45:29+00:00
 slug: 'weird-weekend-beard'

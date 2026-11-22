@@ -1,4 +1,5 @@
 ---
+id: 798
 title: 'Nerdy Weekend'
 date: 2011-08-06T19:30:44+00:00
 slug: 'nerdy-weekend'

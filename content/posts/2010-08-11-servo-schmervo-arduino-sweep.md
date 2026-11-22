@@ -1,4 +1,5 @@
 ---
+id: 636
 title: 'Servo Schmervo… Arduino Sweep'
 date: 2010-08-11T11:33:54+00:00
 slug: 'servo-schmervo-arduino-sweep'

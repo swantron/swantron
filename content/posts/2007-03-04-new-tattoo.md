@@ -1,4 +1,5 @@
 ---
+id: 162
 title: 'New Tattoo'
 date: 2007-03-04T16:42:51+00:00
 slug: 'new-tattoo'

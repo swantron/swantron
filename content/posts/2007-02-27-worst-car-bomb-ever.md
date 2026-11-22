@@ -1,4 +1,5 @@
 ---
+id: 156
 title: 'Worst Car Bomb Ever'
 date: 2007-02-27T03:44:37+00:00
 slug: 'worst-car-bomb-ever'

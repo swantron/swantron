@@ -1,4 +1,5 @@
 ---
+id: 130
 title: 'Retardation'
 date: 2006-12-30T03:05:28+00:00
 slug: 'retardation'

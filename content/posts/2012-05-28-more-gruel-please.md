@@ -1,4 +1,5 @@
 ---
+id: 915
 title: 'More Gruel, Please'
 date: 2012-05-28T21:28:34+00:00
 slug: 'more-gruel-please'

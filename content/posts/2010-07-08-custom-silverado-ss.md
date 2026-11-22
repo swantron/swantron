@@ -1,4 +1,5 @@
 ---
+id: 622
 title: 'Custom Silverado SS'
 date: 2010-07-08T15:36:16+00:00
 slug: 'custom-silverado-ss'

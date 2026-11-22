@@ -1,4 +1,5 @@
 ---
+id: 774
 title: 'Ubuntu Natty Netbook'
 date: 2011-06-09T21:01:50+00:00
 slug: 'ubuntu-natty-netbook'

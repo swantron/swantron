@@ -1,4 +1,5 @@
 ---
+id: 80
 title: 'Morrison Militia Update'
 date: 2006-06-07T20:39:52+00:00
 slug: 'morrison-malita-update'

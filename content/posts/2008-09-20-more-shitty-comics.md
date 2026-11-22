@@ -1,4 +1,5 @@
 ---
+id: 319
 title: 'More Shitty Comics'
 date: 2008-09-20T14:08:21+00:00
 slug: 'more-shitty-comics'

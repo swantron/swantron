@@ -1,4 +1,5 @@
 ---
+id: 177
 title: 'Red Bull Chug…Why Not?'
 date: 2007-04-18T18:35:14+00:00
 slug: 'red-bull-chugwhy-not'

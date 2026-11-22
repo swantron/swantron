@@ -1,4 +1,5 @@
 ---
+id: 821
 title: 'IOIO Servo Controller'
 date: 2011-09-24T16:30:27+00:00
 slug: 'ioio-servo-controller'

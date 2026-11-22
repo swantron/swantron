@@ -1,4 +1,5 @@
 ---
+id: 1011
 title: '242'
 date: 2026-03-27T00:00:00+00:00
 slug: 'mario-galaxy-2'

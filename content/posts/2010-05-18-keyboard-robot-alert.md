@@ -1,4 +1,5 @@
 ---
+id: 572
 title: 'Keyboard Robot Alert'
 date: 2010-05-18T18:39:34+00:00
 slug: 'keyboard-robot-alert'

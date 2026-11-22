@@ -1,4 +1,5 @@
 ---
+id: 592
 title: 'Found:  My Dream Robotics Project'
 date: 2010-06-06T10:05:23+00:00
 slug: 'found-my-dream-robotics-project'

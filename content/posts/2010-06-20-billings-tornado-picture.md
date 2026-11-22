@@ -1,4 +1,5 @@
 ---
+id: 603
 title: 'Billings Tornado Picture'
 date: 2010-06-20T16:38:18+00:00
 slug: 'billings-tornado-picture'

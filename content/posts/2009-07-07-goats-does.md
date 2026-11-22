@@ -1,4 +1,5 @@
 ---
+id: 366
 title: "GOAT’S DOE’S"
 date: 2009-07-07T15:05:54+00:00
 slug: 'goats-does'

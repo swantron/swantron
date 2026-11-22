@@ -1,4 +1,5 @@
 ---
+id: 681
 title: 'Nerd Wish List'
 date: 2010-11-01T14:03:30+00:00
 slug: 'nerd-wish-list'

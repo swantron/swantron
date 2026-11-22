@@ -1,4 +1,5 @@
 ---
+id: 842
 title: 'Virtually Awesome'
 date: 2011-11-02T12:23:29+00:00
 slug: 'virtually-awesome'

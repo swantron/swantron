@@ -1,4 +1,5 @@
 ---
+id: 399
 title: 'Costume Idea #1'
 date: 2009-10-25T15:25:53+00:00
 slug: 'costume-idea-1'

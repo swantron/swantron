@@ -1,4 +1,5 @@
 ---
+id: 804
 title: 'Blown Multimeter'
 date: 2011-08-19T09:50:28+00:00
 slug: 'blown-multimeter'

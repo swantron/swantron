@@ -1,4 +1,5 @@
 ---
+id: 110
 title: 'Bozeman Book Brigade'
 date: 2006-10-08T15:43:55+00:00
 slug: 'bozeman-book-brigade'

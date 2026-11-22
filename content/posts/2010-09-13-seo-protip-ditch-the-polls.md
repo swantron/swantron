@@ -1,4 +1,5 @@
 ---
+id: 652
 title: 'SEO Protip:  Ditch the Polls'
 date: 2010-09-13T18:51:25+00:00
 slug: 'seo-protip-ditch-the-polls'

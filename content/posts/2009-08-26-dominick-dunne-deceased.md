@@ -1,4 +1,5 @@
 ---
+id: 384
 title: 'Dominick Dunne, Deceased'
 date: 2009-08-26T14:11:59+00:00
 slug: 'dominick-dunne-deceased'

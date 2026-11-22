@@ -1,4 +1,5 @@
 ---
+id: 354
 title: 'The Cholula Incident'
 date: 2009-05-30T17:29:40+00:00
 slug: 'craigslist-antics'

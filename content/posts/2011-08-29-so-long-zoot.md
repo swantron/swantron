@@ -1,4 +1,5 @@
 ---
+id: 808
 title: 'So Long, Zoot'
 date: 2011-08-29T18:46:04+00:00
 slug: 'so-long-zoot'

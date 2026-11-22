@@ -1,4 +1,5 @@
 ---
+id: 941
 title: 'Occidental Distro Setup'
 date: 2012-09-24T08:12:19+00:00
 slug: 'occidental-distro-setup'

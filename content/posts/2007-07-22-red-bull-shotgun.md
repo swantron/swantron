@@ -1,4 +1,5 @@
 ---
+id: 211
 title: 'Red Bull Shotgun'
 date: 2007-07-22T17:38:55+00:00
 slug: 'red-bull-shotgun'

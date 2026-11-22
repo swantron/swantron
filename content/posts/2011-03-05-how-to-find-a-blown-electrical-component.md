@@ -1,4 +1,5 @@
 ---
+id: 723
 title: 'How To Find A Blown Electrical Component'
 date: 2011-03-05T19:59:37+00:00
 slug: 'how-to-find-a-blown-electrical-component'

@@ -1,4 +1,5 @@
 ---
+id: 472
 title: 'iPad: iThe iDeal iB-iB-iBreaker'
 date: 2010-01-27T21:31:29+00:00
 slug: 'ipad-ithe-ideal-ib-ib-ibreaker'

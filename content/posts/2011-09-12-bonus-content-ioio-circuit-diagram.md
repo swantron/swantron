@@ -1,4 +1,5 @@
 ---
+id: 815
 title: 'Bonus Content: IOIO Circuit Diagram'
 date: 2011-09-12T18:39:11+00:00
 slug: 'bonus-content-ioio-circuit-diagram'

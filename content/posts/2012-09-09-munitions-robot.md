@@ -1,4 +1,5 @@
 ---
+id: 938
 title: 'Munitions Robot'
 date: 2012-09-09T10:07:16+00:00
 slug: 'munitions-robot'

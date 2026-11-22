@@ -1,4 +1,5 @@
 ---
+id: 70
 title: 'Lack of Photo Content'
 date: 2006-04-17T15:39:22+00:00
 slug: 'lack-of-photo-content'

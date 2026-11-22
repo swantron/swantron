@@ -1,4 +1,5 @@
 ---
+id: 913
 title: 'Bonus Bacon Lattice'
 date: 2012-05-17T14:38:44+00:00
 slug: 'bonus-bacon-lattice'

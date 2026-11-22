@@ -1,4 +1,5 @@
 ---
+id: 917
 title: 'Script Kiddie'
 date: 2012-06-12T17:29:06+00:00
 slug: 'script-kiddie'

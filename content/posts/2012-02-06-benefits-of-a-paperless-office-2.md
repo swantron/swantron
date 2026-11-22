@@ -1,4 +1,5 @@
 ---
+id: 888
 title: 'Benefits of a Paperless Office'
 date: 2012-02-06T17:32:15+00:00
 slug: 'benefits-of-a-paperless-office'

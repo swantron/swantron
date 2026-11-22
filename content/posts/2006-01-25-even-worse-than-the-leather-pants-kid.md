@@ -1,4 +1,5 @@
 ---
+id: 50
 title: 'Even Worse Than the Leather Pants Kid'
 date: 2006-01-25T17:42:03+00:00
 slug: 'even-worse-than-the-leather-pants-kid'

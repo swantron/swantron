@@ -1,4 +1,5 @@
 ---
+id: 742
 title: 'Ping Sensor Project Preview'
 date: 2011-04-10T17:54:51+00:00
 slug: 'ping-sensor-project-preview'

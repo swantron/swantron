@@ -1,4 +1,5 @@
 ---
+id: 377
 title: "Big Ol’ Weiner"
 date: 2009-08-05T12:45:00+00:00
 slug: 'big-ol-weiner'

@@ -1,4 +1,5 @@
 ---
+id: 1007
 title: 'WordPress to Hugo Migration'
 date: 2026-01-18T05:00:00+00:00
 slug: 'wordpress-to-hugo-migration'

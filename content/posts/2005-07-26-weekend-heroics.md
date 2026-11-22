@@ -1,4 +1,5 @@
 ---
+id: 2
 title: 'Weekend Heroics'
 date: 2005-07-26T20:29:13+00:00
 slug: 'weekend-heroics'

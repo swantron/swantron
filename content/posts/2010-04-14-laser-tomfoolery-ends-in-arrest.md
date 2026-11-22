@@ -1,4 +1,5 @@
 ---
+id: 541
 title: 'Laser Tomfoolery Ends in Arrest'
 date: 2010-04-14T12:27:37+00:00
 slug: 'laser-tomfoolery-ends-in-arrest'

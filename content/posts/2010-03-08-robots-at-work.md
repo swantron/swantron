@@ -1,4 +1,5 @@
 ---
+id: 505
 title: 'Robots at Work'
 date: 2010-03-08T16:40:46+00:00
 slug: 'robots-at-work'

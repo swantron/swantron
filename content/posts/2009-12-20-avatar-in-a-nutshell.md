@@ -1,4 +1,5 @@
 ---
+id: 435
 title: 'Avatar in a Nutshell'
 date: 2009-12-20T12:37:04+00:00
 slug: 'avatar-in-a-nutshell'

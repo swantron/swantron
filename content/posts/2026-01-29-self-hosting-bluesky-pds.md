@@ -1,4 +1,5 @@
 ---
+id: 1008
 title: 'Self-Hosting a Bluesky PDS'
 date: 2026-01-29T20:15:00+00:00
 slug: 'self-hosting-bluesky-pds'

@@ -1,4 +1,5 @@
 ---
+id: 536
 title: 'Microsoft Hohm FTW!'
 date: 2010-04-08T09:07:22+00:00
 slug: 'microsoft-hohm-ftw'

@@ -1,4 +1,5 @@
 ---
+id: 251
 title: 'B.O.B. Shooting, Revisited'
 date: 2008-01-16T17:45:40+00:00
 slug: 'bob-shooting-revisited'

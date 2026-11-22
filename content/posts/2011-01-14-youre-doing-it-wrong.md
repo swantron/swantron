@@ -1,4 +1,5 @@
 ---
+id: 704
 title: "You’re Doing it Wrong"
 date: 2011-01-14T16:02:47+00:00
 slug: 'youre-doing-it-wrong'

@@ -1,4 +1,5 @@
 ---
+id: 342
 title: 'Seyonara Seven'
 date: 2009-01-12T21:19:44+00:00
 slug: 'seyonara-seven'

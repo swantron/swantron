@@ -1,4 +1,5 @@
 ---
+id: 360
 title: 'Just a Bad Idea…'
 date: 2009-06-26T09:02:23+00:00
 slug: 'just-a-bad-idea'

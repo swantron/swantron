@@ -1,4 +1,5 @@
 ---
+id: 193
 title: 'Weekend Video #2'
 date: 2007-05-28T19:58:50+00:00
 slug: 'weekend-video'

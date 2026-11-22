@@ -1,4 +1,5 @@
 ---
+id: 524
 title: 'SpaceShipTwo'
 date: 2010-03-24T18:29:44+00:00
 slug: 'spaceshiptwo'

@@ -1,4 +1,5 @@
 ---
+id: 528
 title: 'Oblig unixkcd'
 date: 2010-04-01T09:18:53+00:00
 slug: 'oblig-unixkcd'

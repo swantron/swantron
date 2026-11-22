@@ -1,4 +1,5 @@
 ---
+id: 311
 title: 'Wrigley Rules'
 date: 2008-08-20T19:20:50+00:00
 slug: 'wrigley-rules'

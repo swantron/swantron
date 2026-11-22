@@ -1,4 +1,5 @@
 ---
+id: 318
 title: 'Comics are Horrible III'
 date: 2008-09-18T18:39:19+00:00
 slug: 'comics-are-horrible-iii'

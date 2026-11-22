@@ -1,4 +1,5 @@
 ---
+id: 930
 title: 'Giant Shades'
 date: 2012-08-13T19:26:29+00:00
 slug: 'giant-shades'

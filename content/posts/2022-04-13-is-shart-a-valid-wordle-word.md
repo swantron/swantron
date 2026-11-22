@@ -1,4 +1,5 @@
 ---
+id: 992
 title: 'is shart a valid wordle word?'
 date: 2022-04-13T14:31:00+00:00
 slug: 'is-shart-a-valid-wordle-word'

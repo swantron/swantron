@@ -1,4 +1,5 @@
 ---
+id: 614
 title: 'The Great Bozeman Storm of 2010'
 date: 2010-07-01T19:36:49+00:00
 slug: 'the-great-bozeman-storm-of-2010'

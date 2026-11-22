@@ -1,4 +1,5 @@
 ---
+id: 749
 title: 'The Salsa Incident 2'
 date: 2011-04-26T18:55:58+00:00
 slug: 'the-salsa-incident-2'

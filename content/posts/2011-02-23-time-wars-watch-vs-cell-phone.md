@@ -1,4 +1,5 @@
 ---
+id: 718
 title: 'Time Wars…Watch vs Cell Phone'
 date: 2011-02-23T12:00:00+00:00
 slug: 'time-wars-watch-vs-cell-phone'

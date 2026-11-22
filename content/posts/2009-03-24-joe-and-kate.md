@@ -1,4 +1,5 @@
 ---
+id: 347
 title: 'joe and kate'
 date: 2009-03-24T21:35:23+00:00
 slug: 'joe-and-kate'

@@ -1,4 +1,5 @@
 ---
+id: 281
 title: 'Muppet Rick Roll'
 date: 2008-04-03T16:25:01+00:00
 slug: 'muppet-rick-roll'

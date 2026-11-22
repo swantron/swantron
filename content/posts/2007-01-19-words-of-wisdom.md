@@ -1,4 +1,5 @@
 ---
+id: 142
 title: 'Words of Wisdom'
 date: 2007-01-19T15:57:03+00:00
 slug: 'words-of-wisdom'

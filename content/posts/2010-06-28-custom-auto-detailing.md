@@ -1,4 +1,5 @@
 ---
+id: 608
 title: 'Custom Auto Detailing'
 date: 2010-06-28T17:07:43+00:00
 slug: 'custom-auto-detailing'

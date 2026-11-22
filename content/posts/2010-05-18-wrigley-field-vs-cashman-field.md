@@ -1,4 +1,5 @@
 ---
+id: 571
 title: 'Wrigley Field /vs/ Cashman Field'
 date: 2010-05-18T11:54:00+00:00
 slug: 'wrigley-field-vs-cashman-field'

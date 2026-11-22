@@ -1,4 +1,5 @@
 ---
+id: 710
 title: 'Home Security Chat'
 date: 2011-02-12T16:42:50+00:00
 slug: 'home-security-chat'

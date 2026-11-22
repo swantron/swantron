@@ -1,4 +1,5 @@
 ---
+id: 691
 title: 'North Face Denali'
 date: 2010-12-07T10:43:26+00:00
 slug: 'north-face-denali'

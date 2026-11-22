@@ -1,4 +1,5 @@
 ---
+id: 520
 title: 'Improving Existing Products: A How-to'
 date: 2010-03-20T15:08:53+00:00
 slug: 'improving-existing-products-a-how-to'

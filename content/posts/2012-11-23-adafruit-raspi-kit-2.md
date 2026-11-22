@@ -1,4 +1,5 @@
 ---
+id: 950
 title: 'Adafruit Raspi Kit'
 date: 2012-11-23T15:37:58+00:00
 slug: 'adafruit-raspi-kit'

@@ -1,4 +1,5 @@
 ---
+id: 656
 title: 'How Fiber Optics Work'
 date: 2010-09-17T19:23:20+00:00
 slug: 'how-fiber-optics-work'

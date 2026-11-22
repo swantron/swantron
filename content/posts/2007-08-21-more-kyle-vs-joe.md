@@ -1,4 +1,5 @@
 ---
+id: 218
 title: 'More Kyle /vs/ Joe'
 date: 2007-08-21T18:38:10+00:00
 slug: 'more-kyle-vs-joe'

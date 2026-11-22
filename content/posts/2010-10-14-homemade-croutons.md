@@ -1,4 +1,5 @@
 ---
+id: 668
 title: 'Homemade Croutons'
 date: 2010-10-14T15:37:57+00:00
 slug: 'homemade-croutons'

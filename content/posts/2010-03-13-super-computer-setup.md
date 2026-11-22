@@ -1,4 +1,5 @@
 ---
+id: 513
 title: 'Super Computer Setup'
 date: 2010-03-13T15:47:05+00:00
 slug: 'super-computer-setup'

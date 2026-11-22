@@ -1,4 +1,5 @@
 ---
+id: 770
 title: 'Python Teaser'
 date: 2011-05-30T19:41:08+00:00
 slug: 'python-teaser'

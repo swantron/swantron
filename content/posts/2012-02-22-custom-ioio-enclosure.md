@@ -1,4 +1,5 @@
 ---
+id: 894
 title: 'Custom IOIO Enclosure'
 date: 2012-02-22T11:09:11+00:00
 slug: 'custom-ioio-enclosure'

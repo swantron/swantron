@@ -1,4 +1,5 @@
 ---
+id: 83
 title: "Swanny’s Hunting Prowess"
 date: 2006-06-26T21:45:39+00:00
 slug: 'swannys-hunting-prowess'

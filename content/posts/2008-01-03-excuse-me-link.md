@@ -1,4 +1,5 @@
 ---
+id: 247
 title: 'Excuse Me, Link'
 date: 2008-01-03T14:13:51+00:00
 slug: 'excuse-me-link'

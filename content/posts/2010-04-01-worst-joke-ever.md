@@ -1,4 +1,5 @@
 ---
+id: 530
 title: 'Worst.  Joke.  Ever.'
 date: 2010-04-01T17:58:22+00:00
 slug: 'worst-joke-ever'

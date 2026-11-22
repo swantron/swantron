@@ -1,4 +1,5 @@
 ---
+id: 1004
 title: 'Secure Base Images for Docker'
 date: 2025-11-30T04:45:00+00:00
 slug: 'secure-base-images'

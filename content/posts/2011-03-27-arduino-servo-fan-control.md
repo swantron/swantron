@@ -1,4 +1,5 @@
 ---
+id: 734
 title: 'Arduino Servo Fan Control'
 date: 2011-03-27T17:30:20+00:00
 slug: 'arduino-servo-fan-control'

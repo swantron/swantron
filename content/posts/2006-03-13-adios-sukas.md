@@ -1,4 +1,5 @@
 ---
+id: 64
 title: 'Adios Sukas'
 date: 2006-03-13T16:52:25+00:00
 slug: 'adios-sukas'

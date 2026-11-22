@@ -1,4 +1,5 @@
 ---
+id: 512
 title: 'Green Robots Attack'
 date: 2010-03-12T15:47:19+00:00
 slug: 'green-robots-attack'

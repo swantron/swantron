@@ -1,4 +1,5 @@
 ---
+id: 623
 title: 'Lou Piniella Retires'
 date: 2010-07-20T12:45:34+00:00
 slug: 'lou-piniella-retires'

@@ -1,4 +1,5 @@
 ---
+id: 722
 title: 'Minimizing Distractions at Work'
 date: 2011-03-04T15:26:09+00:00
 slug: 'minimizing-distractions-at-work'

@@ -1,4 +1,5 @@
 ---
+id: 706
 title: 'Just…About…Published…'
 date: 2011-01-17T22:00:06+00:00
 slug: 'just-about-published'

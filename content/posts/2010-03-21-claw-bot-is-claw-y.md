@@ -1,4 +1,5 @@
 ---
+id: 521
 title: 'Claw-bot is Claw-y'
 date: 2010-03-21T14:59:29+00:00
 slug: 'claw-bot-is-claw-y'

@@ -1,4 +1,5 @@
 ---
+id: 647
 title: 'How to Hang a Heavy Bag'
 date: 2010-09-01T19:36:25+00:00
 slug: 'how-to-hang-a-heavy-bag'

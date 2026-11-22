@@ -1,4 +1,5 @@
 ---
+id: 497
 title: 'Great Idea of the Day:  Cooler Chair'
 date: 2010-02-22T18:28:57+00:00
 slug: 'great-idea-of-the-day-cooler-chair'

@@ -1,4 +1,5 @@
 ---
+id: 427
 title: 'From Inept RA to Inept Sex Offender'
 date: 2009-12-11T09:32:56+00:00
 slug: 'from-inept-ra-to-inept-sex-offender'

@@ -1,4 +1,5 @@
 ---
+id: 57
 title: 'Celebrity endorsement'
 date: 2006-02-21T10:46:39+00:00
 slug: 'celebrity-endorsement'

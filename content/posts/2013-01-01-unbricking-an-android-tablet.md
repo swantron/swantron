@@ -1,4 +1,5 @@
 ---
+id: 953
 title: 'Unbricking an Android Tablet'
 date: 2013-01-01T16:59:04+00:00
 slug: 'unbricking-an-android-tablet'

@@ -1,4 +1,5 @@
 ---
+id: 832
 title: 'Work Monitor Upgrade'
 date: 2011-10-12T16:49:58+00:00
 slug: 'work-monitor-upgrade'

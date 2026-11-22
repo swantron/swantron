@@ -1,4 +1,5 @@
 ---
+id: 27
 title: 'Greetings from WalMart'
 date: 2005-11-15T18:03:05+00:00
 slug: 'greetings-from-walmart'

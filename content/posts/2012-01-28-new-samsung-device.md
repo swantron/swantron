@@ -1,4 +1,5 @@
 ---
+id: 884
 title: 'New Samsung Device'
 date: 2012-01-28T17:13:39+00:00
 slug: 'new-samsung-device'

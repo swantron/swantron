@@ -1,4 +1,5 @@
 ---
+id: 533
 title: 'Cup-bot is Wax-y'
 date: 2010-04-05T18:39:15+00:00
 slug: 'cup-bot-is-wax-y'

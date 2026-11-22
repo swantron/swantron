@@ -1,4 +1,5 @@
 ---
+id: 106
 title: 'Weird Fans'
 date: 2006-09-25T17:31:30+00:00
 slug: 'weird-fans'

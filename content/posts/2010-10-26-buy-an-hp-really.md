@@ -1,4 +1,5 @@
 ---
+id: 675
 title: 'Buy an HP… Really'
 date: 2010-10-26T18:05:32+00:00
 slug: 'buy-an-hp-really'

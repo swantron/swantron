@@ -1,4 +1,5 @@
 ---
+id: 189
 title: 'More Onion News'
 date: 2007-05-15T19:14:10+00:00
 slug: 'more-onion-news'

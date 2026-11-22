@@ -1,4 +1,5 @@
 ---
+id: 923
 title: 'Four Corners Corona'
 date: 2012-07-06T22:29:12+00:00
 slug: 'four-corners-corona'

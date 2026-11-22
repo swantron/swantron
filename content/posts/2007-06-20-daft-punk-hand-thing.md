@@ -1,4 +1,5 @@
 ---
+id: 200
 title: 'Daft Punk Hand Thing'
 date: 2007-06-20T17:54:16+00:00
 slug: 'daft-punk-hand-thing'

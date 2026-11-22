@@ -1,4 +1,5 @@
 ---
+id: 69
 title: 'A Few Things'
 date: 2006-04-03T20:23:12+00:00
 slug: 'a-few-things'

@@ -1,4 +1,5 @@
 ---
+id: 584
 title: 'Business Card 2.0'
 date: 2010-05-31T14:44:50+00:00
 slug: 'business-card-2-0'

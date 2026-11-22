@@ -1,4 +1,5 @@
 ---
+id: 321
 title: 'Comics are Still Horrible'
 date: 2008-09-21T17:27:19+00:00
 slug: 'comics-are-still-horrible'

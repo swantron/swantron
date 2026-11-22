@@ -1,4 +1,5 @@
 ---
+id: 846
 title: 'The Bozeman Bear Incident'
 date: 2011-11-08T19:49:42+00:00
 slug: 'the-bozeman-bear-incident'

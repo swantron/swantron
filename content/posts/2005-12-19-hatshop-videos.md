@@ -1,4 +1,5 @@
 ---
+id: 35
 title: 'Hatshop videos'
 date: 2005-12-19T12:00:00+00:00
 slug: 'hatshop-videos'

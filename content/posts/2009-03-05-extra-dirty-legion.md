@@ -1,4 +1,5 @@
 ---
+id: 346
 title: 'Extra Dirty Legion'
 date: 2009-03-05T18:30:56+00:00
 slug: 'extra-dirty-legion'

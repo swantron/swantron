@@ -1,4 +1,5 @@
 ---
+id: 527
 title: 'Sunday Funday w/ D-Rock'
 date: 2010-03-29T09:25:18+00:00
 slug: 'sunday-funday-w-d-rock'

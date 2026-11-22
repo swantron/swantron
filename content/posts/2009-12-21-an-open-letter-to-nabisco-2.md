@@ -1,4 +1,5 @@
 ---
+id: 437
 title: 'An open letter to Nabisco'
 date: 2009-12-21T16:45:07+00:00
 slug: 'an-open-letter-to-nabisco'

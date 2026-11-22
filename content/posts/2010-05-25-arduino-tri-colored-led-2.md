@@ -1,4 +1,5 @@
 ---
+id: 580
 title: 'Arduino Tri-Colored LED'
 date: 2010-05-25T20:59:39+00:00
 slug: 'arduino-tri-colored-led'

@@ -1,4 +1,5 @@
 ---
+id: 633
 title: 'Samsung Vibrant Info'
 date: 2010-08-04T17:55:14+00:00
 slug: 'samsung-vibrant-info'

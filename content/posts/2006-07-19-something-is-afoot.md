@@ -1,4 +1,5 @@
 ---
+id: 86
 title: 'Something is Afoot.'
 date: 2006-07-19T18:11:28+00:00
 slug: 'something-is-afoot'

@@ -1,4 +1,5 @@
 ---
+id: 7
 title: 'For the Kids!'
 date: 2005-08-23T20:55:10+00:00
 slug: 'for-the-kids'

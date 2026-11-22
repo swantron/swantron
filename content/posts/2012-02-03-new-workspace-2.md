@@ -1,4 +1,5 @@
 ---
+id: 887
 title: 'New Workspace'
 date: 2012-02-03T17:25:37+00:00
 slug: 'new-workspace'

@@ -1,4 +1,5 @@
 ---
+id: 498
 title: 'Lost recap: the lighthouse'
 date: 2010-02-23T22:26:13+00:00
 slug: 'lost-recap-the-lighthouse'

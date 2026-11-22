@@ -1,4 +1,5 @@
 ---
+id: 595
 title: 'Solar Panel LED Set-up'
 date: 2010-06-12T13:35:22+00:00
 slug: 'solar-panel-led-set-up'

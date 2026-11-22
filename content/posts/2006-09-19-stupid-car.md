@@ -1,4 +1,5 @@
 ---
+id: 103
 title: 'Stupid Car'
 date: 2006-09-19T23:12:55+00:00
 slug: 'stupid-car'

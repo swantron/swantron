@@ -9,7 +9,7 @@ staff software engineer @ demandbase — devx · ci/cd · iac · ai tooling · r
 - **[tronswan.com](https://tronswan.com)** — personal portfolio + experiments hub. react 19, react router 7, vite, deployed on digitalocean app platform.
 - **[chomptron.com](https://chomptron.com)** — ai recipe generator powered by google gemini. node + express, deployed on google cloud run.
 - **[wrenchtron.com](https://wrenchtron.com)** — vehicle maintenance tracker for mixed fleets. next.js 15, firebase, offline-capable pwa.
-- **[swantron.com](https://swantron.com)** — the og blog. fourteen years of posts, recently migrated wordpress → hugo. [hall of fame](https://swantron.com/hof/) collects the standouts.
+- **[swantron.com](https://swantron.com)** — the og blog. posts since 2005, migrated from wordpress to hugo. [hall of fame](https://swantron.com/hof/) collects the standouts.
 
 ## things i've open-sourced
 

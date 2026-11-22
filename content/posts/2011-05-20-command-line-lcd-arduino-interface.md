@@ -1,4 +1,5 @@
 ---
+id: 766
 title: 'Command Line LCD Arduino Interface'
 date: 2011-05-20T12:44:20+00:00
 slug: 'command-line-lcd-arduino-interface'

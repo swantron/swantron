@@ -1,4 +1,5 @@
 ---
+id: 629
 title: "Comics that aren't Horrible"
 date: 2010-07-29T17:45:49+00:00
 slug: 'comics-that-arent-horrible'

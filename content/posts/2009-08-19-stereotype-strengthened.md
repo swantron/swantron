@@ -1,4 +1,5 @@
 ---
+id: 382
 title: 'Stereotype…Strengthened!'
 date: 2009-08-19T12:15:25+00:00
 slug: 'stereotype-strengthened'

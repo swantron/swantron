@@ -1,4 +1,5 @@
 ---
+id: 568
 title: 'Awesome Robot'
 date: 2010-05-12T17:12:05+00:00
 slug: 'awesome-robot'

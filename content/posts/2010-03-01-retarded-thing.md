@@ -1,4 +1,5 @@
 ---
+id: 503
 title: 'Retarded Thing'
 date: 2010-03-01T21:36:40+00:00
 slug: 'retarded-thing'

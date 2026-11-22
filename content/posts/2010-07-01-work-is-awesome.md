@@ -1,4 +1,5 @@
 ---
+id: 612
 title: 'Work is Awesome'
 date: 2010-07-01T18:44:02+00:00
 slug: 'work-is-awesome'

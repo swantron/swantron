@@ -1,4 +1,5 @@
 ---
+id: 381
 title: "I’m Not Mad, I’m Just Disapointed."
 date: 2009-08-19T12:02:44+00:00
 slug: 'im-not-mad-im-just-disapointed'

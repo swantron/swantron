@@ -1,4 +1,5 @@
 ---
+id: 380
 title: 'President Obaman'
 date: 2009-08-14T08:30:56+00:00
 slug: 'president-obaman'

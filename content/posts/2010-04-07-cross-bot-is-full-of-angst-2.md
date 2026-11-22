@@ -1,4 +1,5 @@
 ---
+id: 535
 title: 'Cross-bot is Full of Angst'
 date: 2010-04-07T17:27:27+00:00
 slug: 'cross-bot-is-full-of-angst'

@@ -1,4 +1,5 @@
 ---
+id: 92
 title: 'Minstrel Show'
 date: 2006-08-08T19:36:25+00:00
 slug: 'minstrel-show'

@@ -1,4 +1,5 @@
 ---
+id: 969
 title: 'How to Code'
 date: 2013-08-02T15:21:31+00:00
 slug: 'how-to-code'

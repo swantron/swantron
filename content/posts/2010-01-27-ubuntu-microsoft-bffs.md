@@ -1,4 +1,5 @@
 ---
+id: 469
 title: 'Ubuntu + Microsoft = BFFs'
 date: 2010-01-27T11:08:52+00:00
 slug: 'ubuntu-microsoft-bffs'

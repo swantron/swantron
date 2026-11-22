@@ -1,4 +1,5 @@
 ---
+id: 828
 title: 'Stock Control System Info'
 date: 2011-10-10T19:25:19+00:00
 slug: 'stock-control-system-info'

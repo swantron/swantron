@@ -1,4 +1,5 @@
 ---
+id: 350
 title: 'New IM Weapon'
 date: 2009-04-17T15:16:21+00:00
 slug: 'new-im-weapon'

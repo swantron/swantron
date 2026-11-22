@@ -1,4 +1,5 @@
 ---
+id: 943
 title: 'New Shovel'
 date: 2012-10-15T12:18:21+00:00
 slug: 'new-shovel'

@@ -1,4 +1,5 @@
 ---
+id: 787
 title: 'WordPress 3.2 Custom Layout'
 date: 2011-07-07T17:14:16+00:00
 slug: 'wordpress-3-2-custom-layout'

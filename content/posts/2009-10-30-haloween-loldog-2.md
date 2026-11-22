@@ -1,4 +1,5 @@
 ---
+id: 402
 title: 'Haloween Loldog'
 date: 2009-10-30T15:15:51+00:00
 slug: 'haloween-loldog'

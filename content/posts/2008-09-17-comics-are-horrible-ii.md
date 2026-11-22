@@ -1,4 +1,5 @@
 ---
+id: 317
 title: 'Comics are Horrible II'
 date: 2008-09-17T17:41:18+00:00
 slug: 'comics-are-horrible-ii'

@@ -1,4 +1,5 @@
 ---
+id: 494
 title: 'Maui Cameras (and space science)'
 date: 2010-02-18T15:37:00+00:00
 slug: 'maui-cameras-and-space-science'

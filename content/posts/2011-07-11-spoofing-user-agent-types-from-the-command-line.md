@@ -1,4 +1,5 @@
 ---
+id: 789
 title: 'Spoofing User Agent Types from the Command line'
 date: 2011-07-11T11:19:41+00:00
 slug: 'spoofing-user-agent-types-from-the-command-line'

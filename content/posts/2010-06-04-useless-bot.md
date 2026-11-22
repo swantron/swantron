@@ -1,4 +1,5 @@
 ---
+id: 589
 title: 'Useless-bot'
 date: 2010-06-04T19:47:10+00:00
 slug: 'useless-bot'

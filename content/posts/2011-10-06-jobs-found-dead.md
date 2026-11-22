@@ -1,4 +1,5 @@
 ---
+id: 825
 title: 'Jobs Found Dead'
 date: 2011-10-06T09:37:32+00:00
 slug: 'jobs-found-dead'

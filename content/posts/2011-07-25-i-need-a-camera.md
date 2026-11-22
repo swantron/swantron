@@ -1,4 +1,5 @@
 ---
+id: 794
 title: 'I Need a Camera'
 date: 2011-07-25T19:51:21+00:00
 slug: 'i-need-a-camera'

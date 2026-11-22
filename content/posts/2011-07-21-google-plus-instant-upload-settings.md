@@ -1,4 +1,5 @@
 ---
+id: 793
 title: 'Google Plus Instant Upload Settings'
 date: 2011-07-21T12:49:30+00:00
 slug: 'google-plus-instant-upload-settings'

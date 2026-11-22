@@ -1,4 +1,5 @@
 ---
+id: 302
 title: 'Cat/Griz Scramble'
 date: 2008-07-01T20:57:56+00:00
 slug: 'catgriz-scramble'

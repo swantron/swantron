@@ -1,4 +1,5 @@
 ---
+id: 697
 title: 'New Egg: A Tribute to Angry Birds'
 date: 2010-12-25T12:37:27+00:00
 slug: 'new-egg-a-tribute-to-angry-birds'

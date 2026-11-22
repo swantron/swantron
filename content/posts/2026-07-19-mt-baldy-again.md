@@ -1,4 +1,5 @@
 ---
+id: 1016
 title: 'Mount Baldy, Again'
 date: 2026-07-19T00:00:00+00:00
 slug: 'mt-baldy-again'

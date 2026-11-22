@@ -1,4 +1,5 @@
 ---
+id: 812
 title: 'IOIO PowerSwitch Project'
 date: 2011-09-05T17:52:09+00:00
 slug: 'ioio-powerswitch-project'

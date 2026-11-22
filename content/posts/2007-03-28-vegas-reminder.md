@@ -1,4 +1,5 @@
 ---
+id: 168
 title: 'Vegas Reminder'
 date: 2007-03-28T10:11:04+00:00
 slug: 'vegas-reminder'

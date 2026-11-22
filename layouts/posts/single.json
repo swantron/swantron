@@ -1,0 +1,1 @@
+{{- partial "api-post.html" (dict "page" . "content" true) -}}

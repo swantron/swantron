@@ -1,4 +1,5 @@
 ---
+id: 861
 title: 'Quad Monitors'
 date: 2011-12-11T21:32:12+00:00
 slug: 'quad-monitors'

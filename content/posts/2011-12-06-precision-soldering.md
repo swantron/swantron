@@ -1,4 +1,5 @@
 ---
+id: 857
 title: 'Precision Soldering'
 date: 2011-12-06T08:58:47+00:00
 slug: 'precision-soldering'

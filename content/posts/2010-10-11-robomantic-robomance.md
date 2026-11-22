@@ -1,4 +1,5 @@
 ---
+id: 666
 title: 'Robomantic Robomance'
 date: 2010-10-11T12:35:08+00:00
 slug: 'robomantic-robomance'

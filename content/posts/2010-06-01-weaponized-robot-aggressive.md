@@ -1,4 +1,5 @@
 ---
+id: 585
 title: 'Weaponized Robot = Aggressive'
 date: 2010-06-01T20:53:49+00:00
 slug: 'weaponized-robot-aggressive'

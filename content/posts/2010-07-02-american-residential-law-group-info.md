@@ -1,4 +1,5 @@
 ---
+id: 615
 title: 'american residential law group info'
 date: 2010-07-02T17:29:04+00:00
 slug: 'american-residential-law-group-info'

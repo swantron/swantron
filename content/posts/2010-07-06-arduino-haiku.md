@@ -1,4 +1,5 @@
 ---
+id: 621
 title: 'Arduino Haiku'
 date: 2010-07-06T17:51:15+00:00
 slug: 'arduino-haiku'

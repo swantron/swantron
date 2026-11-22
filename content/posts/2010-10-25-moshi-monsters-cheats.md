@@ -1,4 +1,5 @@
 ---
+id: 673
 title: 'Moshi Monsters Cheats'
 date: 2010-10-25T15:58:14+00:00
 slug: 'moshi-monsters-cheats'

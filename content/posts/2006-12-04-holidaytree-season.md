@@ -1,4 +1,5 @@
 ---
+id: 123
 title: 'Holidaytree Season'
 date: 2006-12-04T21:39:43+00:00
 slug: 'holidaytree-season'

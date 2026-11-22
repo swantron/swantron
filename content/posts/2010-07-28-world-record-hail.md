@@ -1,4 +1,5 @@
 ---
+id: 627
 title: 'World Record Hail'
 date: 2010-07-28T17:04:30+00:00
 slug: 'world-record-hail'

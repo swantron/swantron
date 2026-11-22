@@ -1,4 +1,5 @@
 ---
+id: 767
 title: 'Compiz Error in Ubuntu Natty'
 date: 2011-05-23T11:46:28+00:00
 slug: 'compiz-error-in-ubuntu-natty'

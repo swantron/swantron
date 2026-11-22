@@ -1,4 +1,5 @@
 ---
+id: 192
 title: 'Memorial Weekend'
 date: 2007-05-28T01:54:37+00:00
 slug: 'memorial-weekend'

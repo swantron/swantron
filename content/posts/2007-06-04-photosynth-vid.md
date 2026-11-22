@@ -1,4 +1,5 @@
 ---
+id: 195
 title: 'Photosynth Vid'
 date: 2007-06-04T18:26:58+00:00
 slug: 'photosynth-vid'

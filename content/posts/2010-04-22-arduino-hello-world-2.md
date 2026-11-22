@@ -1,4 +1,5 @@
 ---
+id: 552
 title: 'Arduino Hello World'
 date: 2010-04-22T18:44:41+00:00
 slug: 'arduino-hello-world'

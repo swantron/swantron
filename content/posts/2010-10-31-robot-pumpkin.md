@@ -1,4 +1,5 @@
 ---
+id: 680
 title: 'Robot Pumpkin'
 date: 2010-10-31T19:52:47+00:00
 slug: 'robot-pumpkin'

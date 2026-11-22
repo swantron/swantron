@@ -1,4 +1,5 @@
 ---
+id: 916
 title: 'The Crappiest Woot Bag of Crap'
 date: 2012-06-05T21:28:08+00:00
 slug: 'the-crappiest-woot-bag-of-crap'

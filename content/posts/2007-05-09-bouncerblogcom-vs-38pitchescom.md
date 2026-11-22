@@ -1,4 +1,5 @@
 ---
+id: 184
 title: 'bouncerblog.com /vs/ 38pitches.com'
 date: 2007-05-09T19:44:07+00:00
 slug: 'bouncerblogcom-vs-38pitchescom'

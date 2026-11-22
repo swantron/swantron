@@ -1,4 +1,5 @@
 ---
+id: 927
 title: 'Swantron Global HQ'
 date: 2012-07-26T22:33:04+00:00
 slug: 'swantron-global-hq'

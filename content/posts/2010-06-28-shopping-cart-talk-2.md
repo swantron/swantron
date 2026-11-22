@@ -1,4 +1,5 @@
 ---
+id: 607
 title: 'Shopping Cart Talk'
 date: 2010-06-28T16:38:58+00:00
 slug: 'shopping-cart-talk'

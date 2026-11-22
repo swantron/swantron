@@ -1,4 +1,5 @@
 ---
+id: 475
 title: 'Amazon Recommendation Weirdness'
 date: 2010-01-31T16:17:38+00:00
 slug: 'amazon-recomendation-weirdness'

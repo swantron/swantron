@@ -1,4 +1,5 @@
 ---
+id: 391
 title: 'First Thought…'
 date: 2009-10-01T09:14:54+00:00
 slug: 'first-thought'

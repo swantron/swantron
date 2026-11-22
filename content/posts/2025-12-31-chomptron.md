@@ -1,4 +1,5 @@
 ---
+id: 1005
 title: 'Chomptron'
 date: 2025-12-31T04:00:00+00:00
 slug: 'chomptron'

@@ -1,4 +1,5 @@
 ---
+id: 470
 title: 'Apple Buzz: iSlate'
 date: 2010-01-27T11:31:29+00:00
 slug: 'apple-buzz-islate'

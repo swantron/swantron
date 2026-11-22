@@ -1,4 +1,5 @@
 ---
+id: 394
 title: 'C-Dogs Rule'
 date: 2009-10-15T13:14:00+00:00
 slug: 'c-dogs-rule'

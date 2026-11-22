@@ -1,4 +1,5 @@
 ---
+id: 896
 title: 'Chrome Robot Wheels'
 date: 2012-02-29T08:45:42+00:00
 slug: 'chrome-robot-wheels'

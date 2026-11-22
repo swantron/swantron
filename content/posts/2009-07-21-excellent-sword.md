@@ -1,4 +1,5 @@
 ---
+id: 373
 title: 'Excellent Sword'
 date: 2009-07-21T10:52:47+00:00
 slug: 'excellent-sword'

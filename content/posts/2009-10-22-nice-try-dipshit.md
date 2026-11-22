@@ -1,4 +1,5 @@
 ---
+id: 398
 title: 'Nice Try, Dipshit'
 date: 2009-10-22T16:10:24+00:00
 slug: 'nice-try-dipshit'

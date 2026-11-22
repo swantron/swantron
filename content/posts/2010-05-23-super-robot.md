@@ -1,4 +1,5 @@
 ---
+id: 576
 title: 'Super Robot'
 date: 2010-05-23T12:25:25+00:00
 slug: 'super-robot'

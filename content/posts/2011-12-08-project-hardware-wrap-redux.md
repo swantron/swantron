@@ -1,4 +1,5 @@
 ---
+id: 859
 title: 'Project Hardware Wrap Redux'
 date: 2011-12-08T07:44:52+00:00
 slug: 'project-hardware-wrap-redux'

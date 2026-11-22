@@ -1,4 +1,5 @@
 ---
+id: 877
 title: 'Managed Service Provider'
 date: 2012-01-17T19:52:24+00:00
 slug: 'managed-service-provider'

@@ -1,4 +1,5 @@
 ---
+id: 639
 title: 'Servo Schmervo…Arduino Knob'
 date: 2010-08-12T11:42:48+00:00
 slug: 'servo-schmervo-arduino-knob'

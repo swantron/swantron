@@ -1,4 +1,5 @@
 ---
+id: 522
 title: 'Applied Robotics'
 date: 2010-03-22T17:19:49+00:00
 slug: 'applied-robotics'

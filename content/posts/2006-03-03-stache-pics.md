@@ -1,4 +1,5 @@
 ---
+id: 60
 title: "'Stache Pics"
 date: 2006-03-03T18:44:29+00:00
 slug: 'stache-pics'

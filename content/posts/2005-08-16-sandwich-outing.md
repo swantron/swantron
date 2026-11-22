@@ -1,4 +1,5 @@
 ---
+id: 6
 title: 'Sandwich Outing'
 date: 2005-08-16T20:56:39+00:00
 slug: 'sandwich-outing'

@@ -1,4 +1,5 @@
 ---
+id: 826
 title: 'Managing Multiple WiFi Access Points'
 date: 2011-10-10T18:01:54+00:00
 slug: 'managing-multiple-wifi-access-points'

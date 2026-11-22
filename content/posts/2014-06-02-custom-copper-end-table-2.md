@@ -1,4 +1,5 @@
 ---
+id: 977
 title: 'Custom Copper End Table 2'
 date: 2014-06-02T16:06:15+00:00
 slug: 'custom-copper-end-table'

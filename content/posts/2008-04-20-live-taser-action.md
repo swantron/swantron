@@ -1,4 +1,5 @@
 ---
+id: 288
 title: 'Live Taser Action'
 date: 2008-04-20T18:10:51+00:00
 slug: 'live-taser-action'

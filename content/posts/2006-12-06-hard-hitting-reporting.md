@@ -1,4 +1,5 @@
 ---
+id: 124
 title: 'Hard Hitting Reporting'
 date: 2006-12-06T23:11:54+00:00
 slug: 'hard-hitting-reporting'

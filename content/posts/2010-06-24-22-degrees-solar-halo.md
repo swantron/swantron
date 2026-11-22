@@ -1,4 +1,5 @@
 ---
+id: 606
 title: '22 Degrees Solar Halo'
 date: 2010-06-24T17:12:09+00:00
 slug: '22-degrees-solar-halo'

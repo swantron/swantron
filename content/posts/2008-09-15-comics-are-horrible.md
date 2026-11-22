@@ -1,4 +1,5 @@
 ---
+id: 316
 title: 'Comics are Horrible'
 date: 2008-09-15T19:30:15+00:00
 slug: 'comics-are-horrible'

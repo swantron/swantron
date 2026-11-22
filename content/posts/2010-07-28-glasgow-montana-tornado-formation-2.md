@@ -1,4 +1,5 @@
 ---
+id: 628
 title: 'Glasgow Montana Tornado Formation'
 date: 2010-07-28T19:34:15+00:00
 slug: 'glasgow-montana-tornado-formation'

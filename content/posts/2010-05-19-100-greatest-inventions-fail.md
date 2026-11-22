@@ -1,4 +1,5 @@
 ---
+id: 574
 title: '100 Greatest Inventions Fail'
 date: 2010-05-19T15:37:51+00:00
 slug: '100-greatest-inventions-fail'

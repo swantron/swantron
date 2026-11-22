@@ -1,4 +1,5 @@
 ---
+id: 66
 title: 'Jamaican Pictorial #2'
 date: 2006-03-25T13:59:05+00:00
 slug: 'jamaican-pictorial'

@@ -1,4 +1,5 @@
 ---
+id: 170
 title: 'Eating Prowess'
 date: 2007-03-29T19:27:15+00:00
 slug: 'eating-prowess'

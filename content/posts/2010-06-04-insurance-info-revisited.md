@@ -1,4 +1,5 @@
 ---
+id: 588
 title: 'Insurance Info Revisited'
 date: 2010-06-04T18:59:59+00:00
 slug: 'insurance-info-revisited'

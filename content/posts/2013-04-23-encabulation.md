@@ -1,4 +1,5 @@
 ---
+id: 965
 title: 'Encabulation'
 date: 2013-04-23T21:00:22+00:00
 slug: 'encabulation'

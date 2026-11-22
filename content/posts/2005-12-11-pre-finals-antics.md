@@ -1,4 +1,5 @@
 ---
+id: 32
 title: 'Pre-Finals Antics'
 date: 2005-12-11T15:29:15+00:00
 slug: 'pre-finals-antics'

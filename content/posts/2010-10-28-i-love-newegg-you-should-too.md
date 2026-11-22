@@ -1,4 +1,5 @@
 ---
+id: 677
 title: 'I Love Newegg, You Should Too'
 date: 2010-10-28T18:32:17+00:00
 slug: 'i-love-newegg-you-should-too'

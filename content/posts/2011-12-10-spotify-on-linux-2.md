@@ -1,4 +1,5 @@
 ---
+id: 860
 title: 'Spotify on Linux'
 date: 2011-12-10T16:19:55+00:00
 slug: 'spotify-on-linux'

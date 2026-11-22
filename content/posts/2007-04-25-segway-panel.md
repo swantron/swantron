@@ -1,4 +1,5 @@
 ---
+id: 180
 title: 'Segway Panel'
 date: 2007-04-25T18:44:47+00:00
 slug: 'segway-panel'

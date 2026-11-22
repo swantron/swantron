@@ -1,4 +1,5 @@
 ---
+id: 322
 title: 'Horrible Comic'
 date: 2008-09-28T17:34:09+00:00
 slug: 'horrible-comic'

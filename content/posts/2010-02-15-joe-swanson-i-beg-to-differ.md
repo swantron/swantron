@@ -1,4 +1,5 @@
 ---
+id: 490
 title: 'Joe Swanson?  I beg to differ.'
 date: 2010-02-15T16:27:34+00:00
 slug: 'joe-swanson-i-beg-to-differ'

@@ -1,0 +1,20 @@
+{{- $post := .page -}}
+{{- if not $post.Params.id -}}
+{{- errorf "Post %s is missing id. Set id in front matter to one higher than the current maximum." $post.File.Path -}}
+{{- end -}}
+{
+  "id": {{ $post.Params.id }},
+  "slug": {{ $post.Slug | jsonify }},
+  "title": {{ $post.Title | jsonify }},
+  "excerpt": {{ $desc := $post.Description | default "" }}{{ $descTrimmed := $desc | strings.TrimSpace }}{{ $descLen := len $descTrimmed }}{{ if and $desc (ne $descTrimmed "") (gt $descLen 1) }}{{ $descTrimmed | replaceRE "\\s+" " " | jsonify }}{{ else }}{{ $post.Content | plainify | truncate 160 | jsonify }}{{ end }},
+  {{- if .content }}
+  "content": {{ $post.Content | jsonify }},
+  {{- end }}
+  "date": {{ $post.Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+  "permalink": {{ $post.Permalink | jsonify }},
+  "link": {{ $post.Permalink | jsonify }},
+  "path": {{ $post.RelPermalink | jsonify }},
+  "featuredImage": {{ if $post.Params.featured_image }}{{ $post.Params.featured_image | jsonify }}{{ else }}null{{ end }},
+  "categories": {{ if $post.Params.categories }}[{{ range $index, $cat := $post.Params.categories }}{{ if $index }},{{ end }}{"id": {{ add $index 1 }}, "name": {{ $cat | jsonify }}, "slug": {{ $cat | urlize | jsonify }}, "link": "{{ site.BaseURL }}categories/{{ $cat | urlize }}/"}{{ end }}]{{ else }}[]{{ end }},
+  "tags": {{ if $post.Params.tags }}[{{ range $index, $tag := $post.Params.tags }}{{ if $index }},{{ end }}{"id": {{ add $index 1 }}, "name": {{ $tag | jsonify }}, "slug": {{ $tag | urlize | jsonify }}, "link": "{{ site.BaseURL }}tags/{{ $tag | urlize }}/"}{{ end }}]{{ else }}[]{{ end }}
+}

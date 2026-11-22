@@ -1,4 +1,5 @@
 ---
+id: 975
 title: 'Lab Assistants'
 date: 2014-04-01T10:01:46+00:00
 slug: 'lab-assistants-3'

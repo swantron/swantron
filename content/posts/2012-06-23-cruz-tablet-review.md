@@ -1,4 +1,5 @@
 ---
+id: 921
 title: 'Cruz Tablet Review'
 date: 2012-06-23T20:16:23+00:00
 slug: 'cruz-tablet-review'

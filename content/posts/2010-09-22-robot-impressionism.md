@@ -1,4 +1,5 @@
 ---
+id: 659
 title: 'Robot Impressionism'
 date: 2010-09-22T17:45:54+00:00
 slug: 'robot-impressionism'

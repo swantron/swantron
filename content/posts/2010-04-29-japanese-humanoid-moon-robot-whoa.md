@@ -1,4 +1,5 @@
 ---
+id: 558
 title: 'Japanese Humanoid Moon Robot.  Whoa.'
 date: 2010-04-29T14:20:40+00:00
 slug: 'japanese-humanoid-moon-robot-whoa'

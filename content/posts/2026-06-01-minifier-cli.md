@@ -1,4 +1,5 @@
 ---
+id: 1013
 title: 'Shrinking third-party containers without touching a Dockerfile'
 date: 2026-06-01T00:00:00+00:00
 slug: 'minifier-cli'

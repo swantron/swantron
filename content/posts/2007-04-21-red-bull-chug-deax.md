@@ -1,4 +1,5 @@
 ---
+id: 178
 title: 'Red Bull Chug Deax'
 date: 2007-04-21T17:12:17+00:00
 slug: 'red-bull-chug-deax'

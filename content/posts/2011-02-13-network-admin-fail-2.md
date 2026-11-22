@@ -1,4 +1,5 @@
 ---
+id: 711
 title: 'Network Admin Fail'
 date: 2011-02-13T16:26:28+00:00
 slug: 'network-admin-fail'

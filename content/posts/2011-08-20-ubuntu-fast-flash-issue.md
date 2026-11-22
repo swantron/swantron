@@ -1,4 +1,5 @@
 ---
+id: 805
 title: 'Ubuntu Fast Flash Issue'
 date: 2011-08-20T13:06:33+00:00
 slug: 'ubuntu-fast-flash-issue'

@@ -1,4 +1,5 @@
 ---
+id: 355
 title: 'Some Peaple are Retarded'
 date: 2009-06-03T13:49:52+00:00
 slug: 'some-peaple-are-retarded'

@@ -1,4 +1,5 @@
 ---
+id: 708
 title: 'Arduino Proof of Concept Vid'
 date: 2011-01-24T12:22:46+00:00
 slug: 'arduino-proof-of-concept-vid'

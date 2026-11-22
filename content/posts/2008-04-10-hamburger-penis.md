@@ -1,4 +1,5 @@
 ---
+id: 285
 title: 'Hamburger Penis'
 date: 2008-04-10T17:30:11+00:00
 slug: 'hamburger-penis'

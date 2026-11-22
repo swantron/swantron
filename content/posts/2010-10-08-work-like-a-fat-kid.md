@@ -1,4 +1,5 @@
 ---
+id: 665
 title: 'Work Like a Fat Kid'
 date: 2010-10-08T17:02:29+00:00
 slug: 'work-like-a-fat-kid'

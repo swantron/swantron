@@ -1,4 +1,5 @@
 ---
+id: 581
 title: 'Awesome T-Shirt Time!'
 date: 2010-05-28T13:22:37+00:00
 slug: 'awesome-t-shirt-time'

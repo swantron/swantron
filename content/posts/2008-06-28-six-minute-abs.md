@@ -1,4 +1,5 @@
 ---
+id: 301
 title: 'Six Minute Abs…'
 date: 2008-06-28T21:53:25+00:00
 slug: 'six-minute-abs'

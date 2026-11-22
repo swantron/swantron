@@ -1,4 +1,5 @@
 ---
+id: 155
 title: 'Fun at Best Buy'
 date: 2007-02-25T18:28:17+00:00
 slug: 'fun-at-best-buy'

@@ -1,4 +1,5 @@
 ---
+id: 695
 title: "Don’t Make Your Own Cards, Make Your Cards Better"
 date: 2010-12-21T14:55:16+00:00
 slug: 'dont-make-your-own-cards-make-your-cards-better'

@@ -1,4 +1,5 @@
 ---
+id: 72
 title: 'Questionable, but Delicious'
 date: 2006-04-19T19:10:05+00:00
 slug: 'questionable-but-delicious'

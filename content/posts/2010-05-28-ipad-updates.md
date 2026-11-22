@@ -1,4 +1,5 @@
 ---
+id: 583
 title: 'iPad Updates'
 date: 2010-05-28T13:33:29+00:00
 slug: 'ipad-updates'

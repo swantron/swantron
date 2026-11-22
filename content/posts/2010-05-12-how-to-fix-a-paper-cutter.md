@@ -1,4 +1,5 @@
 ---
+id: 569
 title: 'How to Fix a Paper Cutter'
 date: 2010-05-12T17:55:12+00:00
 slug: 'how-to-fix-a-paper-cutter'

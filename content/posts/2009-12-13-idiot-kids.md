@@ -1,4 +1,5 @@
 ---
+id: 432
 title: 'Idiot Kids'
 date: 2009-12-13T12:44:42+00:00
 slug: 'idiot-kids'

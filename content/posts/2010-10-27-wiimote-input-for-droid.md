@@ -1,4 +1,5 @@
 ---
+id: 676
 title: 'Wiimote Input For Droid'
 date: 2010-10-27T18:13:23+00:00
 slug: 'wiimote-input-for-droid'

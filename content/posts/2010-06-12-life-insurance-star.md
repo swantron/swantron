@@ -1,4 +1,5 @@
 ---
+id: 596
 title: 'Life Insurance Star'
 date: 2010-06-12T13:39:05+00:00
 slug: 'life-insurance-star'

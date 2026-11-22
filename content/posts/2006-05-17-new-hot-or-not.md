@@ -1,4 +1,5 @@
 ---
+id: 77
 title: 'New Hot or Not'
 date: 2006-05-17T23:38:49+00:00
 slug: 'new-hot-or-not'

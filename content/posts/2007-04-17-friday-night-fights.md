@@ -1,4 +1,5 @@
 ---
+id: 176
 title: 'Friday Night Fights'
 date: 2007-04-17T21:16:33+00:00
 slug: 'friday-night-fights'

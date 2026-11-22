@@ -1,4 +1,5 @@
 ---
+id: 509
 title: 'Another Green Robot'
 date: 2010-03-10T16:30:42+00:00
 slug: 'another-green-robot'

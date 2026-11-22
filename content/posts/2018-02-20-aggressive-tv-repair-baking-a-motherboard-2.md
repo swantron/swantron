@@ -1,4 +1,5 @@
 ---
+id: 989
 title: 'Aggressive TV Repair: Baking a Motherboard'
 date: 2018-02-20T13:43:39+00:00
 slug: 'aggressive-tv-repair-baking-a-motherboard'

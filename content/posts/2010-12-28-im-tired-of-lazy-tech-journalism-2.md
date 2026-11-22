@@ -1,4 +1,5 @@
 ---
+id: 698
 title: 'iM tiRed of lazy tech journaliSm'
 date: 2010-12-28T20:27:33+00:00
 slug: 'im-tired-of-lazy-tech-journalism'

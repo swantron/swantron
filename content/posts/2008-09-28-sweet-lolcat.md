@@ -1,4 +1,5 @@
 ---
+id: 323
 title: 'Sweet lolcat'
 date: 2008-09-28T17:59:48+00:00
 slug: 'sweet-lolcat'

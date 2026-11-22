@@ -1,4 +1,5 @@
 ---
+id: 544
 title: 'Gangsta Bloggin'
 date: 2010-04-16T17:43:32+00:00
 slug: 'gangsta-bloggin'

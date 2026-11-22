@@ -1,4 +1,5 @@
 ---
+id: 605
 title: 'Video Card Mania'
 date: 2010-06-23T16:51:20+00:00
 slug: 'video-card-mania'

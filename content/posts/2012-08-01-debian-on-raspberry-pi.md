@@ -1,4 +1,5 @@
 ---
+id: 928
 title: 'Debian on Raspberry Pi'
 date: 2012-08-01T13:06:47+00:00
 slug: 'debian-on-raspberry-pi'

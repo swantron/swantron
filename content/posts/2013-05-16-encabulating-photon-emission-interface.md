@@ -1,4 +1,5 @@
 ---
+id: 967
 title: 'Encabulating Photon Emission Interface'
 date: 2013-05-16T20:58:35+00:00
 slug: 'encabulating-photon-emission-interface'

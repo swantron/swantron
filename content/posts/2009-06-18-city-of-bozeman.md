@@ -1,4 +1,5 @@
 ---
+id: 357
 title: 'City of Bozeman'
 date: 2009-06-18T11:34:02+00:00
 slug: 'city-of-bozeman'

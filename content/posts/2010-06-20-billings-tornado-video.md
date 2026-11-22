@@ -1,4 +1,5 @@
 ---
+id: 604
 title: 'Billings Tornado Video'
 date: 2010-06-20T18:28:10+00:00
 slug: 'billings-tornado-video'

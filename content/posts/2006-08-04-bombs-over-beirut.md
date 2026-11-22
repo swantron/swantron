@@ -1,4 +1,5 @@
 ---
+id: 89
 title: 'Bombs over Beirut'
 date: 2006-08-04T01:22:58+00:00
 slug: 'bombs-over-beirut'

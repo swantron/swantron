@@ -1,4 +1,5 @@
 ---
+id: 417
 title: 'So long, AdSense'
 date: 2009-12-04T14:47:17+00:00
 slug: 'so-long-adsense'

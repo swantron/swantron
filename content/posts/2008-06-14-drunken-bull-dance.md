@@ -1,4 +1,5 @@
 ---
+id: 298
 title: 'Drunken Bull Dance'
 date: 2008-06-14T21:31:39+00:00
 slug: 'drunken-bull-dance'

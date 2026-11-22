@@ -1,4 +1,5 @@
 ---
+id: 519
 title: 'Dumb Looking Robot'
 date: 2010-03-19T14:55:56+00:00
 slug: 'dumb-looking-robot'

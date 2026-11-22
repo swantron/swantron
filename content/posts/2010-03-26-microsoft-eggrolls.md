@@ -1,4 +1,5 @@
 ---
+id: 526
 title: 'Microsoft Eggrolls'
 date: 2010-03-26T23:17:23+00:00
 slug: 'microsoft-eggrolls'

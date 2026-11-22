@@ -1,4 +1,5 @@
 ---
+id: 971
 title: 'Lab Weather'
 date: 2013-10-30T12:48:15+00:00
 slug: 'lab-weather'

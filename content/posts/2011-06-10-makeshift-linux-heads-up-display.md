@@ -1,4 +1,5 @@
 ---
+id: 775
 title: 'Makeshift Linux Heads-Up Display'
 date: 2011-06-10T10:43:02+00:00
 slug: 'makeshift-linux-heads-up-display'

@@ -1,4 +1,5 @@
 ---
+id: 693
 title: 'Bullshit Lunch'
 date: 2010-12-12T13:21:08+00:00
 slug: 'bullshit-lunch'

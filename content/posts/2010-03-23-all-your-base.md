@@ -1,4 +1,5 @@
 ---
+id: 523
 title: 'ALL YOUR BASE'
 date: 2010-03-23T18:14:36+00:00
 slug: 'all-your-base'

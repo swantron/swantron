@@ -1,4 +1,5 @@
 ---
+id: 58
 title: "Montana State's New Mascot"
 date: 2006-02-23T12:18:19+00:00
 slug: 'montana-states-new-mascot'

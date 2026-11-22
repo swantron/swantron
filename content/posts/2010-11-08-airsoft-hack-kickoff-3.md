@@ -1,4 +1,5 @@
 ---
+id: 684
 title: 'Airsoft Hack Kickoff'
 date: 2010-11-08T12:08:01+00:00
 slug: 'airsoft-hack-kickoff-3'

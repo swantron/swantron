@@ -1,4 +1,5 @@
 ---
+id: 543
 title: 'Get Swoll, Son'
 date: 2010-04-16T17:14:36+00:00
 slug: 'get-swoll-son'

@@ -1,4 +1,5 @@
 ---
+id: 657
 title: 'One-Armed Banditos'
 date: 2010-09-17T19:49:09+00:00
 slug: 'one-armed-bandito'

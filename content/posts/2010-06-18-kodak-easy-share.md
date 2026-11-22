@@ -1,4 +1,5 @@
 ---
+id: 601
 title: 'Kodak Easy Share'
 date: 2010-06-18T15:55:59+00:00
 slug: 'kodak-easy-share'

@@ -1,4 +1,5 @@
 ---
+id: 76
 title: 'Recap pictures'
 date: 2006-05-11T18:27:13+00:00
 slug: 'recap-pictures'

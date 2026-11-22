@@ -1,4 +1,5 @@
 ---
+id: 499
 title: "Every Man’s Dream:  The Perfect Wedding Band"
 date: 2010-02-24T14:20:44+00:00
 slug: 'every-mans-dream-the-perfect-wedding-band'

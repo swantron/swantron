@@ -1,4 +1,5 @@
 ---
+id: 974
 title: 'Robotic Arm Assembly'
 date: 2013-12-31T12:45:34+00:00
 slug: 'robotic-arm-assembly'

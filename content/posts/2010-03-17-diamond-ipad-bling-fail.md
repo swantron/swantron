@@ -1,4 +1,5 @@
 ---
+id: 517
 title: 'Diamond iPad | Bling Fail.'
 date: 2010-03-17T17:41:36+00:00
 slug: 'diamond-ipad-bling-fail'

@@ -1,4 +1,5 @@
 ---
+id: 782
 title: 'swan tron dot com'
 date: 2011-06-26T20:48:22+00:00
 slug: 'swan-tron-dot-com'

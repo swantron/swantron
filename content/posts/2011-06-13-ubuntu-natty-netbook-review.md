@@ -1,4 +1,5 @@
 ---
+id: 776
 title: 'Ubuntu Natty Netbook Review'
 date: 2011-06-13T18:20:41+00:00
 slug: 'ubuntu-natty-netbook-review'

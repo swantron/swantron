@@ -1,4 +1,5 @@
 ---
+id: 579
 title: 'Keyboard Dwelling Robot'
 date: 2010-05-25T12:29:42+00:00
 slug: 'keyboard-dwelling-robot'

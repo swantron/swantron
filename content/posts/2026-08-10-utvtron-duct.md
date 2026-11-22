@@ -1,4 +1,5 @@
 ---
+id: 1018
 title: 'utvtron: The Duct Was the Intake'
 date: 2026-08-10T00:00:00+00:00
 slug: 'utvtron-duct'

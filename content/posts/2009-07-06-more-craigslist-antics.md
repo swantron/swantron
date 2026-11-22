@@ -1,4 +1,5 @@
 ---
+id: 364
 title: 'More craigslist Antics'
 date: 2009-07-06T14:04:40+00:00
 slug: 'more-craigslist-antics'

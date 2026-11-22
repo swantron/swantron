@@ -1,4 +1,5 @@
 ---
+id: 784
 title: 'Evolution of a Project'
 date: 2011-06-29T20:48:02+00:00
 slug: 'evolution-of-a-project'

@@ -1,4 +1,5 @@
 ---
+id: 834
 title: 'Online Tech Auctions'
 date: 2011-10-14T12:10:23+00:00
 slug: 'online-tech-auctions'

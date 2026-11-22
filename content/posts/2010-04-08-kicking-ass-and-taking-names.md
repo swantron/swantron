@@ -1,4 +1,5 @@
 ---
+id: 537
 title: 'Kicking Ass and Taking Names'
 date: 2010-04-08T17:29:46+00:00
 slug: 'kicking-ass-and-taking-names'

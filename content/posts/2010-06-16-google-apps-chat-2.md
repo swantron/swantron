@@ -1,4 +1,5 @@
 ---
+id: 599
 title: 'Google Apps Chat'
 date: 2010-06-16T17:14:02+00:00
 slug: 'google-apps-chat'

@@ -1,4 +1,5 @@
 ---
+id: 925
 title: 'True American'
 date: 2012-07-09T20:49:34+00:00
 slug: 'true-american'

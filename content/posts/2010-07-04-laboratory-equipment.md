@@ -1,4 +1,5 @@
 ---
+id: 618
 title: 'Laboratory Equipment'
 date: 2010-07-04T14:18:32+00:00
 slug: 'laboratory-equipment'

@@ -1,4 +1,5 @@
 ---
+id: 540
 title: 'Insurance Musings'
 date: 2010-04-11T18:22:48+00:00
 slug: 'insurance-musings'

@@ -1,4 +1,5 @@
 ---
+id: 755
 title: 'Verizon Wifi Tether…Droid + Ubuntu'
 date: 2011-05-04T12:14:42+00:00
 slug: 'verizon-wifi-tether-droid-ubuntu'

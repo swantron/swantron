@@ -1,4 +1,5 @@
 ---
+id: 249
 title: 'Fun with Guns!'
 date: 2008-01-05T18:42:12+00:00
 slug: 'fun-with-guns'

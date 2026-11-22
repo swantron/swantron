@@ -1,4 +1,5 @@
 ---
+id: 1012
 title: 'The Covid Bike: 3,500 Rides Later'
 date: 2026-04-30T00:00:00+00:00
 slug: 'peloton-resistance-board-replacement'

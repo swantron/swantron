@@ -1,4 +1,5 @@
 ---
+id: 838
 title: 'Android SDK / Eclipse / Ubuntu'
 date: 2011-10-23T14:05:45+00:00
 slug: 'android-sdk-eclipse-ubuntu'

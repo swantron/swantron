@@ -1,4 +1,5 @@
 ---
+id: 345
 title: 'Bozeman Explosion'
 date: 2009-03-05T10:59:12+00:00
 slug: 'bozeman-explosion'

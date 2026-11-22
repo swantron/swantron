@@ -1,4 +1,5 @@
 ---
+id: 778
 title: 'Satellite Internet Basics'
 date: 2011-06-20T14:28:58+00:00
 slug: 'satellite-internet-basics'

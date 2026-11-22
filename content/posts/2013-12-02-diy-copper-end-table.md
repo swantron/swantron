@@ -1,4 +1,5 @@
 ---
+id: 973
 title: 'DIY Copper End Table'
 date: 2013-12-02T15:20:10+00:00
 slug: 'diy-copper-end-table'

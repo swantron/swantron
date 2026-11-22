@@ -1,4 +1,5 @@
 ---
+id: 674
 title: 'Another Practical Application of Good Manners'
 date: 2010-10-26T16:03:13+00:00
 slug: 'another-practical-application-of-good-manners'

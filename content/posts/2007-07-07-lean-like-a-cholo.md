@@ -1,4 +1,5 @@
 ---
+id: 205
 title: 'Lean like a Cholo'
 date: 2007-07-07T19:21:26+00:00
 slug: 'lean-like-a-cholo'

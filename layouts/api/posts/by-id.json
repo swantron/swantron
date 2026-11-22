@@ -2,24 +2,6 @@
 {
   {{- range $index, $post := $posts -}}
   {{- if $index }},{{- end }}
-  {{- $postId := "" -}}
-  {{- if $post.Params.id -}}
-    {{- $postId = $post.Params.id -}}
-  {{- else -}}
-    {{- $postId = printf "%d" (add $index 1) -}}
-  {{- end -}}
-  "{{ $postId }}": {
-    "id": {{ $postId }},
-    "slug": "{{ $post.Slug }}",
-    "title": {{ $post.Title | jsonify }},
-    "excerpt": {{ $desc := $post.Description | default "" }}{{ $descTrimmed := $desc | strings.TrimSpace }}{{ $descLen := len $descTrimmed }}{{ if and $desc (ne $descTrimmed "") (gt $descLen 1) }}{{ $descTrimmed | replaceRE "\\s+" " " | jsonify }}{{ else }}{{ $post.Content | plainify | truncate 160 | jsonify }}{{ end }},
-    "content": {{ $post.Content | jsonify }},
-    "date": "{{ $post.Date.Format "2006-01-02T15:04:05Z07:00" }}",
-    "permalink": "{{ $post.Permalink }}",
-    "link": "{{ $post.Permalink }}",
-    "featuredImage": {{ if $post.Params.featured_image }}{{ $post.Params.featured_image | jsonify }}{{ else }}null{{ end }},
-    "categories": {{ if $post.Params.categories }}[{{ range $index, $cat := $post.Params.categories }}{{ if $index }},{{ end }}{"id": {{ add $index 1 }}, "name": {{ $cat | jsonify }}, "slug": {{ $cat | urlize | jsonify }}, "link": "{{ $.Site.BaseURL }}categories/{{ $cat | urlize }}/"}{{ end }}]{{ else }}[]{{ end }},
-    "tags": {{ if $post.Params.tags }}[{{ range $index, $tag := $post.Params.tags }}{{ if $index }},{{ end }}{"id": {{ add $index 1 }}, "name": {{ $tag | jsonify }}, "slug": {{ $tag | urlize | jsonify }}, "link": "{{ $.Site.BaseURL }}tags/{{ $tag | urlize }}/"}{{ end }}]{{ else }}[]{{ end }}
-  }
+  {{ printf "%v" $post.Params.id | jsonify }}: {{- partial "api-post.html" (dict "page" $post "content" false) -}}
   {{- end -}}
 }

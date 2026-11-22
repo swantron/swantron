@@ -1,4 +1,5 @@
 ---
+id: 963
 title: 'Oblig Red Bull Check-in'
 date: 2013-04-19T20:30:26+00:00
 slug: 'oblig-red-bull-check-in'

@@ -1,4 +1,5 @@
 ---
+id: 279
 title: 'Coding Rap'
 date: 2008-04-01T06:37:57+00:00
 slug: 'coding-rap'

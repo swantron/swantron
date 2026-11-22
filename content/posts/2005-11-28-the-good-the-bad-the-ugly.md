@@ -1,4 +1,5 @@
 ---
+id: 29
 title: 'The Ugly, the Bad, & the Good'
 date: 2005-11-28T20:21:29+00:00
 slug: 'the-good-the-bad-the-ugly'
